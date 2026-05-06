@@ -1,0 +1,3 @@
+[submodule "themes/wehuth"]
+	path = themes/wehuth
+	url = https://github.com/smile365/wehuth
