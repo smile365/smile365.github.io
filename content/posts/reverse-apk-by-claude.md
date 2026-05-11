@@ -54,9 +54,9 @@ claude
 
 ## 遇到的问题
 **model is not available**
-
+```prolog
 Please run /login · API Error: 403 This model is not available in your region.
-
+```
 在 https://openrouter.ai/ 充值了 $10 美金，结果不让用国外的模型，参考[OpenRouter 限制国内直连，已无法调用 OpenAI、Claude 和 Google 三大模型](https://linux.do/t/topic/1846933)
 
 
