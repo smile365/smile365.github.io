@@ -44,26 +44,27 @@ Description:
 
 例如：
 
-* SEO
-* ASO
-* Reddit
 * X（Twitter）
+* Reddit
+* Instagram
 * Pinterest
 * Facebook
-* YouTube
+* Discord / Telegram 社群
+* Landing Page 官网
 * TikTok
+* YouTube
 * Product Hunt
 * Quora
-* 博客
-* PR媒体曝光
-* Google Ads
-* Influencer
-* KOL
-* Affiliate
-* Email
-* 社群
-* Cold Outreach
-* Landing Page 官网
+* LinkedIn
+* 博客/medium
+* Partnership（合作增长），如其他 APP vip 可享受半价，赠送体验时长等。
+* SEO
+* ASO
+* PR媒体曝光(TechCrunch/Hacker News/Indie Hackers)
+* Google Ads/Meta Ads/TikTok Ads
+* KOL/Influencer
+* Email/Cold Outreach，参考[冷邮件营销最佳实践完整指南](https://medium.com/@Jus10McGill/the-complete-guide-to-cold-email-outreach-best-practices-2f93a269008)
+ * Affiliate
 
 有了 AARRR 这个利器，是否就可高枕无忧了？
 
