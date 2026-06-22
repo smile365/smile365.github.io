@@ -173,9 +173,14 @@ WooCommerce 导入格式参考：[Product CSV Import Schema](https://github.com/
 
 ### 多语言SEO
 
-为了实现存储翻译后内容，以便搜索引擎收录，就刷要类似 [WPML](https://wpml.org/zh-hans/account/downloads/) 、 [Polylang](https://wordpress.org/plugins/polylang/)这类的服务端翻译插件。这类差距提供了一套服务器端渲染的翻译系统，该系统应具备稳定的语言URL、规范化处理、hreflang属性、站点地图集成、翻译后的元数据和翻译后的别名。
+为了实现存储翻译后内容，以便搜索引擎收录，就需要类似 [WPML](https://wpml.org/zh-hans/account/downloads/) 、 [Polylang](https://wordpress.org/plugins/polylang/)这类的服务端翻译插件。这类差距提供了一套服务器端渲染的翻译系统，该系统应具备稳定的语言URL、规范化处理、hreflang属性、站点地图集成、翻译后的元数据和翻译后的别名。
 
-若要翻译 Woo 之类电商属性的独立站，生态最好的翻译插件当属 [WPML](https://wpml.org/zh-hans/account/downloads/) ，它可以解决多语言和多货币的问题，就是订阅费有点小贵（59欧元/年），另外它的翻译是消耗积分的，购买 [WPML](https://wpml.org/zh-hans/documentation-4/%E9%80%9A%E8%BF%87wpml%E8%87%AA%E5%8A%A8%E7%BF%BB%E8%AF%91wordpress%E5%86%85%E5%AE%B9/%E8%87%AA%E5%8A%A8%E7%BF%BB%E8%AF%91%E5%AE%9A%E4%BB%B7/) 后，将获得  90,000 个免费翻译积分额度，基本能将大多数 WordPress 网站翻译成 2-3 种语言。
+若要翻译 Woo 之类电商属性的独立站，生态最好的翻译插件当属 [WPML](https://wpml.org/zh-hans/account/downloads/) ，它可以解决多语言和多货币的问题。
+
+> [WPML](https://wpml.org/zh-hans/purchase/) 有三个订阅套餐，分别是 €39/y 的 blog, €99/y 的 CMS，还有 €199/y 的 Agency。另外它的翻译是消耗积分的，订阅对应套餐后，cms 赠送 9w 积分，agency 赠送 18w 积分。可以在官网[预估翻译费用](https://wpml.org/documentation/automatic-translation/automatic-translation-pricing/)。 积分用完后需要单独购买。
+**实测**：把 2 篇博客（共计 1 万个单词）翻译成 1 种语言，需要消耗 4w 个积分，共计需要支付 €25 元。因此推荐使用微软翻译，不要使用官方的 PTC 翻译。
+
+
 
 使用 OTGS Installer 可自动安装 WPML 插件，或者付费后可下载插件。
 
@@ -186,8 +191,8 @@ WPML 包含多个功能的插件包集合，手动下载后可按需安装以下
 - WPML Multilingual & Multicurrency for WooCommerce v 5.5.6，电商独立站 多语言+多货币支持。
 
 
-其他相似插件：
-- [TranslatePress](https://translatepress.com/pricing/) ：免费版本无需注册，但仅能翻译一种语言。免费注册后赠送 2000 个翻译积分。付费订阅费差不多也是 99 欧元/年，感觉没有 WPML 划算；
+与 WPML 相似的插件（[查看功能对比](https://wpml.org/zh-hans/%e9%a6%96%e9%a1%b5/%e6%9c%80%e4%bd%b3-wordpress-%e7%bf%bb%e8%af%91%e6%8f%92%e4%bb%b6%ef%bc%9a%e8%af%a6%e7%bb%86%e5%af%b9%e6%af%94-2026/)）：
+- [TranslatePress](https://translatepress.com/pricing/) ：免费版本无需注册，但仅能翻译一种语言。免费注册后赠送 2000 个翻译积分。付费订阅费差不多也是 99 欧元/年；
 - [Polylang for WooCommerce ](https://polylang.pro/pricing/polylang-for-woocommerce/) ： 也是 99欧元/年；
 
 
