@@ -1,10 +1,9 @@
 ---
-title: "sublime text"
-keywords: ["教程", "sublime text", "SublimeTmpl", "bash", "Package Control", "Ctrl+Shift+P", "Install Package", "Sublime", "SublimeTmpl Ctrl+Shift+P", "text"]
-tags: ["教程", "sublime text", "SublimeTmpl", "bash", "Package Control", "Ctrl+Shift+P", "Install Package", "Sublime"]
-description: "安装Package-Control"
+title: "Sublime Text配置"
+keywords: ["Sublime Text配置", "Package Control安装", "SublimeTmpl模板", "Sublime快捷键", "代码编辑器"]
+tags: ["Sublime Text", "编辑器", "开发工具"]
+description: "Sublime Text编辑器的常用配置教程，包括命令行别名设置、Package Control安装和SublimeTmpl模板配置方法。"
 categories: ["code"]
-heading: "sublime text"
 date: "2019-07-03T01:36:38.994Z"
 draft: "true"
 ---

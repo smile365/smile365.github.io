@@ -1,10 +1,9 @@
 ---
-title: "在CentOS7上安装mycat实现读写分离"
-keywords: ["教程", "mysql", "mycat", "CentOS7", "jdk", "On the command", "line", "type"]
-tags: ["教程", "mysql", "mycat", "CentOS7", "jdk", "On the command", "line", "type"]
-description: "安装 jdk** On the command line, type:"
+title: "CentOS 7安装Mycat读写分离"
+keywords: ["Mycat安装", "MySQL读写分离", "CentOS配置Mycat", "数据库中间件", "Mycat教程"]
+tags: ["Mycat", "MySQL", "读写分离"]
+description: "在CentOS 7上安装Mycat中间件，配置MySQL读写分离并解决常见启动错误。"
 categories: ["code"]
-heading: "在CentOS7上安装mycat实现读写分离"
 date: "2018-06-12"
 ---
 **安装 jdk**

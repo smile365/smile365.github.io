@@ -1,10 +1,9 @@
 ---
-title: "macos 使用 jenv 管理多个 jdk 版本"
-keywords: ["教程", "使用 管理多个 版本", "jdk", "jenv", "macos", "libexec", "opt", "Contents", "jdk archive"]
-tags: ["教程", "使用 管理多个 版本", "jdk", "jenv", "macos", "libexec", "opt", "Contents"]
-description: "安装 openjdk 11 在 jdk-archive 页面下载 Mac/x64 的 tar.gz 压缩包。"
+title: "macOS用jenv管理JDK版本"
+keywords: ["macOS JDK版本管理", "jenv使用教程", "多JDK切换", "JAVA_HOME配置"]
+tags: ["Java", "JDK", "jenv", "macOS"]
+description: "在macOS上使用jenv管理多个JDK版本，包括安装OpenJDK、Oracle JDK和配置JAVA_HOME的详细步骤。"
 categories: ["code"]
-heading: "macos 使用 jenv 管理多个 jdk 版本"
 date: "2022-12-30T06:07:14.246Z"
 ---
 ## 安装 openjdk 11
@@ -67,7 +66,6 @@ mkdir -p ~/.jenv/version
  # java -version
  
 ```
-
 
 
 

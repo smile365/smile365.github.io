@@ -1,10 +1,9 @@
 ---
-title: "CentOS7安装MariaDB Galera Cluster实现mysql高可用"
-keywords: ["教程", "mysql", "安装 实现 高可用", "MariaDB Galera Cluster", "CentOS7", "yum y install", "XtraDB Cluster", "InnoDB", "MariaDB", "Galera"]
-tags: ["教程", "mysql", "安装 实现 高可用", "MariaDB Galera Cluster", "CentOS7", "yum y install", "XtraDB Cluster", "InnoDB"]
-description: "MariaDB Galera Cluster与Percona XtraDB Cluster一样，都是基于wsrep做的。"
+title: "CentOS7安装MariaDB Galera Cluster"
+keywords: ["MariaDB Galera Cluster", "MySQL高可用集群", "CentOS7数据库集群", "多主同步复制"]
+tags: ["MariaDB", "Galera", "MySQL", "高可用"]
+description: "CentOS7上安装MariaDB Galera Cluster实现MySQL数据库高可用，支持多主同步复制和自动故障剔除。"
 categories: ["code"]
-heading: "CentOS7安装MariaDB Galera Cluster实现mysql高可用"
 date: "2018-09-05T02:54:20.227Z"
 series: ["blog"]
 ---

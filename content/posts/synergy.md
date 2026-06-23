@@ -1,10 +1,10 @@
 ---
-title: "多台电脑共用一个鼠标和键盘"
-keywords: ["教程", "synergy", "share keyboard", "多台电脑共用一个鼠标", "键盘", "mac", "google", "synergy free"]
-tags: ["教程", "synergy", "share keyboard", "多台电脑共用一个鼠标", "键盘", "mac", "google", "synergy free"]
-description: "使用synergy实现多台电脑共用一个鼠标和键盘。"
+title: "多台电脑共享鼠标键盘"
+keywords: ["Synergy教程", "多台电脑共用鼠标键盘", "Synergy配置", "Mac Windows共享键鼠", "剪切板同步"]
+tags: ["Synergy", "效率工具", "多设备"]
+description: "使用Synergy软件实现多台电脑共用一个鼠标和键盘，以Mac为服务器Windows为客户端的详细配置方法。"
 categories: ["code"]
-heading: "多台电脑共用一个鼠标和键盘"
+heading: "Synergy多台电脑共享鼠标键盘教程"
 date: "2019-02-13T02:57:07.012Z"
 ---
 使用synergy实现多台电脑共用一个鼠标和键盘。

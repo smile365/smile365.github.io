@@ -1,10 +1,9 @@
 ---
-title: "php"
-keywords: ["教程", "php", "debian", "composer php", "composer failed", "TLS", "install php on", "debian 11", "php ##", "composer"]
-tags: ["教程", "php", "debian", "composer php", "composer failed", "TLS", "install php on", "debian 11"]
-description: "安装 composer php 使用 composer 作为依赖管理工具"
+title: "Debian安装PHP和Composer"
+keywords: ["Debian安装PHP", "Composer安装教程", "PHP扩展安装", "VSCode PHP开发", "PHP开发环境配置"]
+tags: ["PHP", "Composer", "Debian"]
+description: "在Debian系统上安装PHP和Composer依赖管理工具，并配置VSCode进行PHP开发的完整教程。"
 categories: ["code"]
-heading: "php"
 date: "2023-03-08T05:39:21.528Z"
 ---
 ## 安装 php

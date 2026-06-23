@@ -1,10 +1,10 @@
 ---
-title: "clickhouse-engines表引擎介绍"
-keywords: ["教程", "clickhouse中文教程", "表引擎介绍", "中文", "clickhouse", "clickhouse engines", "SummingMergeTree", "MergeTree", "engines"]
-tags: ["教程", "clickhouse中文教程", "表引擎介绍", "中文", "clickhouse", "clickhouse engines", "SummingMergeTree", "MergeTree"]
-description: "clickhouse 中文 教程"
+title: "ClickHouse 表引擎详解"
+keywords: ["ClickHouse 表引擎", "MergeTree 使用", "SummingMergeTree 原理", "ClickHouse 数据迁移", "ClickHouse 教程"]
+tags: ["ClickHouse", "表引擎", "MergeTree"]
+description: "详细介绍ClickHouse的MergeTree和SummingMergeTree引擎原理、使用场景及数据迁移方法，帮助读者选择合适的表引擎。"
+heading: "ClickHouse 表引擎介绍与MergeTree使用"
 categories: ["code"]
-heading: "clickhouse中文教程"
 date: "2020-05-26T07:47:50.130Z"
 ---
 clickhouse最重要的部分大概是表格引擎，选择合适的引擎可以达到意想不到的效果。在上篇的[clickhouse入门教程](https://www.sxy91.com/posts/clickhouse/)中使用了`SummingMergeTree`这个引擎，主要用来归档，求和。可以把多条数据，求和后只保存一条数据。占用空间小，且计算快。适用场景类似于时许数据库，把一段时间内的数据求和后存储。
@@ -58,25 +58,3 @@ vim /etc/clickhouse-server/config.xml
 # 重启
 systemctl start clickhouse-server
 systemctl status clickhouse-server
-```
-
-日志
-
-```bash
-tail -f /var/log/clickhouse-server/clickhouse-server.log
-tail -f /var/log/clickhouse-server/clickhouse-server.err.log
-```
-
-若遇到Access to file denied，需要给权限：`chown clickhouse:clickhouse /mnt/data2/chdata`
-
-若看不到日志可直接使用`service clickhouse-server start`启动。
-
-聚合查询语句
-```sql
---- 按月统计数据量
-select toYYYYMM(dtime) as date,count(date) as num from analytics group by date;
---- 统计5月份每天的数据量
-select toYYYYMMDD(dtime) as date,count(date) as num from analytics where dtime >= '2020-05-01 00:00:00' and dtime < '2020-06-01 00:00:00'  group by date order by date;
-
-```
-

@@ -1,10 +1,10 @@
 ---
-title: "微信pc端和移动端多开的几种方法"
-keywords: ["阅读", "微信多开", "Linux", "Android", "python", "微信 端", "移动端多开的几种", "pc", "mac", "shell cd"]
-tags: ["阅读", "微信多开", "Linux", "Android", "python", "微信 端", "移动端多开的几种", "pc"]
-description: "数据备份 微信聊天记录、通话记录、短信记录、录音、拍照、截屏、录像。"
+title: "微信多开与数据备份方法"
+keywords: ["微信多开", "微信PC端多开", "微信Mac多开", "微信聊天记录备份", "微信数据备份"]
+tags: ["微信多开", "数据备份", "微信"]
+description: "汇总微信PC端和移动端多开的多种方法，同时提供Mac和Android微信聊天记录、相册、视频等数据的备份与恢复教程。"
 categories: ["read"]
-heading: "微信pc端和移动端多开的几种方法"
+heading: "微信PC端和移动端多开与数据备份完整教程"
 date: "2018-08-10T06:32:54.129Z"
 series: ["blog"]
 ---
@@ -148,7 +148,7 @@ nohup /Applications/WeChat.app/Contents/MacOS/WeChat > /dev/null 2>&1 &
 
 2. 安装时保留两者
 
-重新下载一个 mac 端的微信按照包，安装时选择“*保留两者*”，如果选替换，会把之前的微信给覆盖掉
+重新下载一个 mac 端的微信按照包，安装时选择"*保留两者*"，如果选替换，会把之前的微信给覆盖掉
 
 #### mac 微信防撤回（可多开）
 

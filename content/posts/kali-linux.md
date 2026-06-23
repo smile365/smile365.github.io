@@ -1,8 +1,8 @@
 ---
-title: "Kali-Linux安全渗透教程"
-keywords: ["阅读", "安全渗透", "Kali Linux", "mac os", "mac", "kali Linux usb", "live", "kali live", "kali", "linux"]
-tags: ["阅读", "安全渗透", "Kali Linux", "mac os", "mac", "kali Linux usb", "live", "kali live"]
-description: "📝注：kali-live 启动后无法使用 mac 的触摸板和自带键盘，需要自备外接键盘。"
+title: "Mac制作Kali Linux启动盘"
+keywords: ["Kali Linux安装", "Mac制作Kali启动盘", "安全渗透教程", "Kali Live USB", "Kali Linux USB"]
+tags: ["Kali-Linux", "安全渗透", "Mac", "USB启动盘"]
+description: "在Mac OS上制作Kali Linux USB启动盘的详细教程，包含安全启动设置和渗透学习资源汇总。"
 categories: ["read"]
 heading: "Kali-Linux安全渗透教程"
 date: "2019-01-10T07:32:18.188Z"
@@ -18,7 +18,7 @@ mac os 因为[启动安全性实用工具](https://support.apple.com/zh-cn/HT208
 
 打开设备电源，然后在看到 Apple 标志后立即按住 Command (⌘)-R 键。
 
-修改“启动安全性实用工具”的设置项为：
+修改"启动安全性实用工具"的设置项为：
 - 无安全性
 - 外部启动
 

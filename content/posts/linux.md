@@ -1,10 +1,9 @@
 ---
 title: "Linux常用命令"
-keywords: ["阅读", "code", "it", "Linux", "常用命令", "uid", "json", "tr", "grep"]
-tags: ["阅读", "code", "it", "Linux", "常用命令", "uid", "json", "tr"]
-description: "tr 命令 tr命令 可以对来自标准输入的字符进行替换、压缩和删除。它可以将一组字符变成另一组字符。 1. 去除空格"
+keywords: ["Linux命令大全", "tr命令替换", "grep正则匹配", "awk处理JSON", "jq命令行查询"]
+tags: ["Linux", "命令", "shell"]
+description: "收集Linux日常使用中的高频命令技巧，包括tr替换字符、grep匹配进程、awk提取JSON字段和sed定位行号等实用Shell方法。"
 categories: ["read"]
-heading: "Linux常用命令"
 date: "2019-05-19T13:28:17.845Z"
 ---
 ## tr 命令

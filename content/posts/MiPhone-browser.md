@@ -1,10 +1,9 @@
 ---
-title: "MiPhone-browser"
-keywords: ["生活", "MiPhone browser", "MiPhone", "browser"]
-tags: ["生活", "MiPhone browser"]
-description: "小米手机取消默认的浏览器，改用别的"
+title: "小米手机更改默认浏览器"
+keywords: ["小米手机默认浏览器", "小米手机设置", "更改默认应用", "小米MIUI"]
+tags: ["小米手机", "浏览器", "设置"]
+description: "小米手机取消默认浏览器改用其他浏览器的设置方法，详细的操作路径指引。"
 categories: ["life"]
-heading: "小米手机改变默认浏览器"
 date: "2021-01-26T07:21:08.437Z"
 ---
 设置--应用设置--应用管理--右上角--默认应用设置--浏览器--选择你喜欢的浏览器

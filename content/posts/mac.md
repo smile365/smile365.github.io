@@ -1,10 +1,9 @@
 ---
-title: "新手mac配置指南"
-keywords: ["教程", "code", "it", "新手 配置", "mac", "gui", "Homebrew Cask", "Homebrew", "brew"]
-tags: ["教程", "code", "it", "新手 配置", "mac", "gui", "Homebrew Cask", "Homebrew"]
-description: "用来安装gui程序。 > 安装完最新版Homebrew自带Homebrew Cask，或者执行brew cask命令自动安装"
+title: "新手Mac配置指南"
+keywords: ["Mac新手配置", "Homebrew安装教程", "Homebrew Cask", "brew镜像配置"]
+tags: ["Mac", "Homebrew", "配置"]
+description: "新手Mac电脑配置指南，包括Homebrew和Homebrew Cask安装配置及国内镜像加速设置教程。"
 categories: ["code"]
-heading: "新手mac配置指南"
 date: "2018-07-25T02:18:57.330Z"
 draft: "true"
 series: ["blog"]
@@ -57,6 +56,8 @@ source ~/.bash_profile
 python3
 
 sublimetext
+
+
 
 git
 

@@ -1,10 +1,9 @@
 ---
-title: "mongodb-aggregate"
-keywords: ["教程", "mongodb aggregate", "mongodb", "aggregate"]
-tags: ["教程", "mongodb aggregate"]
-description: "有一份数据记录了每个人对 6 种宠物的喜欢程度，如下图"
+title: "MongoDB聚合查询实战"
+keywords: ["MongoDB聚合查询", "MongoDB aggregate", "聚合统计", "数据统计", "MongoDB数据分析"]
+tags: ["MongoDB", "聚合查询", "aggregate"]
+description: "通过宠物喜好统计案例，讲解MongoDB聚合查询的数据模型设计与查询语句写法。"
 categories: ["code"]
-heading: "mongodb-aggregate"
 date: "2021-01-21T07:51:12.260Z"
 ---
 有一份数据记录了每个人对 6 种宠物的喜欢程度，如下图

@@ -1,10 +1,9 @@
 ---
-title: "mac终端使用方法"
-keywords: ["教程", "code", "it", "终端使用", "mac", "tab", "terminal"]
-tags: ["教程", "code", "it", "终端使用", "mac", "tab"]
-description: "⌘+t：新建一个tab ⌘+w：退出 ⌃+a：行头 ⌃+e：行尾"
+title: "Mac终端常用快捷键"
+keywords: ["Mac终端快捷键", "Terminal快捷键", "Mac命令行操作"]
+tags: ["Mac", "终端", "快捷键"]
+description: "Mac终端常用快捷键汇总，包括新建标签页、行头行尾跳转、清屏搜索等操作技巧。"
 categories: ["code"]
-heading: "mac终端使用方法"
 date: "2018-07-17T02:33:00.655Z"
 draft: "true"
 series: ["blog"]
@@ -19,6 +18,7 @@ series: ["blog"]
 ⌃+r：搜索
 ⌘+tab:切换tab
 ⌘+数字：定位到tab
+
 
 
 

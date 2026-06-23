@@ -1,10 +1,9 @@
 ---
 title: "大数据学习计划"
-keywords: ["阅读", "code", "it", "大数据学习计划", "hadoop", "Ambari", "HDP", "big", "data"]
-tags: ["阅读", "code", "it", "大数据学习计划", "hadoop", "Ambari", "HDP"]
-description: "Hadoop大数据挖掘从入门到进阶实战教学视频"
+keywords: ["大数据学习路线", "Hadoop入门", "Ambari教程", "大数据架构", "大数据技术生态"]
+tags: ["大数据", "Hadoop", "学习"]
+description: "大数据学习计划与资源汇总，包括Hadoop入门视频、Ambari集群安装配置和大数据架构书籍推荐。"
 categories: ["read"]
-heading: "大数据学习计划"
 date: "2019-03-06T07:47:11.653Z"
 draft: "true"
 ---

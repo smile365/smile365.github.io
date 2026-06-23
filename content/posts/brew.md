@@ -1,8 +1,8 @@
 ---
-title: "brew"
-keywords: ["教程", "brew", "brew ##"]
-tags: ["教程", "brew"]
-description: "配置国内镜像 1. 配置清华 brew 镜像"
+title: "Homebrew安装与国内镜像配置"
+keywords: ["Homebrew安装", "brew国内镜像", "Mac包管理工具", "清华镜像源", "brew配置教程"]
+tags: ["brew", "macOS", "镜像配置"]
+description: "详细介绍Homebrew的安装步骤以及如何配置清华等国内镜像源，加速软件包下载和更新。"
 categories: ["code"]
 heading: "brew"
 date: "2023-04-25"
@@ -26,4 +26,3 @@ export HOMEBREW_BREW_GIT_REMOTE="https://mirrors.tuna.tsinghua.edu.cn/git/homebr
 export HOMEBREW_CORE_GIT_REMOTE="https://mirrors.tuna.tsinghua.edu.cn/git/homebrew/homebrew-core.git"
 export HOMEBREW_PIP_INDEX_URL="https://pypi.tuna.tsinghua.edu.cn/simple"
 ```
-

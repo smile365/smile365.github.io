@@ -1,10 +1,9 @@
 ---
 title: "wireshark使用"
-keywords: ["教程", "code", "it", "wireshark"]
-tags: ["教程", "code", "it", "wireshark"]
-description: "按照域名过滤：http.host contains \""
+keywords: ["wireshark过滤规则", "域名过滤", "http抓包", "网络分析"]
+tags: ["wireshark", "教程", "网络"]
+description: "学习使用Wireshark按域名过滤HTTP请求，掌握http.host和http.request等常用过滤规则的使用方法，快速提升网络抓包分析效率。"
 categories: ["code"]
-heading: "wireshark使用"
 date: "2018-12-20T02:06:11.657Z"
 draft: "true"
 series: ["blog"]

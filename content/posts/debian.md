@@ -1,10 +1,9 @@
 ---
-title: "debian"
-keywords: ["教程", "Linux", "CentOS", "debian", "iso", "Ubuntu", "sxy", "ssh server", "debian ##"]
-tags: ["教程", "Linux", "CentOS", "debian", "iso", "Ubuntu", "sxy", "ssh server"]
-description: "说明 CentOS 停止服务后，找了一圈 Linux 发行版。"
+title: "Debian 系统安装配置"
+keywords: ["CentOS 替代方案", "Debian 安装步骤", "Linux 发行版选择", "Debian 系统配置", "Debian 清华源"]
+tags: ["Debian", "Linux", "安装教程"]
+description: "CentOS停止服务后，详细介绍如何选择并安装Debian系统，包含图形化安装步骤、清华源配置和SSH服务开启方法。"
 categories: ["code"]
-heading: "debian"
 date: "2022-04-03T08:03:09.764Z"
 ---
 ## 说明

@@ -1,10 +1,10 @@
 ---
-title: "influxdb教程安装与使用"
-keywords: ["教程", "influxdb", "python", "tags", "fields", "influxdata", "influxdb python", "tag", "sql", "create database"]
-tags: ["教程", "influxdb", "python", "tags", "fields", "influxdata", "influxdb python", "tag"]
-description: "使用influxdata的源进行安装"
+title: "InfluxDB安装与使用教程"
+heading: "InfluxDB时序数据库从安装到Python操作完整教程"
+keywords: ["InfluxDB安装教程", "InfluxDB使用入门", "时序数据库教程", "InfluxDB Python操作", "InfluxDB SQL查询"]
+tags: ["InfluxDB", "时序数据库", "教程"]
+description: "从安装到使用的InfluxDB时序数据库完整教程，涵盖数据库创建、保留策略、连续查询和Python集成操作。"
 categories: ["code"]
-heading: "influxdb教程安装与使用"
 date: "2019-08-27T07:56:11.769Z"
 ---
 使用[influxdata](https://docs.influxdata.com/influxdb/v1.7/introduction/installation/)的源进行安装
@@ -58,26 +58,3 @@ SHOW CONTINUOUS QUERIES
 DROP CONTINUOUS QUERY "cq_sum_1h" ON "sxydata"
 
 -- 查看measurements(类似于表)
-show measurements
-
--- 查看数据
-select sum(*) from sum_source_1h GROUP By time(1h) tz('Asia/Shanghai')
-```
-
-python的客户端可参考[influxdb-python](https://github.com/influxdata/influxdb-python)
-
-**如何唯一确定一条数据**
-
-由时间和tags确定唯一性
-
-如果多次提交： 
-- 时间+tags不一样。 -- > 多条记录
-- 时间+tags一样，fields名称不一样。 --> 合并fields到时间+tag的那条记录中。
-- 时间+tags一样，fields名称一样。 --> 更新fields里的值
-
-
-参考文档  
-
-- [docs](https://v2.docs.influxdata.com/v2.0/get-started/)
-- [influxdb的数据重复性问题](https://docs.influxdata.com/influxdb/v1.7/troubleshooting/frequently-asked-questions/#how-does-influxdb-handle-duplicate-points)
-- [InfluxDB中文文档](https://jasper-zhang1.gitbooks.io/influxdb/content/)

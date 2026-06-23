@@ -1,10 +1,9 @@
 ---
-title: "taobao-xuanpng"
-keywords: ["生活", "taobao xuanpng", "taobao", "xuanpng"]
-tags: ["生活", "taobao xuanpng"]
-description: "排序 - 话费 - 洗衣液 - 纸巾/抽纸/卷纸/洗脸巾 - 零食 - 裙子 - 口红 - 口罩 - 女士凉鞋/内裤/文胸/船袜 - 面膜/洗面奶/防晒 - 牙刷/牙膏/洗发露."
+title: "淘宝客选品App设计"
+keywords: ["淘宝选品", "淘宝客App", "积分系统", "电商运营", "商品分类", "返利设计"]
+tags: ["淘宝客", "产品设计", "电商"]
+description: "淘宝客选品App的产品设计文档，包含商品排序、用户积分系统和商品分类方案的设计思路。"
 categories: ["life"]
-heading: "taobao-xuanpng"
 date: "2020-07-02T00:04:31.657Z"
 ---
 排序
@@ -91,6 +90,7 @@ date: "2020-07-02T00:04:31.657Z"
 - 纸巾
 - 卫生巾
 - 牙刷/牙膏
+
 
 
 

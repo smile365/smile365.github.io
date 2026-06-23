@@ -1,10 +1,9 @@
 ---
 title: "技术博客收集"
-keywords: ["阅读", "websit", "技术博客收集", "AnimeGANv2", "XuC", "TensorFlow 2", "Patrick McKenzie", "GitHub issue", "AnimeGANv2 AnimeGANv2", "coder"]
-tags: ["阅读", "websit", "技术博客收集", "AnimeGANv2", "XuC", "TensorFlow 2", "Patrick McKenzie", "GitHub issue"]
-description: "牛人=选择 3 X方法 2 X动力XuC"
+keywords: ["技术博客推荐", "程序员资源网站", "在线开发工具", "AnimeGANv2", "TensorFlow 2"]
+tags: ["技术博客", "开发工具", "资源收集"]
+description: "收集整理了优秀技术博客、在线开发工具、实用网站和开源项目，是程序员值得收藏的资源导航页面。"
 categories: ["read"]
-heading: "技术博客收集"
 date: "2018-07-04"
 ---
 牛人=选择<sup>3</sup>X方法<sup>2</sup>X动力XuC
@@ -58,8 +57,3 @@ date: "2018-07-04"
 - [大疆测试](http://debugtalk.com/)
 - [安全](https://impakho.com/)
 - [科学空间](https://kexue.fm/)
-- [知道创宇](https://www.rockyqi.net/Knownsec_RD_Checklist_v3.0/v3.0.html)
-- [老高](https://blog.phpgao.com/open_terminal_in_finder.html)
-- [zhengyi](http://blog.zhengyi.one/)
-- [给力星](http://www.powerxing.com/)
-

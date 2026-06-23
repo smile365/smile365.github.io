@@ -1,8 +1,8 @@
 ---
-title: "residential-IP-fingerprint-browser"
-keywords: ["生活", "proxy", "住宅", "指纹浏览器", "lokiproxy", "browser", "talordata", "iproyal", "residential IP fingerprint", "browser ##"]
-tags: ["生活", "proxy", "住宅", "指纹浏览器", "lokiproxy", "browser", "talordata", "iproyal"]
-description: "| 服务商 | 价格 | 说明 | | --------------------------------------------------------------------."
+title: "住宅IP和指纹浏览器"
+keywords: ["静态住宅IP", "指纹浏览器", "代理IP购买", "morelogin", "clash链式代理"]
+tags: ["住宅IP", "指纹浏览器", "proxy"]
+description: "住宅IP代理和指纹浏览器的选购与配置教程，包含多家住宅IP服务商的价格对比和指纹浏览器使用指南。"
 categories: ["life"]
 heading: "住宅 ip和指纹浏览器"
 date: "2026-05-24T03:13:11.331Z"

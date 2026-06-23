@@ -1,10 +1,10 @@
 ---
-title: "mac os环境下运行'ls -al'后出现“+”或“@“标记"
-keywords: ["教程", "mac xattr", "mac ls -lh @", "python", "环境下运行'", "mac", "mac os", "ls al", "xattr"]
-tags: ["教程", "mac xattr", "mac ls -lh @", "python", "环境下运行'", "mac", "mac os", "ls al"]
-description: "+ or @ mark after running 'ls -al'"
+title: "Mac文件@标记解决方法"
+heading: "mac环境使用xattr命令查看带有@标记的文件"
+keywords: ["Mac @标记", "xattr命令", "Mac扩展属性", "ls -al @", "文件权限错误"]
+tags: ["Mac", "xattr", "文件属性"]
+description: "MacOS下ls命令显示文件带@标记的解决方法，使用xattr查看和删除文件扩展属性的详细教程。"
 categories: ["code"]
-heading: "mac环境使用xattr命令查看带有“@”标记的文件"
 date: "2020-04-22T03:56:42.032Z"
 ---
 mac环境下用python读取文件的时候发现错误：`

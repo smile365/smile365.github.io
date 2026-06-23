@@ -1,10 +1,9 @@
 ---
-title: "personal-media-center"
-keywords: ["教程", "Linux", "personal media center", "Debian", "etcher", "diskutil eraseDisk", "PVE Proxmox VE", "Ubuntu", "Proxmox Virtual Environment", "personal"]
-tags: ["教程", "Linux", "personal media center", "Debian", "etcher", "diskutil eraseDisk", "PVE Proxmox VE", "Ubuntu"]
-description: "打造家庭媒体中心，Personal Media Center"
+title: "家庭媒体中心搭建教程"
+keywords: ["Proxmox VE安装", "黑群晖虚拟机", "家庭媒体中心搭建", "Docker影音工具", "NAS自动追剧配置"]
+tags: ["PVE", "黑群晖", "媒体中心"]
+description: "从零开始搭建家庭媒体中心，使用Proxmox VE安装黑群晖NAS，配置Jackett、Radarr、Sonarr等自动追剧工具。"
 categories: ["code"]
-heading: "personal-media-center"
 date: "2022-01-26T10:51:31.900Z"
 ---
 ## 需求
@@ -161,8 +160,8 @@ qm importdisk 100 DS3617-1.03b_boot.qcow2 local-lvm --format=qcow2
 再增加一个 sata 磁盘，容量随意，简易 32G 以上。
 编辑 options 启动项改成 sata0，点击启动，然后打开终端。
 
-此时会出现 http://find.synology.com/ 等字样，打开网站继续安装即可。若提示“局域网内未找到 DiskStation”，可以查看路由器新增的 ip，然后直接访问 ip:5000
-		
+此时会出现 http://find.synology.com/ 等字样，打开网站继续安装即可。若提示"局域网内未找到 DiskStation"，可以查看路由器新增的 ip，然后直接访问 ip:5000
+	
 
 手动安装，选择 `DSM_DS3617xs_25426.pat` 
 
@@ -205,7 +204,7 @@ qm importdisk 100 DS3617-1.03b_boot.qcow2 local-lvm --format=qcow2
 
 ### 创建目录
 
-在群晖的文件管理中创建对应的工具软件目录，保存每个软件的配置文件、缓存等信息。
+在群晖的文件管理中创建对应的工具软件目录，保存每个工具的配置文件、缓存等信息。
 
 ```
 - docker
@@ -270,6 +269,8 @@ vim /volume1/docker/qb/qBittorrent/data/nova3/engines/jackett.json
 }
 ```
 进入 dsm 系统，重启 qBittorrent 容器即可。
+
+
 
 
 

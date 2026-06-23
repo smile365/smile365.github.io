@@ -1,15 +1,15 @@
 ---
-title: "windows server 2012 配置多个账户实现多用户同时登录远程桌面"
-keywords: ["教程", "windows server 2012", "windows", "Internet Explorer", "mstsc", "admin", "htt", "server", "remote"]
-tags: ["教程", "windows server 2012", "windows", "Internet Explorer", "mstsc", "admin"]
-description: "windows server 2012 r2 multiple remote desktop sessions"
+title: "Windows Server多用户远程桌面"
+keywords: ["Windows Server远程桌面", "多用户同时登录", "远程桌面配置教程", "Server2012多用户"]
+tags: ["Windows Server", "远程桌面", "多用户"]
+description: "Windows Server 2012配置多个账户实现多用户同时登录远程桌面的详细教程，包括组策略设置和远程桌面授权配置。"
 categories: ["code"]
-heading: "windows server 2012 配置多个账户实现多用户同时登录远程桌面"
+heading: "Windows Server 2012配置多个账户实现多用户同时登录远程桌面"
 date: "2020-06-16T06:23:19.495Z"
 ---
 配置组策略
 
-右键左下角的windows，点击"运行"，输入“gpedit.msc”回车。
+右键左下角的windows，点击"运行"，输入"gpedit.msc"回车。
 
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1592288856169.png)
 
@@ -25,7 +25,7 @@ date: "2020-06-16T06:23:19.495Z"
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1592289433770.png)
 
 
-右键“这台电脑”->点击“属性”
+右键"这台电脑"->点击"属性"
 
 
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1592289482322.png)
@@ -43,4 +43,3 @@ date: "2020-06-16T06:23:19.495Z"
 mstsc /v:ip地址:端口 /admin
 
 命令可以登录远程服务器
-

@@ -1,10 +1,10 @@
 ---
-title: "pyppeteer简明教程"
-keywords: ["教程", "pyppeteer的使用", "pyppeteer淘宝", "pyppeteer微博", "puppeteer python", "pyppeteer", "爬虫神器", "headless", "Puppeteer", "Node"]
-tags: ["教程", "pyppeteer的使用", "pyppeteer淘宝", "pyppeteer微博", "puppeteer python", "pyppeteer", "爬虫神器", "headless"]
-description: "Puppeteer它是一个Node库，提供了一个高级的API来控制DevTools协议上的无头版Chrome，可以自动化控制浏览器运行。"
+title: "pyppeteer 简明教程"
+keywords: ["pyppeteer 爬虫", "Python 无头浏览器", "pyppeteer 教程", "自动化 Chrome", "pyppeteer 微博"]
+tags: ["pyppeteer", "爬虫", "Python"]
+description: "pyppeteer 是 Puppeteer 的 Python 实现，可自动化控制无头 Chrome 浏览器，涵盖安装测试与会话关闭问题的解决方法。"
 categories: ["code"]
-heading: "爬虫神器pyppeteer的使用教程方法"
+heading: "爬虫神器 pyppeteer 的使用教程方法"
 date: "2019-07-01T02:11:34.220Z"
 ---
 Puppeteer它是一个Node库，提供了一个高级的API来控制DevTools协议上的无头版Chrome，可以自动化控制浏览器运行。pyppeteer是python版的实现。
@@ -58,41 +58,3 @@ img = '/Users/songyangcong/Pictures/6781573623694_.pic.jpg'
 
 async def sendimg(path,headless=False,devtools=False):
 	browser = await launch(executablePath=path,headless=headless,devtools=devtools,userDataDir='./tmp/userdata',args=['--no-sandbox','--disable-infobars'])
-	pages  = await browser.pages()
-	if len(pages) < 1:
-		page = await self.browser.newPage()
-	else:
-		page = pages[0]
-	await page.setViewport({'width':1366,'height':768})
-	await page.setUserAgent(ua)	
-	await page.goto(home_url)
-	await asyncio.sleep(15)  # 等待15秒，先手动登录一下
-	await page.type('textarea',"测试微博自动发送内容")
-	fileInput = await page.J('input[type=file]')
-	await fileInput.uploadFile(img)	# pyppeteer upload image 发布图片
-	await asyncio.sleep(2)
-	await page.click('a[node-type="submit"]')	# 点击发布
-	#await page.click('a[node-type="submit"]') 
-	await asyncio.sleep(100)
-	
-def test():
-	asyncio.get_event_loop().run_until_complete(sendimg(CHROME_PATH))
-	
-if __name__ == '__main__':
-	test()
-```
-
-常用参数说明
-- **executablePath**：运行Chromium或Chrome可执行文件的路径，而不是默认捆绑的Chromium
-- **headless**：是否使用无头模式（无界面）运行
-- **devtools**：是否打开开发者调试工具，打开后忽略headless参数自动改成False
-- **userDataDir**：自动保存浏览器数据到磁盘，登录一次后可免登录（记录cookies）
-
-
-
-参考  
-
-- [Pyppeteer:比selenium更高效的利器](https://mp.weixin.qq.com/s/i1Sr5xIURsoaSJK8ajGEqw)
-- [install-chromium](https://www.technig.com/install-chromium-on-centos/)
-- [selenium-and-chrome](https://github.com/smile365/blog/blob/master/selenium.md)
-- [Session-closed-error](https://blog.csdn.net/weixin_39198406/article/details/86719814)

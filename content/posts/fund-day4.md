@@ -1,10 +1,9 @@
 ---
-title: "fund-day4"
-keywords: ["生活", "fund day4", "FOF", "QDII", "P2P", "fund", "day4"]
-tags: ["生活", "fund day4", "FOF", "QDII", "P2P"]
-description: "短期基金暴涨很多倍，基本上由于基金大量遭赎回导致，有可能是基金经理离开，或者基金公司发生了重大变故之类导致。"
+title: "基金安全与暴涨原因"
+keywords: ["基金暴涨原因", "基金安全", "基金赎回", "基金监管", "基金公司"]
+tags: ["基金", "基金安全", "基金赎回"]
+description: "短期基金暴涨为什么可能意味着风险，以及证监会如何监管基金公司确保投资者资金安全，基金不会像P2P一样跑路。"
 categories: ["life"]
-heading: "fund-day4"
 date: "2021-01-19T15:15:45.618Z"
 draft: "true"
 ---

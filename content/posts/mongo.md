@@ -1,10 +1,9 @@
 ---
-title: "centos7安装mongo"
-keywords: ["教程", "mongo", "centos7", "etc", "vi", "systemctl", "mongod f", "mongo localhost", "repo"]
-tags: ["教程", "mongo", "centos7", "etc", "vi", "systemctl", "mongod f", "mongo localhost"]
-description: "在mongo官网找到repo源,并添加vi /etc/yum.repos.d/mongodb-org-4.0.repo"
+title: "CentOS 7安装MongoDB"
+keywords: ["CentOS安装MongoDB", "MongoDB安装教程", "yum安装MongoDB", "MongoDB配置", "Linux安装数据库"]
+tags: ["MongoDB", "CentOS", "安装"]
+description: "在CentOS 7上通过yum配置阿里源安装MongoDB 4.0并启用安全认证。"
 categories: ["code"]
-heading: "centos7安装mongo"
 date: "2018-08-13T02:55:14.439Z"
 ---
 **配置软件的安装源**
@@ -57,82 +56,3 @@ security:
 ```
 
 启动服务（不能使用systemctl启动）：`mongod -f /etc/mongod.conf`
-
-**数据库管理**
-
-创建数据库用户及分配权限:`mongo localhost:47017`  
-```javascript
-//创建管理员
-use admin
-db.createUser(
-  {
-    user: "sxy",
-    pwd: "sxy91.com",
-    roles: [ { role: "root", db: "admin" } ]
-  }
-);
-//管理员认证
-db.auth("sxy","sxy91.com")
-
-//创建其他用户
-use dbtest
-db.createUser(
-  {
-    user: "dbuser",
-    pwd: "sxy91.com",
-    roles: [ { role: "readWrite", db: "dbtest" } ]
-  }
-);
-
-exit;
-```
-
-重启mongod
-```shell
-systemctl stop mongod
-mongod -f /etc/mongod.conf
-```
-
-使用mongo shell连接
-```shell
-mongo 192.168.31.93:47017/mydb -u user -p pass
-```
-
-正常关闭
-```javascript
-use admin
-db.shutdownServer()
-```
-
-统计Collection的数据量  
-```javascript
-use test
-db.getCollectionNames().forEach(function(x){print(x+":"+db[x].count())})
-```
-
-**使用pymongo的python客户端**
-```python
-from pymongo import MongoClient
-client = MongoClient("mongodb://[username:password@]host[:port][/[database][?options]]")
-
-# 若用户名和密码中包含保留字符（如‘:’,‘/’,‘+’,‘@’ 等）必须按照RFC 2396进行百分比编码：
-from urllib.parse import quote_plus
-uri = "mongodb://%s:%s@%s:%s/%s" % (quote_plus(user),quote_plus(password),host,port,database)
-client = MongoClient(uri)
-
-client.dbname.tablename.insert_one({'_id':'a1','name':'test1'})
-amount = client.dbname.tablename.count()
-print(amount)
-
-```
-
-
-更多用法参考文档：
-
-- [mongodb-manual](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-red-hat/)
-- [enable-authentication](https://docs.mongodb.com/manual/tutorial/enable-authentication/)
-- [安装MongoDB](http://blog.csdn.net/liaoyundababe/article/details/71303039)
-- [Ubuntu镜像使用帮助](https://mirror.tuna.tsinghua.edu.cn/help/mongodb/)
-- [listCollections](https://stackoverflow.com/questions/8866041/how-to-list-all-collections-in-the-mongo-shell)
-- [PyMongo-doc](https://api.mongodb.com/python/current/tutorial.html)
-- [mongo-uri](https://docs.mongodb.com/manual/reference/connection-string/)

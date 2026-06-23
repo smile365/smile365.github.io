@@ -1,10 +1,10 @@
 ---
-title: "Bone conduction headphones"
-keywords: ["阅读", "骨传导耳机值得买", "type c", "Runner CC II", "mir usb", "Bone conduction headphones", "bone", "conduction", "headphones"]
-tags: ["阅读", "骨传导耳机值得买", "type c", "Runner CC II", "mir usb"]
-description: "自从知乎好物功能上线以来，知乎里对硬件产品的评测文章越来越少了。"
+title: "骨传导耳机体验"
+heading: "骨传导耳机值得买吗？南卡Runner CC II真实体验"
+keywords: ["骨传导耳机评测", "南卡Runner CC II", "骨传导耳机值得买", "开放式耳机体验", "耳机推荐"]
+tags: ["骨传导耳机", "南卡", "耳机评测"]
+description: "骨传导耳机真实使用体验分享，对比入耳式和半入耳式耳机在不同环境下的音质表现和佩戴感受。"
 categories: ["read"]
-heading: "骨传导耳机值得买吗"
 date: "2021-10-11T05:42:54.864Z"
 ---
 自从知乎好物功能上线以来，知乎里对硬件产品的评测文章越来越少了。
@@ -69,4 +69,3 @@ date: "2021-10-11T05:42:54.864Z"
 
 
 已经买了4次了。
-

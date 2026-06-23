@@ -1,8 +1,8 @@
 ---
-title: "reverse-apks-by-claude"
-keywords: ["教程", "claude", "reverse apks by", "MacOS", "apk", "java", "jadx", "vineflower", "claude ##", "reverse"]
-tags: ["教程", "claude", "reverse apks by", "MacOS", "apk", "java", "jadx", "vineflower"]
-description: "遇到的问题 **model is not available**"
+title: "Claude反编译APK"
+keywords: ["APK反编译", "jadx使用", "vineflower", "MacOS反编译APK", "Claude逆向分析"]
+tags: ["反编译", "APK", "Claude"]
+description: "在MacOS上使用Claude对APK进行逆向分析的完整教程，包括jadx、vineflower等工具的安装与使用。"
 categories: ["code"]
 heading: "MacOS 下使用 claude 对 apk 进行逆向分析"
 date: "2026-05-11T06:01:32.934Z"

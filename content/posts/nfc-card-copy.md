@@ -1,10 +1,9 @@
 ---
-title: "nfc-card-copy"
-keywords: ["生活", "门禁卡复制", "UID", "nfc card copy", "nfc", "MifareClassicTool", "NXP NFC", "card", "copy"]
-tags: ["生活", "门禁卡复制", "UID", "nfc card copy", "nfc", "MifareClassicTool", "NXP NFC"]
-description: "下载软件MifareClassicTool"
+title: "门禁卡复制教程"
+keywords: ["NFC门禁卡复制", "MifareClassicTool", "UID卡复制", "门禁卡模拟", "NFC复制"]
+tags: ["NFC", "门禁卡", "Mifare"]
+description: "使用安卓手机和 MifareClassicTool 复制门禁卡的详细步骤，包括密钥文件编辑和 UID 写入操作。"
 categories: ["life"]
-heading: "门禁卡复制教程"
 date: "2022-01-06T12:45:14.795Z"
 ---
 手机打开 nfc 开关

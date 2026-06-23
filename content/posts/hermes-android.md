@@ -1,8 +1,8 @@
 ---
-title: "hermes-android"
-keywords: ["教程", "Android", "Linux", "github", "在 上安装 养龙虾", "hermes android", "hermes", "U1", "hermes android ##"]
-tags: ["教程", "Android", "Linux", "github", "在 上安装 养龙虾", "hermes android", "hermes", "U1"]
-description: "前言 有一台坚果 U1 手机，虽然系统应用依然流畅，但内存只有 2G ，且 Android 停留在了 5.1 ，基本没什么用了。打算安装成 Linux 用来跑小龙虾。"
+title: "在Android上安装Hermes"
+keywords: ["Android安装Hermes", "Termux教程", "闲置手机跑AI", "Linux on Android", "红米Note8"]
+tags: ["AI", "Android", "Hermes"]
+description: "在旧安卓手机上通过Termux安装Hermes-Agent，将闲置手机变成AI代理服务器，实测坚果U1和红米Note8的完整安装过程。"
 categories: ["code"]
 heading: "在 Android 上安装 hermes 养龙虾"
 date: "2026-06-06T00:54:44.028Z"
@@ -84,12 +84,12 @@ pkg install nodejs-lts -y
 选择 7
 ```txt
   Configuring 6 tool(s):
-    • 🌐 Browser Automation
-    • 🖱️  Computer Use (macOS)
-    • 🎨 Image Generation
-    • 🔊 Text-to-Speech
-    • 👁️  Vision / Image Analysis
-    • 🔍 Web Search & Scraping
+    - Browser Automation
+    - Computer Use (macOS)
+    - Image Generation
+    - Text-to-Speech
+    - Vision / Image Analysis
+    - Web Search & Scraping
 ```
 
 然后输入命令启动

@@ -1,10 +1,10 @@
 ---
-title: "github-ci-cd"
-keywords: ["教程", "ssh", "github", "基于 实现自动部署", "GitHub Actions", "CI", "CD", "VPS", "github ci cd", "python"]
-tags: ["教程", "ssh", "github", "基于 实现自动部署", "GitHub Actions", "CI", "CD", "VPS"]
-description: "前言 基于 python 给几个 app 开发了对应的后端 api，每次改完代码部署都比较繁琐："
-categories: ["code"]
+title: "GitHub Actions CI/CD部署"
+keywords: ["github actions", "CI/CD自动部署", "git push自动部署", "ssh部署", "vps自动部署"]
+tags: ["CI/CD", "GitHub Actions", "自动部署"]
 heading: "基于 GitHub Actions 实现自动部署（CI/CD）"
+description: "使用 GitHub Actions 实现代码推送后自动登录 VPS 执行部署脚本，简化 Python 后端 API 的发布流程，彻底告别手动部署。"
+categories: ["code"]
 date: "2026-05-27T12:24:38.406Z"
 ---
 ## 前言

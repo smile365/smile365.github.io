@@ -1,10 +1,9 @@
 ---
-title: "使用 pve 安装 alpine 系统"
-keywords: ["教程", "使用 安装 系统", "pve", "alpine", "alpine virt x86", "iso", "qm", "root"]
-tags: ["教程", "使用 安装 系统", "pve", "alpine", "alpine virt x86", "iso", "qm", "root"]
-description: "虚拟机方式（不推荐） **1. 创建虚拟机** 下载VIRTUAL 版本下的 alpine-virt-x86_64.iso 镜像文件。"
+title: "使用PVE安装Alpine系统"
+keywords: ["PVE安装Alpine", "Proxmox安装Linux", "Alpine Linux教程", "PVE创建CT模板", "Alpine安装配置"]
+tags: ["PVE", "Alpine", "虚拟机"]
+description: "详细介绍如何在Proxmox VE上通过虚拟机和CT模板两种方式安装Alpine Linux系统，并配置nginx反向代理和wireguard VPN。"
 categories: ["code"]
-heading: "使用 pve 安装 alpine 系统"
 date: "2022-02-16T03:32:29.694Z"
 ---
 ## 安装 alpine
@@ -219,7 +218,7 @@ sudo wg set wg0 peer [peer的公钥] allowed-ips 10.0.8.2/32
 ## wireguard 开启/重启自动启动
 让 [wireguard开机启动](https://www.cyberciti.biz/faq/how-to-set-up-wireguard-vpn-server-on-alpine-linux/) 
 
-如果客户端在 NAT 之后，当没有活动的数据连接，客户端就是断开，可通过 配置项 PersistentKeepalive “促活”
+如果客户端在 NAT 之后，当没有活动的数据连接，客户端就是断开，可通过 配置项 PersistentKeepalive "促活"
 
 **方法一：**
 查看开启启动的说明 `/etc/local.d/README`

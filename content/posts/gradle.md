@@ -1,10 +1,9 @@
 ---
-title: "gradle 安装"
-keywords: ["教程", "Gradle", "Debian", "JDK", "OpenJDK", "opt", "bin", "PATH"]
-tags: ["教程", "Gradle", "Debian", "JDK", "OpenJDK", "opt", "bin", "PATH"]
-description: "在 Debian 系统中，可以通过安装 Gradle 的二进制包来安装 Gradle。以下是安装步骤："
+title: "Gradle安装教程"
+keywords: ["gradle安装", "debian安装gradle", "gradle配置", "java构建工具", "jdk安装"]
+tags: ["Gradle", "构建工具", "Java"]
+description: "在 Debian 系统中安装 Gradle 构建工具的详细步骤，包括 JDK 安装、Gradle 二进制包下载解压及环境变量配置。"
 categories: ["code"]
-heading: "gradle 安装"
 date: "2013-05-11"
 ---
 在 Debian 系统中，可以通过安装 Gradle 的二进制包来安装 Gradle。以下是安装步骤：

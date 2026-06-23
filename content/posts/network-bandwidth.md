@@ -1,8 +1,8 @@
 ---
-title: "如何估算网络带宽需求及费用"
-keywords: ["教程", "Mbps", "Kb", "Mb", "Million bits per", "second", "Byte", "bit", "network", "bandwidth"]
-tags: ["教程", "Mbps", "Kb", "Mb", "Million bits per", "second", "Byte", "bit"]
-description: "带宽单位 - Mbps ( Million bits per second )： 每秒传输百万位(比特)数量的数据 - Mb/s： - MB/s： - M/s："
+title: "网络带宽需求估算与费用"
+keywords: ["网络带宽估算", "带宽单位换算", "Mbps 计算", "阿里云带宽计费", "带宽费用"]
+tags: ["带宽", "Mbps", "网络", "计费"]
+description: "介绍网络带宽的单位换算方法（Mbps、Mb/s、MB/s），并通过实例估算带宽需求及阿里云带宽费用。"
 categories: ["code"]
 heading: "如何估算网络带宽需求及费用"
 date: "2023-02-16T13:53:39.439Z"

@@ -1,8 +1,8 @@
 ---
-title: "redmi-note8-root"
-keywords: ["教程", "红米 刷机", "redmi note8 root", "note 8", "Windows", "MiFlashPro", "EEA", "Bootloader", "redmi", "note8"]
-tags: ["教程", "红米 刷机", "redmi note8 root", "note 8", "Windows", "MiFlashPro", "EEA", "Bootloader"]
-description: "刷机过程需要的软件: - Windows 系统 - 解锁工具 - 刷机工具（MiFlashPro - 刷机包，推荐欧洲版（EEA）刷机包"
+title: "红米Note8刷机"
+keywords: ["红米Note8刷机", "redmi note8 root", "小米解锁Bootloader", "MiFlashPro刷机", "小米刷机教程"]
+tags: ["刷机", "红米Note8", "Android"]
+description: "红米Note 8刷机Root完整教程，包括解锁Bootloader、使用MiFlashPro刷入EEA版系统的详细步骤。"
 categories: ["code"]
 heading: "红米 note 8 刷机教程"
 date: "2021-03-21T12:30:06.473Z"
@@ -18,9 +18,9 @@ date: "2021-03-21T12:30:06.473Z"
 先去下载[解锁工具](http://www.miui.com/unlock/download.html)
 
 请按照以下流程进行操作：
-1.进入“设置 -> 开发者选项 -> 设备解锁状态”中绑定账号和设备；
+1.进入"设置 -> 开发者选项 -> 设备解锁状态"中绑定账号和设备；
 2.手动进入Bootloader模式（关机后，同时按住开机键和音量下键）；
-3.通过USB连接手机，点击 “解锁”按钮；
+3.通过USB连接手机，点击 "解锁"按钮；
 
 
 

@@ -1,10 +1,9 @@
 ---
-title: "使用xposed框架hook安卓端Facebook"
-keywords: ["阅读", "code", "it", "Android", "使用 框架 安卓端", "token", "hook", "Xposed", "Facebook"]
-tags: ["阅读", "code", "it", "Android", "使用 框架 安卓端", "token", "hook", "Xposed"]
-description: "Xposed 框架是一款可以在不修改APK的情况下影响程序运行（修改系统）的框架服务，基于它可以制作出许多功能强大的模块，且在功能不冲突的情况下同时运作。"
+title: "使用Xposed框架Hook安卓端Facebook"
+keywords: ["Xposed框架", "安卓Hook", "Facebook Token", "Android逆向", "VirtualXposed"]
+tags: ["Android", "Xposed", "Hook"]
+description: "使用Xposed框架Hook安卓端Facebook应用，通过劫持Socket请求获取登录Token的完整技术方案和思路。"
 categories: ["read"]
-heading: "使用xposed框架hook安卓端Facebook"
 date: "2018-12-07T08:28:28.379Z"
 ---
 **关于Xposed**  

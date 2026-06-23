@@ -1,10 +1,9 @@
 ---
 title: "seafile 安装教程"
-keywords: ["教程", "proxy", "nginx", "set", "seafile", "conf", "seafile server", "server", "macos iphone linux", "ubuntu seafile"]
-tags: ["教程", "proxy", "nginx", "set", "seafile", "conf", "seafile server", "server"]
-description: "把 seafile 作为私有云盘，自动同步 iphone 或其他 ios 设备的照片"
+keywords: ["Seafile 安装教程", "搭建私有云盘", "Docker 部署 Seafile", "Nginx 配置 Seafile", "iPhone 照片同步"]
+tags: ["seafile", "私有云盘", "Docker"]
+description: "使用 Docker 在 Ubuntu 上部署 Seafile 私有云盘，实现 iPhone 照片自动同步与文件管理。"
 categories: ["code"]
-heading: "seafile 安装教程"
 date: "2020-03-17T03:32:47.442Z"
 ---
 ## 环境介绍
@@ -46,6 +45,7 @@ server {
    }
 }
 ```
+
 
 
 

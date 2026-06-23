@@ -1,10 +1,10 @@
 ---
-title: "使用 postgres_fdw 关联外部数据库的表"
-keywords: ["教程", "postgres", "fdw", "foreign", "public", "psql", "CREATE SERVER", "server"]
-tags: ["教程", "postgres", "fdw", "foreign", "public", "psql", "CREATE SERVER", "server"]
-description: "postgres_fdw 的安装和使用 1. 使用 psql 命令安装扩展 postgres_fdw"
-categories: ["code"]
+title: "PostgreSQL FDW跨库查询"
 heading: "使用 postgres_fdw 关联外部数据库的表"
+keywords: ["postgres_fdw教程", "PostgreSQL跨库查询", "外部数据表", "CREATE SERVER配置", "PostgreSQL扩展"]
+tags: ["PostgreSQL", "FDW", "跨库查询"]
+description: "详细介绍PostgreSQL的postgres_fdw扩展安装和配置方法，实现跨数据库关联查询外部表的数据。"
+categories: ["code"]
 date: "2023-08-23T18:16:05.490Z"
 ---
 ## postgres_fdw 的安装和使用

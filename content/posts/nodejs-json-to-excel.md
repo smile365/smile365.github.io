@@ -1,8 +1,8 @@
 ---
-title: "nodejs把json转化并生成excel文件"
-keywords: ["阅读", "把 转化并生成 文件", "nodejs", "json", "exceljs", "Excel", "js", "qr image"]
-tags: ["阅读", "把 转化并生成 文件", "nodejs", "json", "exceljs", "Excel", "js", "qr image"]
-description: "做项目有个需求，需要把一个一批链接生成二维码图片，并在Excel文件记录。"
+title: "Node.js JSON 转 Excel 文件"
+keywords: ["Node.js JSON to Excel", "ExcelJS教程", "Node.js生成Excel", "二维码批量生成", "Node.js导出数据"]
+tags: ["Node.js", "ExcelJS", "JSON"]
+description: "使用 Node.js 的 exceljs 库将 JSON 数据转化为 Excel 文件，并结合二维码批量生成图片的实用教程。"
 categories: ["read"]
 heading: "exceljs 使用教程"
 date: "2020-10-10T08:10:06.924Z"

@@ -1,10 +1,9 @@
 ---
-title: "门户网站代做"
-keywords: ["生活", "门户网站代做", "dedecms", "web", "portals"]
-tags: ["生活", "门户网站代做", "dedecms"]
-description: "如何做一个门户网站 门户网站怎么做 如何自己做门户网站 搭建门户网站 门户网站广告投放 地方门户网站建设 为什么要做门户网站 dedecms做门户网站 门户网站做推广"
+title: "门户网站搭建指南"
+keywords: ["门户网站搭建", "地方门户网站", "Dedecms建站", "网站制作教程", "门户网站推广", "网站建设"]
+tags: ["门户网站", "网站建设", "Dedecms"]
+description: "本文介绍如何使用Dedecms搭建门户网站，涵盖网站建设、广告投放和推广方法，帮助新手快速建立自己的地方门户网站。"
 categories: ["life"]
-heading: "门户网站代做"
 date: "2019-12-31T06:57:19.742Z"
 draft: "true"
 ---

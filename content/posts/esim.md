@@ -1,8 +1,8 @@
 ---
-title: "esim"
-keywords: ["生活", "esim", "sim", "club esim", "easyeUICC", "IMEI"]
-tags: ["生活", "esim", "sim", "club esim", "easyeUICC", "IMEI"]
-description: "添加香港 club esim 卡："
+title: "香港Club eSIM添加教程"
+keywords: ["香港Club eSIM", "eSIM添加教程", "easyeUICC", "eSIM二维码", "香港手机卡"]
+tags: ["eSIM", "Club eSIM", "香港", "手机"]
+description: "一步步教你使用easyeUICC应用为手机添加香港Club eSIM卡，实现无需实体卡的境外通信方案。"
 categories: ["life"]
 heading: "esim"
 date: "2026-06-04T14:35:07.884Z"

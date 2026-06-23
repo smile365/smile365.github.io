@@ -1,8 +1,8 @@
 ---
-title: "在 macbook 模拟 NFC 卡门禁卡的简明操作指南教程"
-keywords: ["阅读", "在 模拟 卡门禁卡", "M1", "UID", "nfc", "mfoc", "macbook", "IC", "mac"]
-tags: ["阅读", "在 模拟 卡门禁卡", "M1", "UID", "nfc", "mfoc", "macbook", "IC"]
-description: "在苹果电脑的 osx 系统下实现模拟加密门禁卡的教程"
+title: "MacBook 模拟 NFC 门禁卡操作指南"
+keywords: ["MacBook NFC模拟", "门禁卡复制", "IC卡破解", "Mifare工具", "PN532使用教程", "NFC读卡器"]
+tags: ["NFC", "门禁卡", "M1卡", "PN532"]
+description: "在 MacBook 上使用 PN532 读卡器、mfoc 和 mfcuk 工具破解并模拟 IC 卡（M1 卡）门禁卡的详细操作指南。"
 categories: ["read"]
 heading: "在 macbook 模拟 NFC 卡门禁卡的简明操作指南教程"
 date: "2023-05-26T20:18:42.169Z"
@@ -148,7 +148,6 @@ nfc-list
 - [在 Arch Linux 下攻击 Mifare NFC 卡片的简明指南](https://www.ducksoft.site/%E5%AE%89%E5%85%A8/mifare-crack-guide.html)
 - [由门禁卡来谈谈IC/ID复制卡的原理和知识](https://zhuanlan.zhihu.com/p/654587508)
 - [SAK和ATQA](https://nfc-tools.github.io/resources/standards/iso14443A/)
-
 
 
 

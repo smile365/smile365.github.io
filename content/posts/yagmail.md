@@ -1,8 +1,8 @@
 ---
 title: "yagmail使用教程"
-keywords: ["教程", "python", "发送邮件", "yagmail", "SMTP", "ps", "gmail", "qq"]
-tags: ["教程", "python", "发送邮件", "yagmail", "SMTP", "ps", "gmail", "qq"]
-description: "第一步：登录邮箱-->设置-->账户-->开启SMTP服务。"
+keywords: ["Python发送邮件", "yagmail教程", "SMTP邮件", "QQ邮箱Python", "Python邮件库"]
+tags: ["yagmail", "Python", "邮件"]
+description: "学习使用Python的yagmail库通过SMTP协议发送邮件，支持正文、HTML内容和附件，以QQ邮箱为例演示完整用法。"
 categories: ["code"]
 heading: "python发送邮件yagmail使用教程"
 date: "2020-02-08T02:25:35.614Z"

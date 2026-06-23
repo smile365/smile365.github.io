@@ -1,10 +1,9 @@
 ---
-title: "快速搭建nodejs的web脚手架项目"
-keywords: ["教程", "脚手架", "nodejs", "express", "web", "nodejs npm typscript", "TypeScript", "Express express", "eslint express decorators", "startapp"]
-tags: ["教程", "脚手架", "nodejs", "express", "web", "nodejs npm typscript", "TypeScript", "Express express"]
-description: "nodejs-web-startapp"
+title: "快速搭建 Node.js Web 脚手架"
+keywords: ["Node.js脚手架", "Express TypeScript", "express-generator", "Node.js Web项目", "TypeScript Express教程"]
+tags: ["Node.js", "Express", "TypeScript", "脚手架"]
+description: "使用 express-generator-typescript 快速搭建基于 Node.js、Express 和 TypeScript 的 Web 项目脚手架。"
 categories: ["code"]
-heading: "nodejs 脚手架"
 date: "2021-04-12T02:46:58.697Z"
 ---
 技术栈

@@ -1,10 +1,9 @@
 ---
-title: "python/js 任意多维数组转一维数组"
-keywords: ["教程", "python", "JavaScript", "js", "matrix", "array"]
-tags: ["教程", "python", "JavaScript", "js"]
-description: "Convert Matrix / 2D Array to a 1D,matrix-array-2-1D"
+title: "多维数组转一维数组"
+keywords: ["多维数组转一维", "Python数组扁平化", "JavaScript数组扁平化", "递归算法"]
+tags: ["Python", "JavaScript", "算法"]
+description: "Python和JavaScript实现任意多维数组递归转一维数组的方法，附完整代码示例。"
 categories: ["code"]
-heading: "python/js 任意多维数组转一维数组"
 date: "2022-02-15T08:53:50.545Z"
 ---
 项目中需要把多维数据转变成一维数组，看了[网上的方法](https://leejason.blog.csdn.net/article/details/106928360)不太完美，基本不满足我的需求。
@@ -46,6 +45,5 @@ function multArr2one(arr){
 	return res	
 }
 ```
-
 
 

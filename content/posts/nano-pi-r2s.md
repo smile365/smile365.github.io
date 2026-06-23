@@ -1,10 +1,9 @@
 ---
-title: "nano-pi-r2s 安装 wireguard 和 ss"
-keywords: ["教程", "ss", "nano pi r2s", "wireguard", "FriendlyWrt", "tf", "r2s", "type c", "ss ##", "nano"]
-tags: ["教程", "ss", "nano pi r2s", "wireguard", "FriendlyWrt", "tf", "r2s", "type c"]
-description: "NanoPi R2S mac osx 固件烧录教程"
+title: "NanoPi R2S安装WireGuard和SS"
+keywords: ["NanoPi R2S教程", "WireGuard安装", "Shadowsocks配置", "OpenWrt翻墙", "FriendlyWrt固件"]
+tags: ["NanoPi", "WireGuard", "Shadowsocks", "路由器"]
+description: "在NanoPi R2S上烧录FriendlyWrt固件并安装WireGuard和Shadowsocks实现科学上网。"
 categories: ["code"]
-heading: "nano-pi-r2s 安装 wireguard 和 ss"
 date: "2022-09-14T07:48:57.809Z"
 ---
 ## 固件烧录
@@ -58,44 +57,3 @@ opkg install /tmp/luci-i18n-kcptun-zh-cn_git-20.109.30409-d04c89b_all.ipk
  
  ## 安装 dns
  使用 [ChinaDNS](http://douxinchun.github.io/blog/20210302/install-shadowsocks-on-openwrt.html)避免 域名解析污染
- 
- ```bash 
-opkg print-architecture
- # # aarch64_generic
- # vim /etc/opkg/customfeeds.conf 
- # 增加软件源
-src/gz openwrt_dist http://openwrt-dist.sourceforge.net/packages/base/aarch64_generic
-src/gz openwrt_dist_luci http://openwrt-dist.sourceforge.net/packages/luci
-
-opkg install ChinaDNS
-opkg install luci-app-chinadns
-
-```
-
-
-## 安装 wireguard
-```bash
-mkdir -p /usr/local/etc/wireguard/
-cd /usr/local/etc/wireguard/
-wg genkey | tee privatekey | wg pubkey > publickey
-ip link add wg0 type wireguard
-ip addr add 10.0.8.7/24 dev wg0 
-
-```
-
-
-## 其他固件推荐
-FriendlyWrt 的官方固件比较粗糙，且交互不方便，可以下载第三方固件使用。
-
-- [istoreos](https://doc.linkease.com/zh/guide/istoreos/#istoreos%E7%AE%80%E4%BB%8B)
-- [DHDAXCW 骷髅头](https://github.com/DHDAXCW/NanoPi-R2S-rk3328)
-- [klever1988](https://github.com/klever1988/nanopi-openwrt)
-- [biliwala](https://github.com/biliwala/nanopi-openwrt/releases)
-- [YAOF](https://github.com/QiuSimons/YAOF)
-- [openwrt-rockchip](https://github.com/quintus-lab/openwrt-rockchip/releases)
-
-
-##  参考文档
-- [OpenWRT 配置 WireGuard ](https://www.ioiox.com/archives/143.html)
-- [OpenWrt / LEDE 安装 WireGuard](https://steemit.com/cn/@curl/openwrt-lede-wireguard-vpn)
-- [openwrt中的wireguard](https://b1.planetnp.com/wireguard_on_openwrt.html)

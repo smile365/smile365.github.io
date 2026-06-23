@@ -1,8 +1,8 @@
 ---
-title: "在 macbook 下攻击和模拟 Mifare NFC 加密卡的简明指南"
-keywords: ["阅读", "在 下攻击", "模拟 加密卡", "NFC", "UID", "mfoc", "macbook", "Mifare NFC", "mac", "mac os x"]
-tags: ["阅读", "在 下攻击", "模拟 加密卡", "NFC", "UID", "mfoc", "macbook", "Mifare NFC"]
-description: "在苹果电脑的 osx 系统下实现手机和手环模拟加密门禁卡的教程"
+title: "MacBook 破解模拟 NFC 加密卡"
+keywords: ["MacBook NFC破解", "Mifare加密卡", "PN532读卡器", "mfoc教程", "NFC门禁卡模拟"]
+tags: ["NFC", "Mifare", "门禁卡", "macOS"]
+description: "在 macOS 系统下使用 PN532 读卡器和 mfoc 工具破解并模拟 Mifare NFC 加密门禁卡的完整教程。"
 categories: ["read"]
 heading: "通过手机的 NFC 功能模拟加密的门禁卡"
 date: "2021-09-04T01:08:42.169Z"
@@ -170,6 +170,7 @@ nfc-mfclassic W a u your-card.mfd blank-card.dmp
 
 
 
+
 ## 问题记录
 
 编译过程中的问题记录。
@@ -237,6 +238,7 @@ python mfdread/mfdread.py mycard.mfd
 
 
 
+
 ## 后记
 
 疑问，为什么 mfoc 和 mfcuk 没有安卓版本？既然手机相当于读卡器，为什么直接用手机破解呢？
@@ -294,7 +296,6 @@ NFC技术本质上是一种基于RFID技术的改进版，它与RFID卡之间的
 - [Proxmark3（PM3）硬件简单拆解与介绍](https://www.wasyoung.com/2019/11/30/337/)
 - [MIFARE系列7《安全》](https://itnewbee.org/mifare%E7%B3%BB%E5%88%977%E3%80%8A%E5%AE%89%E5%85%A8%E3%80%8B/)
 - [更快的攻击攻击手段](http://62.234.115.194/ask/122013874.html)
-
 
 
 

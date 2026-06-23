@@ -1,10 +1,9 @@
 ---
-title: "conductor DAG 的完整支持改造(1)-入门指南"
-keywords: ["教程", "完整支持改造", "conductor", "conductor DAG", "hello word", "workflow operators", "Do While Dynamic", "Dynamic Fork Fork"]
-tags: ["教程", "完整支持改造", "conductor", "conductor DAG", "hello word", "workflow operators", "Do While Dynamic", "Dynamic Fork Fork"]
-description: "conductor 系列入门指南 1. 为什么需要 conductor"
+title: "Conductor DAG 入门指南"
+keywords: ["Netflix Conductor 入门", "DAG 工作流", "微服务编排", "Conductor 工作流定义", "任务编排"]
+tags: ["Conductor", "DAG", "工作流引擎"]
+description: "Netflix Conductor是一个微服务编排引擎，本教程从入门开始介绍Conductor DAG的搭建、任务定义和工作流编排的完整用法。"
 categories: ["code"]
-heading: "conductor DAG 的完整支持改造(1)-入门指南"
 date: "2023-03-17T06:17:45.498Z"
 ---
 ## conductor 系列入门指南

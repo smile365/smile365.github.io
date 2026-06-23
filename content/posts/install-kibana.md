@@ -1,10 +1,10 @@
 ---
-title: "install-kinaba"
-keywords: ["教程", "install kinaba", "kibana", "elasticsearch", "install"]
-tags: ["教程", "install kinaba", "kibana", "elasticsearch"]
-description: "参考 - kibana配置elasticsearch密码"
+title: "Docker安装Kibana教程"
+heading: "Docker安装Kibana并配置Elasticsearch密码"
+keywords: ["Kibana Docker安装", "Kibana配置Elasticsearch", "Elasticsearch密码配置", "Kibana容器部署", "ELK安装教程"]
+tags: ["Kibana", "Elasticsearch", "Docker"]
+description: "使用Docker快速安装Kibana并配置Elasticsearch访问密码，搭建ELK日志分析平台的完整步骤。"
 categories: ["code"]
-heading: "install-kinaba"
 date: "2022-07-22T10:31:21.628Z"
 ---
 ```bash

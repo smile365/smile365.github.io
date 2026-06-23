@@ -1,10 +1,10 @@
 ---
-title: "sqlite简洁教程"
-keywords: ["教程", "mysql", "python", "linux", "简洁", "打开 文件", "用什么软件打开 文件", "sqlite"]
-tags: ["教程", "mysql", "python", "linux", "简洁", "打开 文件", "用什么软件打开 文件", "sqlite"]
-description: "如何打开.db文件"
+title: "SQLite简洁教程"
+keywords: ["SQLite教程", "打开db文件", "SQLite命令", "数据库转换", "SQLite MySQL迁移"]
+tags: ["SQLite", "数据库", "教程"]
+description: "SQLite简洁教程，介绍如何打开.db文件、常用SQLite命令，以及将SQLite数据迁移到MySQL数据库的方法。"
 categories: ["code"]
-heading: "如何打开.db文件，用什么软件打开.db文件"
+heading: "如何打开.db文件，SQLite使用教程"
 date: "2020-07-17T06:18:32.125Z"
 ---
 sqlite数据库简洁，仅仅有一个c文件，方便嵌入大多数语言或者嵌入式设备。

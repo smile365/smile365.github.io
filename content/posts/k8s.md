@@ -1,10 +1,9 @@
 ---
-title: "k8s"
-keywords: ["教程", "搭建", "k8s", "kubesphere", "kk", "kubernetes", "bash yum install"]
-tags: ["教程", "搭建", "k8s", "kubesphere", "kk", "kubernetes"]
-description: "使用 kubesphere 的 kk 安装 kubernetes"
+title: "搭建K8s集群"
+keywords: ["K8s搭建", "Kubernetes安装", "KubeSphere教程", "CentOS K8s集群", "KubeKey"]
+tags: ["Kubernetes", "K8s", "KubeSphere", "容器化"]
+description: "使用KubeKey在CentOS上快速搭建Kubernetes集群和KubeSphere的详细步骤。"
 categories: ["code"]
-heading: "搭建 k8s"
 date: "2022-10-27T02:16:05.490Z"
 ---
 1. 使用清华源

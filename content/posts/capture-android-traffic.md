@@ -1,8 +1,8 @@
 ---
-title: "2021年如何对安卓app抓包教程"
-keywords: ["教程", "对安卓 抓包", "app", "root", "Charles", "VirtualXposed", "APK", "pem", "Android app", "Charles wireshark Fiddler"]
-tags: ["教程", "对安卓 抓包", "app", "root", "Charles", "VirtualXposed", "APK", "pem"]
-description: "对 Android app 抓包，主要解决 APP 验证 https 整书问题。"
+title: "安卓App抓包教程"
+keywords: ["安卓抓包", "Android HTTPS抓包", "Charles抓包教程", "APK逆向", "root抓包", "VirtualXposed"]
+tags: ["抓包", "Android", "Charles"]
+description: "详细介绍各种安卓App抓包方法，包括非root环境使用VirtualXposed、APK逆向绕过HTTPS验证以及root手机的终极方案。"
 categories: ["code"]
 heading: "2021年如何对安卓app抓包教程"
 date: "2021-03-02T02:06:59.414Z"

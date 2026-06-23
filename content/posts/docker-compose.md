@@ -1,10 +1,9 @@
 ---
-title: "docker-compose 使用教程"
-keywords: ["教程", "pip", "docker compose", "docker compose plugin", "install using the", "repository", "bash", "docker", "Docker Desktop", "compose"]
-tags: ["教程", "pip", "docker compose", "docker compose plugin", "install using the", "repository", "bash", "docker"]
-description: "Docker-Compose"
+title: "Docker Compose 安装使用"
+keywords: ["Docker Compose 安装", "docker-compose-plugin", "Docker 镜像加速器", "容器编排教程", "pip 安装 Compose"]
+tags: ["Docker", "Docker Compose", "容器编排"]
+description: "详细介绍Docker Compose的三种安装方式（插件安装、独立安装和Docker Desktop），以及镜像加速器的配置方法。"
 categories: ["code"]
-heading: "docker-compose 使用教程"
 date: "2022-04-13T09:46:03.580Z"
 ---
 ## 前言

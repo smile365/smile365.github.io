@@ -1,10 +1,9 @@
 ---
-title: "春节"
-keywords: ["教程", "code", "it", "春节", "spring", "day"]
-tags: ["教程", "code", "it", "春节"]
-description: "九寨沟、色达、稻城距离稍远交通不便，5天时间完全不够玩。退而求其次去成都、眉山、乐山看看也不错。"
+title: "春节游四川攻略"
+keywords: ["春节旅游", "四川景点", "成都旅游攻略", "青城山", "乐山大佛"]
+tags: ["春节", "四川", "旅游"]
+description: "春节前游四川，盘点成都、眉山、乐山等值得一去的城市景点和当地美食，5天时间如何规划行程。"
 categories: ["code"]
-heading: "春节"
 date: "2019-01-15T04:33:30.196Z"
 draft: "true"
 series: ["blog"]

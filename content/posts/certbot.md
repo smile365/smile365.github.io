@@ -1,10 +1,9 @@
 ---
-title: "cerbot-on-debian11"
-keywords: ["教程", "cerbot on debian11", "certbot", "openresty"]
-tags: ["教程", "cerbot on debian11", "certbot", "openresty"]
-description: "打开 certbot 官网，按照教程安装。"
+title: "Debian 11安装Certbot教程"
+keywords: ["Certbot安装教程", "Debian 11 SSL证书", "Let's Encrypt", "Nginx SSL配置", "snap安装certbot"]
+tags: ["Certbot", "SSL", "Debian"]
+description: "在Debian 11上通过snap安装Certbot，配合Nginx或OpenResty自动获取和配置Let's Encrypt免费SSL证书。"
 categories: ["code"]
-heading: "cerbot-on-debian11"
 date: "2023-05-31"
 draft: "true"
 ---

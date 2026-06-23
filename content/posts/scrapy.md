@@ -1,10 +1,9 @@
 ---
-title: "scrapy学习"
-keywords: ["阅读", "scrapy", "redis", "学习", "portia", "Python3", "scrapy cluster", "Cuckoo Filter"]
-tags: ["阅读", "scrapy", "redis", "学习", "portia", "Python3", "scrapy cluster", "Cuckoo Filter"]
-description: "用到的参考资料 - Python3网络爬虫开发实战 - Scrapy0.24 文档 - Scrapy源码分析 - 漫谈：机器学习中距离和相似性度量方法 - 路径相似性描述 -."
+title: "scrapy 学习笔记"
+keywords: ["Scrapy 学习教程", "Python 爬虫框架", "Scrapy 入门", "Scrapy 源码分析", "分布式爬虫"]
+tags: ["scrapy", "Python", "爬虫"]
+description: "Scrapy 爬虫框架学习笔记与参考资料汇总，涵盖基础入门到进阶实战的完整路径。"
 categories: ["read"]
-heading: "scrapy学习"
 date: "2018-07-23T02:09:26.639Z"
 draft: "true"
 series: ["blog"]

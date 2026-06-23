@@ -1,10 +1,9 @@
 ---
-title: "deepin 深度操作系统配置指南"
-keywords: ["教程", "ssh", "深度操作系统配置", "deepin", "xrdp", "sshd", "Windows"]
-tags: ["教程", "ssh", "深度操作系统配置", "deepin", "xrdp", "sshd", "Windows"]
-description: "版本信息 - deepin: 20.9"
+title: "Deepin 深度操作系统配置"
+keywords: ["Deepin 配置指南", "深度操作系统", "SSH 服务开启", "xrdp 远程桌面", "Linux 常用软件"]
+tags: ["Deepin", "SSH", "Linux桌面"]
+description: "介绍Deepin 20.9操作系统中SSH远程连接和xrdp远程桌面的开启方法，帮助用户快速配置国产Linux操作系统。"
 categories: ["code"]
-heading: "deepin 深度操作系统配置指南"
 date: "2023-08-25T19:16:05.490Z"
 ---
 ## 版本信息

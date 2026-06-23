@@ -1,10 +1,10 @@
 ---
-title: "Ubuntu 下使用镜像快速安装 nodejs"
-keywords: ["教程", "下使用镜像快速安装", "秒级别安装", "升级到", "nodejs", "npm", "Ubuntu", "data", "LTS", "install"]
-tags: ["教程", "下使用镜像快速安装", "秒级别安装", "升级到", "nodejs", "npm", "Ubuntu", "data"]
-description: "升级 nodejs 到最新版，install-latest-nodejs-on-ubuntu"
+title: "Ubuntu快速安装Node.js"
+heading: "Ubuntu使用镜像快速安装升级Node.js到最新版"
+keywords: ["Ubuntu安装Node.js", "Node.js升级最新版", "npm镜像源配置", "n模块使用教程", "Node.js版本管理"]
+tags: ["Node.js", "Ubuntu", "npm"]
+description: "在Ubuntu系统上使用镜像源快速安装和升级Node.js到最新版本，同时配置npm国内镜像加速的完整方法。"
 categories: ["code"]
-heading: "Ubuntu秒级别安装和升级到nodejs最新版"
 date: "2021-03-18T14:38:35.115Z"
 ---
 Ubuntu 18.04.4 LTS 默认安装的 nodejs 的版本是 v12.21.0 ，此版本比较老，不支持某些特殊的语法，比如 `data?.value` ，以下是快速安装最新版的方法。

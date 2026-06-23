@@ -1,10 +1,9 @@
 ---
-title: "the-simple-things-in-investment"
-keywords: ["生活", "the simple things", "in investment", "in investment ##", "the", "simple", "things"]
-tags: ["生活", "the simple things", "in investment"]
-description: "读《投资中最简单的事》有感 investment"
+title: "投资中最简单的事"
+keywords: ["投资中最简单的事", "价值投资", "公司分析", "选股方法", "投资理念"]
+tags: ["投资", "理财"]
+description: "读《投资中最简单的事》，分享如何通过分析公司核心业务、财务状况和行业前景来做出明智的投资决策。"
 categories: ["life"]
-heading: "the-simple-things-in-investment"
 date: "2021-12-11T09:21:37.904Z"
 ---
 ## 看一家公司看什么？

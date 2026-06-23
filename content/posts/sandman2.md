@@ -1,10 +1,9 @@
 ---
-title: "sandman2"
-keywords: ["教程", "MySQL", "sandman2", "RESTful API", "mysql to RESTful", "api sandman2", "MySQL PostgreSQL Oracle", "Microsoft SQL Server", "sandman2 sandman2"]
-tags: ["教程", "MySQL", "sandman2", "RESTful API", "mysql to RESTful", "api sandman2", "MySQL PostgreSQL Oracle", "Microsoft SQL Server"]
-description: "在 python3.6 下比较稳定"
+title: "sandman2 使用教程"
+keywords: ["sandman2 教程", "数据库转 RESTful", "MySQL 自动生成 API", "Python RESTful", "零代码生成 API"]
+tags: ["sandman2", "RESTful API", "数据库"]
+description: "sandman2 自动从现有数据库生成 RESTful API 服务，无需编写一行代码，支持 MySQL、PostgreSQL 等多种数据库。"
 categories: ["code"]
-heading: "sandman2"
 date: "2022-03-22T08:41:29.892Z"
 ---
 [sandman2](https://github.com/jeffknupp/sandman2) 使用教程

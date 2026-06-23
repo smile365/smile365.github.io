@@ -1,10 +1,9 @@
 ---
 title: "微笑表情文字对照"
-keywords: ["教程", "code", "it", "微笑表情文字对照", "OK", "wechat", "emoji"]
-tags: ["教程", "code", "it", "微笑表情文字对照", "OK"]
-description: "微笑表情文字对照（按照7.0.3版本对照如下）"
+keywords: ["微信表情文字", "微信表情代码", "Emoji文字对照表", "微信表情输入"]
+tags: ["微信表情", "Emoji", "表情对照"]
+description: "微信表情文字代码对照表，按照7.0.3版本整理，支持通过输入文字代码快速发送微信表情。"
 categories: ["code"]
-heading: "微笑表情文字对照"
 date: "2019-03-13T04:49:01.384Z"
 draft: "true"
 series: ["blog"]

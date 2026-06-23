@@ -1,10 +1,9 @@
 ---
-title: "使用zmirror实现Twitter的全站镜像"
-keywords: ["教程", "nginx", "centos", "zmirror", "Twitter", "ssl", "Python3"]
-tags: ["教程", "nginx", "centos", "zmirror", "Twitter", "ssl", "Python3"]
-description: "自己搭建谷歌或者twitter镜像站的方法教程"
+title: "使用zmirror实现Twitter全站镜像"
+keywords: ["Twitter镜像搭建", "zmirror使用教程", "Nginx反向代理", "自建镜像站", "acme.sh SSL"]
+tags: ["zmirror", "Twitter", "镜像"]
+description: "使用zmirror、Nginx和acme.sh在CentOS上搭建Twitter全站镜像，包含SSL证书配置和Python环境安装的完整教程。"
 categories: ["code"]
-heading: "使用zmirror实现Twitter的全站镜像"
 date: "2020-06-29T01:34:31.411Z"
 ---
 使用zmirror实现Twitter的全站镜像

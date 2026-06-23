@@ -1,8 +1,8 @@
 ---
-title: "wordpress"
-keywords: ["教程", "在 系统上安装", "WordPress", "WooCommerce", "debian 12", "AI", "opencode", "Woo", "wordpress ##", "All in One"]
-tags: ["教程", "在 系统上安装", "WordPress", "WooCommerce", "debian 12", "AI", "opencode", "Woo"]
-description: "基于 WordPress 7.0+woocommerce+Flatsome 搭建电商独立站，使用 API 管理商品。"
+title: "在Debian12安装WordPress7"
+keywords: ["WordPress7安装", "WooCommerce独立站", "Debian12建站", "电商网站搭建", "WordPress WooCommerce"]
+tags: ["WordPress", "WooCommerce", "Debian"]
+description: "在Debian 12系统上安装WordPress 7和WooCommerce插件，配置Flatsome主题并导入Etsy商品数据，搭建功能完善的电商独立站。"
 categories: ["code"]
 heading: "在 debian 12 系统上安装 WordPress 7"
 date: "2026-06-15T06:38:08.050Z"

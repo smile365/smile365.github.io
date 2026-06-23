@@ -1,10 +1,9 @@
 ---
 title: "使用 sealos 快速安装 k8s"
-keywords: ["教程", "使用 快速安装", "sealos", "k8s", "sealos1667360958", "vanus", "checker", "bullseye", "k8s ##"]
-tags: ["教程", "使用 快速安装", "sealos", "k8s", "sealos1667360958", "vanus", "checker", "bullseye"]
-description: "sealos 安装和使用教程"
+keywords: ["sealos 安装 k8s", "快速部署 Kubernetes", "sealos 教程", "K8s 集群搭建", "sealos 使用指南"]
+tags: ["sealos", "k8s", "Kubernetes"]
+description: "使用 sealos 快速安装 Kubernetes 集群并部署 vanus 的完整教程，适合初学者快速上手。"
 categories: ["code"]
-heading: "使用 sealos 快速安装 k8s"
 date: "2022-11-02T02:35:11.591Z"
 ---
 ## 前言

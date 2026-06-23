@@ -1,10 +1,9 @@
 ---
-title: "如何使用 arthas 分析 java oom 问题"
-keywords: ["教程", "INFO", "ps", "java", "使用 分析 问题", "arthas", "java oom", "OOMKilled"]
-tags: ["教程", "INFO", "ps", "java", "使用 分析 问题", "arthas", "java oom", "OOMKilled"]
-description: "一个 spring boot 的容器经常被重启。原因是 OOMKilled。"
+title: "Arthas分析Java OOM"
+keywords: ["Arthas分析OOM", "Java内存溢出排查", "Kubernetes OOMKilled", "Java堆转储分析", "Arthas教程"]
+tags: ["Arthas", "Java", "OOM"]
+description: "使用Arthas工具分析Spring Boot容器因OOMKilled被重启的问题，包括安装部署、堆转储导出和调用链追踪的完整流程。"
 categories: ["code"]
-heading: "如何使用 arthas 分析 java oom 问题"
 ---
 # 如何使用 arthas 分析 java oom 问题
 
@@ -42,7 +41,7 @@ Name:             mypodname-66dc444b55-52ckf
 curl -O https://arthas.aliyun.com/arthas-boot.jar
 java -jar arthas-boot.jar
 
-# 提示“找不到 java 程序”错误
+# 提示"找不到 java 程序"错误
 [INFO] JAVA_HOME: /usr/local/openjdk-11
 [INFO] arthas-boot version: 3.7.1
 [INFO] Can not find java process. Try to run `jps` command lists the instrumented Java HotSpot VMs on the target system.
@@ -179,7 +178,3 @@ redefine /tmp/com/netflix/conductor/core/utils/ParametersUtils.class
 
 
 参考[Arthas实践--jad/mc/redefine线上热更新一条龙](https://github.com/alibaba/arthas/issues/537)
-
-
-
-

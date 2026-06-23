@@ -1,10 +1,10 @@
 ---
-title: "kvm"
-keywords: ["教程", "IPMI", "kvm", "WOL", "bios", "Interface", "n1", "USB", "kvm ##", "Intelligent Platform Management"]
-tags: ["教程", "IPMI", "kvm", "WOL", "bios", "Interface", "n1", "USB"]
-description: "如何给普通 PC 实现 ipmi 功能"
+title: "KVM远程管理方案"
+keywords: ["KVM远程管理", "IPMI功能", "远程控制电脑", "PiKVM", "树莓派远程管理"]
+tags: ["KVM", "IPMI", "远程管理"]
+description: "介绍如何利用开源方案给普通PC实现类似IPMI的远程KVM管理功能，支持远程开关机、BIOS操作和操作系统安装。"
 categories: ["code"]
-heading: "kvm"
+heading: "给普通PC实现IPMI远程管理功能"
 date: "2023-10-28T08:47:11.754Z"
 ---
 ## 前言
@@ -58,43 +58,3 @@ USB 接口 <----> 软件模拟出 USB HUB （任意类型的 USB 设备）----
 - 按开机键
 - [WOL](https://zhouyuqian.com/2020/04/04/Linux-Wake-on-Lan/) 信号（需主板支持，大部分主板）
 - IPMI（需主板支持，仅服务器主板）
-- 改装电脑开机键，使用设备接管电脑电源接口
-- 使用 KVM 方案（主板需含有 OTG 功能的 usb 接口）
-
-## 目前遇到的问题
-
-1. 忘记交电费，停电。电恢复后电脑不开机。
-bios 设置来电开机。
-
-2. 电脑死机，或者误敲命令关机。
-bios 设置周期性开机，如每天早上 10 点，需要等一天。
-
-3. 死机，无法进入控制台，需要重启。
-
-4. 需要重新安装系统。
-
-
-
-
-
-
-
-
-
-## 参考文档
-- [基于PiKVM制作M1 Mac Mini KVM](https://blog.cyyself.name/pikvm-m1-mac-mini/)
-- [open-ip-kvm](https://github.com/Nihiue/open-ip-kvm)
-- [使用 Orangepi Zero 构建一个低成本的 Pikvm](https://www.bilibili.com/read/cv21169636/)
-- [打造普通PC拥有服务器IPMI硬件级别的远程运维方案 PI KVM 硬件级远程控制](https://github.com/toss-a/pikvm-armbian/blob/master/README-zh-CN.MD)
-- [50元自制IP-KVM兼容4G LTE -视频](https://www.bilibili.com/video/BV1dc411N7zh)
-- [远程开机？10块钱搞定-2分 20 秒处](https://www.bilibili.com/video/BV1JX4y1V7mi)
-- [通过USB远程唤醒电脑，无需WOL支持](https://www.bilibili.com/video/BV1mz4y1r7EL)
-
-
-
-
-
-
-
-
-

@@ -1,10 +1,9 @@
 ---
-title: "elasticsearch简单入门教程"
-keywords: ["教程", "centos", "简单", "elasticsearch", "elasticsearch py", "elasticsearch dsl", "number", "of", "elasticsearch7", "python"]
-tags: ["教程", "centos", "简单", "elasticsearch", "elasticsearch py", "elasticsearch dsl", "number", "of"]
-description: "在centos安装完elasticsearch7之后使用python操作es。"
+title: "Elasticsearch入门教程"
+keywords: ["Elasticsearch入门教程", "ES Python客户端", "elasticsearch-dsl", "ES创建索引", "ES聚合查询", "CentOS安装Elasticsearch7"]
+tags: ["Elasticsearch", "Python", "搜索引擎", "CentOS", "Kibana"]
+description: "从零开始学习Elasticsearch 7，涵盖索引创建、mapping定义、数据写入和Python客户端操作，快速上手搜索引擎开发。"
 categories: ["code"]
-heading: "elasticsearch简单入门教程"
 date: "2020-05-09T06:42:21.580Z"
 ---
 按照官方文档在centos安装完[elasticsearch7](https://www.elastic.co/guide/en/elasticsearch/reference/current/rpm.html)之后.

@@ -1,10 +1,9 @@
 ---
-title: "opa 策略引擎教程"
-keywords: ["教程", "策略引擎", "Rego", "OPA", "Input", "Output", "Datalog", "Open Policy Agent", "golang"]
-tags: ["教程", "策略引擎", "Rego", "OPA", "Input", "Output", "Datalog", "Open Policy Agent"]
-description: "Open Policy Agent (OPA)是一个使用 golang 语言实现的开源通用策略引擎。"
+title: "OPA 策略引擎教程"
+keywords: ["Open Policy Agent教程", "OPA策略引擎", "Rego语法", "OPA入门", "声明式策略"]
+tags: ["OPA", "策略引擎", "Rego", "golang"]
+description: "Open Policy Agent（OPA）是一套开源通用策略引擎，本文介绍其核心概念、Rego 语法及在线 Playground 的使用方法。"
 categories: ["code"]
-heading: "opa 策略引擎教程"
 date: "2023-03-23T02:40:43.024Z"
 ---
 ## 前言
@@ -147,6 +146,7 @@ shell_accessible[server.id] {
 
 
 
+
 ## 安装 OPA
 使用官方镜像仓库 [openpolicyagent/opa](https://hub.docker.com/r/openpolicyagent/opa/)
 
@@ -191,7 +191,7 @@ resutl {
 
  2.  使用 input 数据验证策略
 
-路径为：`/v1/data/{包名（把“.”替换成"/")}/{default 描述的部分}`
+路径为：`/v1/data/{包名（把"。"替换成"/")}/{default 描述的部分}`
 > 使用步骤 1 中的 `package`  来定位使用哪个 policy
 ```bash
 curl --request POST \
@@ -215,7 +215,7 @@ curl --request POST \
 				"elephant",
 				"peacock"
 			]
-			}
+		}
 	}
 }'
 ```
@@ -226,6 +226,7 @@ curl --request POST \
 	"result": false
 }
 ```
+
 
 
 

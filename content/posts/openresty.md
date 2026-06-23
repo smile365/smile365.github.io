@@ -1,10 +1,9 @@
 ---
-title: "openresty 可运行 Lua 脚本的 nginx 高性能服务器"
-keywords: ["教程", "nginx", "openresty", "Lua", "usr", "local", "conf", "nginx vi"]
-tags: ["教程", "nginx", "openresty", "Lua", "usr", "local", "conf", "nginx vi"]
-description: "前言 openresty 比 nginx 增加了很多功能。"
+title: "OpenResty安装配置教程"
+keywords: ["OpenResty安装", "Nginx Lua脚本", "高性能Web服务器", "Lua动态转发", "OpenResty配置教程"]
+tags: ["OpenResty", "Nginx", "Lua"]
+description: "OpenResty是基于Nginx的高性能Web平台，支持Lua脚本扩展，本文详细介绍安装配置和动态端口转发实战。"
 categories: ["code"]
-heading: "openresty 可运行 Lua 脚本的 nginx 高性能服务器"
 date: "2023-03-10T07:23:59.105Z"
 ---
 ## 前言

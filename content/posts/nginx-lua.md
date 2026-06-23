@@ -1,8 +1,8 @@
 ---
-title: "nginx-lua"
-keywords: ["教程", "nginx", "lua", "nginx lua", "openresty + lua", "c4o012s", "ip+", "OpenResty", "nginx lua ##"]
-tags: ["教程", "nginx", "lua", "nginx lua", "openresty + lua", "c4o012s", "ip+", "OpenResty"]
-description: "前言 每次部署网站或者服务很麻烦，是否可以通过 openresty + lua 脚本实现通过域名反向代理任意端口呢？"
+title: "Nginx + Lua 动态端口转发"
+keywords: ["Nginx Lua教程", "OpenResty动态转发", "Lua端口转发", "Nginx反向代理", "泛域名解析"]
+tags: ["Nginx", "Lua", "OpenResty", "端口转发"]
+description: "使用 OpenResty（Nginx + Lua）实现基于域名的动态端口转发，简化多服务部署的反向代理配置。"
 categories: ["code"]
 heading: "在 nginx 中使用 lua 实现动态端口转发"
 date: "2023-03-03T03:50:21.605Z"

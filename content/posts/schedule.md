@@ -1,10 +1,9 @@
 ---
-title: "定义定时任务框架优劣势对比"
-keywords: ["教程", "Timer", "Elastic Job", "PowerJob", "CRON", "Spring Task", "Spring", "Scheduled", "node schedule", "schedule"]
-tags: ["教程", "Timer", "Elastic Job", "PowerJob", "CRON", "Spring Task", "Spring", "Scheduled"]
-description: "单机定时任务 ### 1. Spring Task 通过 Spring 提供的 @Scheduled 注解即可定义定时任务."
+title: "定时任务框架优劣势对比"
+keywords: ["定时任务框架对比", "Spring Task", "Elastic Job", "PowerJob", "XXL-JOB 优缺点"]
+tags: ["定时任务", "框架对比", "分布式调度"]
+description: "对比分析 Spring Task、Elastic-Job、XXL-JOB、PowerJob 等定时任务框架的优劣势，助你选型参考。"
 categories: ["code"]
-heading: "定义定时任务框架优劣势对比"
 date: "2022-12-30T14:40:41.101Z"
 ---
 ## 单机定时任务

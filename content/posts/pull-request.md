@@ -1,10 +1,9 @@
 ---
-title: "如何为 Github 开源项目贡献代码"
-keywords: ["教程", "Github", "为 开源项目贡献代码", "pr", "Pull Request", "clone", "fork", "push", "pull", "request"]
-tags: ["教程", "Github", "为 开源项目贡献代码", "pr", "Pull Request", "clone", "fork", "push"]
-description: "什么是 pr（pull request） 参考 Pull Request 的命令行管理"
+title: "为 GitHub 开源项目贡献代码"
+keywords: ["GitHub Pull Request 教程", "开源项目贡献代码", "Git fork PR 流程", "GitHub 协作开发"]
+tags: ["GitHub", "Pull Request", "开源"]
+description: "通过 fork、clone、关联上游仓库和提交 Pull Request 的完整流程，学习如何为 GitHub 开源项目贡献代码。"
 categories: ["code"]
-heading: "如何为 Github 开源项目贡献代码"
 date: "2022-04-15T11:25:18.427Z"
 ---
 ## 什么是 pr（pull request）
@@ -57,51 +56,3 @@ upstream	git@github.com:someone/demo.git (push)
 切换到 develop 分支，并跟踪远程分支。
 
 git checkout --track origin/develop
-
-> `--track` 参数的作用是，下次 push 的时候直接推送到与你关联的远程分支上，不用再次指定了。否则会推送到 HEAD 指定的分支上。
-> 也可以直接用 `-t` 参数
-
-
-当前也许你 clone 之后好几天没动代码，此时原作者仓库可能已经有变动了，如果想拉取原作者的变动，那我们可以使用 `git fetch upstream` 命令
-
-使用 `git` 终端切换分支需要敲很多命令，推荐使用 gui 程序拉取和切换分支，比如 `sourcetree`。
-
-## 四、修改代码并提交
-
-```
-git add -A
-git commit -m “你提交的说明”
-git push 
-# 如果 checkout 的时候没有 -t 参数，那么 push 的时候需要指定远程分支名称 
-# git push origin develop
-```
-
-## 五、填写 pr 的说明
-
- 到 github 项目的仓库地址即可查看到有 pr 可以填写，一般需要填写为什么改动，改动了哪些地方等信息，填写完之后保存，原作者即可收到合并提交的请求，如果他同意，那么你的代码将会合并。
-
-## 六、仅提交部分修改到上游仓库
-
-
-
-```
-# 先 commit && push
-git add xxx xxx2 && commit -m "xxx" && git push
-# 切换分之前先与远程分之同步代码
-git fetch upstream master
-git checkout -b newFeatureBranch upstream/master
-git cherry-pick a3e62375 
-git commit -m “cherry-pick test”
-# 有可能有冲突，解决冲突。
-git push origin newFeatureBranch
-# 然后在 GitHub 页面上提交 pr
-```
-
-
-参考[github pr提交单一或指定文件到远程仓库的方法](https://www.jeeinn.com/2019/01/631/)
-
-## 参考文档 
-- [github中origin和upstream的区别](https://blog.csdn.net/liuchaoxuan/article/details/80656145)
-- [如何给开源项目贡献代码](https://gist.github.com/zxhfighter/62847a087a2a8031fbdf)
-- [【翻译】如何为 Github 开源项目贡献代码？](https://github.com/shaodahong/dahong/issues/20)
-- [github fork仓库发起Pull Request合入全流程](https://juejin.cn/post/6932300709987614728)

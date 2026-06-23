@@ -1,10 +1,9 @@
 ---
 title: "也许是最简单的文本相似度算法"
-keywords: ["生活", "text", "similarity", "algorithm"]
-tags: ["生活"]
-description: "也许是最简单的文本相似度算法"
+keywords: ["文本相似度算法", "文本比较", "字符串相似度", "余弦相似度"]
+tags: ["算法", "文本相似度"]
+description: "介绍一种最简单的文本相似度算法实现，适用于快速比较两段文本之间的相似程度。"
 categories: ["life"]
-heading: "也许是最简单的文本相似度算法"
 date: "2019-09-24T08:15:25.156Z"
 draft: "true"
 ---

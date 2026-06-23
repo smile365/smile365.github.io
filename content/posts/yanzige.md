@@ -1,10 +1,9 @@
 ---
-title: "yanzige"
-keywords: ["生活", "燕子歌", "yanzige"]
-tags: ["生活", "燕子歌", "yanzige"]
-description: "眼演烟盐颜艳验宴晏，自子字紫滋，歌哥个各格隔割"
+title: "燕子歌"
+keywords: ["燕子歌", "彦子哥", "雁子哥", "中文谐音", "趣味文字游戏"]
+tags: ["谐音", "文字", "趣味"]
+description: "彦子哥、燕子歌、雁子哥，一场中文同音字的趣味文字游戏，感受汉语的韵律之美。"
 categories: ["life"]
-heading: "燕子歌"
 date: "2020-05-22T08:10:05.694Z"
 ---
 彦子哥

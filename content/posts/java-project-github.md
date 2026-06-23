@@ -1,10 +1,9 @@
 ---
-title: "github上非常优秀的java项目推荐"
-keywords: ["教程", "Linux", "github", "Android", "java", "k star", "Linux Deploy", "Shizuku", "WxJava", "k star WxJava"]
-tags: ["教程", "Linux", "github", "Android", "java", "k star", "Linux Deploy", "Shizuku"]
-description: "Github 上有没有优秀的 Java 项目推荐？java-project-github"
+title: "Github优秀Java项目推荐"
+keywords: ["Java开源项目", "Github优秀项目", "Java项目推荐", "WxJava", "eladmin", "Shizuku"]
+tags: ["Java", "Github", "开源项目", "Android"]
+description: "推荐Github上4个优秀的Java开源项目，涵盖微信开发SDK、后台管理系统、Linux部署等实用工具。"
 categories: ["code"]
-heading: "github上4个非常优秀的java项目推荐"
 date: "2020-12-25T09:57:33.786Z"
 ---
 #### 1. WxJava ：22k star

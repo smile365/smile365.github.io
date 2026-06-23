@@ -1,10 +1,10 @@
 ---
-title: "git从远程仓库的恢复已经删除的文件"
-keywords: ["教程", "git恢复被删除的文件", "恢复被删除的文件", "git", "git status", "commit", "id", "git log 2", "git checkout e262899", "recover"]
-tags: ["教程", "git恢复被删除的文件", "恢复被删除的文件", "git", "git status", "commit", "id", "git log 2"]
-description: "git recover deleted file from origin branch"
+title: "从远程仓库恢复已删除的Git文件"
+keywords: ["git恢复删除文件", "git checkout", "git文件恢复", "git版本回退", "git reset"]
+tags: ["Git", "文件恢复", "版本控制"]
+heading: "Git恢复已删除文件的操作方法"
+description: "使用 git checkout 命令从旧版本中恢复已被删除的文件，详细说明如何找到正确的 commit 版本号来恢复文件并提交到远程仓库。"
 categories: ["code"]
-heading: "git恢复被删除的文件"
 date: "2020-04-23T05:16:32.739Z"
 ---
 使用命令查看工作区情况`git status`：

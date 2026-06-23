@@ -1,8 +1,8 @@
 ---
-title: "有哪些十分钟就能学会并终生受用的生活技能？"
-keywords: ["生活", "chrome", "Anything to QRCode", "learn", "minutes"]
-tags: ["生活", "chrome", "Anything to QRCode"]
-description: "打开chrome浏览器，依次点击设置-->密码,打开 提示保存密码 和 自动登录"
+title: "十分钟学会的生活技能"
+keywords: ["十分钟学会的生活技能", "Chrome技巧", "微信扫码查快递", "效率工具", "生活小窍门"]
+tags: ["生活技能", "Chrome", "效率"]
+description: "分享几个十分钟就能学会的生活小技巧，包括Chrome自动保存密码、二维码插件传网页和微信扫码查快递等实用功能。"
 categories: ["life"]
 heading: "有哪些十分钟就能学会并终生受用的生活技能？"
 date: "2020-01-16T10:39:12.336Z"

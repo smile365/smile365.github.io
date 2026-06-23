@@ -1,8 +1,8 @@
 ---
-title: "es-ILM 按条件自动删除或归档 es 中的索引"
-keywords: ["教程", "es", "kibana", "policy", "age", "priority", "es ILM", "ILM", "index lifecycle management"]
-tags: ["教程", "es", "kibana", "policy", "age", "priority", "es ILM", "ILM"]
-description: "index lifecycle management (ILM)"
+title: "ES ILM索引生命周期管理"
+keywords: ["ES ILM", "索引生命周期管理", "ES自动删除索引", "ES索引策略", "Elasticsearch数据归档", "Kibana ILM配置"]
+tags: ["Elasticsearch", "ILM", "索引生命周期", "Kibana"]
+description: "学习Elasticsearch索引生命周期管理（ILM）的配置方法，实现按条件自动删除或归档过期索引，高效管理ES存储空间。"
 categories: ["code"]
 heading: "es-ILM 按条件自动删除或归档 es 中的索引"
 date: "2023-02-03T09:02:37.492Z"

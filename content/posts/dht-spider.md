@@ -1,10 +1,9 @@
 ---
-title: "dht-spider"
-keywords: ["教程", "centos", "dht spider", "win10", "wsl", "PowerShell", "mongodb", "vim", "dht spider win10", "dht"]
-tags: ["教程", "centos", "dht spider", "win10", "wsl", "PowerShell", "mongodb", "vim"]
-description: "win10新系统(版本号19041)一般自带 wsl，老系统需要自己安装。 安装 WSL,以管理员身份打开 PowerShell 并运行："
+title: "DHT 种子爬虫搭建"
+keywords: ["DHT 网络爬虫", "种子爬虫搭建", "Win10 WSL 配置", "CentOS 阿里镜像源", "MongoDB 安装配置"]
+tags: ["DHT", "爬虫", "WSL"]
+description: "在Windows 10 WSL子系统中搭建DHT网络种子爬虫，配置CentOS阿里镜像源并安装MongoDB数据库运行环境。"
 categories: ["code"]
-heading: "dht-spider"
 date: "2021-09-26T12:52:51.353Z"
 ---
 win10新系统(版本号19041)一般自带 wsl，老系统需要自己安装。

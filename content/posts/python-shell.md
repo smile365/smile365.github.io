@@ -1,10 +1,9 @@
 ---
-title: "python-shell"
-keywords: ["教程", "python shell", "shell", "subprocess", "returncode", "CompletedProcess", "stdout", "text", "python shell ##", "python"]
-tags: ["教程", "python shell", "shell", "subprocess", "returncode", "CompletedProcess", "stdout", "text"]
-description: "os.system 只能执行命令，无法获取执行的结果。并打印输出结果，返回值仅返回是否成功，成功返回 0 ，否则返回非零数字。"
+title: "Python 执行 Shell 命令的四种方法"
+keywords: ["Python 执行 Shell 命令", "subprocess 模块", "os.system 用法", "Python 命令行"]
+tags: ["Python", "Shell", "subprocess"]
+description: "对比 os.system、subprocess.call、subprocess.run 和 subprocess.Popen 四种执行 Shell 命令的方法及适用场景。"
 categories: ["code"]
-heading: "python-shell"
 date: "2022-03-09T14:28:18.324Z"
 ---
 ## 方法一：os.system

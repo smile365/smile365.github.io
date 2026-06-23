@@ -1,10 +1,9 @@
 ---
-title: "树莓派 3b 点亮 led 继电器"
-keywords: ["教程", "树莓派 点亮 继电器", "led", "pinout", "raspberrypi", "3bplus"]
-tags: ["教程", "树莓派 点亮 继电器", "led", "pinout"]
-description: "树莓派 3b+ 点亮 led，继电器。"
+title: "树莓派 3B+ 点亮 LED 继电器"
+keywords: ["树莓派 GPIO 控制", "RPi.GPIO LED 闪烁", "树莓派 3B+ 引脚", "Python GPIO 编程"]
+tags: ["树莓派", "GPIO", "LED"]
+description: "在树莓派 3B+ 上使用 Python RPi.GPIO 库控制 LED 闪烁，包含 GPIO 引脚排列和 BCM 编码模式的教程。"
 categories: ["code"]
-heading: "树莓派 3b 点亮 led 继电器"
 date: "2024-01-10T13:44:20.343Z"
 ---
 ## 前言
@@ -43,6 +42,3 @@ for i in range(5):
 GPIO.cleanup()
 
 ```
-
-
-

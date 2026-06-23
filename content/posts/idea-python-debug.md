@@ -1,10 +1,10 @@
 ---
-title: "使用IntelliJ IDEA进行Python远程调试"
-keywords: ["教程", "idea", "Python", "SSH", "使用 进行 远程调试", "IntelliJ IDEA", "Root pash", "sdk", "debug"]
-tags: ["教程", "idea", "Python", "SSH", "使用 进行 远程调试", "IntelliJ IDEA", "Root pash", "sdk"]
-description: "使用IntelliJ IDEA进行Python远程调试图文配置教程"
+title: "IntelliJ IDEA Python远程调试"
+heading: "使用IntelliJ IDEA进行Python远程调试配置教程"
+keywords: ["IntelliJ IDEA远程调试Python", "IDEA SSH远程开发", "Python远程解释器配置", "IDEA远程调试教程", "Python远程开发"]
+tags: ["IDEA", "Python", "远程调试"]
+description: "图文详解使用IntelliJ IDEA通过SSH配置Python远程解释器，实现远程服务器代码调试的完整配置教程。"
 categories: ["code"]
-heading: "使用IntelliJ IDEA进行Python远程调试"
 date: "2018-08-21T02:43:06.074Z"
 ---
 找到部署配置

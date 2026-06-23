@@ -1,10 +1,9 @@
 ---
-title: "windows使用技巧"
-keywords: ["教程", "code", "it", "Linux", "使用技巧", "windows", "grep C", "dir"]
-tags: ["教程", "code", "it", "Linux", "使用技巧", "windows", "grep C", "dir"]
-description: "类似于Linux 下的grep C:\\> dir /B | findstr /R /C:\"[mp]\""
+title: "Windows使用技巧"
+keywords: ["Windows命令技巧", "CMD别名设置", "Windows findstr", "查看端口占用", "Windows批处理"]
+tags: ["Windows", "CMD", "命令提示符"]
+description: "汇总Windows命令提示符的使用技巧，包括类似Linux grep的findstr命令、端口占用查看和CMD别名设置方法。"
 categories: ["code"]
-heading: "windows使用技巧"
 date: "2018-07-20T09:32:38.774Z"
 draft: "true"
 series: ["blog"]

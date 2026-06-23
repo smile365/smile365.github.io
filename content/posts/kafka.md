@@ -1,10 +1,9 @@
 ---
-title: "centos安装kafka"
-keywords: ["教程", "kafka", "centos", "python", "listeners", "java", "kafka doc", "tar xzf kafka"]
-tags: ["教程", "kafka", "centos", "python", "listeners", "java", "kafka doc", "tar xzf kafka"]
-description: "选择合适的版本，到镜像站下载kafka"
+title: "CentOS安装Kafka"
+keywords: ["CentOS安装Kafka", "Kafka配置", "Kafka教程", "消息中间件", "Kafka Python客户端"]
+tags: ["Kafka", "CentOS", "消息队列", "运维"]
+description: "在CentOS上安装和配置Kafka的完整教程，包含下载、配置listeners、启动测试及Python客户端使用。"
 categories: ["code"]
-heading: "centos安装kafka"
 date: "2018-08-08T09:56:42.699Z"
 ---
 **安装java**

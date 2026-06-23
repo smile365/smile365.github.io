@@ -1,10 +1,9 @@
 ---
-title: "macOS 安装 maven"
-keywords: ["教程", "idea", "maven", "macOS", "m2", "aliyun", "maven idea", "conf", "maven ## macOS"]
-tags: ["教程", "idea", "maven", "macOS", "m2", "aliyun", "maven idea", "conf"]
-description: "macOS 安装 maven idea 自带 maven 但是不方便配置镜像站，建议重新安装。"
+title: "macOS安装Maven"
+keywords: ["macOS安装Maven", "Maven配置阿里云镜像", "settings.xml配置", "brew安装Maven"]
+tags: ["Maven", "macOS", "Java"]
+description: "macOS上使用Homebrew安装Maven及配置阿里云镜像仓库的方法，包括IDEA中Maven不显示的解决方法。"
 categories: ["code"]
-heading: "macOS 安装 maven"
 date: "2022-12-22T02:46:22.351Z"
 ---
 ## macOS 安装 maven
@@ -60,12 +59,12 @@ brew install maven
 </settings>
 ```
  **注意：** 
-- mirrorOf： 不能填写“*” ，否则会遇到依赖找不到的情况，因为 aliyun 不是最全的。填写 central 当 aliyun 没有的时候会从中央仓库下载。
+- mirrorOf： 不能填写"*" ，否则会遇到依赖找不到的情况，因为 aliyun 不是最全的。填写 central 当 aliyun 没有的时候会从中央仓库下载。
 
 3. 检测是否配置成功
 ```bash
 mvn help:effective-settings
-# 看到输出含有“阿里云公共仓库” 即可
+# 看到输出含有"阿里云公共仓库" 即可
 ```
 
 

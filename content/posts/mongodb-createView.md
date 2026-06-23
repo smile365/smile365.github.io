@@ -1,16 +1,16 @@
 ---
-title: "mongodb的视图功能createView"
-keywords: ["教程", "视图功能", "mongodb", "createView", "mongodb createView"]
-tags: ["教程", "视图功能", "mongodb", "createView", "mongodb createView"]
-description: "mongodb-createView"
+title: "MongoDB创建视图createView"
+keywords: ["MongoDB视图", "createView", "MongoDB数据模型", "MongoDB查看", "数据库视图"]
+tags: ["MongoDB", "视图", "createView"]
+description: "通过电子课件审核案例，讲解MongoDB视图功能如何简化复杂的数据模型设计。"
 categories: ["code"]
-heading: "mongodb的视图功能createView"
 date: "2021-01-19T08:49:56.134Z"
 ---
 ![需求](https://gitee.com/smile365/blogimg/raw/master/sxy91/1611046301342.png)
 
 
 一本电子课件有多个媒体资源，每一个资源需要经过很多轮审核，如何设计数据模型？
+
 
 
 

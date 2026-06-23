@@ -1,10 +1,9 @@
 ---
-title: "pikvm-on-orange-pi"
-keywords: ["阅读", "pikvm", "Armbian", "pikvm on orange", "pi", "mm", "etcher", "Zero3", "pi ##", "Orange Pi Zero3"]
-tags: ["阅读", "pikvm", "Armbian", "pikvm on orange", "pi", "mm", "etcher", "Zero3"]
-description: "所需硬件 - Orange Pi Zero3 - TF 卡（8G+）& 读卡器 - 2 条 usb 线，至少有一条是 type-c 接口。"
+title: "Orange Pi安装PiKVM"
+keywords: ["Orange Pi Zero3 PiKVM", "KVM远程控制", "Armbian安装PiKVM", "IP KVM搭建", "Orange Pi远程管理"]
+tags: ["PiKVM", "Orange Pi", "远程控制"]
+description: "在Orange Pi Zero3上安装PiKVM实现硬件级远程控制，包含系统烧录、PiKVM安装配置和GPIO引脚设置教程。"
 categories: ["read"]
-heading: "pikvm-on-orange-pi"
 date: "2023-11-19T08:20:08.237Z"
 ---
 ## 所需硬件

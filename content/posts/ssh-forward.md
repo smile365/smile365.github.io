@@ -1,15 +1,14 @@
 ---
-title: "ssh-forward 端口转发"
-keywords: ["阅读", "SSH", "mysql", "端口转发", "ssh forward", "SSH Port Forwarding", "localhost", "shell", "forward"]
-tags: ["阅读", "SSH", "mysql", "端口转发", "ssh forward", "SSH Port Forwarding", "localhost", "shell"]
-description: "SSH 端口转发**（SSH Port Forwarding），也叫 SSH 隧道（SSH Tunnel），是利用 SSH 协议建立的安全通道，将网络流量从一个端口“转发”到另."
+title: "SSH端口转发教程"
+keywords: ["SSH端口转发", "SSH隧道", "本地转发", "远程转发", "SSH命令", "内网穿透"]
+tags: ["SSH", "端口转发", "网络"]
+description: "SSH端口转发（SSH Tunnel）的详细教程，介绍本地转发、远程转发和动态转发的使用场景与命令示例。"
 categories: ["read"]
-heading: "ssh-forward 端口转发"
 date: "2022-07-22T11:53:10.123Z"
 ---
 ## SSH Port Forwarding
 
-**SSH 端口转发**（SSH Port Forwarding），也叫 SSH 隧道（SSH Tunnel），是利用 SSH 协议建立的安全通道，将网络流量从一个端口“转发”到另一个端口或主机上。
+**SSH 端口转发**（SSH Port Forwarding），也叫 SSH 隧道（SSH Tunnel），是利用 SSH 协议建立的安全通道，将网络流量从一个端口"转发"到另一个端口或主机上。
 
 **主要用途:**
 
@@ -120,8 +119,8 @@ ssh -D 1080 user@ssh服务器
 本地监听端口                           能访问目标服务的网络
 ```
 
-- **本地转发**：服务器是“跳板”，帮你去访问别的机器。
-- **远程转发**：你的 PC 是“服务提供方”，服务器帮你把流量引回来。
+- **本地转发**：服务器是"跳板"，帮你去访问别的机器。
+- **远程转发**：你的 PC 是"服务提供方"，服务器帮你把流量引回来。
 - **动态转发**：目标地址由应用每次动态指定，SSH 服务器作为通用代理。
 
 **注意事项： **

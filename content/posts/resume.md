@@ -1,8 +1,8 @@
 ---
-title: "sxy91com-宋洋葱"
-keywords: ["教程", "宋洋葱", "Mongo", "宋学彦", "MyBatis", "Spring MVC", "Spring", "EasyUI", "IT", "Markdown"]
-tags: ["教程", "宋洋葱", "Mongo", "宋学彦", "MyBatis", "Spring MVC", "Spring", "EasyUI"]
-description: "IT工程师用Markdown语法写简历是什么样子 ### 基本信息"
+title: "IT工程师简历"
+keywords: ["IT工程师简历", "Java开发简历", "技术简历模板", "程序员简历", "Markdown简历"]
+tags: ["简历", "IT工程师", "Java"]
+description: "使用Markdown语法编写的IT工程师个人简历，展示Java软件工程师的技能栈、工作经历和项目经验。"
 categories: ["code"]
 heading: "宋学彦"
 date: "2018-01-30"

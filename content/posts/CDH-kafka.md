@@ -1,10 +1,10 @@
 ---
-title: "CDH-kafka创建主题"
-keywords: ["教程", "Cloudera Manager", "kafka", "topic", "ssh", "创建主题", "基于 安装的 集群", "在 管理界面创建主题", "CDH kafka", "cdh"]
-tags: ["教程", "Cloudera Manager", "kafka", "topic", "ssh", "创建主题", "基于 安装的 集群", "在 管理界面创建主题"]
-description: "大数据平台相关 kafka 工具的使用教程"
+title: "CDH Kafka创建主题教程"
+keywords: ["CDH Kafka创建主题", "Cloudera Manager创建Topic", "Kafka主题管理", "CDH集群运维", "Kafka命令行教程"]
+tags: ["CDH", "Kafka", "大数据"]
+heading: "基于CDH安装的Kafka集群在Cloudera Manager创建Topic"
+description: "介绍如何在CDH 6.2.0的Kafka集群中通过命令行创建主题topic，包含ZooKeeper配置参数的详细获取方法。"
 categories: ["code"]
-heading: "基于cdh安装的kafka集群如何在Cloudera Manager管理界面创建主题topic"
 date: "2020-06-03T03:00:16.652Z"
 ---
 目前官网cdh最新版为：Cloudera Manager 7.1.1，不知道是否提供创建kafka主题的便捷操作界面。
@@ -30,11 +30,11 @@ kafka-topics --create --zookeeper server01:2181/kafka --replication-factor 1 --p
 
 --zookeeper参数怎么来呢
 
-依次在cdh管理界面打开“集群--kafka--配置”，可以看到`/kafka`。
+依次在cdh管理界面打开"集群--kafka--配置"，可以看到`/kafka`。
 
 ![zookeeper-kafka](https://gitee.com/smile365/blogimg/raw/master/sxy91/1591154539132.png)
 
-点击“集群--ZooKeeper--实例”，可以看到主机`server01`，然后点击“配置--端口和地址”，可以看到端口`2181`
+点击"集群--ZooKeeper--实例"，可以看到主机`server01`，然后点击"配置--端口和地址"，可以看到端口`2181`
 
 如果有多个ZooKeeper节点，填写一个就行，填写多个可以如下填写
 ```bash

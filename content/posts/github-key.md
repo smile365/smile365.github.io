@@ -1,10 +1,9 @@
 ---
-title: "配置ssh key公匙实现免密提交到多个远程仓库"
-keywords: ["教程", "ssh", "github", "ssh key", "config", "git", "git bash", "Users", "key"]
-tags: ["教程", "ssh", "github", "ssh key", "config", "git", "git bash", "Users"]
-description: "查看已经安装的公钥 C:\\Users\\[用户]\\.ssh"
+title: "配置SSH Key免密提交Git"
+keywords: ["ssh key配置", "git免密提交", "ssh公钥", "github ssh配置", "多远程仓库"]
+tags: ["Git", "SSH", "GitHub"]
+description: "详细教程教你如何生成 SSH Key 并配置多个远程仓库的免密提交，解决 Git 操作中每次都需要输入密码的烦恼。"
 categories: ["code"]
-heading: "配置ssh key公匙实现免密提交到多个远程仓库"
 date: "2018-07-07"
 ---
 查看已经安装的公钥

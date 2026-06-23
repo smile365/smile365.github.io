@@ -1,10 +1,9 @@
 ---
-title: "Visual Studio Community 安装过程"
-keywords: ["阅读", "安装过程", "Visual Studio Community", "microsoft net framework", "net web", "Visual Studio for", "Mac", "PC", "visualstudio"]
-tags: ["阅读", "安装过程", "Visual Studio Community", "microsoft net framework", "net web", "Visual Studio for", "Mac", "PC"]
-description: "所需工具 - microsoft-net-framework-4-8 - Visual Studio Community"
+title: "Visual Studio Community安装指南"
+keywords: ["Visual Studio Community安装", ".NET Framework 4.8", "安装证书错误", "微软开发工具", "Windows开发环境搭建", "VS安装教程"]
+tags: ["Visual Studio", "安装", ".NET"]
+description: "本文介绍Visual Studio Community 2022的安装过程及所需前置工具，并解决安装中常见的证书链错误和时间戳签名验证失败等典型问题。"
 categories: ["read"]
-heading: "Visual Studio Community 安装过程"
 date: "2021-09-14T03:45:24.717Z"
 ---
 所需工具
@@ -22,7 +21,7 @@ date: "2021-09-14T03:45:24.717Z"
 问题：已处理证书链，但是在不受信任的根证书中终止
 解决方法：
 	1. 下载[证书](http://go.microsoft.com/fwlink/?LinkID=747875&clcid=0x409)
-	2. 点击安装，选择存储位置为“受信任的根证书颁发机构”
+	2. 点击安装，选择存储位置为"受信任的根证书颁发机构"
 
 ![enter description here](./images/1631591452869.png)
 

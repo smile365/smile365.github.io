@@ -1,10 +1,9 @@
 ---
-title: "windows10安装idea和jdk8教程"
-keywords: ["教程", "idea", "JAVA", "HOME", "jre", "bin", "windows10", "jdk8", "jdk8 jdk", "windows"]
-tags: ["教程", "idea", "JAVA", "HOME", "jre", "bin", "windows10", "jdk8"]
-description: "jdk安装路径：C:\\\\\\\\Program Files (x86)\\\\\\\\Java\\\\\\\\1.8.0 jre安装路径：C:\\\\\\\\Program Files (x86)\\\\\\\\..."
+title: "Windows10安装IDEA和JDK 8"
+keywords: ["Windows10安装IDEA", "JDK8安装教程", "Java环境变量配置", "IDEA开发工具安装"]
+tags: ["IDEA", "JDK8", "Java开发"]
+description: "Windows 10系统下安装IntelliJ IDEA和JDK 8的详细教程，包括Java环境变量配置和常见问题的解决方法。"
 categories: ["code"]
-heading: "windows10安装idea和jdk8教程"
 date: "2020-08-26T04:30:28.225Z"
 ---
 [下载jdk8](https://github.com/frekele/oracle-java/releases)
@@ -24,4 +23,4 @@ JAVA_HOME: C:\Program Files (x86)\Java\1.8.0
 
 ![windows配置系统环境变量](https://gitee.com/smile365/blogimg/raw/master/sxy91/1598418585470.png)
 
-即使配置环境变量之后，若出现“ 'java' 不是内部或外部命令，也不是可运行的程序 或批处理文件。”的错误，是因为win10配置环境变量的时候需要一行一个。
+即使配置环境变量之后，若出现" 'java' 不是内部或外部命令，也不是可运行的程序 或批处理文件。"的错误，是因为win10配置环境变量的时候需要一行一个。

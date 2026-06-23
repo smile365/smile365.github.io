@@ -1,10 +1,9 @@
 ---
-title: "CD/VCD/DVD/BD光盘的区别及相关刻录软件推荐 2025"
-keywords: ["教程", "DVD", "CD", "VCD", "BD", "ISO", "GB", "CD R"]
-tags: ["教程", "DVD", "CD", "VCD", "BD", "ISO", "GB", "CD R"]
-description: "有哪些免费好用的刻录 dvd-vcd 的软件-2025 年"
+title: "光盘类型区别与刻录软件推荐"
+keywords: ["光盘类型区别", "刻录软件推荐", "CD VCD DVD BD区别", "免费刻录软件", "ImgBurn", "光盘刻录教程", "蓝光光盘", "ISO刻录工具"]
+tags: ["光盘", "刻录", "CD", "DVD", "蓝光"]
+description: "一文读懂CD、VCD、DVD、蓝光光盘的区别，并推荐2025年最实用的免费刻录软件，包括ImgBurn、CDBurnerXP等。"
 categories: ["code"]
-heading: "CD/VCD/DVD/BD光盘的区别及相关刻录软件推荐 2025"
 date: "2025-04-08T04:28:31.205Z"
 ---
 ## CD/VCD/DVD/BD 的区别

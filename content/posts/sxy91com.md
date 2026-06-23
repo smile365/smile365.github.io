@@ -1,10 +1,10 @@
 ---
 title: "我曾经用过的昵称"
-keywords: ["生活", "我曾经用过的昵称"]
-tags: ["生活", "我曾经用过的昵称"]
-description: "sxy91.com的个人网站"
+keywords: ["sxy91.com", "个人网站", "网络昵称", "程序员博客", "宋洋葱"]
+tags: ["昵称", "个人网站", "博客"]
+description: "记录作者曾经用过的网络昵称，从四锦年到宋洋葱，以及个人网站sxy91.com和签名'不会讲故事的程序猿不是好厨子'。"
 categories: ["life"]
-heading: "sxy91.com网站 sxy91.com域名 sxy91.com博客 sxy91.com 网址"
+heading: "sxy91.com个人网站 - 宋洋葱的博客"
 date: "2020-02-28T11:28:29.573Z"
 ---
 曾经用过的昵称

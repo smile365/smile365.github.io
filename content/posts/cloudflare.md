@@ -1,10 +1,10 @@
 ---
-title: "2020年cloudflare配置使用cdn教程"
-keywords: ["教程", "cloudflare教程", "配置使用", "SSL", "cloudflare", "Full", "cdn", "sign up", "English"]
-tags: ["教程", "cloudflare教程", "配置使用", "SSL", "cloudflare", "Full", "cdn", "sign up"]
-description: "使用cloudflare配置免费的cdn加速自己的网站"
+title: "Cloudflare CDN 配置教程"
+keywords: ["Cloudflare CDN 配置", "免费 CDN 加速", "Cloudflare SSL 设置", "网站加速教程", "Cloudflare DNS"]
+tags: ["Cloudflare", "CDN", "SSL"]
+description: "手把手教你使用Cloudflare免费CDN加速网站，详解注册、DNS修改、SSL证书模式选择和自动优化功能的配置步骤。"
+heading: "2020年Cloudflare配置使用CDN加速教程"
 categories: ["code"]
-heading: "2020年cloudflare配置使用教程"
 date: "2020-07-12T14:05:27.212Z"
 ---
 打开主页点击sign up

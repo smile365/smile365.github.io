@@ -1,10 +1,9 @@
 ---
-title: "docker-mongo"
-keywords: ["教程", "docker", "mongo", "docker mongo"]
-tags: ["教程", "docker", "mongo", "docker mongo"]
-description: "Install MongoDB with Docker"
+title: "Docker 安装 MongoDB"
+keywords: ["Docker 安装 MongoDB", "MongoDB 容器部署", "Docker MongoDB 教程", "MongoDB 数据持久化"]
+tags: ["Docker", "MongoDB", "数据库"]
+description: "使用Docker快速部署MongoDB数据库，支持自定义版本选择、数据持久化挂载和端口映射配置。"
 categories: ["code"]
-heading: "docker-mongo"
 date: "2018-11-02T07:16:11.158Z"
 ---
 使用默认配置后台运行最新版：

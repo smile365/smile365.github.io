@@ -1,10 +1,9 @@
 ---
-title: "宋学彦的个人简历"
-keywords: ["阅读", "宋学彦的个人简历", "app", "Facebook", "salt", "windows", "vb", "Java", "songxueyan"]
-tags: ["阅读", "宋学彦的个人简历", "app", "Facebook", "salt", "windows", "vb", "Java"]
-description: "基本信息 - **手机**：xxxxx - **邮箱**：sxy9103@qq."
+title: "宋学彦个人简历"
+keywords: ["宋学彦", "个人简历", "软件工程师", "Java开发", "北京求职", "项目经验"]
+tags: ["简历", "个人简介", "软件工程师"]
+description: "宋学彦的个人简历，新疆大学软件工程本科，7年以上Java/Python/Go后端开发经验，曾担任技术组长带领团队开发股票App和数据抓取系统。"
 categories: ["read"]
-heading: "宋学彦的个人简历"
 date: "2019-12-29T14:40:26.987Z"
 ---
 # 宋学彦
@@ -86,7 +85,6 @@ date: "2019-12-29T14:40:26.987Z"
         - 完成分布式数据抓取的关键模块，可以抓取post、profile。
         - 开发完成新闻网站中文章的正文提取模块。
         - 大数据平台hadoop搭建。
-
 
 
 

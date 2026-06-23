@@ -1,10 +1,9 @@
 ---
-title: "vanus 使用调研"
-keywords: ["教程", "docker", "ssh", "使用调研", "vanus", "kubectl", "minikube", "Kubernete"]
-tags: ["教程", "docker", "ssh", "使用调研", "vanus", "kubectl", "minikube", "Kubernete"]
-description: "前言 vanus 为创建事件管道、自动化流程和集成软件应用程序提供了灵活且可定制的解决方案。"
+title: "Vanus使用调研"
+keywords: ["Vanus事件管道", "Docker部署", "Minikube安装", "Kubernetes集群", "CentOS环境配置", "事件驱动架构"]
+tags: ["Vanus", "Docker", "Kubernetes"]
+description: "本文调研Vanus事件管道的使用方法，详细记录在CentOS 8上搭建Docker、kubectl、Minikube环境并部署Vanus的完整过程及常见错误解决方案。"
 categories: ["code"]
-heading: "vanus 使用调研"
 date: "2022-10-26T08:00:55.738Z"
 ---
 ## 前言

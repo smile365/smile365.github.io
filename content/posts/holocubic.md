@@ -1,10 +1,9 @@
 ---
-title: "holocubic"
-keywords: ["教程", "Altium Designer", "holocubic", "git", "VSCode", "Fusion 360", "pcb", "ZT Y2", "holocubic HoloCubic"]
-tags: ["教程", "Altium Designer", "holocubic", "git", "VSCode", "Fusion 360", "pcb", "ZT Y2"]
-description: "软件介绍 - **git**, 下载代码 - **Altium Designer**，设计电路板的软件 - **VSCode**，打开代码 - **Fusion 360**，"
+title: "HoloCubic DIY 教程"
+keywords: ["HoloCubic教程", "ESP32全息投影", "DIY透明显示屏", "PCB设计", "3D打印", "嵌入式开发"]
+tags: ["教程", "DIY", "HoloCubic"]
+description: "HoloCubic是稚晖君开源的全息投影项目，本文详细记录从PCB制板、元器件焊接、3D打印到固件烧录的完整DIY过程。"
 categories: ["code"]
-heading: "holocubic"
 date: "2022-03-04T14:12:35.613Z"
 ---
 [HoloCubic](https://github.com/peng-zhihui/HoloCubic)项目介绍

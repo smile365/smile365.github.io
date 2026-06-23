@@ -1,8 +1,8 @@
 ---
-title: "ventoy-edgeless-winpe"
-keywords: ["教程", "ventoy", "Edgeless", "iso", "PE", "ventoy edgeless winpe", "ventoy+edgeless", "winpe"]
-tags: ["教程", "ventoy", "Edgeless", "iso", "PE", "ventoy edgeless winpe", "ventoy+edgeless"]
-description: "前言 经常需要装机，可以通过 ventoy 工具来制作一个万能的系统安装 u 盘。"
+title: "使用Ventoy和Edgeless制作PE启动盘"
+keywords: ["Ventoy制作启动盘", "Edgeless PE", "U盘启动盘", "WinPE工具", "系统安装盘", "万能U盘"]
+tags: ["Ventoy", "Edgeless", "WinPE"]
+description: "经常需要装系统？本文教你使用Ventoy和Edgeless制作一款万能的WinPE U盘启动工具，支持多ISO镜像启动、系统安装和维护，Linux和Mac系统下均可操作。"
 categories: ["code"]
 heading: "使用 ventoy+edgeless 制作一款万能 winPE u盘启动工具"
 date: "2022-04-29T10:56:08.974Z"

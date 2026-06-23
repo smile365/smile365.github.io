@@ -1,10 +1,9 @@
 ---
-title: "requests-html简单入门教程"
-keywords: ["教程", "pyppeteer", "linux", "简单", "requests html", "requests", "js", "Chromium", "html"]
-tags: ["教程", "pyppeteer", "linux", "简单", "requests html", "requests", "js", "Chromium"]
-description: "requests与requests-html的区别是，前者比较方面处理如何发送请求，后者比较方面如何处理响应的内容（网页内容）"
+title: "requests-html入门"
+keywords: ["requests-html教程", "python爬虫", "js渲染网页", "pyppeteer", "网页解析"]
+tags: ["requests-html", "python", "爬虫"]
+description: "requests-html库的简单入门教程，介绍如何安装使用以及通过pyppeteer渲染JavaScript动态网页内容。"
 categories: ["code"]
-heading: "requests-html简单入门教程"
 date: "2020-07-29T07:42:43.699Z"
 ---
 requests与requests-html的区别是，前者比较方面处理如何发送请求，后者比较方面如何处理响应的内容（网页内容）
@@ -43,6 +42,8 @@ print(r.html.absolute_links)
 requests_html通过pyppeteer调用Chromium来渲染网页。
 
 若电脑上检测不到Chromium，第一次调用r.html.render()的时候会自动下载。linux下载路径为`~/.pyppeteer/`,mac路径为`～/Library/Application Support/pyppeteer/local-chromium`
+
+
 
 
 

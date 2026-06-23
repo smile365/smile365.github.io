@@ -1,10 +1,9 @@
 ---
-title: "nginx推荐日志配置"
-keywords: ["教程", "nginx", "推荐日志配置", "request", "time", "bytes", "sent", "connection", "log", "format"]
-tags: ["教程", "nginx", "推荐日志配置", "request", "time", "bytes", "sent", "connection"]
-description: "nginx-access-log"
+title: "Nginx 日志配置推荐"
+keywords: ["Nginx日志配置", "log_format", "access_log", "Nginx日志格式", "Nginx变量"]
+tags: ["Nginx", "日志", "log_format"]
+description: "介绍 Nginx 日志格式中 log_format 指令的常用变量，并提供推荐的日志配置方案。"
 categories: ["code"]
-heading: "nginx推荐日志配置"
 date: "2020-07-15T06:40:09.393Z"
 ---
 默认的日志格式

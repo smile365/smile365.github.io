@@ -1,10 +1,9 @@
 ---
-title: "ponyorm简单入门教程"
-keywords: ["教程", "简单", "ponyorm", "pony", "PostgreSQL", "pip install pony", "db", "session"]
-tags: ["教程", "简单", "ponyorm", "pony", "PostgreSQL", "pip install pony", "db", "session"]
-description: "安装： pip install pony"
+title: "PonyORM入门教程"
+keywords: ["PonyORM教程", "Python ORM框架", "PonyORM PostgreSQL", "Python数据库操作", "ORM入门"]
+tags: ["PonyORM", "Python", "PostgreSQL"]
+description: "PonyORM是一个Python ORM框架，本文介绍其安装方法以及如何连接PostgreSQL和SQLite数据库实现对象关系映射。"
 categories: ["code"]
-heading: "ponyorm简单入门教程"
 date: "2020-05-21T08:40:59.435Z"
 ---
 ## 安装

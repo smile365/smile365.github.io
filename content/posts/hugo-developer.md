@@ -1,10 +1,10 @@
 ---
-title: "hugo主题开发实战"
-keywords: ["教程", "hugo", "主题开发实战", "day3", "md", "title", "author", "day1 hugo", "day2", "developer"]
-tags: ["教程", "hugo", "主题开发实战", "day3", "md", "title", "author", "day1 hugo"]
-description: "day1-hugo介绍及安装使用 - day2-开发主页 - day3-开发详情页 - day3-美化主页 - day4-美化详情页 - day5-增加评论和百度统计 - da."
+title: "Hugo主题开发实战教程"
+heading: "Hugo主题开发实战：从入门到SEO优化14天完整教程"
+keywords: ["Hugo主题开发教程", "Hugo主题实战", "Hugo网站开发", "Hugo模板制作", "Hugo SEO优化"]
+tags: ["Hugo", "主题开发", "教程"]
+description: "从零开始学习Hugo主题开发，涵盖主页、详情页、评论系统、自动化部署和SEO优化的14天实战教程。"
 categories: ["code"]
-heading: "hugo主题开发实战"
 date: "2019-11-04T01:51:55.940Z"
 draft: "true"
 ---
@@ -58,10 +58,3 @@ description: hugo theme developer 开发
 |  Keywords   | tags    |     |
 |  Description   | description    |     |
 |  title   |   title  |     |
-|  author   |   author  |     |
-
-
-
-参考  
-
-- []()

@@ -1,10 +1,9 @@
 ---
-title: "grafana"
-keywords: ["教程", "nginx", "grafana", "vim", "etc", "root", "url", "grafana docs"]
-tags: ["教程", "nginx", "grafana", "vim", "etc", "root", "url", "grafana docs"]
-description: "编辑配置文件：vim /etc/grafana/grafana.ini,配置反向代理和邮件报警服务。"
+title: "Grafana安装与配置"
+keywords: ["grafana安装", "grafana配置", "grafana反向代理", "grafana邮件告警", "nginx反向代理"]
+tags: ["Grafana", "监控", "Nginx"]
+description: "在 CentOS 上安装 Grafana 并配置 Nginx 反向代理和邮件报警服务，实现监控面板的域名访问和告警通知。"
 categories: ["code"]
-heading: "grafana"
 date: "2019-09-02T08:39:36.785Z"
 draft: "true"
 ---

@@ -1,10 +1,9 @@
 ---
-title: "mac-cocder-01"
-keywords: ["阅读", "mac cocder 01", "mac", "edge", "xxx", "brew", "def url", "if", "coder"]
-tags: ["阅读", "mac cocder 01", "mac", "edge", "xxx", "brew", "def url", "if"]
-description: "目标 1. 安装常用软件 - edge 浏览器 - 双拼输入法（微信键盘/百度输入法/搜狗输入法） - 微信 - 飞书 2. 解决防火墙上网 - xxx 3. 安装常用开发工具."
+title: "程序员Mac配置指南"
+keywords: ["Mac配置教程", "程序员Mac", "Homebrew安装", "Mac开发工具"]
+tags: ["Mac", "开发环境", "Homebrew"]
+description: "新手程序员使用Mac的配置指南，包括安装Edge浏览器、双拼输入法、开发工具和Homebrew配置。"
 categories: ["read"]
-heading: "mac-cocder-01"
 date: "2023-02-02T12:50:14.806Z"
 ---
 程序员使用 mac

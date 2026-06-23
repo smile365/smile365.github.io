@@ -1,10 +1,10 @@
 ---
-title: "有哪些好玩的免费的API接口?"
-keywords: ["教程", "result", "url", "token", "API", "req", "str", "image64", "idea", "Windows"]
-tags: ["教程", "result", "url", "token", "API", "req", "str", "image64"]
-description: "interesting-free-api,golang自动发邮箱。"
+title: "好玩的免费API接口推荐"
+heading: "有哪些好玩的免费API接口及创意编程项目思路"
+keywords: ["免费API接口推荐", "Golang截屏API", "OCR文字识别API", "API创意项目", "邮箱发送API"]
+tags: ["API", "Golang", "创意编程"]
+description: "分享好玩的免费API接口及创意编程项目思路，用Golang截屏结合OCR文字识别自动发送唯美壁纸到邮箱。"
 categories: ["code"]
-heading: "有哪些好玩的免费的API接口?"
 date: "2021-03-11T03:42:43.170Z"
 ---
 你缺的不是接口，而是一个好玩的 idea 。
@@ -58,66 +58,3 @@ OCR_URL = "https://aip.baidubce.com/rest/2.0/ocr/v1/accurate_basic"
 def request(url, data):
     ''' 调用 OCR  api 
     '''
-    req = Request(url, data.encode('utf-8'))
-    has_error = False
-    try:
-        f = urlopen(req)
-        result_str = f.read()
-        if (IS_PY3):
-            result_str = result_str.decode()
-        return result_str
-    except  URLError as err:
-        print(err)
-
-def getText(image64):
-    '''从图片中识别出文字
-    '''
-    token = fetch_token()
-    # 拼接通用文字识别高精度url
-    image_url = OCR_URL + "?access_token=" + token
-
-    text = ""
-    # 调用文字识别服务
-    result = request(image_url, urlencode({'image': image64}))
-    # 解析返回结果
-    result_json = json.loads(result)
-    for words_result in result_json["words_result"]:
-        text = text + words_result["words"]
-
-    # 返回识别的文字
-    return text
-```
-
-作为一个追求完美的人，把识别的出的文字和图片都存起来，避免把重复的图片发出去（其实怕被打）。
-
-然后用各家都提供的邮件发送 api 发给了你的小可爱。
-```golang
-    m := gomail.NewMessage()
-    m.SetHeader("From", "931918906@qq.com")
-    m.SetHeader("To", *mailTo)
-    m.SetHeader("Subject", filename)
-    m.Embed(filename)
-    m.SetBody("text/html", "<img src=\"cid:"+filename+"\" />")
-    d := gomail.NewPlainDialer("smtp.qq.com", 587, "931918906@qq.com", "myPassword")
-
-    if err := d.DialAndSend(m); err != nil {
-        fmt.Printf("failed to send mail: %v\n", err)
-    }
-
-    if err := os.Remove(filename); err != nil {
-        fmt.Printf("failed to remove %s: %v\n", filename, err)
-    }
-```
-
-
-甚至，你还能每天发送一条不重复还创意慢慢的微博呢。比如这样：
-
-![在这样一个电闪雷鸣的雨夜，希望你能睡的安稳，别被雷声打扰](https://gitee.com/smile365/blogimg/raw/master/sxy91/1615438325198.png)
-
-![生活不可能像你想象得那么好,但也不会像你想象得那么糟](https://gitee.com/smile365/blogimg/raw/master/sxy91/1615438433368.png)
-
-![世界以痛吻我,要我报之以歌](https://gitee.com/smile365/blogimg/raw/master/sxy91/1615438470300.png)
-
-
-怎么样，好玩么？
-

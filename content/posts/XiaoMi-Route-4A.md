@@ -1,10 +1,10 @@
 ---
-title: "XiaoMi-Route-4A"
-keywords: ["阅读", "XiaoMi Route 4A", "tools", "local file server", "root", "mac", "R4A", "MiWiFi", "XiaoMi", "Route"]
-tags: ["阅读", "XiaoMi Route 4A", "tools", "local file server", "root", "mac", "R4A", "MiWiFi"]
-description: "小米路由器 4A 刷机 OpenWRT，Mi Router 4A (MIR4A)"
+title: "小米路由器4A刷机OpenWRT"
+keywords: ["小米路由器4A刷机", "OpenWRT安装教程", "路由器获取root", "OpenWRTInvasion", "Mac刷机"]
+tags: ["小米路由器", "OpenWRT", "刷机"]
+description: "在Mac系统下为小米路由器4A千兆版刷机安装OpenWRT固件，包含获取root权限、备份固件、变砖救回等完整步骤。"
 categories: ["read"]
-heading: "XiaoMi-Route-4A"
+heading: "小米路由器4A刷机OpenWRT教程-Mac系统"
 date: "2022-10-08T09:32:10.680Z"
 ---
 ## 准备
@@ -252,7 +252,6 @@ opkg install luci-i18n-base-zh-cn luci-app-opkg luci-i18n-opkg-zh-cn
 - luci-i18n-base-zh-cn
 - luci-app-opkg
 - luci-i18n-opkg-zh-cn
-
 
 
 在 系统 -> 系统属性 -> 常规设置 :

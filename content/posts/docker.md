@@ -1,10 +1,9 @@
 ---
-title: "centos安装docker"
-keywords: ["教程", "docker", "centos", "etc", "CentOS 7", "data root", "var", "lib"]
-tags: ["教程", "docker", "centos", "etc", "CentOS 7", "data root", "var", "lib"]
-description: "Docker最低支持 CentOS 7**"
+title: "CentOS 安装配置 Docker"
+keywords: ["CentOS 7 安装 Docker", "Docker CE 安装教程", "Docker 加速器配置", "Docker 数据路径配置", "Linux 容器化"]
+tags: ["Docker", "CentOS", "容器"]
+description: "在CentOS 7上安装Docker CE引擎，配置数据存储路径和镜像加速器，完成Docker容器环境搭建。"
 categories: ["code"]
-heading: "centos安装docker"
 date: "2018-08-02T07:54:20.501Z"
 ---
 **Docker最低支持 CentOS 7**

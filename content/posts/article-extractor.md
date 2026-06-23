@@ -1,10 +1,9 @@
 ---
 title: "网页正文提取工具"
-keywords: ["教程", "爬虫", "网页正文提取工具", "html2article", "readability", "python readability", "python goose", "Mono", "Dragnet", "Newspaper"]
-tags: ["教程", "爬虫", "网页正文提取工具", "html2article", "readability", "python readability", "python goose", "Mono"]
-description: "基于文本密度的html2article - 基于标签比例的机器学习Dragnet - 专注新闻类网页提取的Newspaper - 集成goose等三种算法的readbility."
+keywords: ["网页正文提取", "html2article", "爬虫内容提取", "Python正文抽取", "Dragnet", "Newspaper"]
+tags: ["爬虫", "正文提取", "Python"]
+description: "整理对比基于文本密度、机器学习和集成算法的多种网页正文内容提取开源工具，包括html2article、Dragnet和Newspaper等。"
 categories: ["code"]
-heading: "网页正文提取工具"
 date: "2018-07-31T02:18:59.803Z"
 ---
 开源项目

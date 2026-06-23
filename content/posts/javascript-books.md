@@ -1,10 +1,9 @@
 ---
-title: "JavaScript进阶性学习该看哪些书"
-keywords: ["教程", "JavaScript", "进阶性学习该看哪些书", "JavaScript DOM", "DOM", "js", "books"]
-tags: ["教程", "JavaScript", "进阶性学习该看哪些书", "JavaScript DOM", "DOM", "js"]
-description: "前端JavaScript电子书。学习过程请参考如何循序渐进地学习JavaScript"
+title: "JavaScript进阶书籍推荐"
+keywords: ["JavaScript进阶学习", "JS书籍推荐", "前端学习路线", "JavaScript DOM编程艺术", "JavaScript高级程序设计"]
+tags: ["JavaScript", "前端开发", "编程书籍", "JS学习"]
+description: "精选JavaScript进阶学习书单，从入门到精通推荐6本必读经典编程书籍。"
 categories: ["code"]
-heading: "JavaScript进阶性学习该看哪些书"
 date: "2019-12-23T07:04:49.748Z"
 ---
 前端JavaScript电子书。学习过程请参考[如何循序渐进地学习JavaScript](https://sxy91.com/posts/how-to-learn-javascript/)
@@ -22,8 +21,7 @@ date: "2019-12-23T07:04:49.748Z"
 
 
 
-> 有条件的话推荐读纸质书，纸质书不好找的话可以在微信搜索公众号“**下课了**”，回复“**js**”，获取以上打包好的电子书。学习的过程请参考上面的书单顺序，循序渐进，由易到难。
+> 有条件的话推荐读纸质书，纸质书不好找的话可以在微信搜索公众号"**下课了**"，回复"**js**"，获取以上打包好的电子书。学习的过程请参考上面的书单顺序，循序渐进，由易到难。
 
 
 更多技术文章可以在[这个博客](https://sxy91.com/)找找看
-

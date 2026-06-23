@@ -1,8 +1,8 @@
 ---
-title: "jdk11-close_wai-error"
-keywords: ["教程", "java", "Cannot assign requested", "address", "jdk11 close", "wai error", "connect failed", "OkHttpClient", "wai error ##", "jdk11"]
-tags: ["教程", "java", "Cannot assign requested", "address", "jdk11 close", "wai error", "connect failed", "OkHttpClient"]
-description: "ConnectException Cannot assign requested address connect failed"
+title: "Java CLOSE_WAIT异常解决"
+keywords: ["Cannot assign requested address", "CLOSE_WAIT", "Java HTTP连接异常", "JDK 11 Bug", "OkHttpClient异常处理"]
+tags: ["Java", "JDK11", "OkHttp", "网络异常"]
+description: "JDK 11中HttpClient连接CLOSE_WAIT导致Cannot assign requested address异常的解决办法和原因分析。"
 categories: ["code"]
 heading: "java 请求出现 Cannot assign requested address 异常的解决办法"
 date: "2023-12-01T06:59:09.760Z"
@@ -64,6 +64,7 @@ sysctl -a |grep ip_local_port_range
 # 大约 2w8
 
 ```
+
 
 
 

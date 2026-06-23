@@ -1,10 +1,9 @@
 ---
-title: "personal-media-center-v0.2"
-keywords: ["教程", "personal media center", "v1 transmission", "nastools", "v2 samba", "smb", "IINA", "v3 alist", "transmission", "personal"]
-tags: ["教程", "personal media center", "v1 transmission", "nastools", "v2 samba", "smb", "IINA", "v3 alist"]
-description: "v1 - transmission, 可以下载电影 - nastools, 可以签到、刷下载量"
+title: "家庭媒体中心v0.2"
+keywords: ["家庭媒体中心搭建", "Transmission下载", "Alist网盘管理", "Samba视频播放", "Bazarr字幕下载"]
+tags: ["媒体中心", "Transmission", "Alist"]
+description: "家庭媒体中心v0.2版本集成transmission下载、nastools签到、samba共享、alist管理和bazarr字幕下载等功能。"
 categories: ["code"]
-heading: "personal-media-center-v0.2"
 date: "2023-04-15T05:47:42.629Z"
 draft: "true"
 ---

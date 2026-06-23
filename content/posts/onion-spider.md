@@ -1,10 +1,9 @@
 ---
-title: "暗网爬虫数据抓取-洋葱网络爬虫"
-keywords: ["生活", "python", "onion", "proxy", "tor", "scrapy", "centos", "暗网爬虫数据抓取", "洋葱网络爬虫", "tor mac"]
-tags: ["生活", "python", "onion", "proxy", "tor", "scrapy", "centos", "暗网爬虫数据抓取"]
-description: "requests-proxy - Centos-7配置与使用SS-tor环境"
+title: "暗网爬虫 - 洋葱网络数据抓取"
+keywords: ["暗网爬虫", "Tor网络", "洋葱路由", "Python Tor代理", "暗网数据抓取"]
+tags: ["暗网", "Tor", "爬虫", "Python"]
+description: "在 CentOS 和 macOS 上配置 Tor 代理，使用 Python 通过 SOCKS5 代理抓取洋葱网站（.onion）数据的教程。"
 categories: ["life"]
-heading: "暗网爬虫数据抓取-洋葱网络爬虫"
 date: "2019-12-19T10:24:00.095Z"
 draft: "true"
 ---

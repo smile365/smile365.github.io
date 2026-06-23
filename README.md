@@ -8,7 +8,7 @@
 | ---------- | -------- | ------- | ----- | ----------------- |
 | categories |  1        | 栏目     | 文章最大分类     | 生活、代码、读书、其他               |
 | tags       |   1~5      | 具体主题标签  | 文章讲什么     |  hugo、hugo theme            |
-| keywords   | 3~5       | SEO关键词  | 用户怎么搜     |               | hugo install, hugo github pages 
+| keywords   | 3~8       | SEO关键词  | 用户怎么搜     |               | hugo install, hugo github pages 
 | series     | 1  | 系列文章    | 需要分好几篇讲清除同一个事情    | AI教程1、AI教程2、AI教程3             |
 
 

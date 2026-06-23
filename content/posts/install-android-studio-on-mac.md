@@ -1,10 +1,10 @@
 ---
-title: "install-android-studio-on-mac"
-keywords: ["教程", "Android Studio", "install android studio", "on mac", "mac", "java sdk gradle", "gradle", "brew", "install", "android"]
-tags: ["教程", "Android Studio", "install android studio", "on mac", "mac", "java sdk gradle", "gradle", "brew"]
-description: "所需工具 - java sdk - gradle - android studio"
+title: "Mac安装Android Studio教程"
+heading: "Mac系统安装Android Studio及Gradle开发环境配置"
+keywords: ["Mac安装Android Studio", "Android开发环境搭建", "Mac配置Gradle", "Android Studio安装教程", "Mac Java SDK安装"]
+tags: ["Android Studio", "Mac", "开发环境"]
+description: "详细教程指导在Mac系统上安装Android Studio、Java SDK和Gradle，搭建完整的Android开发环境。"
 categories: ["code"]
-heading: "2022年 mac 安装 Android Studio"
 date: "2022-01-11T12:08:36.108Z"
 ---
 所需工具
@@ -32,5 +32,3 @@ LICENSE  NOTICE  bin  getting-started.html  init.d  lib  medi
 $ export PATH=$PATH:/usr/local/opt/gradle/gradle-7.3.3/bin
 $ gradle -v
 ```
-
-

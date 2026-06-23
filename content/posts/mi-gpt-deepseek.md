@@ -1,10 +1,10 @@
 ---
-title: "mi-gpt-deepseek"
-keywords: ["教程", "mi gpt deepseek", "app", "id", "did", "env", "deepseek api", "API", "gpt", "deepseek"]
-tags: ["教程", "mi gpt deepseek", "app", "id", "did", "env", "deepseek api", "API"]
-description: "获取 .migpt.js 所需信息 1. 小米 id 米家 app -》我的 -》 {你的昵称} -> {你的昵称} 2. did 米家 app -》 {你的音箱名称} 3.."
+title: "小爱音箱接入DeepSeek"
+heading: "使用mi-gpt将小爱音箱接入DeepSeek大模型教程"
+keywords: ["小爱音箱接入DeepSeek", "mi-gpt配置", "DeepSeek API", "Docker部署小爱AI"]
+tags: ["小爱音箱", "DeepSeek", "AI"]
+description: "使用mi-gpt将小爱音箱接入DeepSeek大模型的完整配置教程，包括获取小米ID、DeepSeek API密钥和Docker部署步骤。"
 categories: ["code"]
-heading: "mi-gpt-deepseek"
 date: "2025-03-13T14:27:38.935Z"
 ---
 ## 	前言

@@ -1,10 +1,9 @@
 ---
-title: "简易的git命令入门教程"
-keywords: ["教程", "简易的 命令", "git", "master", "git cherry pick", "bug", "dev", "Cherry pick"]
-tags: ["教程", "简易的 命令", "git", "master", "git cherry pick", "bug", "dev", "Cherry pick"]
-description: "如何修复 master 分支的 bug 并应用到dev分支"
+title: "Git命令入门教程"
+keywords: ["git入门教程", "git命令", "git cherry pick", "git分支管理", "git远程仓库"]
+tags: ["Git", "版本控制", "入门教程"]
+description: "Git 的简易入门教程，从全局配置和仓库创建到分支管理与 cherry-pick 操作，快速掌握 Git 的基本使用方法。"
 categories: ["code"]
-heading: "简易的git命令入门教程"
 date: "2019-12-04T06:24:34.427Z"
 ---
 Git 全局设置:

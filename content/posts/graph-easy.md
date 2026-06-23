@@ -1,8 +1,8 @@
 ---
-title: "用text纯文本字符画流程图"
-keywords: ["教程", "graph-easy", "text流程图", "用纯文本画流程图", "python", "txt", "Graph", "Easy", "text", "makdown"]
-tags: ["教程", "graph-easy", "text流程图", "用纯文本画流程图", "python", "txt", "Graph", "Easy"]
-description: "graph-easy即Graph::Easy，一款用ascii纯文本画流程图和关系图的工具。"
+title: "用纯文本画流程图"
+keywords: ["纯文本画流程图", "Graph-Easy教程", "ASCII字符流程图", "Graph::Easy", "graphviz", "代码注释流程图"]
+tags: ["教程", "Graph-Easy", "ASCII流程图"]
+description: "Graph::Easy是一款Perl语言工具，能用纯文本ASCII字符快速生成流程图和关系图，支持嵌入代码注释和Markdown文档。"
 categories: ["code"]
 heading: "用纯文本ASCII字符把流程图画到txt里|Graph-Easy教程"
 date: "2020-08-20T06:39:14.076Z"
@@ -20,11 +20,11 @@ date: "2020-08-20T06:39:14.076Z"
 
 好奇是怎么生成这样的纯文本字符流程图。
 
-通过关键词“文本流程图”、“txt流程图”，“字符流程图”等一番搜索，终于知道了这叫“ascii字符流程图”。
+通过关键词"文本流程图"、"txt流程图"，"字符流程图"等一番搜索，终于知道了这叫"ascii字符流程图"。
 
-通过[Graph::Easy](http://bloodgate.com/perl/graph/manual/index.html)这个工具即可生成上面的流程图。`Graph::Easy`是一个perl语言实现的软件包，他的功能是“用文本画图像”。
+通过[Graph::Easy](http://bloodgate.com/perl/graph/manual/index.html)这个工具即可生成上面的流程图。`Graph::Easy`是一个perl语言实现的软件包，他的功能是"用文本画图像"。
 
-举个栗子🌰：
+举个栗子：
 
 先在txt里写一段文字如下：
 
@@ -159,10 +159,8 @@ vim /Library/Perl/5.18/Graph/Easy/Node.pm
   $label =~ s/([\x{4E00}-\x{9FFF}])/$1\x{FFFF}/g;
 
   $label;
-  }
+  ```
   
-```
-
 修改后发现美观多了。
 
 ![Graph::Easy中文支持](https://gitee.com/smile365/blogimg/raw/master/sxy91/1597907921847.png)

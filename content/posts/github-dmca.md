@@ -1,10 +1,9 @@
 ---
-title: "记一次github仓库被DMCA take down的经历"
-keywords: ["教程", "github", "DMCA take down", "DMCA", "git", "DMCA Takedown"]
-tags: ["教程", "github", "DMCA take down", "DMCA", "git", "DMCA Takedown"]
-description: "由于github收到DMCA的移除通知，所以把你的仓库给封了。"
+title: "GitHub仓库被DMCA封禁的解决经历"
+keywords: ["github DMCA", "dmca takedown", "github仓库被封", "git filter-branch", "github版权投诉"]
+tags: ["GitHub", "DMCA", "版本控制"]
+description: "记录 GitHub 仓库因 DMCA 侵权通知被禁用后，如何与 GitHub 沟通并获得 24 小时恢复窗口来删除侵权内容的完整经历。"
 categories: ["code"]
-heading: "记一次github仓库被DMCA take down的经历"
 date: "2019-11-28T06:29:12.130Z"
 draft: "true"
 ---
@@ -53,4 +52,4 @@ git push origin master --force
 - [美国人怎么拔网线----DMCA入门](http://www.ruanyifeng.com/blog/2010/03/dmca.html)
 - [Github仓库被DMCA Takedown后怎么办](https://linux.cn/article-9374-1.html)
 - [从 Git 仓库中永久删除文件或目录](https://www.jianshu.com/p/d333ab0e6818)
-- [使用git的“核弹级选项”：filter-branch](https://blog.lilydjwg.me/2011/4/22/tried-the-nuclear-option-filter-branch-of-git-the-first-time.26331.html)
+- [使用git的"核弹级选项"：filter-branch](https://blog.lilydjwg.me/2011/4/22/tried-the-nuclear-option-filter-branch-of-git-the-first-time.26331.html)

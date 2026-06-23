@@ -1,10 +1,10 @@
 ---
-title: "redis配置布隆过滤"
-keywords: ["教程", "redis", "配置布隆过滤", "配置布隆过滤器", "bloom filter redis", "vim", "etc", "redis cli", "bloom", "filter"]
-tags: ["教程", "redis", "配置布隆过滤", "配置布隆过滤器", "bloom filter redis", "vim", "etc", "redis cli"]
-description: "使用配置文件加载 vim /etc/redis.conf"
+title: "Redis布隆过滤器配置"
+heading: "Redis配置布隆过滤器Bloom Filter完整教程"
+keywords: ["Redis布隆过滤器", "Bloom Filter Redis", "RedisBloom安装", "Redis模块加载", "Redis缓存优化"]
+tags: ["Redis", "布隆过滤器", "RedisBloom"]
+description: "介绍如何在Redis中安装和配置RedisBloom布隆过滤器模块，通过配置文件和命令行两种方式加载。"
 categories: ["code"]
-heading: "redis配置布隆过滤器bloom-filter-redis"
 date: "2019-08-06T07:12:55.203Z"
 draft: "true"
 ---
@@ -42,6 +42,6 @@ MODULE LOAD /opt/redismodules/redisbloom.so
 - [ReBloom](https://oss.redislabs.com/redisbloom/Quick_Start/)
 - [redisbloom-py](https://github.com/RedisBloom/redisbloom-py)
 - [Redis的BloomFilter](https://redislabs.com/blog/rebloom-bloom-filter-datatype-redis/)
-- [redis-module](https://segmentfault.com/a/1190000015976157)
+- [redis-module](https://segmentfault.com/a/1190015976157)
 - [redis-modules-hub](https://redislabs.com/community/redis-modules-hub/)
 - [Redis 高级主题之布隆过滤器(BloomFilter)](https://juejin.im/post/5cfd060ee51d4556f76e8067)

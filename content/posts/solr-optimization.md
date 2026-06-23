@@ -1,10 +1,9 @@
 ---
-title: "solr优化建议"
-keywords: ["教程", "solr", "优化建议", "share", "optimization"]
-tags: ["教程", "solr", "优化建议", "share"]
-description: "一、关闭硬提交 目的：提高入库的效率 硬提交：提交后必须立刻能搜索到 软提交：异步方式，不一定能立刻搜索到"
+title: "Solr 优化建议"
+keywords: ["Solr 优化", "Solr 性能调优", "搜索引擎优化", "Solr 内存配置", "Solr 提交策略"]
+tags: ["Solr", "性能优化", "搜索引擎"]
+description: "分享 Solr 搜索引擎的优化建议，包括关闭硬提交提升入库效率、增加内存和分片数提高查询性能。"
 categories: ["code"]
-heading: "solr优化建议"
 date: "2019-10-30T07:07:31.230Z"
 draft: "true"
 ---

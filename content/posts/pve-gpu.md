@@ -1,8 +1,8 @@
 ---
-title: "pve-gpu"
-keywords: ["教程", "显卡直通", "pve gpu", "pve", "CPU INTEL E5", "v4", "X99 F8", "C2000PRO 2TB SSD", "pve gpu ##", "gpu"]
-tags: ["教程", "显卡直通", "pve gpu", "pve", "CPU INTEL E5", "v4", "X99 F8", "C2000PRO 2TB SSD"]
-description: "硬件环境： - CPU INTEL E5-2696v4 - 主板 华南 X99-F8 - 固态硬盘 海康威视C2000PRO 2TB SSD M.2 - 机械硬盘 希捷 16T."
+title: "Proxmox VE 显卡直通教程"
+keywords: ["PVE 显卡直通", "GPU 直通虚拟机", "Proxmox GPU 透传", "NVIDIA 显卡直通"]
+tags: ["Proxmox VE", "显卡直通", "GPU"]
+description: "在 Proxmox VE 7.2 上配置 NVIDIA GT 1030 显卡直通到虚拟机的详细步骤及硬件环境要求。"
 categories: ["code"]
 heading: "pve 显卡直通"
 date: "2023-04-14T09:26:22.517Z"
@@ -36,4 +36,3 @@ lspci -nn |grep NVIDIA
 03:00.0 VGA compatible controller [0300]: NVIDIA Corporation GP108 [GeForce GT 1030] [10de:1d01] (rev a1)
 # 10de:1d01
 ```
-

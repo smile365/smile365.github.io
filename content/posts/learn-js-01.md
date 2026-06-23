@@ -1,10 +1,10 @@
 ---
-title: "写给女朋友看的JavaScript学习教程"
-keywords: ["教程", "如何学习js", "js新手教程", "如何学习JavaScript", "JavaScript", "写给女朋友看的 学习", "新手", "第 课", "chrome", "vscode"]
-tags: ["教程", "如何学习js", "js新手教程", "如何学习JavaScript", "JavaScript", "写给女朋友看的 学习", "新手", "第 课"]
-description: "下载所需工具 - chrome，谷歌开发的一款浏览器。 - vscode，微软开发的一款写代码的工具。"
+title: "JavaScript新手入门第1课"
+keywords: ["JavaScript入门教程", "JS新手学习", "前端开发入门", "编程零基础", "JavaScript基础"]
+tags: ["JavaScript", "新手教程", "前端"]
+description: "零基础JavaScript入门教程，从安装Chrome和VSCode开始，手把手教你创建网页并运行第一段JavaScript代码。"
 categories: ["code"]
-heading: "JavaScript新手入门第1课"
+heading: "写给女朋友看的JavaScript学习教程"
 date: "2020-01-16T02:29:49.898Z"
 ---
 ### 1 下载所需工具
@@ -58,30 +58,3 @@ JavaScript代码需要浏览器来运行，用来控制网页的各种行为。
 
 ```javascript
 document.body.innerText = "你好呀 JavaScript"; 
-// "//" 可以注释单行
-// script 放到最后，等待网页加载完毕再运行JavaScript，这样对用户更好。
-```
-保存，文件为`01.js`。然后在index.html里引入此文件，修改index.html如下：
-```html
-<html>
-    <head>
-       <title>我的第一个网页</title> 
-    </head>
-    <meta charset="utf-8">
-    <body>
-        <h1>我的第一个标题</h1>
-        <p>我的第一个段落。</p>
-    </body>
-    <script src="01.js"></script>
-</html>
-```
-保存后重新刷新网页，看看发生了什么？如果整个页面内容显示成`你好呀 JavaScript`，那么恭喜你，你成功了!
-
-![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1579148312686.png)
-
-接下来把这本书[《JavaScript DOM编程艺术》](https://sxy91.com/posts/javascript-books/)里的代码敲一遍吧，敲完你就能做一个个人网页了。快行动吧，**切记要一行一行敲一遍，且运行正确**。
-
-
-
-
-

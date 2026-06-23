@@ -1,8 +1,8 @@
 ---
-title: "Linux根目占满造成无法自动补全命令的解决方法"
-keywords: ["教程", "linux", "mongo", "docker", "bash", "etc", "tab", "cannot create temp", "space", "left"]
-tags: ["教程", "linux", "mongo", "docker", "bash", "etc", "tab", "cannot create temp"]
-description: "使用命令补全(tab键)时提示： >-bash: cannot create temp file for here-document: No space left on dev."
+title: "Linux 磁盘空间不足解决方法"
+keywords: ["Linux磁盘空间不足", "No space left on device", "根目录占满", "MongoDB迁移", "Docker数据迁移"]
+tags: ["Linux", "磁盘空间", "MongoDB", "Docker"]
+description: "Linux 根目录磁盘空间占满导致 bash 无法自动补全命令的解决方法，包括 MongoDB、Docker 数据迁移步骤。"
 categories: ["code"]
 heading: "Linux根目占满造成无法自动补全命令的解决方法"
 date: "2019-05-05T03:26:43.089Z"

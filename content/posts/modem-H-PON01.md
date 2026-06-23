@@ -1,10 +1,9 @@
 ---
-title: "光猫改桥接模式当做交换机使用"
-keywords: ["教程", "H PON01", "user", "cwnpbiC# LOID", "GDHe90106c147 password", "MAC", "HISI72346315 GPON SN", "CMCCAdmin", "modem"]
-tags: ["教程", "H PON01", "user", "cwnpbiC# LOID", "GDHe90106c147 password", "MAC", "HISI72346315 GPON SN", "CMCCAdmin"]
-description: "把光猫改成桥接模式，4 口千兆交换机。"
+title: "光猫改桥接模式当交换机"
+keywords: ["光猫改桥接", "光猫当交换机", "超级管理员密码", "移动光猫H-PON01", "宽带设置"]
+tags: ["光猫", "桥接", "交换机", "宽带"]
+description: "将移动光猫H-PON01改成桥接模式作为千兆交换机使用，包括获取超级管理员密码的多种方法。"
 categories: ["code"]
-heading: "光猫改桥接模式当做交换机使用"
 date: "2024-02-22T06:29:27.781Z"
 ---
 ## 前言

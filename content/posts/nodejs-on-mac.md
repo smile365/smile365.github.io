@@ -1,15 +1,14 @@
 ---
-title: "macos 下 使用 NVM 安装 nodejs"
-keywords: ["阅读", "下 使用 安装", "NVM", "macos", "nodejs", "MacBook Air", "m2", "G MacOS", "nodejs ##", "mac"]
-tags: ["阅读", "下 使用 安装", "NVM", "macos", "nodejs", "MacBook Air", "m2", "G MacOS"]
-description: "MacBook Air：2022 m2, 24G - MacOS：13.4"
-categories: ["read"]
-heading: "macos 下 使用 NVM 安装 nodejs"
+title: "macOS 使用 NVM 安装 Node.js"
+keywords: ["macOS安装Node.js", "NVM使用教程", "Node版本管理", "macOS Yarn安装", "Node.js LTS"]
+tags: ["Node.js", "NVM", "macOS"]
+description: "在 macOS 系统上使用 NVM 管理多个 Node.js 版本，并安装 yarn 包管理工具的详细教程。"
+categories: ["code"]
 date: "2023-08-23T18:16:05.490Z"
 ---
 ## 系统环境
 
-- MacBook Air：2022 m2, 24G
+- MacBook Air：2022 m2, 24G
 - MacOS：13.4 
 
 

@@ -1,8 +1,8 @@
 ---
-title: "DTC-site"
-keywords: ["教程", "独立站技术选型", "Shopify", "SEO", "DTC site", "stripe", "PayPal", "FAQ", "DTC site ##", "DTC"]
-tags: ["教程", "独立站技术选型", "Shopify", "SEO", "DTC site", "stripe", "PayPal", "FAQ"]
-description: "如何选择跨境独立站 SaaS 服务平台"
+title: "独立站技术选型"
+keywords: ["独立站技术选型", "跨境电商SaaS", "Shopify", "独立站搭建", "DTC", "跨境电商平台", "Stripe收款", "SEO优化"]
+tags: ["独立站", "Shopify", "SaaS", "电商", "DTC"]
+description: "全面对比国际和国内主流跨境电商独立站SaaS平台，帮助你根据业务需求选择最合适的建站服务。"
 categories: ["code"]
 heading: "独立站技术选型（Shopify/）"
 date: "2026-06-10T15:28:11.853Z"

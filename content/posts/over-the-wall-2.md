@@ -1,10 +1,9 @@
 ---
-title: "最新科学上网教程(2020年)"
-keywords: ["科学上网", "kcptun", "ss", "vps", "udp", "shadowsocks", "tcp", "socket", "cdn", "over"]
-tags: ["科学上网", "kcptun", "ss", "vps", "udp", "shadowsocks", "tcp", "socket"]
-description: "防火墙阻断了大多数异常的tcp连接，因此需要新的方式上网了。目前比较可行的是udp/socket/cdn三种方式。本教程使用udp方式，稍后更新其他方式。"
+title: "科学上网教程2020"
+keywords: ["VPS科学上网", "shadowsocks安装", "kcptun加速", "服务器翻墙教程", "SS+KCPTun配置"]
+tags: ["科学上网", "shadowsocks", "kcptun"]
+description: "最新科学上网教程，使用shadowsocks和kcptun组合通过UDP方式绕过防火墙封锁，支持电脑和安卓手机翻墙上网。"
 categories: ["tools"]
-heading: "最新科学上网教程(2020年)"
 date: "2019-11-01T03:31:23.730Z"
 ---
 防火墙阻断了大多数异常的tcp连接，因此需要新的方式上网了。目前比较可行的是udp/socket/cdn三种方式。本教程使用udp方式，稍后更新其他方式。

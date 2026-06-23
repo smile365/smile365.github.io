@@ -1,8 +1,8 @@
 ---
-title: "Facebook采集"
-keywords: ["阅读", "采集", "token", "Facebook", "web token", "APP", "root", "IMIE"]
-tags: ["阅读", "采集", "token", "Facebook", "web token", "APP", "root", "IMIE"]
-description: "采集方式** - 一、使用接口 - web-token：需要部署上传应用，审核严格，风险高。2星 - 移动端-token：需要个人账户(购买大概是10元一个)。4星"
+title: "Facebook数据采集方法"
+keywords: ["Facebook数据采集", "Facebook API采集", "Facebook爬虫", "移动端token采集", "Facebook抓取", "社交平台数据采集"]
+tags: ["Facebook", "数据采集", "爬虫", "API"]
+description: "全面对比Facebook数据采集的三种方式：接口调用、爬虫开发和第三方服务，推荐最稳定高效的移动端token采集方案。"
 categories: ["read"]
 heading: "Facebook采集"
 date: "2018-10-18T07:09:42.196Z"

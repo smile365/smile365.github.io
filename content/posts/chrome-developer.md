@@ -1,10 +1,10 @@
 ---
-title: "如何成为 chrome 浏览器插件开发者"
-keywords: ["教程", "chrome", "Visa", "JCB", "MasterCard", "Amex", "Discover Card", "PingPong", "developer"]
-tags: ["教程", "chrome", "Visa", "JCB", "MasterCard", "Amex", "Discover Card", "PingPong"]
-description: "如何上架一个 chrome 插件"
+title: "Chrome浏览器插件开发与上架指南"
+keywords: ["Chrome插件开发", "Chrome扩展上架", "Chrome开发者注册", "Chrome Web Store", "浏览器扩展开发教程"]
+tags: ["Chrome插件", "浏览器扩展", "开发教程"]
+heading: "如何成为Chrome浏览器插件开发者"
+description: "手把手教你成为Chrome浏览器插件开发者，包括注册开发者账号、支付5美元注册费、准备图标和发布扩展的完整流程。"
 categories: ["code"]
-heading: "如何成为 chrome 浏览器插件开发者"
 date: "2024-01-03T13:46:36.930Z"
 ---
 ## 官方文档
@@ -25,7 +25,7 @@ date: "2024-01-03T13:46:36.930Z"
 - Discover Card（美国）
 
 **其他渠道**
-- [全球付](https://www.globalcash.hk/gc4-app-pc/)  网页版需要 f 墙，可去应用市场搜索“全球付”
+- [全球付](https://www.globalcash.hk/gc4-app-pc/)  网页版需要 f 墙，可去应用市场搜索"全球付"
 - PingPong 
 - 某宝代付
 
@@ -60,7 +60,7 @@ date: "2024-01-03T13:46:36.930Z"
 ![enter description here](https://cdn.sxy21.cn/static/imgs/1704299829048.png)
 
 ## 权限说明
-[“activeTab”权限](https://developer.chrome.com/docs/extensions/develop/concepts/activeTab)
+["activeTab"权限](https://developer.chrome.com/docs/extensions/develop/concepts/activeTab)
 
 
 
@@ -72,6 +72,3 @@ date: "2024-01-03T13:46:36.930Z"
 - [注册成为谷歌开发者](https://aliqin.github.io/2016-04-03-chrome-ext-dev/)
 - [全球付介绍](https://www.bestshuo.com/global-payment-aihui-card-application-guide/)
 - [虚拟信用卡](https://sspai.com/post/33070)
-
-
-

@@ -1,10 +1,9 @@
 ---
-title: "发送请求时不同数据发送方式的区别"
-keywords: ["教程", "Postman", "header body", "decorators", "di", "express", "request", "content", "type"]
-tags: ["教程", "Postman", "header body", "decorators", "di", "express"]
-description: "发送请求时不同数据发送方式的区别,request-content-type"
+title: "请求数据类型区别"
+keywords: ["Content-Type", "请求数据类型", "HTTP请求方式", "Postman发送请求", "express接收请求"]
+tags: ["HTTP", "request", "Postman"]
+description: "发送HTTP请求时不同数据发送方式的区别，涵盖Postman工具使用和Express后端接收方法的对比。"
 categories: ["code"]
-heading: "发送请求时不同数据发送方式的区别"
 date: "2021-03-17T10:57:00.062Z"
 ---
 不同类型的接收

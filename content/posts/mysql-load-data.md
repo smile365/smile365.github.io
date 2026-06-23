@@ -1,10 +1,10 @@
 ---
-title: "mysql-load-data"
-keywords: ["教程", "mysql", "mysql load data", "uid", "txt", "mnt", "data1", "tphone", "load", "data"]
-tags: ["教程", "mysql", "mysql load data", "uid", "txt", "mnt", "data1", "tphone"]
-description: "mysql load data skip errors"
+title: "MySQL从txt导入数据"
+keywords: ["MySQL导入数据", "LOAD DATA INFILE", "txt导入MySQL", "MySQL数据迁移", "批量导入数据库"]
+tags: ["MySQL", "数据导入", "LOAD DATA"]
+heading: "MySQL从txt文件导入数据并跳过空行或错误行"
+description: "讲解使用MySQL的LOAD DATA INFILE从txt文件导入数据并处理空行或错误行的方法。"
 categories: ["code"]
-heading: "mysql从txt文件导入数据并跳过空行或者错误行"
 date: "2020-07-13T05:55:08.156Z"
 ---
 创建表

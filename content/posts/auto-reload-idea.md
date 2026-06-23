@@ -1,10 +1,10 @@
 ---
-title: "auto-reload-idea"
-keywords: ["教程", "版本热部署配置", "auto reload idea", "settings", "Command +", "auto", "reload", "idea"]
-tags: ["教程", "版本热部署配置", "auto reload idea", "settings", "Command +"]
-description: "how-to-make-auto-reload-with-spring-boot-on-idea-intellij"
+title: "IDEA热部署配置"
+heading: "IntelliJ IDEA Mac版Spring Boot热部署配置"
+keywords: ["IDEA热部署配置", "Spring Boot热加载", "IntelliJ热部署", "Mac IDEA devtools", "Java热部署"]
+tags: ["IDEA", "热部署", "Spring Boot"]
+description: "详细介绍IntelliJ IDEA 2022.3.2 Mac版本下Spring Boot Devtools热部署的配置步骤和依赖添加方法。"
 categories: ["code"]
-heading: "idea 2022.3.2 mac 版本热部署配置"
 date: "2023-02-16T05:33:39.140Z"
 ---
 ## 添加依赖
@@ -26,5 +26,3 @@ date: "2023-02-16T05:33:39.140Z"
 
 
 ![enter description here](https://cdn.sxy21.cn/static/imgs/1676526118622.png)
-
-

@@ -1,10 +1,9 @@
 ---
-title: "使用 snoopy 实现 linux history 操作记录和审计日志"
-keywords: ["教程", "code", "it", "使用 实现 操作记录", "审计日志", "snoopy", "linux history", "var", "snoopy snoopy", "Linux"]
-tags: ["教程", "code", "it", "使用 实现 操作记录", "审计日志", "snoopy", "linux history", "var"]
-description: "snoopy可以记录 Linux 终端的操作记录。有 5 种安装方式。 1. 使用存储库安装"
+title: "Snoopy Linux 审计日志"
+keywords: ["snoopy 安装配置", "Linux history 审计", "Linux 操作记录", "snoopy 审计日志", "Linux 安全审计"]
+tags: ["snoopy", "Linux审计", "命令记录"]
+description: "Snoopy可以记录Linux终端的所有操作命令，本文详细介绍五种安装方式和启用步骤，实现完整的操作审计和日志追踪。"
 categories: ["code"]
-heading: "使用 snoopy 实现 linux history 操作记录和审计日志"
 date: "2022-12-08T12:50:14.806Z"
 series: ["blog"]
 ---
@@ -57,13 +56,3 @@ CentOS：	/var/log/secure
 Debian：	/var/log/auth.log	
 Ubuntu：	/var/log/auth.log	
 (others)：	/var/log/messages	(potentially, could be elsewhere)
-
-
-参考文档
-- [linux下用户操作记录审计环境的部署记录](https://developer.aliyun.com/article/346761)
-- [LINUX终端记录神器---Script命令](https://cloud.tencent.com/developer/article/1902079)
-- [如何防止丢失任何 bash 历史命令](https://felixc.at/2013/09/how-to-avoid-losing-any-history-lines/)
-- [LINUX下用户操作记录审计-history](https://blog.51cto.com/lwm666/2174734)
-- [审计 Linux 系统的操作行为的 5 种方案对比](http://blog.arstercz.com/how-to-audit-linux-system-operation/#snoopy-%E8%AE%B0%E5%BD%95%E6%96%B9%E5%BC%8F)
-- [snoopy命令日志审计](https://www.jianshu.com/p/d2c79950b32e)
-- [使用snoopy监控SSH执行的命令](https://wiki.e4ting.cn/article/snoopy/)

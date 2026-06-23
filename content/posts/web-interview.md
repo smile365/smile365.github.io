@@ -1,10 +1,9 @@
 ---
-title: "web-interview"
-keywords: ["教程", "前端面试题 年", "整理", "SVG", "canvas", "SQL", "video", "source", "web interview ###", "web"]
-tags: ["教程", "前端面试题 年", "整理", "SVG", "canvas", "SQL", "video", "source"]
-description: "前端面试题2021年最新整理"
+title: "前端面试题2021年最新整理"
+keywords: ["前端面试题", "HTML5新特性", "CSS3面试", "JavaScript面试", "Web开发面试", "前端求职"]
+tags: ["前端", "面试", "HTML5"]
+description: "本文整理了2021年前端面试最常考的HTML5新特性、CSS3样式、JavaScript基础以及SVG与Canvas区别等面试题，帮助求职者系统准备前端开发面试。"
 categories: ["code"]
-heading: "前端面试题2021年最新整理"
 date: "2021-01-07T02:51:15.616Z"
 draft: "true"
 ---
@@ -33,11 +32,11 @@ draft: "true"
 
 HTML5 如何嵌入视频/音频、支持什么格式、如何嵌入字幕、多个 source 和 track 如何处理？
 ```html
-<video width=”450″ height=”340″ controls>
-     <source src=”jamshed.mp4″ type=”video/mp4″>
-     <source src=”jamshed.ogg” type=”video/ogg”>
-     <track kind=”subtitles” label=”English” src=”jamshed_en.vtt” srclang=”en” default></track>
-     <track kind=”subtitles” label=”Arabic” src=”jamshed_ar.vtt” srclang=”ar”></track>
+<video width="450" height="340" controls>
+     <source src="jamshed.mp4" type="video/mp4">
+     <source src="jamshed.ogg" type="video/ogg">
+     <track kind="subtitles" label="English" src="jamshed_en.vtt" srclang="en" default></track>
+     <track kind="subtitles" label="Arabic" src="jamshed_ar.vtt" srclang="ar"></track>
 </video>
 ```
 video 元素支持三种视频格式： MP4, WebM, 和 Ogg
@@ -52,6 +51,7 @@ color、date、datetime、datetime-local、email、month、number、range、sear
 ```html
 <input type="color" name="favcolor">
 ```
+
 
 
 
@@ -73,6 +73,7 @@ CSS3 渐变类型有几种
 Overflow属性 内容溢出 文字 。。。
 
 less\scss
+
 
 
 

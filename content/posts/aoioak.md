@@ -1,10 +1,9 @@
 ---
-title: "apioak安装使用教程"
-keywords: ["教程", "apioak", "centos 7", "OpenResty", "MariaDB", "aoioak"]
-tags: ["教程", "apioak", "centos 7", "OpenResty", "MariaDB", "aoioak"]
-description: "centos 7 安装apioak"
+title: "APIOAK安装使用教程"
+keywords: ["APIOAK安装教程", "CentOS 7 API网关", "OpenResty部署", "MariaDB安装", "API网关教程"]
+tags: ["APIOAK", "CentOS", "API网关"]
+description: "详细介绍在CentOS 7上安装APIOAK API网关的完整步骤，包括OpenResty和MariaDB的安装配置以及数据库初始化。"
 categories: ["code"]
-heading: "apioak安装使用教程"
 date: "2020-04-10T06:36:10.884Z"
 ---
 centos 7 安装[apioak](https://gitee.com/apioak/apioak)
@@ -76,4 +75,3 @@ vim /usr/local/apioak/conf/apioak.yaml
 sudo apioak start
 # http://127.0.0.1:10080/apioak/dashboard 即可访问控制台管理面板
 ```
-

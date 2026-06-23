@@ -1,14 +1,14 @@
 ---
-title: "xgimi2mihome"
-keywords: ["阅读", "app", "xgimi2mihome", "usb", "Wireshark", "HCI", "nas", "iclick", "xgimi2mihome ##"]
-tags: ["阅读", "app", "xgimi2mihome", "usb", "Wireshark", "HCI", "nas", "iclick"]
-description: "米家控制极米投影仪"
+title: "极米投影仪接入米家教程"
+keywords: ["极米投影仪接入米家", "小爱音箱控制投影仪", "蓝牙HCI抓包", "智能家居联动", "xgimi2mihome"]
+tags: ["极米", "米家", "HomeAssistant"]
+description: "通过蓝牙HCI日志抓包分析极米投影仪开机指令，探索多种方案实现小爱音箱语音控制极米投影仪开机的智能家居联动。"
 categories: ["read"]
-heading: "xgimi2mihome"
+heading: "小爱音箱控制极米投影仪方案"
 date: "2025-04-07T12:53:49.491Z"
 ---
 ## 前言
-入了米家的坑，折腾的越来越多。目前想实现对小爱音箱说“想看电影”的时候，自动关灯，关闭阳台纱帘，下降幕布，打开 nas 的飞牛系统，打开极米投影仪。
+入了米家的坑，折腾的越来越多。目前想实现对小爱音箱说"想看电影"的时候，自动关灯，关闭阳台纱帘，下降幕布，打开 nas 的飞牛系统，打开极米投影仪。
 
 ## 思路
 咨询极米客服得知极米遥控是蓝牙的，且投影仪没接入米家。小爱音箱仅支持红外遥控。下载极米 app 后可以把手机当做遥控（手机模拟蓝牙遥控）。
@@ -48,7 +48,7 @@ adb bugreport ~/Downloads/
 ## 参考文档
 1. [小爱同学控制极米投影仪的简单方案](https://zhuanlan.zhihu.com/p/590017292)
 2. [极米new Z6X接入米家](https://www.znds.com/tv-1244090-1-1.html)
-3. [极米投影仪的相关 api 远程控制关机](https://www.znds.com/tv-1244116-1-1.html) 
+3. [极米投影仪的相关 api 远程控制关机](https://www.znds.com/tv-1244116-1-1.html) 
 4. [如何抓取Android手机蓝牙HCI](https://zhuanlan.zhihu.com/p/629790490)
 5. [使用xposed框架实现蓝牙BLE抓包](https://github.com/albert2lyu/XposedBLE)
 6. [蓝牙知识总结](https://github.com/SuperTao/Bluetooth)

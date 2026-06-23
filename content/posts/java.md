@@ -1,8 +1,8 @@
 ---
-title: "mac安装java11"
-keywords: ["教程", "github", "brew", "mac", "java11", "jdk 8u212 macosx", "jdk", "csdn", "baidu", "java"]
-tags: ["教程", "github", "brew", "mac", "java11", "jdk 8u212 macosx", "jdk", "csdn"]
-description: "不需要注册即可下载jdk的网站有如下几个： - cn.azul.com - github - csdn - baidu云"
+title: "Mac安装Java11"
+keywords: ["Mac安装Java", "JDK下载", "brew安装Java", "Java11", "macOS Java环境"]
+tags: ["Mac", "Java", "JDK", "brew"]
+description: "在Mac上通过brew安装Java 11，以及无需注册即可下载JDK的多个网站汇总。"
 categories: ["code"]
 heading: "jdk-8u212-macosx-x64.dmg 下载"
 date: "2020-01-10T03:10:28.254Z"

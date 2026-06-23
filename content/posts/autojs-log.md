@@ -1,10 +1,10 @@
 ---
-title: "auto.js如何显示日志和调试信息"
-keywords: ["教程", "autojs 7.0下载", "autojs", "显示日志", "调试信息", "显示日志悬浮框并打印", "显示日志信息", "QQ", "pdf", "hyb1996"]
-tags: ["教程", "autojs 7.0下载", "autojs", "显示日志", "调试信息", "显示日志悬浮框并打印", "显示日志信息", "QQ"]
-description: "手机autojs菜鸟教程，Auto.js Pro图文教程"
+title: "Auto.js日志与调试"
+heading: "Auto.js如何在手机上显示日志和调试信息"
+keywords: ["Auto.js显示日志", "手机调试信息", "Auto.js console", "Auto.js日志输出", "Auto.js调试教程"]
+tags: ["Auto.js", "日志", "调试"]
+description: "Auto.js在手机上显示日志和调试信息的详细教程，包括console.show()使用方法、日志级别颜色区分和输出到文件。"
 categories: ["code"]
-heading: "autojs显示日志悬浮框并打印和显示日志信息"
 date: "2020-04-29T01:26:59.943Z"
 ---
 autojs的文档没有pdf格式可供下载，只能去看网页版官方文档地址：`https://hyb1996.github.io/AutoJs-Docs`。文档支持Auto.js 4（免费版）和auto.js pro7（收费版）两个版本。作者hyb1996还没来得及写Auto.js 8.0 pro的文档，如果你用的是auto.js pro8只能自己研究。
@@ -41,6 +41,3 @@ console.setGlobalLogConfig({
 参考文章
 
 - [Auto.js自动打开QQ群的方法教程](https://www.sxy91.com/posts/autojs-qq-group/)
-
-
-

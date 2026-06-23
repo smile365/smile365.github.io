@@ -1,10 +1,9 @@
 ---
-title: "minikube 单机版 k8s"
-keywords: ["教程", "Docker", "单机版", "minikube", "k8s", "kubectl", "ECS 2 cpu", "GB 20GB debian", "k8s ##", "debian11"]
-tags: ["教程", "Docker", "单机版", "minikube", "k8s", "kubectl", "ECS 2 cpu", "GB 20GB debian"]
-description: "前言 minikube 单机版 k8s"
+title: "Minikube 单机版 K8s"
+keywords: ["Minikube 安装教程", "单机版 Kubernetes", "Debian 11 K8s 搭建", "阿里云 ECS 部署 K8s", "kubectl 安装"]
+tags: ["Minikube", "Kubernetes", "Debian"]
+description: "在阿里云ECS上使用Minikube搭建单机版Kubernetes集群，涵盖Docker安装、kubectl配置和阿里云镜像源设置。"
 categories: ["code"]
-heading: "minikube 单机版 k8s"
 date: "2022-11-01T01:46:04.738Z"
 ---
 ## 前言

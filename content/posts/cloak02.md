@@ -1,10 +1,9 @@
 ---
-title: "从0到1开发claok|day2"
-keywords: ["教程", "从 到 开发", "user agent", "claok", "day2", "cloak", "fb", "spy", "cloak02"]
-tags: ["教程", "从 到 开发", "user agent", "claok", "day2", "cloak", "fb", "spy"]
-description: "上篇文章讲述了用cloak技术系统来跑fb广告的原理，本篇继续"
+title: "Cloak 系统开发 Day2"
+keywords: ["cloak 系统开发", "IP 地址检测", "User Agent 识别", "爬虫识别", "Facebook 广告"]
+tags: ["cloak", "IP检测", "User Agent"]
+description: "在cloak系统中，IP地址和User Agent是判断访客真伪的关键指纹，本文详解如何利用这两项数据识别广告平台爬虫和真人用户。"
 categories: ["code"]
-heading: "从0到1开发claok|day2"
 date: "2020-07-15T13:28:43.275Z"
 ---
 上篇文章讲述了[用cloak技术系统来跑fb广告的原理](https://www.c1oak.com/)，本篇继续

@@ -1,10 +1,10 @@
 ---
-title: "CDC"
-keywords: ["教程", "and send them", "CDC", "to Kafka as", "can be used", "to capture changes", "capture changes made", "to a database", "me", "Is there any"]
-tags: ["教程", "and send them", "CDC", "to Kafka as", "can be used", "to capture changes", "capture changes made", "to a database"]
-description: "me：** Is there any method, idea or technology that can monitor various database changes."
+title: "数据库CDC同步方案汇总"
+keywords: ["Change Data Capture", "CDC数据同步", "Debezium", "Kafka Connect", "数据库实时同步", "Oracle GoldenGate"]
+tags: ["CDC", "数据同步", "Kafka"]
+heading: "CDC数据同步方案与工具汇总 - Change Data Capture"
+description: "汇总Change Data Capture (CDC)数据实时同步方案，介绍Debezium、Kafka Connect、Oracle GoldenGate等主流CDC工具的特点和适用场景。"
 categories: ["code"]
-heading: "CDC"
 date: "2023-04-04T06:18:20.485Z"
 ---
 **me：** Is there any method, idea or technology that can monitor various database changes, such as addition, deletion, and modification, and then send events to kafka.
@@ -41,5 +41,3 @@ There are several Change Data Capture (CDC) platforms or tools available in the 
 6. Qlik Replicate: Qlik Replicate is a CDC platform that captures data changes from various databases, including Oracle, SQL Server, and SAP, and sends them to various targets, including Kafka, Hadoop, and cloud data platforms.
 
 Overall, CDC platforms or tools provide a way to capture data changes from databases and send them to various targets, including Kafka, for real-time processing, analysis, and integration. The choice of CDC platform or tool depends on the specific requirements of your use case, such as the database being used, the volume of data, and the desired level of reliability and scalability.
-
-

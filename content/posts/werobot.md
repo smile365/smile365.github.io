@@ -1,8 +1,8 @@
 ---
-title: "werobot教程"
-keywords: ["教程", "微信公众号开发", "werobot教程", "WeRoBot", "email", "a zA Z0", "return", "uinfo", "AppID", "AppSecret"]
-tags: ["教程", "微信公众号开发", "werobot教程", "WeRoBot", "email", "a zA Z0", "return", "uinfo"]
-description: "WeRoBot robot.location"
+title: "WeRoBot微信公众号开发教程"
+keywords: ["WeRoBot教程", "微信公众号开发框架", "Python微信开发", "微信机器人开发", "WeRoBot配置"]
+tags: ["WeRoBot", "微信公众号开发", "Python"]
+description: "WeRoBot微信公众号开发框架的详细教程，涵盖安装配置、AppID和AppSecret设置、消息处理和服务器部署等完整流程。"
 categories: ["code"]
 heading: "werobot微信公众号开发教程--2020年"
 date: "2020-01-06T06:29:34.327Z"
@@ -58,9 +58,9 @@ email_reg = re.compile(".*([a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+)")
 
 @robot.filter("1")
 def find_one():
-	'''需要微信公众号开发电子书请回复“1”
+	'''需要微信公众号开发电子书请回复"1"
 	'''
-    return "请提供你的邮箱" # 当用户发送“1”时，让用户提供邮箱
+    return "请提供你的邮箱" # 当用户发送"1"时，让用户提供邮箱
 
 @robot.filter(email_reg)
 def find_email(message, session, match):
@@ -115,4 +115,3 @@ app.run(port=8091)
 
 
 欢迎关注公众号「**下课了**」测试，或者加入QQ交流群：334118484。
-

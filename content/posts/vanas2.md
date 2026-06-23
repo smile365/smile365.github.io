@@ -1,10 +1,9 @@
 ---
-title: "vanas2"
-keywords: ["教程", "vanas2", "failed to query", "namespace id", "Quick Start"]
-tags: ["教程", "vanas2", "failed to query", "namespace id", "Quick Start"]
-description: "报错了，参考 failed to query namespace id: rpc error vanus.core.proxy.ControllerProxy"
+title: "Vanus安装错误解决方法"
+keywords: ["Vanus错误排查", "failed to query namespace id", "Vanus安装", "Docker部署Vanus", "vsctl命令", "事件平台"]
+tags: ["Vanus", "Docker", "错误解决"]
+description: "Vanus安装过程中遇到failed to query namespace id错误的解决方案，包含Docker镜像拉取、vsctl工具安装和快速启动的完整步骤。"
 categories: ["code"]
-heading: "vanas2"
 date: "2023-04-06T00:51:11.503Z"
 draft: "true"
 ---

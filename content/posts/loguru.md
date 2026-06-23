@@ -1,10 +1,9 @@
 ---
-title: "loguru比logging更优雅的python日志记录工具"
-keywords: ["教程", "python", "logging", "loguru", "INFO", "this is a", "test message", "loguru github"]
-tags: ["教程", "python", "logging", "loguru", "INFO", "this is a", "test message", "loguru github"]
-description: "日志需求如下 - 同时输出到控制台和日志文件 - 文件按天分割，最多保存7天的日志 - 日志格式：时间 | 级别 |文件名:代码行 - 消息 - 日志举例：2019-10-22..."
+title: "loguru优雅Python日志工具"
+keywords: ["loguru教程", "Python日志记录", "loguru vs logging", "Python日志库", "loguru配置"]
+tags: ["loguru", "Python", "日志"]
+description: "loguru是一个比Python标准logging更优雅的日志库，两行代码即可实现控制台输出、文件按天分割和自动清理等高级功能。"
 categories: ["code"]
-heading: "loguru比logging更优雅的python日志记录工具"
 date: "2019-10-22T06:51:43.672Z"
 ---
 ### 日志需求如下

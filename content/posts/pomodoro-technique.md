@@ -1,10 +1,9 @@
 ---
 title: "番茄工作法"
-keywords: ["生活", "番茄工作法", "pomodoro", "technique"]
-tags: ["生活", "番茄工作法"]
-description: "番茄工作法只有当被用作估算和评估工作的工具使用，才能发挥它真正的威力。"
+keywords: ["番茄工作法", "时间管理技巧", "工作效率提升", "Pomodoro Technique", "自律方法"]
+tags: ["时间管理", "番茄工作法"]
+description: "番茄工作法不仅是一种时间管理工具，更可用于工作量估算和评估，帮助提升工作效率和自律能力。"
 categories: ["life"]
-heading: "番茄工作法"
 date: "2020-01-28T03:07:23.938Z"
 draft: "true"
 ---

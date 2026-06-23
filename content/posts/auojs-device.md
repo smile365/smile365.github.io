@@ -1,10 +1,9 @@
 ---
-title: "auojs获取安装包的名称和手机硬件设备信息"
-keywords: ["教程", "获取安装包的名称", "手机硬件设备信息", "auojs", "javascript log", "device", "log"]
-tags: ["教程", "获取安装包的名称", "手机硬件设备信息", "auojs"]
-description: "auojs获取安装包的名称和手机硬件设备信息"
+title: "Auto.js获取设备信息"
+keywords: ["Auto.js获取设备信息", "Auto.js获取包名", "安卓自动化脚本", "Auto.js device", "Auto.js教程"]
+tags: ["Auto.js", "Android", "设备信息"]
+description: "介绍Auto.js中获取手机硬件设备信息和已安装应用包名的JavaScript代码示例，包括device属性和PackageManager用法。"
 categories: ["code"]
-heading: "auojs获取安装包的名称和手机硬件设备信息"
 date: "2020-05-08T06:54:02.091Z"
 ---
 获取包名、设备信息等。
@@ -41,4 +40,3 @@ getInstallAppInfo();
 // 14:52:40.474/D: bootloader:unknown
 // 14:52:40.474/D: release:9
 ```
-

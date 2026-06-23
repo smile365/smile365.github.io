@@ -1,8 +1,8 @@
 ---
-title: "微信开发如何做本地调试？"
-keywords: ["教程", "nginx", "Python", "微信开发", "做本地调试", "request", "wechat", "miniprogram", "local"]
-tags: ["教程", "nginx", "Python", "微信开发", "做本地调试", "request"]
-description: "wechat-miniprogram-local-debug,"
+title: "微信开发本地调试方法"
+keywords: ["微信开发本地调试", "微信公众号调试", "Nginx反向代理调试", "微信小程序本地开发"]
+tags: ["微信开发", "本地调试", "Nginx"]
+description: "详细介绍微信公众号和小程序开发的本地调试方法，使用Nginx反向代理和SSH隧道实现内网穿透，方便本地代码调试。"
 categories: ["code"]
 heading: "微信公众号开发本地调试方法教程"
 date: "2020-10-29T03:33:11.148Z"

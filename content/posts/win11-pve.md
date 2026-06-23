@@ -1,10 +1,10 @@
 ---
-title: "win11-pve"
-keywords: ["教程", "win11 pve", "iso", "Windows 11", "GB", "VirtIO", "windows", "PVE", "win11 pve ##", "zh cn"]
-tags: ["教程", "win11 pve", "iso", "Windows 11", "GB", "VirtIO", "windows", "PVE"]
-description: "install Windows 11 on pve"
+title: "PVE安装Windows 11教程"
+keywords: ["PVE安装Windows 11", "Proxmox VE教程", "Win11虚拟化", "VirtIO驱动安装", "PVE虚拟机配置"]
+tags: ["PVE", "Windows 11", "虚拟机"]
+description: "在Proxmox VE上安装Windows 11虚拟机的完整教程，包括创建虚拟机配置、加载VirtIO驱动、解决硬盘无法识别等常见问题。"
 categories: ["code"]
-heading: "win11-pve"
+heading: "Proxmox VE安装Windows 11虚拟机完整教程"
 date: "2022-04-02T05:46:41.174Z"
 ---
 ## 前言
@@ -80,7 +80,7 @@ qm set 102 -usb0 host=1a86:5512
 ```
 
 也可以通过菜单 硬件 -> usb 设备 来添加。
-![enter description here](https://cdn.sxy21.cn/static/imgs/1665572932593.png)
+![enter description here](https://cdn.sxy21.cn/static/imgs/1665572592933.png)
 
 ## 参考文档 
 - [Windows 11 简体中文版下载](https://sysin.org/blog/windows-11/#%E2%AC%87%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80)

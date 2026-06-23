@@ -1,10 +1,9 @@
 ---
-title: "配置 gitlab-ci.yml 实现提交代码时自动部署到容器"
-keywords: ["教程", "Docker", "react", "uri", "gitlab", "ci", "cd", "push", "config"]
-tags: ["教程", "Docker", "react", "uri", "gitlab", "ci", "cd", "push"]
-description: "gitlab-ci.yml,gitlab-ci-config"
+title: "GitLab CI/CD自动部署配置"
+keywords: ["gitlab ci/cd", "gitlab-ci.yml", "docker自动部署", "gitlab自动部署", "react部署"]
+tags: ["GitLab", "CI/CD", "Docker"]
+description: "配置 .gitlab-ci.yml 文件实现前后端项目提交代码后自动构建 Docker 镜像并部署到容器仓库的完整教程。"
 categories: ["code"]
-heading: "配置 gitlab-ci.yml 实现提交代码时自动部署到容器"
 date: "2021-03-24T08:08:59.340Z"
 ---
 ### 一、后端项目打包和发布

@@ -1,8 +1,8 @@
 ---
-title: "centos打开内网端口"
-keywords: ["教程", "centos打开内网端口", "firewall-cmd 命令", "centos", "打开内网端口", "firewall"]
-tags: ["教程", "centos打开内网端口", "firewall-cmd 命令", "centos", "打开内网端口"]
-description: "centos防火墙可以通过以下命令打开一个端口"
+title: "CentOS防火墙开放内网端口"
+keywords: ["CentOS防火墙配置", "firewall-cmd开放端口", "内网端口开放", "Linux防火墙", "firewall-cmd命令"]
+tags: ["CentOS", "防火墙", "firewall-cmd"]
+description: "CentOS通过firewall-cmd命令开放内网端口，一条命令即可允许整个局域网IP段访问本机所有端口，省去逐个添加的麻烦。"
 categories: ["code"]
 heading: "centos防火墙开启内网所有端口"
 date: "2020-04-29T06:55:16.688Z"
@@ -25,8 +25,3 @@ firewall-cmd --add-rich-rule='rule family=ipv4 source address=192.168.1.0/24 acc
 ```
 
 执行之后可以允许内网的任意ip进行访问本机。
-
-
-
-
-

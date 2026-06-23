@@ -1,10 +1,10 @@
 ---
-title: "mac-python3"
-keywords: ["教程", "Python", "在 上管理多个 环境", "pyenv", "macOS", "asdf", "Anaconda", "Miniconda", "mac python3 ##", "mac"]
-tags: ["教程", "Python", "在 上管理多个 环境", "pyenv", "macOS", "asdf", "Anaconda", "Miniconda"]
-description: "在 **macOS 上管理多个 Python 版本**，常见有 4 种工具。"
+title: "macOS管理多个Python版本"
+heading: "在macOS上管理多个python环境"
+keywords: ["macOS Python版本管理", "pyenv教程", "asdf Python", "Miniconda", "多个Python环境管理"]
+tags: ["Python", "macOS", "pyenv"]
+description: "在macOS上管理多个Python版本的四种主流工具对比，包括pyenv、asdf、Anaconda和Homebrew的详细使用教程。"
 categories: ["code"]
-heading: "在 macOS 上管理多个 python 环境"
 date: "2026-03-16T12:50:14.806Z"
 ---
 ## 总览
@@ -70,7 +70,6 @@ asdf global python 3.10.18
 conda create -n py310 python=3.10
 conda activate py310
 ```
-
 
 
 
@@ -250,7 +249,6 @@ pandas
 - 兼容广: 最新版的 -3, 如 3.11
 
 > 永远不要用最新版本,用最新版本的前一个.
-
 
 
 

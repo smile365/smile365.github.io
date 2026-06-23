@@ -1,10 +1,9 @@
 ---
-title: "storm"
-keywords: ["教程", "strom", "Python", "pip", "storm", "streamparse", "Storm Installation", "leiningen", "jdk"]
-tags: ["教程", "strom", "Python", "pip", "storm", "streamparse", "Storm Installation", "leiningen"]
-description: "安装的软件列表 - Python:3.4 - pip:18.0 - jdk:1.8 - ZooKeeper:3.4 - Storm:1.2.2 - Leiningen:2.8.."
+title: "Apache Storm安装教程"
+keywords: ["Apache Storm安装", "Storm流处理", "Storm环境配置", "ZooKeeper", "streamparse", "大数据框架"]
+tags: ["Storm", "大数据", "教程"]
+description: "Apache Storm流处理框架的安装部署教程，包含ZooKeeper、Storm、Leiningen和streamparse的完整安装步骤。"
 categories: ["code"]
-heading: "storm"
 date: "2018-08-10T01:43:13.191Z"
 draft: "true"
 series: ["blog"]

@@ -1,10 +1,9 @@
 ---
-title: "pip的安装和镜像的配置"
-keywords: ["教程", "pip", "mirror", "Linux", "镜像的配置", "config", "HOME", "python devel"]
-tags: ["教程", "pip", "mirror", "Linux", "镜像的配置", "config", "HOME", "python devel"]
-description: "安装pip 若没有pip，下载并安装get-pip.py"
+title: "Pip安装和镜像配置"
+keywords: ["pip安装教程", "pip镜像配置", "清华pip源", "Python包管理", "pip3配置"]
+tags: ["pip", "Python", "镜像"]
+description: "详细介绍pip的安装方法以及配置清华大学等国内镜像源加速Python包下载的步骤，支持跨平台配置。"
 categories: ["code"]
-heading: "pip的安装和镜像的配置"
 date: "2018-07-26T01:48:58.589Z"
 ---
 #### 安装pip

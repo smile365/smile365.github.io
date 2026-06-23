@@ -1,10 +1,10 @@
 ---
-title: "Linux命令之多线程ping一个ip段"
-keywords: ["教程", "echo", "port", "network", "scan", "interfaces", "ping", "choice", "Linux", "vi ip"]
-tags: ["教程", "echo", "port", "network", "scan", "interfaces", "ping", "choice"]
-description: "linux 一次性批量多线程ping一个ip段所有ip,ping-ip"
-categories: ["code"]
+title: "Linux批量Ping IP段脚本"
 heading: "Linux命令一次性批量多线程ping一个ip段所有ip"
+keywords: ["Linux批量Ping", "多线程IP扫描", "端口扫描脚本", "Bash网络扫描", "批量Ping IP段"]
+tags: ["Linux", "ping", "网络扫描"]
+description: "一个Linux多线程批量Ping脚本，可快速扫描IP段内所有在线设备或检测指定端口的开放状态，3-6秒完成全段扫描。"
+categories: ["code"]
 date: "2021-01-12T08:29:28.741Z"
 ---
 vi ip_ping.sh
@@ -25,11 +25,11 @@ scan_port() {
     echo "2: 扫描RDP端口(3389)"
     read -p "或直接输入端口号：: " port_choice
     local scan_port
-		    
+			    
     # 端口选择逻辑
     case "$port_choice" in
         0)  # 仅ping
-			scan_network "$network" "0"
+				scan_network "$network" "0"
             return
             ;;
         1)  # SSH端口

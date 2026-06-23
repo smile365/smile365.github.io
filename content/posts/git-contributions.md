@@ -1,10 +1,10 @@
 ---
-title: "git上不显示贡献度的解决办法"
-keywords: ["教程", "commit email", "git 贡献度", "github", "commit", "push", "git", "clone", "contributions"]
-tags: ["教程", "commit email", "git 贡献度", "github", "commit", "push", "git", "clone"]
-description: "码云提交不显示贡献度问题，git账户提交（贡献度）没记录"
+title: "Git贡献度不显示的解决办法"
+keywords: ["git贡献度", "gitee贡献度", "github迁移gitee", "git commit统计", "git远程仓库"]
+tags: ["Git", "Gitee", "GitHub"]
+heading: "如何将GitHub仓库迁移到Gitee并保留历史贡献度"
+description: "解决从 GitHub 导入 Gitee 后贡献度不显示的问题，通过配置邮箱和推送方式保留历史 commit 贡献记录。"
 categories: ["code"]
-heading: "如何把github仓库项目迁移到gitee并保留历史贡献度"
 date: "2020-04-08T06:41:57.794Z"
 ---
 ## 从 github 导入 gitee 的项目无法记录贡献度

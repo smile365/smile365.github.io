@@ -1,10 +1,10 @@
 ---
-title: "autojs自动跳转到QQ群并打开"
-keywords: ["教程", "autojs打开QQ群", "Auto.js打开QQ群", "Auto.js自动跳转到个人QQ页面", "Auto.js intent", "autojs", "Android", "自动跳转到 群并打开", "QQ", "app"]
-tags: ["教程", "autojs打开QQ群", "Auto.js打开QQ群", "Auto.js自动跳转到个人QQ页面", "Auto.js intent", "autojs", "Android", "自动跳转到 群并打开"]
-description: "auto.js intent qq群"
+title: "Auto.js跳转QQ群"
+heading: "Auto.js使用Intent自动跳转到QQ群和QQ好友"
+keywords: ["Auto.js打开QQ群", "Auto.js跳转QQ", "Android Intent跳转", "Auto.js intent", "Auto.js安卓自动化"]
+tags: ["Auto.js", "QQ", "Intent"]
+description: "介绍Auto.js使用Android Intent实现自动跳转到QQ个人页面、QQ群和群接龙功能的代码示例。"
 categories: ["code"]
-heading: "auto.js如何跳转到QQ群"
 date: "2020-04-24T02:55:34.942Z"
 ---
 Android的意图和广播可用来跳转到其他app和传递数据。下面介绍一下Auto.js关于意图和广播的一些使用方法。Auto.js借助intent可以跳转到其他应用的界面。
@@ -77,7 +77,3 @@ Auto.js 无障碍
 Auto js API
 auto.js  删除死粉
 auto.js  删除僵尸粉
-
-
-
-

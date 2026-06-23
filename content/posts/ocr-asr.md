@@ -1,8 +1,8 @@
 ---
-title: "图片转文字，视频转文字，音频转文字教程"
-keywords: ["教程", "图片转文字", "视频转文字", "音频转文字", "ocr", "chineseocr", "lite", "FFmpeg", "ocrchineseocr", "asr"]
-tags: ["教程", "图片转文字", "视频转文字", "音频转文字", "ocr", "chineseocr", "lite", "FFmpeg"]
-description: "即图片ocr识别，使用超轻量级中文ocrchineseocr_lite识别文字（支持竖排文字识别）。"
+title: "OCR 与 ASR 文字识别教程"
+keywords: ["图片转文字", "视频转文字", "音频转文字", "OCR识别", "语音识别ASR", "chineseocr_lite"]
+tags: ["OCR", "ASR", "文字识别", "FFmpeg"]
+description: "使用 chineseocr_lite 实现图片 OCR 识别，结合 FFmpeg 和 ASRT 实现视频与音频转文字的完整教程。"
 categories: ["code"]
 heading: "图片转文字，视频转文字，音频转文字教程"
 date: "2020-05-06T07:05:00.537Z"
@@ -32,7 +32,7 @@ sudo yum localinstall --nogpgcheck https://download1.rpmfusion.org/free/el/rpmfu
 ```bash
 yum install ffmpeg ffmpeg-devel
 ffmpeg -version
-# ffmpeg version 3.4.7 Copyright (c) 2000-2019 the FFmpeg developers
+# ffmpeg version 3.4.8 Copyright (c) 2000-2019 the FFmpeg developers
 ```
 
 下载[asrt](https://asrt.ailemon.me/download.html)  

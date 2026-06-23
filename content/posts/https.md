@@ -1,10 +1,10 @@
 ---
-title: "申请免费https证书并自动更新"
-keywords: ["教程", "ssl证书", "ssl证书申请", "ssl免费证书申请", "ssl证书教程", "https教程", "nginx", "ssl", "Let", "s Encrypt"]
-tags: ["教程", "ssl证书", "ssl证书申请", "ssl免费证书申请", "ssl证书教程", "https教程", "nginx", "ssl"]
-description: "域名申请ssl证书，申请免费ssl证书后怎么验证域名ssl证书，"
+title: "申请免费HTTPS证书"
+keywords: ["免费SSL证书", "HTTPS配置", "Let's Encrypt", "acme.sh", "Nginx配置", "证书自动更新"]
+tags: ["教程", "SSL", "HTTPS"]
+description: "使用Let's Encrypt和acme.sh脚本申请免费SSL证书，为域名配置HTTPS访问并实现证书的自动更新续期，附常见错误解决方法。"
 categories: ["code"]
-heading: "申请免费的ssl证书让域名支持https访问并自动更新证书教程方法"
+heading: "申请免费的SSL证书让域名支持HTTPS访问并自动更新"
 date: "2018-01-30"
 ---
 ## 说明

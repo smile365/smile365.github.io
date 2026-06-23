@@ -1,10 +1,10 @@
 ---
-title: "namesilo续费购买教程"
-keywords: ["教程", "续费购买", "续费优惠码", "namesilo", "Renew", "Have a Coupon", "or Promotion Code", "Manage My Domains", "domain manager"]
-tags: ["教程", "续费购买", "续费优惠码", "namesilo", "Renew", "Have a Coupon", "or Promotion Code", "Manage My Domains"]
-description: "续费步骤:** - 打开namesilo并登录 - 点击domain manager - 点击自己的域名比如sxy91.com - 点击Renew - 在Have a Coup."
+title: "Namesilo域名续费教程"
+keywords: ["Namesilo续费", "域名续费优惠码", "域名管理", "域名解析", "Namesilo教程"]
+tags: ["Namesilo", "域名", "续费"]
+heading: "Namesilo续费优惠码与域名解析教程"
+description: "详细介绍Namesilo域名的续费步骤、优惠码使用以及域名解析配置方法。"
 categories: ["code"]
-heading: "namesilo续费优惠码2020"
 date: "2020-05-26T02:11:15.055Z"
 ---
 **续费步骤:**

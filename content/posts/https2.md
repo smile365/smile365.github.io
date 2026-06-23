@@ -1,10 +1,10 @@
 ---
-title: "https2"
-keywords: ["阅读", "https2", "Ali", "acme", "API", "accesskey", "Key", "Secret", "https2 ##"]
-tags: ["阅读", "https2", "Ali", "acme", "API", "accesskey", "Key", "Secret"]
-description: "参考 acme 的说明，先登录阿里云帐户以获取的 API 密钥在（配置一个 accesskey）"
+title: "acme.sh申请SSL证书"
+heading: "acme.sh阿里云DNS快速申请免费SSL证书"
+keywords: ["acme.sh申请SSL证书", "阿里云DNS申请证书", "免费SSL证书", "acme.sh安装", "HTTPS证书申请"]
+tags: ["acme.sh", "SSL证书", "阿里云"]
+description: "使用acme.sh配合阿里云DNS API快速申请免费SSL证书，支持泛域名和自动续期。"
 categories: ["read"]
-heading: "https2"
 date: "2021-10-26T13:08:39.195Z"
 ---
 ## 申请证书
@@ -36,5 +36,4 @@ Ali_Key 和 Ali_Secret 将被保存在 ~/.acme.sh/account.conf
 acme.sh --installcert  -d songxueyan.top -d *.songxueyan.top  \
         --key-file   /etc/nginx/ssl/sxytop.key \
         --fullchain-file /etc/nginx/ssl/sxytop.cer 
-```        
-
+```

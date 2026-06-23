@@ -1,10 +1,9 @@
 ---
-title: "python 使用 faker 自动生成假数据和测试数据"
-keywords: ["教程", "python", "使用 自动生成假数据", "测试数据", "faker", "mimesis", "python3", "post", "ISBN"]
-tags: ["教程", "python", "使用 自动生成假数据", "测试数据", "faker", "mimesis", "python3", "post"]
-description: "python-faker"
+title: "Python 使用 Faker 生成假数据"
+keywords: ["Faker 生成测试数据", "Python 假数据生成", "Faker 中文数据", "Python 造数据"]
+tags: ["Faker", "Python", "测试数据"]
+description: "使用 Python Faker 库自动生成姓名、地址、手机号等随机测试数据，并批量生成 30 万用户信息的实战案例。"
 categories: ["code"]
-heading: "python 使用 faker 自动生成假数据和测试数据"
 date: "2021-01-20T02:37:09.448Z"
 ---
 ## 前言
@@ -58,30 +57,3 @@ for i in range(300000):
         "gender": fake.random_element(["M", "F", "U"])
     }
     #print(f'{i}:{user["id"]}')
-    users.append(user)
-
-# 将用户信息写入 JSON 文件
-with open("users30w.json", "w") as f:
-    json.dump(users, f, indent=4)
-
-print("用户信息已写入 users30w.json 文件。")
-
-
-# 发送 POST 请求
-url = 'localhost:8080/users/save'
-headers = {'Content-type': 'application/json'}
-r = requests.post(url, json=users, headers=headers)
-# 检查响应状态码
-if r.status_code == 200:
-    print(f'用户信息已成功发送到 {url}')
-else:
-    print("发送失败。")
-print(r.text)
-```
-
-
-
-
-
-## 参考文档
-- [假数据 3 种方法](https://blog.csdn.net/pythonxiaopeng/article/details/109026484)

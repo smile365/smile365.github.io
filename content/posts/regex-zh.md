@@ -1,8 +1,8 @@
 ---
-title: "python-正则匹配中文日文韩文"
-keywords: ["教程", "正则", "韩文匹配", "日文匹配", "python", "正则匹配中文日文韩文", "判断是不是韩语日语", "中文", "Unicode", "regex"]
-tags: ["教程", "正则", "韩文匹配", "日文匹配", "python", "正则匹配中文日文韩文", "判断是不是韩语日语", "中文"]
-description: "用python正则表达式来判断是否可以匹配中日韩文，正则匹配日语，正则匹配韩语。"
+title: "正则匹配中日韩文"
+keywords: ["正则匹配中文", "正则匹配日文", "正则匹配韩文", "python正则", "Unicode编码区间"]
+tags: ["正则", "python", "Unicode"]
+description: "使用Python正则表达式匹配中文、日文和韩文，基于Unicode编码区间实现中日韩文的判断与提取。"
 categories: ["code"]
 heading: "python判断是不是韩语日语和中文"
 date: "2019-11-06T09:52:57.390Z"
@@ -19,7 +19,7 @@ date: "2019-11-06T09:52:57.390Z"
 
 ```python
 import re
-p = re.compile('[\u0800-\u9fa5\uac00-\ud7a3]')
+p = re.compile('[ࠀ-龥가-힣]')
 text = '''
 这是简体中文,這是繁體中文
 这是日文,これは日本語です

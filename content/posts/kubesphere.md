@@ -1,10 +1,9 @@
 ---
-title: "kubesphere 安装和使用教程"
-keywords: ["教程", "kubesphere", "kubekey", "centos os 7", "kubernetes", "centos 7", "quick start", "k8s"]
-tags: ["教程", "kubesphere", "kubekey", "centos os 7", "kubernetes", "centos 7", "quick start", "k8s"]
-description: "centos os 7 使用 kubekey 安装 kubesphere 和 kubernetes"
+title: "KubeSphere安装使用教程"
+keywords: ["KubeSphere安装", "Kubernetes管理平台", "KubeKey教程", "CentOS K8s集群", "容器平台"]
+tags: ["KubeSphere", "Kubernetes", "容器平台", "KubeKey"]
+description: "在CentOS 7上使用KubeKey一键安装KubeSphere和Kubernetes集群的详细教程及错误处理。"
 categories: ["code"]
-heading: "kubesphere 安装和使用教程"
 date: "2022-07-27T14:24:22.704Z"
 ---
 centos os 7 使用 kubekey 安装 kubesphere 和 kubernetes
@@ -66,3 +65,4 @@ v1.24.3/bin/linux/amd64/kubeadm error: No SHA256 found for kubeadm. v1.24.3 is n
  
  ## 参考文档
  1. [minikube](https://kubernetes.io/zh-cn/docs/tutorials/hello-minikube/)
+ 

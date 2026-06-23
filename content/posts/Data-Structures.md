@@ -1,10 +1,9 @@
 ---
-title: "数据结构"
-keywords: ["教程", "code", "it", "Python", "数据结构", "Data", "Structures"]
-tags: ["教程", "code", "it", "Python", "数据结构"]
-description: "参考 - 堆、栈、队列及其Python的简单实现 - 数据结构-堆 -"
+title: "数据结构：堆栈队列"
+keywords: ["数据结构 Python", "堆栈队列实现", "Python 数据结构教程", "堆排序", "算法基础"]
+tags: ["数据结构", "Python", "算法"]
+description: "参考堆、栈、队列三种基础数据结构，并结合Python语言给出简单实现示例，适合数据结构初学者学习参考。"
 categories: ["code"]
-heading: "数据结构"
 date: "2018-08-30T06:17:06.183Z"
 draft: "true"
 ---

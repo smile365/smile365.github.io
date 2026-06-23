@@ -1,10 +1,9 @@
 ---
-title: "mongo服务因磁盘无法写入而异退出的解决方法"
-keywords: ["教程", "mongo", "Linux", "var", "etc", "log", "mongodb", "mongod f", "ps ef", "grep mongod"]
-tags: ["教程", "mongo", "Linux", "var", "etc", "log", "mongodb", "mongod f"]
-description: "使用ps -ef|grep mongod 查看已经没有了mongod的服务进程 2.使用tail -f /var/log/mongodb/mongod."
+title: "MongoDB磁盘满启动失败解决"
+keywords: ["MongoDB启动失败", "磁盘空间不足", "MongoDB日志迁移", "MongoDB数据迁移", "Linux运维"]
+tags: ["MongoDB", "Linux", "运维"]
+description: "MongoDB因磁盘空间不足导致无法启动的解决方法，详细排查步骤并迁移数据文件和日志文件到其他分区。"
 categories: ["code"]
-heading: "mongo服务因磁盘无法写入而异退出的解决方法"
 date: "2018-06-29T02:18:59.803Z"
 ---
 1.使用`ps -ef|grep mongod `查看已经没有了mongod的服务进程  

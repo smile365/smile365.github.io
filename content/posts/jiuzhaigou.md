@@ -1,10 +1,9 @@
 ---
-title: "jiuzhaigou"
-keywords: ["生活", "jiuzhaigou", "jiuzhaigou ##"]
-tags: ["生活", "jiuzhaigou"]
-description: "九寨沟旅游计划 - 预计出发日期：2021年10月2日 - 景区订票方式：官网或小程序 - 交通信息：九寨沟交通 - 班车订票方式：同城旅行 或 搜索各大客运站的公众号或网站."
+title: "九寨沟旅游攻略"
+keywords: ["九寨沟旅游攻略", "成都到九寨沟", "九寨沟交通", "国庆旅游", "九寨沟自由行"]
+tags: ["旅行", "九寨沟", "四川旅游", "攻略"]
+description: "详细九寨沟旅游计划，涵盖飞机火车大巴三种交通方案、门票预订和行程安排。"
 categories: ["life"]
-heading: "jiuzhaigou"
 date: "2021-09-26T08:46:25.600Z"
 ---
 ## 九寨沟旅游计划

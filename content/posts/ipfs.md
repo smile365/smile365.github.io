@@ -1,10 +1,10 @@
 ---
-title: "ipfs 分布式星际文件系统使用教程"
-keywords: ["教程", "分布式星际文件系统", "IPFS", "Person", "Protocol Labs", "BitTorrent", "DHT", "Git", "InterPlanetary File System"]
-tags: ["教程", "分布式星际文件系统", "IPFS", "Person", "Protocol Labs", "BitTorrent", "DHT", "Git"]
-description: "星际文件系统（InterPlanetary File System，缩写为IPFS）是一个旨在实现文件的分布式存储、共享和持久化的网络传输协议。"
+title: "IPFS分布式文件系统教程"
+heading: "IPFS星际文件系统从入门到Spring Boot集成"
+keywords: ["IPFS使用教程", "IPFS Docker安装", "IPFS Java集成", "分布式文件系统", "星际文件系统"]
+tags: ["IPFS", "分布式存储", "教程"]
+description: "IPFS星际文件系统完整使用教程，涵盖概念介绍、Docker安装部署以及Spring Boot项目集成IPFS存储。"
 categories: ["code"]
-heading: "ipfs 分布式星际文件系统使用教程"
 date: "2022-07-25T16:46:23.029Z"
 ---
 ## IPFS 介绍
@@ -57,68 +57,3 @@ services:
         <artifactId>java-ipfs-api</artifactId>
         <version>v1.4.0</version>
     </dependency>
-
-    <dependency>
-        <groupId>com.alibaba.fastjson2</groupId>
-        <artifactId>fastjson2</artifactId>
-        <version>2.0.22</version>
-    </dependency>
-```
-
-创建一个 Person 类
-```java
-public class Person {
-    private String name;
-    private String address;
-
-    public Person(String name, String address) {
-        this.name = name;
-        this.address = address;
-    }
-
-    public Person() {
-    }
-}
-```
-
-创建一个测试类
-```java
-
-public class IPFSdemo {
-    private static IPFS ipfs = new IPFS("/ip4/127.0.0.1/tcp/5001");
-
-    public static String saveToIpfs(Person person) throws IOException {
-        MerkleNode put = ipfs.dag.put("json", JSON.toJSONString(person).getBytes());
-        return put.hash.toString();
-    }
-
-    public static Person getFromIpfs(String hash) throws IOException {
-        Cid expected = Cid.decode(hash);
-        byte[] get = ipfs.dag.get(expected);
-        return JSON.parseObject(get,Person.class);
-    }
-
-
-    public static void main(String[] args) throws IOException {
-        String hash = saveToIpfs(new Person("SongYangCong","KunMing"));
-        System.out.println("hash:"+hash);
-        Person p = getFromIpfs(hash);
-        System.out.println(p.toString());
-    }
-}
-```
-
-
-## 问题解决
-1. 无法连接到IPFS API,Unable to connect to the provided IPFS API address
-
-这是 kubo UI 的 bug。
-
-
-
-
-参考连接：
-- [IPFS的配置记录](https://www.cnblogs.com/milton/p/13100209.html)
-- [kubo](https://github.com/ipfs/kubo)
-- [IPFS私有网络集群搭建](https://yuanxuxu.com/2020/01/09/ipfs%E7%A7%81%E6%9C%89%E7%BD%91%E7%BB%9C%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA/)
-

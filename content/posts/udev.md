@@ -1,10 +1,10 @@
 ---
-title: "基于 udev 实 Linux 插入 u 盘自动执行脚本"
-keywords: ["教程", "Linux", "udev", "device", "sda3", "log", "info", "ENV"]
-tags: ["教程", "Linux", "udev", "device", "sda3", "log", "info", "ENV"]
-description: "How to find reasons why an udev rule is not applied?"
+title: "Linux U盘插入自动执行脚本"
+heading: "基于udev实现U盘插入自动运行脚本"
+keywords: ["udev规则编写", "Linux自动执行脚本", "U盘自动运行", "udev教程", "Linux设备管理"]
+tags: ["Linux", "udev", "教程"]
+description: "详解如何使用udev在Linux系统上实现U盘插入时自动执行脚本，包含udev规则编写、调试和日志查看方法。"
 categories: ["code"]
-heading: "当 u 盘插入Linux自动执行脚本"
 date: "2022-04-27T12:07:14.760Z"
 ---
 ## Udev 是什么
@@ -24,7 +24,7 @@ date: "2022-04-27T12:07:14.760Z"
 
 ### 规则说明
 
-[udev 规则](http://reactivated.net/writing_udev_rules.html)存储在 `/etc/udev/rules.d/ ` 目录下，按文件名排序依次执行。以“#”开头的行被视为注释。每隔一个非空行是一条规则。规则不能跨越多行。
+[udev 规则](http://reactivated.net/writing_udev_rules.html)存储在 `/etc/udev/rules.d/ ` 目录下，按文件名排序依次执行。以"#"开头的行被视为注释。每隔一个非空行是一条规则。规则不能跨越多行。
 
 每条规则都应包含至少一个匹配键（==或!-）和至少一个分配键（=或+=），可以理解成 `当` 什么的时候 `执行` 什么
 
@@ -57,32 +57,3 @@ date: "2022-04-27T12:07:14.760Z"
 - `*` ， 匹配任何字符，零次或多次
 - `?` ， 匹配前面的字符零次或一次
 - `[]` ，匹配括号中指定的任何单个字符
-
-### 使用匹配的结果
-
-写分配键的时候，可以用 `%K` 代替当前匹配到的 `内核名称`,如匹配设备为 /dev/sda3，那么 %K 就是 sda3。可以用 `%n` 代替当前匹配到的 `设备分区编号`， 内核编号（存储设备的分区编号），例如设备是 /dev/sda3，那么 %n 就是 3 。
-
-## udev 规则示例
-[如何写一个例子](https://linux.cn/article-10329-1.html)
-假定 `device_namer.sh` 脚本的 输出由设备名称、符号链接组成。可以通过 %c{N} 取出输出的第 N 部分：
-
-KERNEL=="hda", PROGRAM="/bin/device_namer %k", NAME="%c{1}", SYMLINK+="%c{2}"
-
-
-
-## 外部 .sh 等 shell 脚本不执行的原因
-
-执行/usr/bin/my_program 时，udev 环境的各个部分都可用作环境变量，包括SUBSYSTEM等键值。您还可以使用ACTION环境变量来检测设备是连接还是断开 - ACTION 将分别是“添加”或“删除”。
-
-udev 不会在任何活动终端上运行这些程序，也不会在 shell 的上下文中执行它们。确保您的程序被标记为可执行，如果它是一个 shell 脚本，请确保它以适当的shebang（例如#!/bin/sh）开头，并且不要期望任何标准输出出现在您的终端上。
-
-
-## 参考文档
-
-- [How to find reasons why an udev rule is not applied?](https://stackoverflow.com/questions/67123997/how-to-find-reasons-why-an-udev-rule-is-not-applied)
-- [Shebang](zh.wikipedia.org/zh-hans/Shebang)
-- [how-to-run-custom-scripts-upon-usb-device-plug-in](https://unix.stackexchange.com/questions/28548/how-to-run-custom-scripts-upon-usb-device-plug-in)
-- [debian udev](https://wiki.debian.org/udev)
-- [从 udev RUN 命令写入文件](https://superuser.com/questions/1273148/writing-to-a-file-from-a-udev-run-command)
-- [How to check if a udev rule fired?](https://superuser.com/questions/677106/how-to-check-if-a-udev-rule-fired)
-- [udev和rules使用规则](https://www.cnblogs.com/zhouhbing/p/4025748.html)

@@ -1,10 +1,10 @@
 ---
-title: "linux-vnc 远程桌面使用"
-keywords: ["教程", "linux", "远程桌面使用", "远程桌面", "RDP", "RFB", "VNC", "TigerVNC", "linux vnc", "remote desktop protocol"]
-tags: ["教程", "linux", "远程桌面使用", "远程桌面", "RDP", "RFB", "VNC", "TigerVNC"]
-description: "linux-vnc-remote desktop protocol"
+title: "Linux VNC远程桌面"
+keywords: ["Linux远程桌面", "VNC配置教程", "TigerVNC安装", "RFB协议", "远程桌面对比"]
+tags: ["VNC", "远程桌面", "Linux"]
+description: "介绍Linux下基于RFB协议的VNC远程桌面方案，对比RDP与RFB协议差异，并详细讲解TigerVNC的安装和配置步骤。"
 categories: ["code"]
-heading: "linux 远程桌面"
+heading: "Linux远程桌面使用教程"
 date: "2023-03-03T08:46:05.976Z"
 ---
 ## 前言
@@ -20,7 +20,7 @@ date: "2023-03-03T08:46:05.976Z"
 - RDP 会将画图的工作交给客户端，服务器端需要根据客户端的显示能力做适当的调整。
 
 因此，完成相同的操作，使用 RFB 协议传输的数据量会比 RDP 大，而 RDP 对客户端的要求比 RFB 更苛刻，RFB 适用于瘦客户端，而 RDP 适用于低速网络。
-> 瘦客户端是相对于胖客户端而言的，比如，人们使用 QQ，需要下载客户端，这属于“胖客户”；反之，通过浏览器就可查阅网络上各种资料，无需再下载其他任何软件，这属于“瘦客户”。简单理解，瘦客户端指的是最大可能减轻客户端的负担，多数工作由服务器端完成；胖客户端则相反。
+> 瘦客户端是相对于胖客户端而言的，比如，人们使用 QQ，需要下载客户端，这属于"胖客户"；反之，通过浏览器就可查阅网络上各种资料，无需再下载其他任何软件，这属于"瘦客户"。简单理解，瘦客户端指的是最大可能减轻客户端的负担，多数工作由服务器端完成；胖客户端则相反。
 
 
 ## 使用 VNC 服务端
@@ -40,4 +40,4 @@ vncserver
 - [在 Ubuntu 22.04 安装 VNC](https://www.myfreax.com/how-to-install-and-configure-vnc-on-ubuntu-22-04/)
 - [install-and-configure-vnc](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-ubuntu-22-04)
 - [tigervnc-server 无法启动问题](https://www.cnblogs.com/lidune/p/9830780.html)
-- [ Make sure an X server isn‘t already running](https://blog.csdn.net/rolaya/article/details/118495564)
+- [ Make sure an X server isn't already running](https://blog.csdn.net/rolaya/article/details/118495564)

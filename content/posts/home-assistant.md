@@ -1,8 +1,8 @@
 ---
 title: "Home Assistant 使用教程"
-keywords: ["教程", "控制智能家居设备", "Home Assistant", "ha", "hacs", "xiaomi mio", "pve", "Storage", "Proxmox Virtual Environment", "home"]
-tags: ["教程", "控制智能家居设备", "Home Assistant", "ha", "hacs", "xiaomi mio", "pve", "Storage"]
-description: "在 pve（Proxmox Virtual Environment 8.3.4）环境安装 Home Assistant 教程指南。"
+keywords: ["Home Assistant安装", "HACS安装", "小米智能家居", "PVE虚拟机", "智能家居控制"]
+tags: ["教程", "Home Assistant", "智能家居"]
+description: "在Proxmox VE虚拟化环境安装Home Assistant，并配置HACS社区商店和Xiaomi Miot插件实现小米智能家居设备控制。"
 categories: ["code"]
 heading: "Home Assistant 安装 hacs 和 xiaomi mio 控制智能家居设备教程指南"
 date: "2025-02-22T12:24:18.678Z"

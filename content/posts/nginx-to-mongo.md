@@ -1,8 +1,8 @@
 ---
-title: "在CentOS上安装Fluentd实现把nginx日志存入mongo"
-keywords: ["教程", "Fluentd", "nginx", "mongo", "CentOS", "data", "logs", "tag"]
-tags: ["教程", "Fluentd", "nginx", "mongo", "CentOS", "data", "logs", "tag"]
-description: "文件内容如下，source为nginx日志格式化，match mongo为使用mongo存储"
+title: "Fluentd 采集 Nginx 日志到 MongoDB"
+keywords: ["Fluentd安装教程", "Nginx日志采集", "MongoDB日志存储", "CentOS Fluentd", "td-agent配置"]
+tags: ["Fluentd", "Nginx", "MongoDB", "CentOS"]
+description: "在 CentOS 上安装 Fluentd（td-agent）并将 Nginx 访问日志采集存储到 MongoDB 数据库的完整配置教程。"
 categories: ["code"]
 heading: "在CentOS上安装Fluentd实现把nginx日志存入mongo"
 date: "2018-06-26"

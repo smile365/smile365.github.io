@@ -1,10 +1,10 @@
 ---
-title: "linuxdeploy"
-keywords: ["教程", "linux", "ROOT", "recovery", "twrp", "linuxdeploy", "BL", "YQ601+YQ607", "linuxdeploy ##"]
-tags: ["教程", "linux", "ROOT", "recovery", "twrp", "linuxdeploy", "BL", "YQ601+YQ607"]
-description: "前提条件 1. 一台安卓手机 2. 刷机获取 root 权限"
+title: "安卓手机运行Linux系统"
+keywords: ["Linux Deploy教程", "安卓手机装Linux", "旧手机变服务器", "坚果手机刷机", "Linux on Android"]
+tags: ["LinuxDeploy", "安卓", "刷机"]
+description: "利用Linux Deploy在旧安卓手机上安装Linux系统将其变身为服务器，涵盖Root权限获取和各型号坚果手机的刷机方法。"
 categories: ["code"]
-heading: "安卓刷入 linux 系统当做服务器"
+heading: "使用Linux Deploy在安卓手机上运行Linux服务器"
 date: "2023-07-23T22:13:00.474Z"
 ---
 ## 前言

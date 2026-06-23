@@ -1,10 +1,9 @@
 ---
-title: "docker-on-debian11"
-keywords: ["教程", "Docker", "Debian", "docker on debian11", "apt get", "Docker GPG", "Hello from Docker", "debian11"]
-tags: ["教程", "Docker", "Debian", "docker on debian11", "apt get", "Docker GPG", "Hello from Docker"]
-description: "要在 Debian 上安装 Docker，请按照以下步骤："
+title: "Debian 11 安装 Docker"
+keywords: ["Debian 11 安装 Docker", "Docker 引擎安装", "Debian Docker 配置", "Docker GPG 密钥", "Docker CE 安装步骤"]
+tags: ["Docker", "Debian", "Linux"]
+description: "在Debian 11系统上通过官方APT仓库安装Docker引擎，包含GPG密钥配置、仓库添加和安装验证的完整步骤。"
 categories: ["code"]
-heading: "docker-on-debian11"
 date: "2023-05-24"
 ---
 要在 Debian 上安装 Docker，请按照以下步骤：
@@ -51,5 +50,5 @@ apt install -y docker-ce docker-ce-cli containerd.io
 docker run hello-world
 ```
 
-如果成功安装， 将会输出“Hello from Docker!”
+如果成功安装， 将会输出"Hello from Docker!"
 

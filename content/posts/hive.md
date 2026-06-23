@@ -1,10 +1,9 @@
 ---
-title: "使用hive对hbase数据进行统计分析"
-keywords: ["教程", "hive", "hbase", "hdfs", "false", "ermission denied", "user", "root"]
-tags: ["教程", "hive", "hbase", "hdfs", "false", "ermission denied", "user", "root"]
-description: "成功安装hive后输入hive进入命令行环境"
+title: "使用Hive分析HBase数据"
+keywords: ["Hive教程", "HBase数据分析", "Hive整合HBase", "Hive建表", "大数据查询"]
+tags: ["教程", "Hive", "HBase"]
+description: "介绍如何使用Hive对HBase中的数据进行统计分析，包括创建外部表、关联HBase表和SQL查询操作的完整步骤。"
 categories: ["code"]
-heading: "使用hive对hbase数据进行统计分析"
 date: "2019-09-09T08:34:33.270Z"
 ---
 成功安装hive后输入`hive`进入命令行环境

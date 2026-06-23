@@ -1,10 +1,10 @@
 ---
-title: "使用Miniconda创建多个python虚拟环境"
-keywords: ["教程", "Miniconda教程", "python虚拟环境", "python", "虚拟环境", "Miniconda", "Conda", "Ruby"]
-tags: ["教程", "Miniconda教程", "python虚拟环境", "python", "虚拟环境", "Miniconda", "Conda", "Ruby"]
-description: "前言 Conda 基于 Python 开发，是一个开源、跨平台、语言无关的包管理与环境管理系统。"
-categories: ["code"]
+title: "Miniconda创建Python虚拟环境"
 heading: "python虚拟环境"
+keywords: ["Miniconda教程", "Python虚拟环境", "conda镜像加速", "Miniconda安装配置"]
+tags: ["Python", "Miniconda", "虚拟环境"]
+description: "使用Miniconda创建多个Python虚拟环境，包括macOS和CentOS安装步骤及国内镜像加速配置。"
+categories: ["code"]
 date: "2018-08-20T03:32:41.354Z"
 ---
 ## 前言

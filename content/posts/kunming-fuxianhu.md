@@ -1,10 +1,9 @@
 ---
-title: "kunming-fuxianhu"
-keywords: ["教程", "抚仙湖旅游攻略", "kunming fuxianhu", "kunming", "fuxianhu"]
-tags: ["教程", "抚仙湖旅游攻略", "kunming fuxianhu"]
-description: "云南省玉溪市抚仙湖景区"
+title: "抚仙湖旅游攻略"
+keywords: ["抚仙湖旅游攻略", "昆明周边游", "抚仙湖自驾", "玉溪景点", "云南自由行"]
+tags: ["抚仙湖", "旅游", "自驾"]
+description: "抚仙湖旅游攻略，涵盖景点门票价格、开放时间和自驾路线，带你玩转云南玉溪抚仙湖北岸、东岸和孤山岛等主要景区。"
 categories: ["code"]
-heading: "抚仙湖旅游攻略"
 date: "2021-08-15T09:37:31.263Z"
 ---
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1629021617491.png)
@@ -41,6 +40,7 @@ date: "2021-08-15T09:37:31.263Z"
 
 
 
+	
 
 8.30 出门，
 

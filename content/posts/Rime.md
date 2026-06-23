@@ -1,8 +1,8 @@
 ---
-title: "在 mac 上使用 Rime 开源输入法"
-keywords: ["教程", "Rime", "mac", "Ctrl"]
-tags: ["教程", "Rime", "mac", "Ctrl"]
-description: "Rime 输入法"
+title: "Mac使用Rime输入法"
+keywords: ["Rime输入法", "Mac输入法", "开源输入法", "鼠须管", "中州韵"]
+tags: ["Rime", "输入法", "Mac"]
+description: "在macOS上安装和使用Rime开源输入法的详细教程，包括通过Homebrew安装和配置输入方案切换。"
 categories: ["code"]
 heading: "在 mac 上使用 Rime 开源输入法"
 date: "2024-01-04T11:47:01.394Z"

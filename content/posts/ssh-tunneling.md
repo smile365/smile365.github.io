@@ -1,10 +1,10 @@
 ---
-title: "使用SSH隧道实现内网穿透教程"
-keywords: ["教程", "SSH tunneling", "内网穿透", "ssh 隧道", "ssh", "redis", "localhost", "web", "tunneling"]
-tags: ["教程", "SSH tunneling", "内网穿透", "ssh 隧道", "ssh", "redis", "localhost", "web"]
-description: "不安装任何软件，使用 ssh 即可实现内网穿透。"
+title: "SSH隧道内网穿透教程"
+keywords: ["SSH隧道", "内网穿透教程", "SSH反向代理", "远程端口转发", "本地调试", "微信公众号开发"]
+tags: ["SSH", "内网穿透", "隧道"]
+description: "使用SSH隧道实现内网穿透的完整教程，无需安装任何额外软件，适用于远程调试和访问内网服务。"
 categories: ["code"]
-heading: "无需任何软件实现内网穿透"
+heading: "无需任何软件实现SSH内网穿透"
 date: "2020-05-20T01:16:16.583Z"
 ---
 情景1：本地直接连接远程服务

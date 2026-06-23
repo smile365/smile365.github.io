@@ -1,10 +1,10 @@
 ---
-title: "秒级别安装 acme.sh 获取 ssl 证书的另类方式"
-keywords: ["教程", "国内快速秒级安装", "ssl", "bash apt install", "y socat #", "install", "acme"]
-tags: ["教程", "国内快速秒级安装", "ssl"]
-description: "acme.sh 的另类安装方式"
+title: "国内快速安装acme.sh"
+heading: "国内秒级安装acme.sh获取免费SSL证书教程"
+keywords: ["acme.sh国内安装", "免费SSL证书申请", "acme.sh镜像安装", "HTTPS证书教程", "acme.sh使用方法"]
+tags: ["acme.sh", "SSL证书", "安装教程"]
+description: "解决国内网络访问GitHub慢的问题，提供acme.sh快速安装方法以及使用acme.sh申请免费SSL证书的完整教程。"
 categories: ["code"]
-heading: "国内快速秒级安装acme.sh"
 date: "2021-03-17T07:28:17.467Z"
 ---
 ## 安装
@@ -54,5 +54,3 @@ acme.sh --install-cert -d sxy21.cn \
 # 检查定时任务
 crontab  -l
 ```
-
-

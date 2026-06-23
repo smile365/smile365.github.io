@@ -1,10 +1,9 @@
 ---
-title: "hongkong-stock"
-keywords: ["生活", "港股买卖废单机制", "hongkong stock", "hongkong", "stock"]
-tags: ["生活", "港股买卖废单机制", "hongkong stock"]
-description: "最小变动单位：每个股票的最小变动单位不同，交易时实时显示。"
+title: "港股买卖废单机制"
+keywords: ["港股交易规则", "港股废单机制", "港股下单", "港股价格限制", "港股限价单"]
+tags: ["港股", "交易", "规则"]
+description: "详解港股买卖废单机制，包括最小变动单位、价格限制规则以及增强限价单、特别限价单等三种订单类型的适用范围。"
 categories: ["life"]
-heading: "港股买卖废单机制"
 date: "2021-02-04T02:49:43.722Z"
 ---
 最小变动单位：每个股票的最小变动单位不同，交易时实时显示。

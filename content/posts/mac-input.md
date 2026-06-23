@@ -1,10 +1,9 @@
 ---
-title: "mac双拼快速输入技术符号"
-keywords: ["教程", "code", "it", "双拼快速输入技术符号", "mac", "command", "option", "shift", "input"]
-tags: ["教程", "code", "it", "双拼快速输入技术符号", "mac", "command", "option", "shift"]
-description: "mac技术符号如下： - ⌘（command） - ⌥（option） - ⇧（shift） - ⇪（caps lock） - ⌃（control） - ↩（return） -."
+title: "Mac双拼快速输入技术符号"
+keywords: ["Mac双拼输入法", "技术符号输入", "百度输入法自定义短语", "Mac快捷键符号"]
+tags: ["Mac", "双拼", "输入法"]
+description: "在Mac上使用百度输入法双拼模式快速输入⌘、⌥、⇧等技术符号的自定义短语配置方法。"
 categories: ["code"]
-heading: "mac双拼快速输入技术符号"
 date: "2018-07-20T06:07:13.544Z"
 draft: "true"
 series: ["blog"]

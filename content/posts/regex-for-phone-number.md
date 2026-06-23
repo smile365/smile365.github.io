@@ -1,8 +1,8 @@
 ---
 title: "最新手机号正则(2020年)"
-keywords: ["教程", "手机号正则", "手机号正则java", "手机号正则js", "手机号正则javascript", "正则", "JavaScript", "手机号", "XX YYYY ZZZZ", "YYYY"]
-tags: ["教程", "手机号正则", "手机号正则java", "手机号正则js", "手机号正则javascript", "正则", "JavaScript", "手机号"]
-description: "国内的手机号一般11位，手机号码正则表达式写法比较特殊。如何写js正则表达式手机号，和如何写java手机号正则表达式。"
+keywords: ["手机号正则表达式", "手机号验证", "js正则手机号", "java手机号正则", "正则匹配手机号"]
+tags: ["正则", "手机号", "JavaScript"]
+description: "国内手机号最新正则匹配方法，包含中国移动、联通、电信等各运营商号段及JS和Java版本的验证规则。"
 categories: ["code"]
 heading: "2020年手机号最新正则"
 date: "2018-01-20"

@@ -1,10 +1,9 @@
 ---
-title: "spring boot从入门到放弃"
-keywords: ["阅读", "生活", "idea", "到放弃", "spring boot", "web", "Servlet", "controller", "Servlet controller", "springboot"]
-tags: ["阅读", "生活", "idea", "到放弃", "spring boot", "web", "Servlet", "controller"]
-description: "web服务器/Servlet容器/Servlet"
+title: "Spring Boot从入门到放弃"
+keywords: ["Spring Boot教程", "Java Web开发", "Spring入门", "Servlet容器", "Maven配置", "自动配置"]
+tags: ["Spring Boot", "Java", "教程"]
+description: "Spring Boot从入门到放弃的学习笔记，涵盖环境搭建、Controller注解、依赖注入、自动配置和项目打包等核心内容。"
 categories: ["read"]
-heading: "spring boot从入门到放弃"
 date: "2020-04-07T02:45:56.177Z"
 draft: "true"
 ---

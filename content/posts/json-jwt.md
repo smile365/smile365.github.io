@@ -1,10 +1,10 @@
 ---
-title: "傻傻分不清楚JWT\\\\\\\\JWE\\\\\\\\JWS\\\\\\\\JWK\\\\\\\\JWKS分别是什么"
-keywords: ["教程", "JWT", "JWE", "JWS", "JWK", "JWKS", "JWA", "JSON Web Key", "json"]
-tags: ["教程", "JWT", "JWE", "JWS", "JWK", "JWKS", "JWA", "JSON Web Key"]
-description: "JSON Web Toke,json-jwt"
+title: "JWT JWE JWS JWK JWKS详解"
+keywords: ["JWT详解", "JSON Web Token", "JWE JWS区别", "JWK JWKS", "Token鉴权"]
+tags: ["JWT", "JWE", "JWS", "JWK", "鉴权"]
+description: "一文搞懂JWT、JWE、JWS、JWK、JWKS这几个JSON Web相关概念的区别和联系。"
 categories: ["code"]
-heading: "傻傻分不清楚JWT\\\\\\\\JWE\\\\\\\\JWS\\\\\\\\JWK\\\\\\\\JWKS分别是什么"
+heading: "傻傻分不清楚JWT、JWE、JWS、JWK、JWKS分别是什么"
 date: "2021-06-30T10:28:12.372Z"
 grammar_mathjax: "true"
 ---
@@ -24,7 +24,7 @@ grammar_mathjax: "true"
 
 
 ## JWT 是什么
-先来看下 JWT，它其实是由两个点“.”分隔成三段的一串字符串:
+先来看下 JWT，它其实是由两个点"."分隔成三段的一串字符串:
 ```
 # 头部说明.数据体.签名
 header.payload.signature
@@ -92,9 +92,9 @@ data = base64urlEncode( header ) + "." + base64urlEncode( payload );
 
 因为别人不知道我服务器用的是哪种规则，所以也就无法伪造了。
 
-上面的规则看似别人不知道，其实想“猜”出来很简单，稍微聪明一点的人使用统计学和密码学相关知识，估计一周不到就能比较出来。
+上面的规则看似别人不知道，其实想"猜"出来很简单，稍微聪明一点的人使用统计学和密码学相关知识，估计一周不到就能比较出来。
 
-那有没有一种规则实现简单且理论上无法“猜”出来呢，这就需要用到哈希算法和非对称加密算法。
+那有没有一种规则实现简单且理论上无法"猜"出来呢，这就需要用到哈希算法和非对称加密算法。
 
 ## 哈希算法
 
@@ -168,13 +168,13 @@ header、payload 其实都是 json 数据，header 描述了 signature 使用了
 
 
 
-
 既然谁都可以方便的造出一个格式相符的 token ，那么服务器怎么验证这个 token 确实是服务器发出去的呢？，答案就是 signature 。
 
-用 token 中第二个“.”前面的数据和服务器签发时的密码做一次哈西运算，如果结果与第三段的 signature 就证明是自己签发的。
+用 token 中第二个"."前面的数据和服务器签发时的密码做一次哈西运算，如果结果与第三段的 signature 就证明是自己签发的。
 ```
 Hash(header+"."+payload,secret) =? signature
 ```
+
 
 
 
@@ -224,6 +224,7 @@ RSA 模量 (n）
 
 
 
+
 JWK 可以表示密钥，即可以表示公钥或私钥，也可同时表示公钥和私钥。
 
 提到公钥或私钥就不得不说非对称加密，这是一种特殊的算法。
@@ -247,7 +248,7 @@ fy(公钥,n)=message
 - [RSA算法原理（二）](http://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html)
 - [Jwt+RSA非对称加密](https://www.huaweicloud.com/articles/e48fb83c6e0e13d1c0fec2f9341590e9.html)
 - [HS256、RS256 及 ES256](https://www.cnblogs.com/kirito-c/p/12402066.html)
-- [JWTs? JWKs? ‘kid’s? ‘x5t’s? Oh my!](https://redthunder.blog/2017/06/08/jwts-jwks-kids-x5ts-oh-my/)
+- [JWTs? JWKs? 'kid's? 'x5t's? Oh my!](https://redthunder.blog/2017/06/08/jwts-jwks-kids-x5ts-oh-my/)
 - [JWTs: Which Signing Algorithm Should I Use?](https://www.scottbrady91.com/JOSE/JWTs-Which-Signing-Algorithm-Should-I-Use)
 - [JSON Web Signatures, KIDs and Thumbprints: Sticking to Standards](https://developer.forgerock.com/docs/platform/how-tos/json-web-signatures-kids-and-thumbprints-sticking-standards)
 - [RW 的 JWS 签名算法](https://bitbucket.org/openid/fapi/issues/101/jws-signature-algorithms-for-rw)

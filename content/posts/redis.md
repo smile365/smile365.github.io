@@ -1,10 +1,9 @@
 ---
 title: "redis安装"
-keywords: ["教程", "redis", "AOF", "install redis from", "REMI", "vim", "etc", "redis cli config"]
-tags: ["教程", "redis", "AOF", "install redis from", "REMI", "vim", "etc", "redis cli config"]
-description: "安装最新版redis请参考install-redis-from-REMI"
+keywords: ["redis安装教程", "redis配置", "redis AOF持久化", "redis安全配置", "linux安装redis"]
+tags: ["redis", "安装", "AOF"]
+description: "在Linux系统上安装并配置Redis的详细教程，包括AOF持久化、安全认证和性能优化配置。"
 categories: ["code"]
-heading: "redis安装"
 date: "2019-04-12T01:50:53.440Z"
 ---
 安装最新版redis请参考[install-redis-from-REMI](https://computingforgeeks.com/how-to-install-latest-redis-on-centos-7/)

@@ -1,10 +1,9 @@
 ---
-title: "debian-11-vanus"
-keywords: ["教程", "ssh", "debian 11 vanus", "debian", "pve", "ct", "debian 11", "dhcp", "vanus"]
-tags: ["教程", "ssh", "debian 11 vanus", "debian", "pve", "ct", "debian 11", "dhcp"]
-description: "环境准备 **准备 debian 系统** 1. 使用 pve 的 ct 模板安装一个 debian 11 系统 2. 安装是网络选择 dhcp 3. 开通 root 的 ss."
+title: "Debian 11 环境准备"
+keywords: ["Debian 11 安装配置", "PVE CT 模板", "Kubesphere 安装 Kubernetes", "Kubernetes 集群部署", "Debian 清华源配置"]
+tags: ["Debian", "K8s", "Kubesphere"]
+description: "在PVE中使用CT模板安装Debian 11系统，配置清华镜像源并借助Kubesphere一键部署Kubernetes集群。"
 categories: ["code"]
-heading: "debian-11-vanus"
 date: "2022-10-27T07:58:30.901Z"
 ---
 ## 环境准备
@@ -57,5 +56,4 @@ kubectl logs -n kubesphere-system $(kubectl get pod -n kubesphere-system -l 'app
 
 ## 配置 dockerhub 加速器
 参考[文档](https://kubesphere.io/zh/docs/v3.3/faq/installation/configure-booster/)
-
 

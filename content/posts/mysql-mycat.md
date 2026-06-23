@@ -1,10 +1,9 @@
 ---
-title: "在docker环境下实用mycat搭建mysql高可用集群"
-keywords: ["教程", "mysql", "docker", "mycat", "keepalived", "push", "stock", "news"]
-tags: ["教程", "mysql", "docker", "mycat", "keepalived", "push", "stock", "news"]
-description: "mysql高可用，在docker环境下实用mycat搭建mysql高可用集群"
+title: "Docker下Mycat搭建MySQL高可用集群"
+keywords: ["MySQL高可用集群", "Mycat负载均衡", "Docker部署MySQL", "Keepalived高可用", "数据库集群搭建"]
+tags: ["MySQL", "Mycat", "Docker", "高可用"]
+description: "在Docker环境下使用Mycat和Keepalived搭建MySQL高可用集群，实现读写分离与故障转移。"
 categories: ["code"]
-heading: "在docker环境下实用mycat搭建mysql高可用集群"
 date: "2020-06-28T09:35:49.503Z"
 ---
 mysql高可用架构图：
@@ -57,11 +56,3 @@ docker：方便安装多个mysql，对mysql进行虚拟化。
 
 最短耗时预计需要1天。
 
-
-
-
-把从库迁移到新的服务器，
-
-，需要重新搭建高可用集群。
-处理步骤如下
-在keepalived

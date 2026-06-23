@@ -1,10 +1,9 @@
 ---
-title: "chatgpt 国内注册使用记录"
-keywords: ["教程", "国内注册使用记录", "chatgpt", "SwitchyOmega", "Bing ChatGPT", "gpt 4", "chatgpt ChatGPT"]
-tags: ["教程", "国内注册使用记录", "chatgpt", "SwitchyOmega", "Bing ChatGPT", "gpt 4", "chatgpt ChatGPT"]
-description: "准备 1. 梯子（全局） 2. 美国手机号（sms-activate."
+title: "ChatGPT国内注册与使用教程"
+keywords: ["ChatGPT国内注册", "OpenAI注册教程", "ChatGPT使用教程", "ChatGPT国内可用", "AI聊天机器人"]
+tags: ["ChatGPT", "OpenAI", "注册教程"]
+description: "详细记录在国内注册和使用ChatGPT的方法，包括准备VPN全局代理、获取美国手机号验证码等完整操作步骤。"
 categories: ["code"]
-heading: "chatgpt 国内注册使用记录"
 date: "2023-03-15T08:41:25.425Z"
 ---
 准备

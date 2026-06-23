@@ -1,10 +1,9 @@
 ---
-title: "fund-day2"
-keywords: ["生活", "fund day2", "Qiong", "Ren", "FOF", "QDII", "fund", "day2"]
-tags: ["生活", "fund day2", "Qiong", "Ren", "FOF", "QDII"]
-description: "公募：能在网上买到的基金。 私募：只能去基金公司当面交易的基金。"
+title: "基金类型与购买渠道"
+keywords: ["基金类型", "公募基金", "私募基金", "股票型基金", "债券型基金", "基金购买渠道"]
+tags: ["基金", "公募基金", "私募基金"]
+description: "公募基金和私募基金的区别是什么，股票型、债券型、混合型基金各有什么特点，以及如何通过正规渠道购买基金。"
 categories: ["life"]
-heading: "fund-day2"
 date: "2021-01-18T11:11:47.761Z"
 draft: "true"
 ---
@@ -53,7 +52,6 @@ QDII：去买国外的资产。
 购买基金的渠道
 
 今日操作
-
 
 
 

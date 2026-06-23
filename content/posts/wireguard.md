@@ -1,10 +1,10 @@
 ---
-title: "wireguard"
-keywords: ["教程", "wireguard", "alpine", "etc", "ipv4", "iptables", "vim", "WireGuard alpine", "wireguard ##", "debian"]
-tags: ["教程", "wireguard", "alpine", "etc", "ipv4", "iptables", "vim", "WireGuard alpine"]
-description: "wireguard 内网穿透"
+title: "WireGuard内网穿透教程"
+keywords: ["WireGuard搭建", "内网穿透教程", "WireGuard多平台配置", "Debian WireGuard", "VPN搭建"]
+tags: ["WireGuard", "内网穿透", "VPN"]
+description: "从零开始教你搭建WireGuard VPN实现内网穿透，涵盖Debian服务器、Alpine中转和Mac客户端的完整配置步骤。"
 categories: ["code"]
-heading: "wireguard"
+heading: "WireGuard搭建内网穿透：Debian、Alpine、Mac多平台配置"
 date: "2021-12-16T02:20:30.706Z"
 ---
 ## 网络拓扑结构
@@ -315,16 +315,13 @@ systemctl enable wg-quick@wg0.service
 比如 192.168.1.3 这个 ip，路由器是 192.168.1.1 。
 那 192.168.1.0 ~ 192.168.1.255 就是一个子网。
 
-子网掩码就是 255.255.255.0 也就是前三个都是“外网”，只有最后一位才是内网。
+子网掩码就是 255.255.255.0 也就是前三个都是"外网"，只有最后一位才是内网。
 
 用二进制表示就是前 24 位都是 1
 
-所以用 192.168.1.3/24 就可以表示 192.168.1.3 的子网掩码是 255.255.255.0，因此 ip 与子网掩码可简写成“ip/数字”
+所以用 192.168.1.3/24 就可以表示 192.168.1.3 的子网掩码是 255.255.255.0，因此 ip 与子网掩码可简写成"ip/数字"
 
 所以局域网内的子网掩码一般为 24 或 255.255.255.0
-
-
-
 
 
 
@@ -343,9 +340,8 @@ systemctl enable wg-quick@wg0.service
 
 
 
-
 参考文章
-- [WireGuard: How to access a peer’s local network](https://iliasa.eu/wireguard-how-to-access-a-peers-local-network/)
+- [WireGuard: How to access a peer's local network](https://iliasa.eu/wireguard-how-to-access-a-peers-local-network/)
 - [wireGuard 安装和配置过程](https://ggqshr.github.io/2020-12-21/wireGuard%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE%E8%BF%87%E7%A8%8B/)
 - [使用 wireguard 访问公司内网](https://qtdebug.com/mac-vpn-forward/)
 - [WireGuard 教程：使用 DNS-SD 进行 NAT-to-NAT 穿透](https://xie.infoq.cn/article/3f68cde0163b359b13fa1a8f0)

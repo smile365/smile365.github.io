@@ -1,10 +1,9 @@
 ---
-title: "类似飞书的开源多维表格 nocodb 搭建"
-keywords: ["教程", "docker", "nocodb", "apitable", "docker compose", "Airtable", "AFFiNE", "AppFlowy Notion", "multidimensional", "table"]
-tags: ["教程", "docker", "nocodb", "apitable", "docker compose", "Airtable", "AFFiNE", "AppFlowy Notion"]
-description: "搭建属于自己的在线多维表格"
+title: "开源多维表格nocodb搭建"
+keywords: ["开源多维表格", "nocodb搭建", "飞书替代", "apitable安装", "Docker部署", "Airtable替代"]
+tags: ["nocodb", "apitable", "多维表格"]
+description: "使用Docker搭建类似飞书的开源多维表格nocodb，实现私有化在线数据管理。"
 categories: ["code"]
-heading: "类似飞书的开源多维表格 nocodb 搭建"
 date: "2023-03-10T03:14:00.609Z"
 ---
 某些私密的数据不适合放在网上
@@ -21,6 +20,7 @@ docker run -d --name nocodb -p 30303:8080 nocodb/nocodb:latest
 vika.cn 维格表的社区版，地表至强的开源低代码、多维表格工具，Airtable 的开源免费替代。
 
 可使用 [安装脚本](https://gitee.com/apitable/APITable#%E5%AE%89%E8%A3%85) 一键安装 [apitable](https://github.com/apitable/apitable/blob/develop/docs/readme/zh-CN/README.md#%E5%AE%89%E8%A3%85)
+
 
 
 

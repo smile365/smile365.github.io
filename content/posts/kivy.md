@@ -1,10 +1,9 @@
 ---
-title: "用python开发app是什么体验"
-keywords: ["阅读", "code", "it", "python", "用 开发", "体验", "app", "kivy", "apk"]
-tags: ["阅读", "code", "it", "python", "用 开发", "体验", "app", "kivy"]
-description: "构建成apk** 构建所需的环境比较复杂，官方提供了打包好的虚拟镜像。"
+title: "Python Kivy开发App体验"
+keywords: ["Python开发App", "Kivy框架", "Python移动端", "Kivy APK打包", "Python Android"]
+tags: ["Python", "Kivy", "App开发", "移动开发"]
+description: "用Python Kivy框架开发Android App的体验分享，包含环境搭建、代码示例和APK打包步骤。"
 categories: ["read"]
-heading: "用python开发app是什么体验"
 date: "2019-05-17T04:53:01.726Z"
 ---
 **安装kivy **

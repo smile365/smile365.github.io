@@ -1,10 +1,10 @@
 ---
-title: "install-nodejs"
-keywords: ["教程", "nodejs", "npm", "install nodejs", "debian 11", "NVM", "yarn", "cat", "install nodejs ##", "etc"]
-tags: ["教程", "nodejs", "npm", "install nodejs", "debian 11", "NVM", "yarn", "cat"]
-description: "debian 11 : cat /etc/os-release ,清华源"
+title: "Debian安装Node.js教程"
+heading: "Debian 11使用NVM安装和管理Node.js多版本"
+keywords: ["Debian安装Node.js", "NVM使用教程", "Node.js版本管理", "Linux安装npm", "Debian 11 Node.js"]
+tags: ["Node.js", "Debian", "NVM"]
+description: "在Debian 11系统上使用NVM（Node Version Manager）安装和管理多个Node.js版本的详细教程。"
 categories: ["code"]
-heading: "install-nodejs"
 date: "2023-02-21T03:09:00.239Z"
 ---
 ## 系统环境
@@ -57,57 +57,3 @@ npm -v
 yarn --version
 # 0.32+git
 ```
-
-## 安装 yarn
-```bash
-apt remove cmdtest
-apt autoremove yarn
-curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
-echo "deb https://dl.yarnpkg.com/debian/ stable main" |tee /etc/apt/sources.list.d/yarn.list
-apt update
-apt install yarn
-yarn --version
-# 1.22.19
-yarn config get registry
-# https://registry.npm.taobao.org/
-```
-
-
-## 配置 npm/yarn 镜像源
-nodejs 的 npm 比较慢，可以配置成阿里巴巴的 [npm 镜像](https://npmmirror.com/)
-```bash
-# 通过 npm 安装 cnpm
-npm install -g cnpm --registry=https://registry.npm.taobao.org
-# 使用 cnpm 代替 npm 命令
-cnpm install [name]
-# 也可以直接执行以下命令，将镜像地址改为淘宝的 npm 镜像地址
-npm config set registry https://registry.npm.taobao.org
-```
-
-## 使用 nrm/yrm 管理 npm/yarn 镜像源
- [nrm](https://github.com/Pana/nrm) & [yrm](https://github.com/i5ting/yrm)
-```bash
-npm install -g yrm
-yrm ls
-yrm use taobao
-```
-
-
-
-## 遇到的问题 
-1. GnuTLS recv error
-linux 版本的 NVM 使用 GnuTLS，与 github 的 ssl 版本不兼容，关闭 ssl 即可。
-```bash
-# GnuTLS recv error (-110): The TLS connection was non-properly terminated.
-apt install -y gnutls-bin
-git config --global http.sslVerify false
-git config --global http.postBuffer 1048576000
-```
-
-
-## 参考文档
-- [在 Debian 11 上安装 NVM](https://www.yundongfang.com/Yun75426.html)
-- [解决 githubusercontent 443 问题](https://github.com/hawtim/hawtim.github.io/issues/10)
-- [GnuTLS recv error (-110) 错误](https://blog.csdn.net/weixin_43108793/article/details/118306045)
-- [yarn 修改镜像源](https://juejin.cn/post/6844903889087496200)
-- [NVM 使用淘宝镜像](https://www.chenky.com/archives/746)

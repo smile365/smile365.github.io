@@ -1,10 +1,9 @@
 ---
-title: "小米路由器 4a 千兆版刷 openwrt"
-keywords: ["教程", "小米路由器 千兆版刷", "dns", "ChinaDNS", "openwrt", "releases", "ss", "shadowsocks libev", "openwrt ##", "shadowsocks libev ss"]
-tags: ["教程", "小米路由器 千兆版刷", "dns", "ChinaDNS", "openwrt", "releases", "ss", "shadowsocks libev"]
-description: "环境： - 硬件：小米路由器 4a 千兆版 - 固件版本：openwrt-22.03.2"
+title: "小米路由器4A刷OpenWrt"
+keywords: ["小米路由器刷OpenWrt", "路由器科学上网", "shadowsocks配置", "ChinaDNS安装", "OpenWrt翻墙教程"]
+tags: ["OpenWrt", "小米路由器", "shadowsocks"]
+description: "本文详细讲解小米路由器4A千兆版刷OpenWrt固件，配置shadowsocks和ChinaDNS实现透明代理科学上网的完整步骤。"
 categories: ["code"]
-heading: "小米路由器 4a 千兆版刷 openwrt"
 date: "2022-10-18T08:58:26.402Z"
 ---
 ## 前言

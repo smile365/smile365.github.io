@@ -1,10 +1,10 @@
 ---
-title: "js获取和设置cookies"
-keywords: ["教程", "pyppeteer", "JavaScript", "获取", "设置", "cookies", "js", "user"]
-tags: ["教程", "pyppeteer", "JavaScript", "获取", "设置", "cookies", "js", "user"]
-description: "部分网站需要cookies才能显示特定信息，比如不登录的情况下看不到`"
+title: "JS 与 Pyppeteer 操作 Cookies"
+keywords: ["JavaScript 设置 Cookies", "Pyppeteer Cookies", "爬虫 Cookies 设置", "Python 浏览器自动化", "网站 Cookies 获取"]
+tags: ["Cookies", "JavaScript", "Pyppeteer"]
+description: "详解使用JavaScript、Pyppeteer、Splash和request-html四种方式设置和获取网站Cookies的方法，适用于爬虫和自动化测试场景。"
+heading: "用JS、Pyppeteer、Splash和Request-HTML设置Cookies的方法"
 categories: ["code"]
-heading: "用js/pyppeteer/splash/request_html设置cookies的方法"
 date: "2020-07-30T01:46:47.778Z"
 ---
 部分网站需要cookies才能显示特定信息，比如不登录的情况下看不到`https://github.com/smile365`的邮箱信息。
@@ -23,7 +23,7 @@ document.cookie
 Cookies ="_octo=GH1.1.1911316843.1574215196; _ga=GA1.2.86110170.1574215236; _device_id=26f4400b5e70fff5b84f47da276ffe20; tz=Asia%2FShanghai; _gat=1; has_recent_activity=1; user_session=zORKjgUUZSzRcxjNm8BMHvEmQcMLLiG3dbPET-3NpGTRSB0R; __Host-user_session_same_site=zORKjgUUZSzRcxjNm8BMHvEmQcMLLiG3dbPET-3NpGTRSB0R; logged_in=yes; dotcom_user=sxy91;"
 c = Cookies.split(";")
 for(var i in c){
-	document.cookie = c[i].trim(); // 需要“name=value”的字符串形式
+	document.cookie = c[i].trim(); // 需要"name=value"的字符串形式
 }
 ```
 
@@ -57,50 +57,3 @@ if __name__ == '__main__':
 ```accesslog
 pyppeteer.errors.NetworkError: Protocol error (Network.deleteCookies): At least one of the url and domain needs to be specified
 ```
-
-解决方法
-> page.setCookie的必须要有domain,如：{'name': '_octo', 'value': 'GH1.', 'domain': '.sxy91.com'}
-
-若网页加载较慢，则在`用pyppeteer.page.goto`的参数中增加超时时间`{'timeout':60*1000}`,单位为毫秒。
-
-#### 使用splash设置cookies
-
-```python
-import requests
-
-Cookies ="_octo=GH1.1.1911316843.1574215196;_ga=GA1.2.86110170.1574215236;_device_id=26f4400b5e70fff5b84f47da276ffe20; "
-
-init_cookies= '''
-function main(splash, args)
-	splash:set_user_agent("%s")
-	splash:init_cookies({
-		%s
-	})
-	splash:go(args.url)
-    return splash:html()
-end
-'''
-
-cks = []
-for c in Cookies.split(";"):
-	v = c.split("=")
-	ck = '''{name="%s", value="%s",domain=".sxy91.com"}''' % (v[0].strip(),v[1].strip())
-	cks.append(ck)
-
-ckstr = ",".join(cks)
-
-lua_script = init_cookies %(useragent,ckstr)
-
-SPLASH_URL = 'http://127.0.0.1:8085/execute'
-
-def pageDownload(url):
-	payload = {'wait':2,'timeout':90,'url':url,'lua_source':lua_script}
-	r = requests.get(SPLASH_URL,params=payload)
-	log.info('pageDownload:{},{}',url,r.status_code)
-	if r.status_code == requests.codes.ok:
-		return r.text
-
-t = pageDownload("https://sxy91.com/posts/cookies/")
-print(t)
-```
-

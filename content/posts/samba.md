@@ -1,10 +1,9 @@
 ---
-title: "使用 samba 实现电视播放自己想看的高清电影"
-keywords: ["教程", "docker", "samba", "debian", "transmission", "jackett", "docker hub", "vnc server"]
-tags: ["教程", "docker", "samba", "debian", "transmission", "jackett", "docker hub", "vnc server"]
-description: "debian-samba"
+title: "使用 samba 实现电视播放高清电影"
+keywords: ["samba 安装教程", "电视播放电脑电影", "Linux 文件共享", "Docker samba", "家庭媒体服务器"]
+tags: ["samba", "电视播放", "文件共享"]
+description: "通过 samba 文件共享服务，让电视流畅播放电脑中的高清电影，打造家庭媒体中心。"
 categories: ["code"]
-heading: "使用 samba 实现电视播放自己想看的高清电影"
 date: "2022-04-30T08:04:25.258Z"
 ---
 收拾屋子找到一台旧电脑，内存 6g，搭建一个 debian 系统，安装 transmission 实现自动下载电影，安装 samba 让电视可以播放 debian 系统里的电影。

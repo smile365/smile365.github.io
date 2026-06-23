@@ -1,10 +1,9 @@
 ---
-title: "docker 运行 node web 服务"
-keywords: ["教程", "docker", "运行 服务", "node web", "node", "Dockerfile", "dockerignore", "run"]
-tags: ["教程", "docker", "运行 服务", "node web", "node", "Dockerfile", "dockerignore"]
-description: "docker-run-node-web"
+title: "Docker 运行 Node Web"
+keywords: ["Docker 部署 Node.js", "Node.js 容器化", "Dockerfile 编写", "Node Web 服务", "Docker 构建镜像"]
+tags: ["Docker", "Node.js", "Web开发"]
+description: "将Node.js Web应用容器化部署，从编写Dockerfile和.dockerignore到构建镜像并运行容器的完整流程。"
 categories: ["code"]
-heading: "docker 运行 node web 服务"
 date: "2021-03-24T07:26:58.543Z"
 ---
 进入 node 项目，文件结构如下：

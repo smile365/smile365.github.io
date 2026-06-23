@@ -1,10 +1,9 @@
 ---
-title: "CentOS 7/8 安装 libsodium 最新版教程"
-keywords: ["教程", "libsodium", "CentOS 7", "API", "load libsodium failed", "ShadowSocks", "ChaChaXXX", "NaCI"]
-tags: ["教程", "libsodium", "CentOS 7", "API", "load libsodium failed", "ShadowSocks", "ChaChaXXX", "NaCI"]
-description: "CentOS安装libsodium启用ss的chacha20等高级加密"
+title: "CentOS安装libsodium最新版"
+keywords: ["libsodium安装教程", "CentOS安装libsodium", "ShadowSocks加密", "ChaCha20", "加密库编译安装"]
+tags: ["libsodium", "CentOS", "加密"]
+description: "在CentOS 7/8上编译安装libsodium加密库最新版，解决ShadowSocks使用ChaCha20等高级加密算法时提示load libsodium failed的问题。"
 categories: ["code"]
-heading: "CentOS 7/8 安装 libsodium 最新版教程"
 date: "2021-07-06T03:55:01.640Z"
 ---
 ### 引言

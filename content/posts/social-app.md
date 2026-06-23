@@ -1,8 +1,8 @@
 ---
-title: "'[一个点子]--社交app的梦'"
-keywords: ["生活", "一个点子", "社交 的梦'", "app", "social app", "social"]
-tags: ["生活", "一个点子", "社交 的梦'", "app", "social app"]
-description: "大部分可能一辈子都找不到合适的另一半"
+title: "社交 App 的点子与设想"
+keywords: ["社交App创意", "社交产品设计", "陌生人社交", "App 构想", "产品经理想法"]
+tags: ["社交App", "产品想法"]
+description: "一个关于打破时空限制的社交 App 构想，让每个人都能找到属于自己的另一半。"
 categories: ["life"]
 heading: "social-app"
 date: "2021-04-28T05:08:08.826Z"

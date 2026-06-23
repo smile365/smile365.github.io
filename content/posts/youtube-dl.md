@@ -1,15 +1,14 @@
 ---
-title: "使用 youtube-dl 快速下载 油管视频"
-keywords: ["教程", "快速下载 油管视频", "youtube dl", "install youtube dl", "with Homebrew", "caused by URLError", "SSLCertVerificationError", "SSL", "youtube"]
-tags: ["教程", "快速下载 油管视频", "youtube dl", "install youtube dl", "with Homebrew", "caused by URLError", "SSLCertVerificationError", "SSL"]
-description: "安装 youtube-dl 按照官网教程 install youtube-dl with Homebrew 安装完，发现版本是最低的。"
+title: "使用youtube-dl快速下载油管视频"
+keywords: ["youtube-dl安装", "YouTube视频下载", "油管下载教程", "macOS安装youtube-dl", "SSLCertVerificationError解决"]
+tags: ["youtube-dl", "下载", "视频"]
+description: "在macOS上安装和使用youtube-dl下载YouTube视频，解决版本老旧、SSL证书验证错误和Python路径等问题。"
 categories: ["code"]
-heading: "使用 youtube-dl 快速下载 油管视频"
 date: "2024-09-16T16:50:27.816Z"
 draft: "true"
 ---
 ## 安装  youtube-dl
-按照官网教程 [install youtube-dl with Homebrew](https://github.com/ytdl-org/youtube-dl?tab=readme-ov-file#installation) 安装完，发现版本是最低的。且官方 [ Issue #30839](https://github.com/ytdl-org/youtube-dl/issues/30839) 说 2021 这个版本本身已经无法运行，是个有问题的版本。
+按照官网教程 [install youtube-dl with Homebrew](https://github.com/ytdl-org/youtube-dl?tab=readme-ov-file#installation) 安装完，发现版本是最低的。且官方 [ Issue #30839](https://github.com/ytdl-org/youtube-dl/issues/30839) 说 2021 这个版本本身已经无法运行，是个有问题的版本。
 ```bash
 brew install youtube-dl
 youtube-dl --version

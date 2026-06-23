@@ -1,10 +1,9 @@
 ---
-title: "autojs使用教程手册"
-keywords: ["教程", "autojs输入文字", "anto.js 切换应用", "auto.js 运行日志", "auto.js布局分析的使用方法", "autojs", "VS Code", "hyb1996"]
-tags: ["教程", "autojs输入文字", "anto.js 切换应用", "auto.js 运行日志", "auto.js布局分析的使用方法", "autojs", "VS Code", "hyb1996"]
-description: "如何用auto.js控制新浪微博和微信，自动点赞评论。"
+title: "Auto.js使用教程"
+keywords: ["Auto.js使用教程", "Auto.js安装", "Auto.js VSCode连接", "Auto.js脚本", "安卓自动化"]
+tags: ["Auto.js", "教程", "自动化"]
+description: "Auto.js从安装到使用的完整教程，包括VSCode连接手机调试、手机端运行脚本和项目打包的详细步骤。"
 categories: ["code"]
-heading: "autojs使用教程手册"
 date: "2019-07-08T01:28:44.819Z"
 ---
 [auto.js](https://hyb1996.github.io/AutoJs-Docs/#/)是hyb1996在上中山大学期间开发的一款手机辅助软件。
@@ -15,7 +14,7 @@ date: "2019-07-08T01:28:44.819Z"
 - Auto.js 7.0 pro：收费版，需要购买账号（不再更新，且关闭购买通道）
 - Auto.js 8.0 pro：收费版，需要购买账号（目前正式版本）
 
-> 可搜索微信公众号“下课了”，回复“autojs”获取以上各个版本的下载链接，若没有账号的同学请安装免费版。
+> 可搜索微信公众号"下课了"，回复"autojs"获取以上各个版本的下载链接，若没有账号的同学请安装免费版。
 
 在手机上写代码不方便，一般在电脑搭建auto.js环境。以下是Auto.js教程：
 

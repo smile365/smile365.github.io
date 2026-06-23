@@ -1,10 +1,9 @@
 ---
-title: "money"
-keywords: ["生活", "money"]
-tags: ["生活", "money"]
-description: "其实很简单，你去观察这份工作你能不能「积累资源」"
+title: "赚钱的判断标准"
+keywords: ["赚钱判断标准", "积累资源", "时间换钱", "收入来源", "职场认知"]
+tags: ["赚钱", "职场", "资源"]
+description: "判断一份工作值不值得做，关键在于能否积累资源而不是用时间换钱。"
 categories: ["life"]
-heading: "money"
 date: "2019-10-29T11:35:25.928Z"
 draft: "true"
 ---

@@ -1,10 +1,9 @@
 ---
-title: "使用u盘制作centos8的usb启动盘通过u盘安装系统"
-keywords: ["教程", "centos", "win32diskimager", "USB", "centos8", "UltraISO", "windows iso", "stream", "boot"]
-tags: ["教程", "centos", "win32diskimager", "USB", "centos8", "UltraISO", "windows iso", "stream"]
-description: "如何通过USB来安装CentOS ，"
+title: "CentOS 8 U盘启动盘制作教程"
+keywords: ["CentOS 8安装", "U盘启动盘制作", "win32diskimager使用", "CentOS USB安装", "Linux系统安装"]
+tags: ["CentOS", "U盘启动", "系统安装"]
+description: "详细教程教你使用win32diskimager制作CentOS 8的U盘启动盘，并通过USB启动安装CentOS操作系统的完整步骤。"
 categories: ["code"]
-heading: "使用u盘制作centos8的usb启动盘通过u盘安装系统"
 date: "2020-08-13T06:40:52.290Z"
 ---
 环境：windows
@@ -23,20 +22,20 @@ iso写入工具：UltraISO.exe或win32diskimager
     - dvd：最全。
 
 使用win32diskimager制作centos的u盘启动：
-- 击“映像文件”，可“选择一个磁盘映像”，在文件类型筛选时选择*.*，找到ios文件。
-- 软件会在“设备”位置会出现检测到的u盘，接着点击“写入”。
-- 点击“YES”开始写入数据。
-- 成功后，点击“OK”即可。
+- 击"映像文件"，可"选择一个磁盘映像"，在文件类型筛选时选择*.*，找到ios文件。
+- 软件会在"设备"位置会出现检测到的u盘，接着点击"写入"。
+- 点击"YES"开始写入数据。
+- 成功后，点击"OK"即可。
 
 
 使用UltraISO制作centos的u盘启动（失败）：  
 　　1、首先将U盘插入电脑的USB接口（重要提示：制作过程U盘会被格式化，注意备份资料）；
 　　2、打开UltraISO.exe程序（管理员方式）；
 　　4、在打开的UltraISO程序界面，找到并双击下载的.iso映像文件；
-　　5、然后在顶部菜单中选择“启动光盘”/“写入硬盘映像”；
-　　6、在“硬盘驱动器”项目中，选择你要制作成启动盘的U盘（软件默认选择U盘，不会对硬盘操作，大可放心）；
-　　7、在“写入方式”项目中选择“USB-HDD+”或“USB-ZIP+”（尝试选择，制作后能启动电脑为准）；
-　　8、最后，点击“写入”按钮，等待数秒，提示“刻录成功”后，点“返回”按钮退出，制作结束。
+　　5、然后在顶部菜单中选择"启动光盘"/"写入硬盘映像"；
+　　6、在"硬盘驱动器"项目中，选择你要制作成启动盘的U盘（软件默认选择U盘，不会对硬盘操作，大可放心）；
+　　7、在"写入方式"项目中选择"USB-HDD+"或"USB-ZIP+"（尝试选择，制作后能启动电脑为准）；
+　　8、最后，点击"写入"按钮，等待数秒，提示"刻录成功"后，点"返回"按钮退出，制作结束。
 
 
 

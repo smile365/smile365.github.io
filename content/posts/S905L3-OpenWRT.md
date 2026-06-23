@@ -1,10 +1,9 @@
 ---
 title: "电视盒子刷机成 OpenWRT"
-keywords: ["教程", "电视盒子刷机成", "adb", "OpenWRT", "usb", "fastboot", "armbian", "Android TV", "OpenWRT ##"]
-tags: ["教程", "电视盒子刷机成", "adb", "OpenWRT", "usb", "fastboot", "armbian", "Android TV"]
-description: "电视盒子刷 OpenWRT、U 盘启动。"
+keywords: ["电视盒子刷机", "OpenWRT 安装", "S905L3 刷机", "Android TV 刷机", "电视盒子改路由器"]
+tags: ["OpenWRT", "电视盒子", "刷机"]
+description: "详细教程教你将电视盒子刷机成 OpenWRT 系统，实现软路由或旁路网关功能。"
 categories: ["code"]
-heading: "电视盒子刷机成 OpenWRT"
 date: "2024-02-14T10:41:57.151Z"
 ---
 ## 前言

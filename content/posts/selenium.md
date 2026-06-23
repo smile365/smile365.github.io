@@ -1,10 +1,9 @@
 ---
-title: "Selenium与PhantomJS的使用"
-keywords: ["教程", "selenium", "PhantomJS", "Pyppeteer", "chrome", "drive", "api", "sdk"]
-tags: ["教程", "selenium", "PhantomJS", "Pyppeteer", "chrome", "drive", "api", "sdk"]
-description: "Selenium**：网页自动化测试工具(通过各个浏览器的drive控制浏览器的行为)，给开发者提供控制浏览器的api，类似于sdk。"
+title: "Selenium 与 PhantomJS 的使用"
+keywords: ["Selenium 教程", "PhantomJS 使用", "Python 自动化测试", "Chrome 驱动", "爬虫自动化"]
+tags: ["selenium", "PhantomJS", "自动化测试"]
+description: "Selenium 网页自动化测试工具与 PhantomJS 无头浏览器的安装和使用教程，含 Chrome 和服务器部署方案。"
 categories: ["code"]
-heading: "Selenium与PhantomJS的使用"
 date: "2018-08-27T05:37:22.077Z"
 ---
 **Selenium**：网页自动化测试工具(通过各个浏览器的drive控制浏览器的行为)，给开发者提供控制浏览器的api，类似于sdk。  

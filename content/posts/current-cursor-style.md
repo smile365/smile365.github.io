@@ -1,10 +1,9 @@
 ---
-title: "使用JavaScript获取当前鼠标的形状类型状态"
-keywords: ["教程", "JavaScript", "web", "get current mouse", "cursor type how", "to use javascript", "get current cursor", "style from browser", "current", "cursor"]
-tags: ["教程", "JavaScript", "web", "get current mouse", "cursor type how", "to use javascript", "get current cursor", "style from browser"]
-description: "how to use javascript get current cursor style from browser"
+title: "JS 获取鼠标形状类型"
+keywords: ["JavaScript 获取鼠标形状", "cursor 样式获取", "自动化测试工具", "鼠标事件监听", "web 自动化测试方案"]
+tags: ["JavaScript", "鼠标形状", "自动化测试"]
+description: "介绍如何使用JavaScript获取网页中鼠标光标形状类型，可应用于自动化测试中识别页面元素的可操作状态和区块类型。"
 categories: ["code"]
-heading: "使用JavaScript获取当前鼠标的形状类型状态"
 date: "2021-10-14T07:02:26.218Z"
 ---
 ### 概述

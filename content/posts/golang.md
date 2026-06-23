@@ -1,10 +1,9 @@
 ---
-title: "golang简明入门教程"
-keywords: ["教程", "centos", "golang", "mac", "test", "go mod", "brew", "mod"]
-tags: ["教程", "centos", "golang", "mac", "test", "go mod", "brew", "mod"]
-description: "在test目录下新建文件hello.go"
+title: "Golang简明入门教程"
+keywords: ["golang入门", "go语言安装", "go mod配置", "centos安装go", "mac安装go"]
+tags: ["Golang", "Go", "编程入门"]
+description: "Go 语言的快速入门指南，涵盖 CentOS 和 Mac 系统的安装方法、Go Modules 配置以及第一个 Hello World 项目的创建。"
 categories: ["code"]
-heading: "golang简明入门教程"
 date: "2019-07-26T05:45:19.158Z"
 ---
 centos

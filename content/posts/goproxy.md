@@ -1,10 +1,9 @@
 ---
-title: "在树莓派上安装goproxy实现内容穿透和反向代理"
-keywords: ["教程", "反向代理", "goproxy", "linux centos", "tserver", "tclient", "tbridge", "proxy bridge p", "bash"]
-tags: ["教程", "反向代理", "goproxy", "linux centos", "tserver", "tclient", "tbridge", "proxy bridge p"]
-description: "使用 goproxy 实现树莓派3b的内网穿透。"
+title: "树莓派安装Goproxy内网穿透"
+keywords: ["树莓派内网穿透", "goproxy安装", "内网穿透教程", "反向代理", "树莓派3b"]
+tags: ["树莓派", "内网穿透", "Goproxy"]
+description: "在树莓派 3B 上安装 Goproxy 实现内网穿透和反向代理的详细教程，包含公网服务器和树莓派的安装配置及常见错误解决方法。"
 categories: ["code"]
-heading: "在树莓派上安装goproxy实现内容穿透和反向代理"
 date: "2019-07-16T02:09:37.404Z"
 ---
 使用 [goproxy](https://github.com/snail007/goproxy/blob/master/README_ZH.md#4%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F) 实现树莓派3b的内网穿透。

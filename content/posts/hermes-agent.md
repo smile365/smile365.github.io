@@ -1,10 +1,9 @@
 ---
-title: "hermes-agent"
-keywords: ["教程", "hermes agent", "ghostty", "hermes", "Voice", "Images", "Files", "Threads", "hermes agent ##", "agent"]
-tags: ["教程", "hermes agent", "ghostty", "hermes", "Voice", "Images", "Files", "Threads"]
-description: "试用一下 hermes-agent，文档会持续更新。"
+title: "Hermes Agent 使用指南"
+keywords: ["Hermes Agent", "AI Agent安装", "飞书AI", "开源AI代理", "终端AI助手"]
+tags: ["Hermes", "AI", "Agent"]
+description: "Hermes-Agent是一款开源AI代理工具，支持飞书、微信等消息平台，本文记录了详细的安装和配置过程。"
 categories: ["code"]
-heading: "hermes-agent"
 date: "2026-06-04T11:59:28.418Z"
 ---
 ## 前言

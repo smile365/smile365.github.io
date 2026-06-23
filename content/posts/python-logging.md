@@ -1,10 +1,9 @@
 ---
-title: "python日志"
-keywords: ["教程", "logging", "python", "日志", "python logging"]
-tags: ["教程", "logging", "python", "日志", "python logging"]
-description: "Python之日志处理（logging模块） - python-logging"
+title: "Python 日志模块使用教程"
+keywords: ["Python logging 模块", "Python 日志配置", "logging 基本配置", "日志格式设置"]
+tags: ["Python", "日志", "logging"]
+description: "介绍 Python logging 模块的基本配置方法，包括日志级别、格式化和日期格式的设置，快速实现程序日志输出。"
 categories: ["code"]
-heading: "python日志"
 date: "2018-08-07T07:34:37.512Z"
 draft: "true"
 ---

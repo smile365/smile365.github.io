@@ -1,10 +1,9 @@
 ---
-title: "公众号排版简明手册指南教程"
-keywords: ["生活", "微信公众号排版", "公众号排版", "app", "WeChat Official Accounts", "WeChat", "Official", "Accounts"]
-tags: ["生活", "微信公众号排版", "公众号排版", "app", "WeChat Official Accounts"]
-description: "WeChat Official Accounts"
+title: "微信公众号排版简明指南"
+keywords: ["微信公众号排版", "公众号排版工具", "微信文章排版技巧", "公众号排版教程"]
+tags: ["公众号排版", "排版技巧"]
+description: "微信公众号文章排版简明指南，涵盖行间距、字间距、字号等核心参数设置，推荐免费图库素材和封面图设计工具。"
 categories: ["life"]
-heading: "公众号排版简明手册指南教程"
 date: "2020-04-10T04:57:14.023Z"
 ---
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1586498036802.png)
@@ -30,7 +29,7 @@ date: "2020-04-10T04:57:14.023Z"
  - 微信公众号app下载
  - 微信公众号助手app
 
-后台回复“进群”，我加你进入微信群，一起分享微信公众号有关的
+后台回复"进群"，我加你进入微信群，一起分享微信公众号有关的
  - 方法
  - 指南
  - 教程
@@ -57,4 +56,4 @@ date: "2020-04-10T04:57:14.023Z"
  - http://www.gettyimages.com/
 
 
-如果需要简单的设计封面图，可以微信搜索“下课了”，后台回复“封面”，获取傻瓜式的设计工具。比如本文的首页图。
+如果需要简单的设计封面图，可以微信搜索"下课了"，后台回复"封面"，获取傻瓜式的设计工具。比如本文的首页图。

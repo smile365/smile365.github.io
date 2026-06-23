@@ -1,10 +1,9 @@
 ---
-title: "交了5000元智商税后，在副业这条路上我学会了什么"
-keywords: ["生活", "交了 元智商税后", "Bess Hamiti", "FBI", "sideline"]
-tags: ["生活", "交了 元智商税后", "Bess Hamiti", "FBI"]
-description: "交了很多智商税，讲讲那些年犯过的错。"
+title: "交了5000元智商税后我学会了什么"
+keywords: ["副业经历", "副业避坑", "网上赚钱教程", "新手副业推荐", "个人成长反思"]
+tags: ["副业", "智商税", "个人成长"]
+description: "花了5000元买来的副业教训，告诉你为什么教人赚钱比赚钱本身更赚钱，以及如何找到适合自己的副业方向。"
 categories: ["life"]
-heading: "交了5000元智商税后，在副业这条路上我学会了什么"
 date: "2020-02-10T09:28:17.204Z"
 ---
 ![题图： Bess Hamiti](https://gitee.com/smile365/blogimg/raw/master/sxy91/1581391960460.png)

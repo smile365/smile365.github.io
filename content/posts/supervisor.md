@@ -1,10 +1,9 @@
 ---
-title: "supervisor"
-keywords: ["教程", "code", "it", "supervisor"]
-tags: ["教程", "code", "it", "supervisor"]
-description: "配置文件myprogram.ini内容"
+title: "Supervisor进程管理"
+keywords: ["Supervisor教程", "进程管理工具", "Linux进程守护", "Supervisor配置", "Python进程管理"]
+tags: ["Supervisor", "Linux", "运维"]
+description: "Supervisor进程管理工具的安装和配置教程，通过配置INI文件实现对后台进程的守护和自动重启管理。"
 categories: ["code"]
-heading: "supervisor"
 date: "2019-04-29T08:29:53.151Z"
 draft: "true"
 series: ["blog"]

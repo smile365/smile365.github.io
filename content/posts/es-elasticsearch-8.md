@@ -1,14 +1,14 @@
 ---
-title: "elasticsearch-8.10 REEST 接口使用指南"
-keywords: ["教程", "接口使用", "es", "Platform", "Elasticsearch", "Overview", "What is Elasticsearch", "elasticsearch guide 8"]
-tags: ["教程", "接口使用", "es", "Platform", "Elasticsearch", "Overview", "What is Elasticsearch", "elasticsearch guide 8"]
-description: "前言 es 官方文档藏的很深。如果点击“定价”旁边的“文档”是找不到的。"
+title: "Elasticsearch 8 REST API使用指南"
+keywords: ["Elasticsearch 8 REST API", "ES Document APIs", "ES单文档操作", "ES批量操作", "ES查询指南", "Elasticsearch 8.10教程"]
+tags: ["Elasticsearch", "REST API", "ES接口", "搜索引擎"]
+description: "详细介绍Elasticsearch 8.10的REST API使用方式，包括单文档和多文档操作的增删改查示例。"
 categories: ["code"]
-heading: "elasticsearch-8.10 REEST 接口使用指南"
+heading: "Elasticsearch 8.10 REST API使用指南"
 date: "2020-05-09T06:42:21.580Z"
 ---
 ## 前言
-es 官方文档藏的很深。如果点击“定价”旁边的“文档”是找不到的。正确路径是从 Platform -> Elasticsearch -> 文档 -> Overview -> Elasticsearch 8.10 -> What is Elasticsearch?  
+es 官方文档藏的很深。如果点击"定价"旁边的"文档"是找不到的。正确路径是从 Platform -> Elasticsearch -> 文档 -> Overview -> Elasticsearch 8.10 -> What is Elasticsearch?  
 
 或者直接搜索 [elasticsearch guide 8](https://www.elastic.co/guide/en/elasticsearch/reference/8.10/elasticsearch-intro.html)
 
@@ -40,6 +40,7 @@ Multi get `get /index_name/_mget?_source_excludes=input,rawJSON,output`
     ]
 }
 ```
+
 
 
 

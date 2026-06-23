@@ -1,10 +1,10 @@
 ---
-title: "space-x-ipo"
-keywords: ["生活", "股价预测", "IPO", "SpaceX", "space x", "SpaceX IPO", "SPCX", "space x ipo", "space"]
-tags: ["生活", "股价预测", "IPO", "SpaceX", "space x", "SpaceX IPO", "SPCX", "space x ipo"]
-description: "现在是北京时间晚上 9 点半，恰好是美股开盘时间。很多年没关注股票了，刷手机看到新闻："
+title: "SpaceX IPO股价预测"
+keywords: ["SpaceX IPO", "SPCX股价", "马斯克", "SpaceX上市", "IPO申购", "美股分析"]
+tags: ["IPO", "SpaceX", "股价预测"]
+description: "SpaceX将于纳斯达克上市，发行价135美元募资750亿美元，本文从供需角度分析IPO首日及后续股价走势，展望马斯克的身价变化。"
 categories: ["life"]
-heading: "space x 股价预测"
+heading: "SpaceX IPO股价走势预测分析"
 date: "2026-06-12T13:26:04.966Z"
 ---
 ## SpaceX IPO 新闻
@@ -66,6 +66,7 @@ SpaceX IPO 基础募资目标为 **750 亿美元**，但各类投资者提交的
 华泰证券测算：基于可验证指数产品规模，被动买入量约为 **91-113 亿美元**；若计入更广义被动资金（扩展市场指数、MSCI、罗素等），上限可上修至 **140-160 亿美元**，且在纳入生效后数个交易日内必须一次性完成建仓。
 
 这 100 多亿美元的指数资金与先前的 IPO 中未获配的追高买盘叠加，将在上市后约第 15 天前后形成一个 **极度集中的需求脉冲**。
+
 
 
 

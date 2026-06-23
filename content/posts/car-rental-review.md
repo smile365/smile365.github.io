@@ -1,10 +1,10 @@
 ---
-title: "car-rental-review"
-keywords: ["生活", "租车公司评测", "哪家租车体验更好", "XL", "car rental review", "images", "car", "rental", "review"]
-tags: ["生活", "租车公司评测", "哪家租车体验更好", "XL", "car rental review", "images"]
-description: "car rental company"
+title: "租车公司评测与避坑指南"
+keywords: ["租车公司推荐", "租车体验评测", "租车避坑", "昆明租车", "成都租车", "神州租车"]
+tags: ["租车", "评测", "避坑"]
+heading: "租车公司评测，哪家租车体验更好？"
+description: "基于在北京、成都、昆明等城市的真实租车经历，评测各租车公司的车况和服务质量，分享避坑经验帮你选择靠谱的租车服务。"
 categories: ["life"]
-heading: "租车公司评测。哪家租车体验更好。"
 date: "2021-09-15T02:17:19.837Z"
 ---
 ## 前言
@@ -87,5 +87,3 @@ date: "2021-09-15T02:17:19.837Z"
 ![enter description here](./images/1631674065999.png)
 ![enter description here](./images/1631674115125.png)
 ![enter description here](./images/1631674385641.png)
-
-

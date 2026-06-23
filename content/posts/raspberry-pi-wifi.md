@@ -1,10 +1,9 @@
 ---
-title: "树莓派自动连接 wifi 的设计思路"
-keywords: ["教程", "WIFI", "pywifi", "wifi pywifi", "raspberry"]
-tags: ["教程", "WIFI", "pywifi", "wifi pywifi"]
-description: "raspberry Pi wifi"
+title: "树莓派自动连接 Wi-Fi 方案"
+keywords: ["树莓派自动连 Wi-Fi", "树莓派无头配置", "pywifi 教程", "Raspberry Pi 自动网络"]
+tags: ["树莓派", "Wi-Fi", "自动配置"]
+description: "设计树莓派开机自动连接 Wi-Fi 的脚本方案，通过公网媒介读取密码实现免显示器键盘切换网络环境。"
 categories: ["code"]
-heading: "树莓派自动连接 wifi 的设计思路"
 date: "2020-11-13T02:23:10.038Z"
 ---
 树莓派自动链接wifi方案
@@ -45,9 +44,3 @@ date: "2020-11-13T02:23:10.038Z"
 参考文献：
 - [自动连接wifi](https://unix.stackexchange.com/questions/92799/connecting-to-wifi-network-through-command-line)
 - [pywifi](https://github.com/awkman/pywifi/blob/master/DOC.md)
-
-
-
-
-
-

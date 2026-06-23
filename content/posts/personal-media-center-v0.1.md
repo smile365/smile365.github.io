@@ -1,10 +1,9 @@
 ---
-title: "personal-media-center-v0.1"
-keywords: ["教程", "personal media center", "smba", "docker compose", "conf vi", "personal", "media", "center"]
-tags: ["教程", "personal media center", "smba", "docker compose"]
-description: "需求 - 手动下载 - 可拷贝 - 可 smba 观看"
+title: "家庭媒体中心v0.1"
+keywords: ["Docker搭建媒体中心", "Samba文件共享", "Transmission下载", "Docker Compose配置", "家庭NAS搭建"]
+tags: ["媒体中心", "Samba", "Transmission"]
+description: "使用Docker Compose搭建家庭媒体中心v0.1版本，集成Samba文件共享服务和Transmission下载工具。"
 categories: ["code"]
-heading: "personal-media-center-v0.1"
 date: "2023-09-02T05:47:42.629Z"
 ---
 ## 需求

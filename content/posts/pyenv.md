@@ -1,10 +1,9 @@
 ---
-title: "使用 pyenv 安装和管理不同版本 python"
-keywords: ["教程", "python", "使用 安装", "管理不同版本", "pyenv", "api", "python sdk", "debian 12", "python ##"]
-tags: ["教程", "python", "使用 安装", "管理不同版本", "pyenv", "api", "python sdk", "debian 12"]
-description: "在 debian 12 安装 pyenv 可安装不同版本 python"
+title: "使用 pyenv 安装和管理 Python 版本"
+keywords: ["pyenv 安装", "pyenv Python 版本管理", "Debian 安装 pyenv", "多版本 Python 管理"]
+tags: ["pyenv", "Python", "版本管理"]
+description: "在 Debian 12 系统中使用 pyenv 安装和管理多个 Python 版本，解决因版本差异导致的 API 模块兼容性问题。"
 categories: ["code"]
-heading: "使用 pyenv 安装和管理不同版本 python"
 date: "2025-06-04T03:24:55.365Z"
 ---
 ## 前言
@@ -58,74 +57,3 @@ eval "$(pyenv init - bash)"
 ```
 
 通过在 ~/.bashrc 文件中添加以下代码自动加载 pyenv-virtualenv
-```bash
-eval "$(pyenv virtualenv-init -)"
-```
-
- 重启 shell 以使更改生效
-```bash
-exec $SHELL
-# 测试运行
-pyenv help
-```
-
-若出现 `arning: setlocale: LC_CTYPE: cannot change locale (UTF-8)` 警告，可安装系统语言环境
-```bash
-sudo apt update sudo 
-apt install locales
-```
-然后在 `~/.bashrc` 添加:
-```bash
-export LC_CTYPE="en_US.UTF-8"
-export LC_ALL="en_US.UTF-8"
-```
-
-
-##   通过 pyenv 安装 python 3.10.12
-pyenv 安装 python 时会去官网下载安装文件 
-```bash
-pyenv install 3.10.12
-```
-
-国内大概率会报错
-```bash
-通过链接 https://www.python.org/ftp/python/3.10.12/Python-3.10.12.tar.xz 下载 tar.xz 文件超时
-```
-
-可以通过配置华为云的镜像下载
-```bash
-export PYTHON_BUILD_MIRROR_URL="https://mirrors.huaweicloud.com/python"
-export PYTHON_BUILD_MIRROR_URL_SKIP_CHECKSUM=1  # 跳过校验（镜像可能无校验文件）
-```
-重新执行安装命令，即可安装成功：
-```bash
-pyenv install 3.10.12
-```
-
-检查是否安装成功
-```bash
-pyenv versions
-python --version  # 应显示 3.10.12
-```
-
-**其他 pyenv 用法**
-
-
-```bash
-# 设置全局默认版本
-pyenv global 3.10.12
-
-# 为项目设置本地版本（进入项目目录后执行）：
-pyenv local 3.10.12  # 生成 .python-version 文件
-
-# 验证当前版本
-python --version
-```
-
-
-**后记**
-
-最后发现是 requirements.txt 是由 cursor 生成的，它把 `alibabacloud_dypnsapi20170525` 错误地写成了 `alibabacloud-dypnsapi20170525`，只需要把横线`-`改成下划线` _`就好了。
-```python
-alibabacloud_dypnsapi20170525==1.2.2
-```

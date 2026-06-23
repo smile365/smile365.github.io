@@ -35,11 +35,11 @@ watch = true
 
   [[related.indices]]
   name = "title"
-  weight = 90
+  weight = 80
 
   [[related.indices]]
   name = "keywords"
-  weight = 80
+  weight = 30
 
 [menu]
   [[menu.main]]

@@ -1,10 +1,9 @@
 ---
-title: "centos7安装nginx教程"
-keywords: ["教程", "nginx", "proxy", "centos7", "nginx nginx", "vi", "etc", "nginx stream"]
-tags: ["教程", "nginx", "proxy", "centos7", "nginx nginx", "vi", "etc", "nginx stream"]
-description: "参考官方文档在centos 7 安装 nginx"
+title: "CentOS 7 安装 Nginx 教程"
+keywords: ["CentOS 7 Nginx安装", "Nginx反向代理", "Nginx静态服务器", "Nginx配置教程", "Nginx端口转发"]
+tags: ["Nginx", "CentOS", "反向代理", "静态服务器"]
+description: "在 CentOS 7 上安装 Nginx，并配置为静态网页服务器或反向代理服务器的详细教程。"
 categories: ["code"]
-heading: "centos7安装nginx教程"
 date: "2020-04-10T03:22:22.943Z"
 ---
 ## 安装 nginx
@@ -115,4 +114,3 @@ http://nginx.org/packages/debian `lsb_release -cs` nginx" \
     | sudo tee /etc/apt/sources.list.d/nginx.list
 # 安装
 apt update && apt install -y nginx
-```

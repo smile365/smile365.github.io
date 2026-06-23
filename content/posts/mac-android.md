@@ -1,10 +1,9 @@
 ---
-title: "mac搭建安卓开发环境"
-keywords: ["教程", "Android", "搭建安卓开发环境", "mac", "java8", "Android studio", "androiddevtools", "Android SDK", "unable to access"]
-tags: ["教程", "Android", "搭建安卓开发环境", "mac", "java8", "Android studio", "androiddevtools", "Android SDK"]
-description: "然后到官网下载Android studio"
+title: "Mac搭建安卓开发环境"
+keywords: ["Mac搭建Android开发环境", "Android Studio安装", "macOS安卓开发", "Java8配置", "Android SDK"]
+tags: ["Android", "Mac", "开发环境"]
+description: "在Mac电脑上搭建Android开发环境的完整步骤，包括安装Java8、Android Studio、命令行工具及常见问题的解决方法。"
 categories: ["code"]
-heading: "mac搭建安卓开发环境"
 date: "2018-07-22T13:38:58.727Z"
 series: ["blog"]
 ---

@@ -1,10 +1,9 @@
 ---
-title: "使用 docker 安装 PostgreSQL 数据库"
-keywords: ["教程", "PostgreSQL教程", "postgresql安装教程", "docker", "使用 安装 数据库", "PostgreSQL"]
-tags: ["教程", "PostgreSQL教程", "postgresql安装教程", "docker", "使用 安装 数据库", "PostgreSQL"]
-description: "使用 docker 安装 PostgreSQL 数据库"
+title: "Docker安装PostgreSQL"
+keywords: ["Docker安装PostgreSQL", "PostgreSQL docker-compose", "Docker运行PostgreSQL", "数据库容器化", "PostgreSQL配置"]
+tags: ["PostgreSQL", "Docker", "数据库"]
+description: "使用Docker和docker-compose快速安装部署PostgreSQL数据库，包含配置文件创建、启动和初始化数据库的完整步骤。"
 categories: ["code"]
-heading: "使用 docker 安装 PostgreSQL 数据库"
 date: "2023-06-27T22:13:00.474Z"
 ---
 ## 准备工作

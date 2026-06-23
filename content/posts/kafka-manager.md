@@ -1,10 +1,9 @@
 ---
-title: "kafka-manager安装"
-keywords: ["教程", "kafka", "kafka manager", "sbt", "Cluster", "java8", "scala", "scala build tools", "manager"]
-tags: ["教程", "kafka", "kafka manager", "sbt", "Cluster", "java8", "scala", "scala build tools"]
-description: "添加Cluster 点击【Cluster】>【Add Cluster】： 输入集群的名字（如Kafka-Cluster-1）和 Zookeeper 服务器地址（如localho."
+title: "Kafka Manager安装"
+keywords: ["Kafka Manager安装", "Kafka监控", "Kafka管理工具", "SBT构建", "Yahoo Kafka Manager"]
+tags: ["Kafka", "Kafka-Manager", "监控工具", "Scala"]
+description: "详细讲解如何安装和配置Yahoo Kafka Manager，包括Java、Scala和SBT环境搭建及集群添加步骤。"
 categories: ["code"]
-heading: "kafka-manager安装"
 date: "2018-08-31T03:15:13.262Z"
 ---
 #### 先安装java8、scala、sbt

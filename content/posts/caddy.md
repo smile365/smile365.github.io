@@ -1,10 +1,10 @@
 ---
-title: "caddy 自动获取免费 https 证书的类 nginx 服务器"
-keywords: ["教程", "nginx", "caddy", "Caddyfile", "install on centos7", "candy", "yum", "install on ##"]
-tags: ["教程", "nginx", "caddy", "Caddyfile", "install on centos7", "candy", "yum", "install on ##"]
-description: "install on centos7 参考 candy 官方文档使用 yum 安装"
+title: "Caddy安装与反向代理配置"
+keywords: ["Caddy服务器安装", "Caddy反向代理", "自动HTTPS证书", "Nginx替代", "Caddyfile配置"]
+tags: ["Caddy", "HTTPS", "反向代理"]
+heading: "Caddy自动获取免费HTTPS证书的Nginx替代方案"
+description: "详细介绍Caddy服务器的安装步骤、反向代理配置以及如何利用Caddy自动获取免费SSL证书，是比Nginx更简单的Web服务器方案。"
 categories: ["code"]
-heading: "caddy 自动获取免费 https 证书的类 nginx 服务器"
 date: "2022-12-26T11:08:27.453Z"
 ---
 ## install on centos7
@@ -93,4 +93,3 @@ caddy file-server --root ~/mysite
 
 ## 参考文献
 - [caddy](https://caddyserver.com/)
-

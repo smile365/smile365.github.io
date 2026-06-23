@@ -1,10 +1,10 @@
 ---
-title: "使用hugo创建自己的blog"
-keywords: ["教程", "hugo", "bloger", "centos", "使用 创建自己", "blog", "Blackfriday", "Mac", "blog ###"]
-tags: ["教程", "hugo", "bloger", "centos", "使用 创建自己", "blog", "Blackfriday", "Mac"]
-description: "如果 安装不成功，可以直接下载二进制文件安装 下载并解压后。"
+title: "使用Hugo创建个人博客"
+heading: "使用Hugo从零搭建个人博客站点：安装到主题配置"
+keywords: ["Hugo搭建博客", "Hugo安装教程", "静态博客生成器", "Hugo主题配置", "Hugo入门教程"]
+tags: ["Hugo", "博客", "静态网站"]
+description: "详细教程教你使用Hugo静态站点生成器在CentOS或Mac上安装并创建个人博客，从安装到主题配置一步到位。"
 categories: ["code"]
-heading: "使用hugo创建自己的blog"
 date: "2018-07-04"
 ---
 ### 安装
@@ -57,64 +57,3 @@ git submodule add https://gitee.com/smile365/wehuth.git themes/wehuth
 # 配置文件
 cp themes/wehuth/exampleSite/config.toml .
 ```
-
-2. 创建文章
-```bash
-# hugo new posts/my-first-post.md
-# ~/content/posts/my-first-post.md created
-git submodule add https://github.com/smile365/blog.git content/posts
-
-# hugo server
-hugo server -D -t wehuth --bind=0.0.0.0 --baseURL=http://127.0.0.1:1313
-```
-
-
-
-### Hugo 文章列表无法正确显示的解决方法
-
-在其他地方显示正常的md文件，在hugo下显示错误。其原因是hugo使用了Blackfriday作为Markdown解析引擎。
-
-方法一：在列表前方增加一行空行
-```md
-list
-
-- item1
-- item2
-```
-
-方法二：配置Blackfriday对列表前无需空行`vim config.toml`
-```toml
-[blackfriday]
-  extensions = ["noEmptyLineBeforeBlock"]
-```
-
-测试  
-```sh
-# test whith draft posts
-$ hugo server -D -t wehuth --bind=0.0.0.0 --baseURL=http://127.0.0.1:1313
-```
-
-### 开启百度统计
-
-
-按照要求把[百度统计代码](https://tongji.baidu.com/web/welcome/basic)复制到模版的single.html/list.html等地方。
-
-先去注册[leancloud](https://leancloud.cn/?source=XRC4B1YQ)
-
-创建应用，
-把代码复制到需要的地方
-
-
-[使用valine作为评论插件](https://valine.js.org/quickstart.html)
-
-把代码复制到模版的single.html页面
-
-推荐主题：
-
-- [KeepIt](https://github.com/Fastbyte01/KeepIt),[demo](https://shuzang.github.io/)
-- [Wehuth](https://gitee.com/smile365/wehuth)
-
-**参考**  
-- [gohugo.io](https://gohugo.io/getting-started/quick-start/)
-- [hugo列表显示错误](https://orianna-zzo.github.io/sci-tech/2018-03/blog%E5%85%BB%E6%88%90%E8%AE%B07-hugo%E5%A4%9A%E7%BA%A7%E5%88%97%E8%A1%A8%E6%97%A0%E6%B3%95%E6%98%BE%E7%A4%BA--cocoa%E4%B8%BB%E9%A2%98%E7%9A%84markdown-bug%E5%90%88%E9%9B%86/)
-- [使用Hugo搭建静态站点](https://tonybai.com/2015/09/23/intro-of-gohugo/)

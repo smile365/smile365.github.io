@@ -1,10 +1,9 @@
 ---
-title: "orange zero3 改造成 kvm 使用"
-keywords: ["阅读", "改造成 使用", "orange zero3", "kvm", "Orangepizero3", "debian", "server", "orangepi os", "python Orange Pi", "orange"]
-tags: ["阅读", "改造成 使用", "orange zero3", "kvm", "Orangepizero3", "debian", "server", "orangepi os"]
-description: "Orange Pi Zero3 1GB 点亮 led，gpio 测试"
+title: "Orange Pi Zero3 GPIO教程"
+keywords: ["Orange Pi Zero3 GPIO", "OPi.GPIO安装", "wiringOP-Python教程", "Python控制LED", "Orange Pi引脚控制"]
+tags: ["Orange Pi", "GPIO", "LED"]
+description: "介绍在Orange Pi Zero3上安装OPi.GPIO和wiringOP-Python库，通过Python控制GPIO引脚点亮LED的完整过程。"
 categories: ["read"]
-heading: "orange zero3 改造成 kvm 使用"
 date: "2024-01-12T15:28:25.319Z"
 ---
 ## 安装 OPi.GPIO
@@ -89,6 +88,7 @@ sudo python3 setup.py install
 
 
 
+
 ## 引脚排列
 查看[Orange Pi Zero3 引脚图](http://www.orangepi.cn/orangepiwiki/index.php/Orange_Pi_Zero_3)
 
@@ -162,6 +162,7 @@ finally:
 apt install -y vim
 
 ```
+
 
 
 

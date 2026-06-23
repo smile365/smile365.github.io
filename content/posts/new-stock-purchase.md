@@ -1,8 +1,8 @@
 ---
-title: "如何打新(新股申购教程)"
-keywords: ["生活", "打新", "新股申购", "Initial Public Offerings", "IPO", "new", "stock", "purchase"]
-tags: ["生活", "打新", "新股申购", "Initial Public Offerings", "IPO"]
-description: "公司缺钱了，想把自己的公司所有权分成很多份卖出去，出钱的人可以按照买的份额分红。"
+title: "新股申购(打新)教程"
+keywords: ["新股申购教程", "打新", "IPO申购", "A股打新", "新股中签"]
+tags: ["打新", "新股申购", "IPO"]
+description: "什么是新股申购？本文详细介绍打新的流程、准入门槛、申购时间及中签缴款规则，帮助投资者快速入门。"
 categories: ["life"]
 heading: "如何打新(新股申购教程)"
 date: "2019-12-18T02:01:42.338Z"

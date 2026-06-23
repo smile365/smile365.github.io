@@ -1,10 +1,9 @@
 ---
-title: "2022 年小米手机 8 获取 root 权限刷机教程"
-keywords: ["教程", "root", "Magisk", "mac", "HZ", "img", "apk", "adb push", "xiaomi8"]
-tags: ["教程", "root", "Magisk", "mac", "HZ", "img", "apk", "adb push"]
-description: "Unlock bootloader of xiaomi devices on mac"
+title: "2022年小米手机8获取root权限刷机教程"
+keywords: ["小米8root教程", "Magisk刷机", "小米解锁Bootloader", "TWRP刷Recovery", "Mac刷机"]
+tags: ["小米8", "root", "刷机"]
+description: "在Mac系统下为小米8手机解锁Bootloader、刷入TWRP和Magisk获取Root权限，并安装太极和LSPosed框架。"
 categories: ["code"]
-heading: "2022年小米手机8获取root权限刷机教程"
 date: "2021-12-27T06:54:25.581Z"
 ---
 在苹果mac系统下root小米8手机
@@ -29,7 +28,7 @@ gg 了一番，发现有国外网友开发了能在 mac 上跑的工具 [XiaoMiT
 
 
 
-XiaoMiToolV2 是一个用 java 开发的 JUI 程序，我满怀希望在 mac 上运行时，出现了错误提示： “XiaoMiTool V2”已损坏，无法打开。 您应该将它移到废纸篓。
+XiaoMiToolV2 是一个用 java 开发的 JUI 程序，我满怀希望在 mac 上运行时，出现了错误提示： "XiaoMiTool V2"已损坏，无法打开。 您应该将它移到废纸篓。
 
 结果发现是下错版本了，不能下最新版，得下alpha 版本，当然可以运行，但无法解锁。
 

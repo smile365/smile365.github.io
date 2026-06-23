@@ -1,10 +1,9 @@
 ---
 title: "接码平台"
-keywords: ["接码平台", "get", "cms", "code"]
-tags: ["接码平台"]
-description: "接码平台"
+keywords: ["接码平台", "短信验证码", "临时手机号", "短信接收"]
+tags: ["接码", "工具"]
+description: "接码平台工具推荐，用于接收短信验证码的临时手机号服务平台，方便注册和验证各类网络账号。"
 categories: ["tools"]
-heading: "接码平台"
 date: "2019-12-09T05:40:37.376Z"
 draft: "true"
 ---

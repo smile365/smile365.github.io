@@ -1,17 +1,13 @@
 ---
-title: "tf-card 卡的格式"
-keywords: ["教程", "卡的格式", "tf card", "UHS", "UHS I", "UHS II", "UHS III", "card"]
-tags: ["教程", "卡的格式", "tf card", "UHS", "UHS I", "UHS II", "UHS III"]
-description: "如何选购 tf 内存卡 Micro SD/TF 存储卡"
+title: "TF内存卡选购指南"
+keywords: ["TF卡选购", "Micro SD卡", "UHS标准", "存储卡速度等级"]
+tags: ["TF卡", "存储卡", "UHS"]
+description: "详解Micro SD/TF存储卡的速度等级与UHS总线标准，帮助你在选购内存卡时做出正确选择。"
 categories: ["code"]
-heading: "tf-card 卡的格式"
 date: "2023-05-26T20:18:42.169Z"
 draft: "true"
 ---
 UHS
-
-
-
 
 ## 参考文档
 - [存储卡的速度](https://blog.csdn.net/lishuoboy/article/details/118467369)

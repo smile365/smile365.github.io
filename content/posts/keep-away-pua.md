@@ -1,10 +1,9 @@
 ---
-title: "pua防骗指南"
-keywords: ["生活", "防骗", "pua", "ta", "keep", "away"]
-tags: ["生活", "防骗", "pua", "ta"]
-description: "一年前我在某处花比特币购买了2T的pua内部培训资料。"
+title: "PUA防骗指南"
+keywords: ["PUA防骗", "情感操控", "防PUA指南", "恋爱心理学", "自我保护"]
+tags: ["PUA", "防骗", "恋爱心理", "自我保护"]
+description: "揭露PUA套路和情感操控手段，帮助识别和远离PUA，保护自己的心理健康和恋爱安全。"
 categories: ["life"]
-heading: "pua防骗指南"
 date: "2019-12-13T08:54:06.469Z"
 draft: "true"
 ---

@@ -1,10 +1,10 @@
 ---
-title: "wifi 密码破解研究"
-keywords: ["教程", "密码破解研究", "aircrack ng", "wifi", "mac", "wdutil", "bully", "reaver", "bully reaver aircrack", "ng"]
-tags: ["教程", "密码破解研究", "aircrack ng", "wifi", "mac", "wdutil", "bully", "reaver"]
-description: "wifi-crack"
+title: "WiFi密码破解方法研究"
+keywords: ["WiFi密码破解", "Aircrack-ng教程", "Mac破解WiFi", "树莓派无线安全", "无线网络安全测试"]
+tags: ["WiFi破解", "Aircrack-ng", "网络安全"]
+description: "研究WiFi密码破解的方法和工具，详细讲解在Mac和树莓派上使用Aircrack-ng、airport等工具进行WiFi安全测试的完整步骤。"
 categories: ["code"]
-heading: "wifi 密码破解研究"
+heading: "WiFi密码破解研究：Mac和树莓派Aircrack-ng教程"
 date: "2021-11-23T13:37:23.761Z"
 ---
 ## 前言

@@ -1,10 +1,9 @@
 ---
-title: "PostgreSQL新手入门教程"
-keywords: ["教程", "PostgreSQL教程", "postgresql安装教程", "新手", "PostgreSQL", "psql", "rpm", "sudo u postgres", "centos7"]
-tags: ["教程", "PostgreSQL教程", "postgresql安装教程", "新手", "PostgreSQL", "psql", "rpm", "sudo u postgres"]
-description: "创建角色和数据库: sudo -u postgres psql"
+title: "PostgreSQL 新手入门教程"
+keywords: ["PostgreSQL 安装", "CentOS 7 PostgreSQL", "PostgreSQL 教程", "psql 使用", "数据库入门"]
+tags: ["PostgreSQL", "教程", "CentOS"]
+description: "在 CentOS 7 上通过 RPM 包安装 PostgreSQL 11，配置远程访问并导入千万级测试数据的完整教程。"
 categories: ["code"]
-heading: "PostgreSQL新手入门教程"
 date: "2019-06-04T08:13:00.474Z"
 ---
 使用[官网的rpm](https://www.postgresql.org/download/linux/redhat/)包在centos7下安装PostgreSQL 11
@@ -58,40 +57,3 @@ CREATE TABLE persons
 
 32G内存8核cpu，建议修改[postgresql.conf](https://github.com/digoal/blog/blob/master/201611/20161121_01.md)的如下配置项  `vim /var/lib/pgsql/11/data/postgresql.conf`
 ```
-fsync no
-shared_buffers 8GB # 1/4 memery
-work_mem 100MB  # shared_buffers/核数/10
-effective_cache_size 16GB # 1/2 memery
-maintenance_work_mem 160MB # effective_cache_size/100
-max_worker_processes = 128
-wal_buffers = 300MB       #min(2GB,shared_buffers/32)
-```
-
-
-安装[Psycopg](http://initd.org/psycopg/)与[pony](https://docs.ponyorm.org/firststeps.html)  
-```bash
-pip install psycopg2-binary pony
-```
-
-测试  
-```python
-from pony.orm import *
-
-db = Database()
-
-class Midc(db.Entity):
-	info = Required(str)
-
-db.bind(provider='postgres', user='sxy', password='sxy', host='127.0.0.1', database='sxydb')
-db.generate_mapping(create_tables=True)
-p1 = Midc(info='test')
-commit()
-elect(p for p in Midc).show()
-db.close()
-```
-
-参考  
-- [install-postgresql](https://www.postgresql.org/download/linux/redhat/)
-- [postgresql-docs](https://www.postgresql.org/docs/11/index.html)
-- [PostgreSQL 与 12306 抢火车票的思考](https://github.com/digoal/blog/blob/master/201611/20161124_02.md)
-- [ponyorm](https://docs.ponyorm.org/firststeps.html)

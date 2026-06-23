@@ -1,8 +1,8 @@
 ---
-title: "python-list-to-tree"
-keywords: ["教程", "Python", "Convert a list", "of lists into", "tree like dict", "python list to", "tree", "tree Python", "list"]
-tags: ["教程", "Python", "Convert a list", "of lists into", "tree like dict", "python list to", "tree"]
-description: "Python | Convert a list of lists into tree-like dict -"
+title: "Python 列表转树形结构"
+keywords: ["列表转树形结构", "Python list to tree", "Python 树形数据", "递归转树"]
+tags: ["Python", "数据结构", "列表转树"]
+description: "提供一个通用的 Python 函数将扁平列表转换为树形字典结构，支持自定义 ID、父 ID 和子节点字段名的灵活配置。"
 categories: ["code"]
 heading: "Python | Convert a list of lists into tree-like dict"
 date: "2022-03-24T07:54:23.163Z"

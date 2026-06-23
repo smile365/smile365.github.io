@@ -1,10 +1,9 @@
 ---
 title: "MQTT入门指南"
-keywords: ["教程", "mqtt", "lot", "loT core"]
-tags: ["教程", "mqtt", "lot", "loT core"]
-description: "开发一套农产品溯源系统，需要实时显示农场的温湿度。"
+keywords: ["MQTT入门", "MQTT服务器", "物联网协议", "EMQX部署", "IoT通信", "MQTT教程"]
+tags: ["MQTT", "IoT", "消息协议"]
+description: "从物联网温湿度监控需求出发，介绍MQTT协议的技术选型、服务器部署及客户端使用。"
 categories: ["code"]
-heading: "MQTT入门指南"
 date: "2025-08-08T06:42:12.713Z"
 ---
 ## 前言
@@ -35,7 +34,7 @@ date: "2025-08-08T06:42:12.713Z"
 
 1.  [emqx](https://www.emqx.com/zh/downloads-and-install/broker)  支持除了 windows 基本都支持，可通过 docker 部署。
 2. [nanomq](https://nanomq.io/zh/downloads?os=Windows) Docker、Linux、Windows。
-3. [Eclipse Mosquitto](https://mosquitto.org/download/)  Docker、Linux、Windows、Mac。
+3. [Eclipse Mosquitto](https://mosquitto.org/downloads/)  Docker、Linux、Windows、Mac。
 5. [VerneMQ](https://vernemq.com/downloads/index.html) Docker、Linux
 
 
@@ -57,27 +56,3 @@ mqtt 服务器本身不存储客户端发送过来的消息，除了发送时指
 ## 
 
 ## 使用百度云 lot
-
-> 以 DHT11 温湿度传感器接入百度 lot 为例
-
-### 创建 mqtt 服务
-
-1. 在百度元 lot 平台[创建 loT core](https://console.bce.baidu.com/iot2/core/core/list)，选择按需付费（可使用免费额度）。
-2. 点击刚创建的 lot 名称，设备管理-设备列表-新增设备，选择「密钥认证」然后创建一个模板。
-3. 点击 设备管理--模板 下刚创建的模板名称，点击「添加主题」选择高级模式，填写 WifiDHT/+/DHT11
-
-
-### 配置 DHT11 温湿度传感器
-
-1. 在 设备管理--设备列表 的右上角可查看[接入点]即域名信息，点击下方设备列表的具体[设备名称] 后可在设备详情页查看 IoTCoreId、DeviceKey、DeviceSecret 可查看需要的信息。
-2. 参考[百度文档](https://cloud.baidu.com/doc/IoTCore/s/hk7omsfcl)使用刚刚拿到的信息在网站[MQTT连接信息生成器](https://iotcore-dev-tool.gz.bcebos.com/mqtt-sign/) 可生成 mqtt 所需的用户名和密码。
-> wifiDHT3 测试发现仅支持 MD5 加密，不支持 SHA256，购买之前记得确认。
-
-
-
-
-
-## 参考文档
-1. [MQTT 服务器（MQTT Broker）：工作原理与快速入门指南](https://www.emqx.com/zh/blog/the-ultimate-guide-to-mqtt-broker-comparison)
-2. [百度云 lot 帮助文档](https://cloud.baidu.com/doc/IoTCore/index.html)
-3. 

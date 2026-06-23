@@ -1,10 +1,9 @@
 ---
-title: "使用 pyenv 安装 python2"
-keywords: ["教程", "python", "使用 安装", "pyenv", "python2", "apt", "python pyenv", "The TLS connection", "python2 ##", "python3"]
-tags: ["教程", "python", "使用 安装", "pyenv", "python2", "apt", "python pyenv", "The TLS connection"]
-description: "GnuTLS recv error GnuTLS recv error (-110): The TLS connection was non-properly terminat."
+title: "使用 pyenv 安装 Python 2"
+keywords: ["pyenv 安装 Python 2", "apt 安装 python", "Debian 多版本 Python", "pyenv 使用教程"]
+tags: ["pyenv", "Python", "安装"]
+description: "在 Debian 系统上通过 pyenv 安装 Python 2 及多个版本，配置环境变量并解决 GnuTLS 网络下载错误的完整教程。"
 categories: ["code"]
-heading: "使用 pyenv 安装 python2"
 date: "2023-02-21T05:55:25.875Z"
 ---
 ## 使用 apt 安装 python
@@ -58,12 +57,3 @@ pyenv local 3.5.2 #指定当前目录版本
 
 1. GnuTLS recv error
 GnuTLS recv error (-110): The TLS connection was non-properly terminated.
-
-
-## 参考文档
-
-- [解决 GnuTLS recv error (-110) 错误]()
-- [warning: setlocale: LC_ALL: cannot change locale (en_US.utf8)](https://www.cnblogs.com/ifantastic/p/4565822.html)
-- [Install Python 3.9](https://linuxize.com/post/how-to-install-python-3-9-on-ubuntu-20-04/)
-- [install  python3.9](https://linuxize.com/post/how-to-install-python-3-9-on-ubuntu-20-04/)
-- [安装  pyenv](https://www.idceval.com/162.html)

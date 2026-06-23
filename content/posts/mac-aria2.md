@@ -1,10 +1,9 @@
 ---
-title: "使用aria2高速下载磁力链接的文件"
-keywords: ["教程", "code", "it", "aria2", "Mac aria2", "aria2 cookies", "cookies", "Mac aria2 aria2", "rpc user", "user"]
-tags: ["教程", "code", "it", "aria2", "Mac aria2", "aria2 cookies", "cookies", "Mac aria2 aria2"]
-description: "编辑配置文件aria2.conf内容如下："
+title: "aria2高速下载磁力链接"
+keywords: ["aria2教程", "Mac aria2配置", "aria2磁力链接", "aria2 RPC设置", "brew安装aria2"]
+tags: ["aria2", "macOS", "下载"]
+description: "在macOS上使用aria2高速下载磁力链接和BT文件，详细aria2.conf配置参数及RPC设置教程。"
 categories: ["code"]
-heading: "使用aria2高速下载磁力链接的文件"
 date: "2019-02-20T08:52:44.075Z"
 draft: "true"
 series: ["blog"]
@@ -89,7 +88,6 @@ aria2c 'magnet:?xt=urn:btih:248D0A1CD08284299DE78D5C1ED359BB46717D8C'
 ```
 errorCode=1 Failed to load DHT routing table from /Users/songyangcong/.cache/aria2/dht.dat
 ```
-
 
 
 

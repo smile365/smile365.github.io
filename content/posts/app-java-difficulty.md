@@ -1,10 +1,10 @@
 ---
-title: "参与 app 的 Java 后端开发过程中遇到的疑难杂症"
-keywords: ["教程", "MySQL", "redis", "docker", "app", "Java", "api", "druid", "difficulty"]
-tags: ["教程", "MySQL", "redis", "docker", "app", "Java", "api", "druid"]
-description: "app-java-difficulty"
+title: "Java后端开发疑难杂症"
+heading: "App Java后端开发常见问题与解决方案"
+keywords: ["Java后端开发问题", "MySQL连接数超限", "Redis内存优化", "数据库高可用", "Docker微服务", "消息队列"]
+tags: ["Java", "MySQL", "Redis"]
+description: "记录Java后端开发中遇到的MySQL连接超限、Redis内存溢出和数据库高可用等六个典型问题及其解决方案。"
 categories: ["code"]
-heading: "参与app的Java后端开发过程中遇到的疑难杂症"
 date: "2021-03-16T12:43:59.634Z"
 ---
 做 java 后端的那些年，遇到了不少问题，记录下。
@@ -43,7 +43,3 @@ date: "2021-03-16T12:43:59.634Z"
 - 更改 redis 的默认配置，修改可用内存为机器内存的 80%。
 - 根据业务的适当配置内存置换策略（如 volatile-lru）
 - 给 key 配置自动过期时间
-
-
-
-

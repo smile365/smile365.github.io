@@ -1,10 +1,10 @@
 ---
-title: "register-awin.md"
-keywords: ["教程", "Awin", "visa", "awin invitation code", "Shareasale", "Publisher", "Sign", "up", "login"]
-tags: ["教程", "Awin", "visa", "awin invitation code", "Shareasale", "Publisher", "Sign", "up"]
-description: "准备： - 一张visa的信用卡 - 能上外网的梯子(谷歌验证码)"
+title: "Awin联盟注册教程"
+keywords: ["Awin注册教程", "Awin邀请码", "国外广告联盟", "跨境电商推广", "联盟营销入门"]
+tags: ["Awin", "广告联盟", "跨境电商"]
+description: "手把手教你注册Awin广告联盟账号，准备Visa信用卡和科学上网工具，完成Publisher账号申请全流程。"
 categories: ["code"]
-heading: "register-awin.md"
+heading: "Awin广告联盟注册及账号申请指南"
 date: "2019-12-25T01:33:40.150Z"
 draft: "true"
 ---

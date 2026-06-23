@@ -1,10 +1,9 @@
 ---
-title: "用python语言调用Go语言函数"
-keywords: ["教程", "python", "golang", "Go", "so", "aes", "cgo", "export yourfunc", "and"]
-tags: ["教程", "python", "golang", "Go", "so", "aes", "cgo", "export yourfunc"]
-description: "用Golang为Python编写模"
+title: "Python调用Go语言函数"
+keywords: ["python调用go", "golang动态链接库", "cgo", "python调用c", "go编译so"]
+tags: ["Go", "Python", "CGO"]
+description: "通过 CGO 将 Go 语言代码编译为动态链接库（.so 文件），实现 Python 调用 Go 函数的方法，以 AES 加密解密为例详细讲解步骤。"
 categories: ["code"]
-heading: "用python语言调用Go语言函数"
 date: "2020-07-16T02:03:51.425Z"
 ---
 c语言几乎是所有高级语言的桥梁，通过c语言编译的动态链接库(.so文件)，其他高级语言即可调用c语言实现的功能，以便提高性能。
@@ -126,6 +125,6 @@ def decypt(code):
 - [python-str-to-c-char](https://stackoverflow.com/questions/27127413/converting-python-string-object-to-c-char-using-ctypes)
 - [Go and Python or R](https://opendatagroup.github.io/development/2019/06/13/go-ffi.html)
 - [Calling Go Functions from Other Languages](https://medium.com/learning-the-go-programming-language/calling-go-functions-from-other-languages-4c7d8bcc69bf)
-- [构建 C 的静态 + 动态链接库](https://ijayer.github.io/post/tech/code/golang/20180625-go_cmd_01_3_go-build_c-archive_c-shared_go-shared/)
+- [构建 C 的静态 + 动态链接库](https://ijayer.github.io/post/tech/code/golang/20180625-go-cmd_01_3_go-build_c-archive_c-shared_go-shared/)
 - [使用 Python 调用 Go 程序](https://www.yuyang.io/post/python-go-dynamic/)
 - 

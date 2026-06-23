@@ -1,10 +1,10 @@
 ---
-title: "autojs project.json 配置文件详解"
-keywords: ["教程", "autojs", "配置文件详解", "项目打包", "配置文件", "QQ", "project", "json"]
-tags: ["教程", "autojs", "配置文件详解", "项目打包", "配置文件", "QQ"]
-description: "Auto.js 打包的配置文件详解"
+title: "Auto.js project.json 配置"
+heading: "Auto.js项目打包配置文件project.json详解"
+keywords: ["Auto.js配置文件", "project.json详解", "Auto.js打包", "Auto.js项目配置", "Auto.js安卓打包"]
+tags: ["Auto.js", "project.json", "项目打包"]
+description: "详细解释Auto.js项目打包配置文件project.json中每个字段的含义和配置方法，包括应用名称、图标和加密设置。"
 categories: ["code"]
-heading: "Auto.js 项目打包如何配置文件project.json"
 date: "2020-05-07T08:02:33.866Z"
 ---
 Auto.js 打包的配置文件详解
@@ -27,7 +27,7 @@ Auto.js 打包的配置文件详解
         "displaySplash": true, // 显示启动界面
         "hideLogs": false, // 隐藏日志
         "splashIcon": "res/splashIcon.png", //启动界面图标
-        "splashText": "欢迎关注公众号“下课了”", //启动界面文字
+        "splashText": "欢迎关注公众号"下课了"", //启动界面文字
         "stableMode": false 
     },
     "optimization": {   //运行配置

@@ -1,10 +1,9 @@
 ---
 title: "ElasticJob 教程"
-keywords: ["教程", "ElasticJob", "ZooKeeper", "Java 8+ Maven", "Lite", "spring boot", "elasticjob lite spring", "boot starter"]
-tags: ["教程", "ElasticJob", "ZooKeeper", "Java 8+ Maven", "Lite", "spring boot", "elasticjob lite spring", "boot starter"]
-description: "ElasticJob环境要求 - Java 8+ - Maven 3.5.0+ - ZooKeeper 3.6.0+"
+keywords: ["ElasticJob教程", "分布式任务调度", "ElasticJob Lite", "Spring Boot定时任务", "ZooKeeper作业调度", "ElasticJob REST API"]
+tags: ["ElasticJob", "分布式调度", "ZooKeeper", "Spring Boot", "定时任务"]
+description: "手把手教你使用ElasticJob-Lite在Spring Boot项目中实现分布式定时任务调度，并配置ElasticJob-UI管理控制台。"
 categories: ["code"]
-heading: "ElasticJob 教程"
 date: "2022-12-26T13:12:17.023Z"
 ---
 [ElasticJob](https://shardingsphere.apache.org/elasticjob/current/cn/overview/#%E7%8E%AF%E5%A2%83%E8%A6%81%E6%B1%82)环境要求
@@ -146,5 +145,4 @@ mvn clean package -Prelease
 
 
 2. 打开浏览器访问 http://localhost:8088/ 即可访问控制台，可通过启动脚本输入 -p 自定义端口号。
-
 

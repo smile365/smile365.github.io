@@ -1,10 +1,10 @@
 ---
-title: "xposed"
-keywords: ["生活", "xposed", "WechatMagician", "ojbk"]
-tags: ["生活", "xposed", "WechatMagician", "ojbk"]
-description: "参考项目 - WechatMagician -"
+title: "Xposed微信模块开发"
+keywords: ["Xposed模块开发", "微信隐藏消息", "WechatMagician", "Xposed教程", "防微商打扰"]
+tags: ["Xposed", "微信", "模块开发"]
+description: "使用Xposed框架开发微信模块，实现对特定联系人的消息隐藏功能，让微信不再被微商消息打扰。"
 categories: ["life"]
-heading: "xposed"
+heading: "使用Xposed框架开发微信消息隐藏模块"
 date: "2022-04-28T07:34:52.221Z"
 ---
 参考项目
@@ -25,7 +25,7 @@ date: "2022-04-28T07:34:52.221Z"
 
 
 隐藏某人（微信号，备注，标签，昵称？）
-显示某人（）
+显示某人（)
 
 
 

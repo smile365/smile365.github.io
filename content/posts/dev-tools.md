@@ -1,10 +1,9 @@
 ---
-title: "dev-tools"
-keywords: ["教程", "code", "it", "dev tools", "Tampermonkey", "Graph Easy", "Ascii", "top4", "dev", "tools"]
-tags: ["教程", "code", "it", "dev tools", "Tampermonkey", "Graph Easy", "Ascii", "top4"]
-description: "使用Graph Easy来做炫酷的Ascii字符流程图 - 文档工具top4 - 看云 - chrome扩展之油猴脚本Tampermonkey - Tampermonkey扩展."
+title: "开发者工具收藏"
+keywords: ["开发者常用工具", "Graph Easy 流程图", "Tampermonkey 油猴", "文档写作工具推荐", "Chrome 扩展推荐"]
+tags: ["开发工具", "Chrome扩展", "文档工具"]
+description: "精选开发者常用工具资源，包含Graph Easy Ascii流程图制作、文档工具排行和Tampermonkey油猴扩展推荐。"
 categories: ["code"]
-heading: "dev-tools"
 date: "2018-09-03T11:54:41.611Z"
 draft: "true"
 grammar_flow: "true"
@@ -14,4 +13,3 @@ grammar_flow: "true"
 - [看云](https://www.kancloud.cn/explore)
 - [chrome扩展之油猴脚本Tampermonkey](https://sspai.com/post/40485)
 - [Tampermonkey扩展推荐](https://zhuanlan.zhihu.com/p/34967781)
-

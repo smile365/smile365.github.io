@@ -1,10 +1,10 @@
 ---
-title: "WeChatFerry"
-keywords: ["教程", "Python", "WeChatFerry", "GitBash", "WeChatRobot", "WeChatUpdate", "WeChatFerry ##"]
-tags: ["教程", "Python", "WeChatFerry", "GitBash", "WeChatRobot", "WeChatUpdate"]
-description: "安装相关环境 * Git-64-bit.exe (GitBash) * python-3.10.11-amd64.exe (Python) ，先**勾选环境变量**，再安装。"
+title: "WeChatFerry微信机器人安装教程"
+keywords: ["WeChatFerry安装", "微信机器人", "Python微信机器人", "WeChatRobot", "微信自动化"]
+tags: ["WeChatFerry", "微信机器人", "Python"]
+description: "WeChatFerry微信机器人安装配置教程，包含Git、Python环境和微信客户端的下载安装步骤及注意事项。"
 categories: ["code"]
-heading: "WeChatFerry"
+heading: "WeChatFerry微信机器人安装与配置指南"
 date: "2025-04-06T04:48:37.841Z"
 ---
 ## 安装相关环境

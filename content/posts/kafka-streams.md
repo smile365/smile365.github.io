@@ -1,10 +1,9 @@
 ---
-title: "Kafka Streams"
-keywords: ["教程", "kafka", "Kafka Streams", "private final static", "kafka Java maven", "srping boot", "java", "Slf4j", "Kafka Streams ##", "streams"]
-tags: ["教程", "kafka", "Kafka Streams", "private final static", "kafka Java maven", "srping boot", "java", "Slf4j"]
-description: "环境 - kafka - Java - maven"
+title: "Kafka Streams入门教程"
+keywords: ["Kafka Streams教程", "Spring Boot Kafka", "流处理框架", "Kafka Java示例", "Kafka Streams API"]
+tags: ["Kafka", "Kafka-Streams", "Spring-Boot", "流处理"]
+description: "使用Spring Boot集成Kafka Streams进行流式处理的入门教程，包含Docker环境搭建和代码示例。"
 categories: ["code"]
-heading: "Kafka Streams"
 date: "2023-03-22T06:46:41.235Z"
 ---
 ## 环境
@@ -68,6 +67,7 @@ spring:
 
 
 
+
 场景举例：
 - 主题为 input.words 接收一个或多个单词输入
 - 监听input.words ，当输入的单词总长度大于  5，则把单词全部大写，然后输出到 output.words
@@ -115,6 +115,8 @@ song yang cong
 - [Spring Boot 集成 Kafka Stream](https://juejin.cn/post/6936058742052126734)
 - [Kafka Stream实时统计](https://www.51cto.com/article/678168.html)
 - 
+
+
 
 
 

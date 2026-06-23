@@ -1,8 +1,8 @@
 ---
-title: "python爬虫使用requests库出现SSLError的错误解决办法"
-keywords: ["教程", "python", "NO", "context", "urllib3", "ssl", "requests", "ciphers", "SSLError"]
-tags: ["教程", "python", "NO", "context", "urllib3", "ssl", "requests", "ciphers"]
-description: "错误信息： requests/packages/urllib3/contrib/pyopenssl."
+title: "requests SSL错误解决"
+keywords: ["requests SSLError", "python爬虫SSL错误", "urllib3 SSL", "OpenSSL 3DES", "SSL证书错误"]
+tags: ["python", "requests", "SSL"]
+description: "Python爬虫使用requests库遇到SSLError错误的完整解决办法，通过自定义SSL上下文解决3DES加密不兼容问题。"
 categories: ["code"]
 heading: "python爬虫使用requests库出现SSLError的错误解决办法"
 date: "2020-07-31T07:47:38.969Z"

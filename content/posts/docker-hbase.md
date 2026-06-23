@@ -1,10 +1,9 @@
 ---
-title: "使用docker快速体验hbase"
-keywords: ["教程", "docker run hbase", "docker", "使用 快速体验", "hbase", "table", "table na", "web"]
-tags: ["教程", "docker run hbase", "docker", "使用 快速体验", "hbase", "table", "table na", "web"]
-description: "学习大数据相关技术的时候往往离不开hbase，用docker快速运行hbase是一个不错的选择。"
+title: "Docker 快速体验 HBase"
+keywords: ["Docker 运行 HBase", "HBase 快速搭建", "大数据环境搭建", "HBase Shell 命令", "Docker 容器 HBase"]
+tags: ["Docker", "HBase", "大数据"]
+description: "使用Docker快速启动HBase环境，通过几条命令即可完成安装部署并访问HBase Web管理界面进行测试。"
 categories: ["code"]
-heading: "使用docker快速体验hbase"
 date: "2019-04-15T08:10:30.889Z"
 ---
 学习大数据相关技术的时候往往离不开hbase，用docker快速运行hbase是一个不错的选择。

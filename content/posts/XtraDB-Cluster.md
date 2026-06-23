@@ -1,8 +1,8 @@
 ---
-title: "CentOS7安装Percona XtraDB Cluster实现mysql高可用"
-keywords: ["教程", "mysql", "安装 实现 高可用", "Percona XtraDB Cluster", "localhost", "CentOS7", "IDENTIFIED BY", "sstuser", "XtraDB", "Cluster"]
-tags: ["教程", "mysql", "安装 实现 高可用", "Percona XtraDB Cluster", "localhost", "CentOS7", "IDENTIFIED BY", "sstuser"]
-description: "Percona XtraDB Cluster with config /etc/sysconfig/mysql.bootstrap"
+title: "CentOS7安装Percona XtraDB集群"
+keywords: ["Percona XtraDB Cluster安装", "MySQL高可用集群", "CentOS7集群搭建", "多主复制", "数据库高可用"]
+tags: ["MySQL", "集群", "CentOS"]
+description: "在CentOS7上安装Percona XtraDB Cluster实现MySQL高可用集群，支持同步复制和多主架构，避免单点故障。"
 categories: ["code"]
 heading: "CentOS7安装Percona XtraDB Cluster实现mysql高可用"
 date: "2018-09-05T02:51:39.093Z"
@@ -109,7 +109,6 @@ show status like 'wsrep%';
 #启动从节点
 systemctl start mysql
 ```
-
 
 
 

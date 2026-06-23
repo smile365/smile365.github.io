@@ -1,10 +1,10 @@
 ---
 title: "毕设代做"
-keywords: ["教程", "毕设代做", "python", "JavaScript", "java", "weyb", "css", "app", "graduation", "project"]
-tags: ["教程", "毕设代做", "python", "JavaScript", "java", "weyb", "css", "app"]
-description: "选错专业，计算机，软件工程，信息技术"
+keywords: ["毕设代做", "毕业设计代做", "计算机毕设", "编程作业代做", "毕业设计选题"]
+tags: ["毕设", "毕业设计", "编程"]
+heading: "毕业设计代做平台指南"
+description: "计算机、软件工程专业毕业设计代做平台指南，涵盖毕设选题建议、代做平台选择和常见问题解答。"
 categories: ["code"]
-heading: "买毕到毕业设计代做平台"
 date: "2019-12-31T06:40:13.646Z"
 ---
 选错专业，计算机，软件工程，信息技术
@@ -24,4 +24,3 @@ python/java/html/weyb/css/JavaScript/网站/app/小程序/公众号
 毕业设计导师选晚了		
 毕设怎么做		
 毕设啥都不会怎么办
-
