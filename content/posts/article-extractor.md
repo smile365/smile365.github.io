@@ -1,11 +1,12 @@
 ---
-title:  网页正文提取工具
-date: 2018-07-31T02:18:59.803Z
-tags: ["爬虫"]
+title: "网页正文提取工具"
+keywords: ["教程", "爬虫", "网页正文提取工具", "html2article", "readability", "python readability", "python goose", "Mono", "Dragnet", "Newspaper"]
+tags: ["教程", "爬虫", "网页正文提取工具", "html2article", "readability", "python readability", "python goose", "Mono"]
+description: "基于文本密度的html2article - 基于标签比例的机器学习Dragnet - 专注新闻类网页提取的Newspaper - 集成goose等三种算法的readbility."
 categories: ["code"]
-description:
+heading: "网页正文提取工具"
+date: "2018-07-31T02:18:59.803Z"
 ---
-
 开源项目
 
 - 基于文本密度的[html2article](http://www.cnblogs.com/jasondan/p/3497757.html)

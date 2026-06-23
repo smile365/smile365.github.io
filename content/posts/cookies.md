@@ -1,12 +1,12 @@
 ---
-title:  js获取和设置cookies
-heading: 用js/pyppeteer/splash/request_html设置cookies的方法
-date: 2020-07-30T01:46:47.778Z
+title: "js获取和设置cookies"
+keywords: ["教程", "pyppeteer", "JavaScript", "获取", "设置", "cookies", "js", "user"]
+tags: ["教程", "pyppeteer", "JavaScript", "获取", "设置", "cookies", "js", "user"]
+description: "部分网站需要cookies才能显示特定信息，比如不登录的情况下看不到`"
 categories: ["code"]
-tags: 
-description: 
+heading: "用js/pyppeteer/splash/request_html设置cookies的方法"
+date: "2020-07-30T01:46:47.778Z"
 ---
-
 部分网站需要cookies才能显示特定信息，比如不登录的情况下看不到`https://github.com/smile365`的邮箱信息。
 
 #### 用JavaScript设置和获取网站的cookies

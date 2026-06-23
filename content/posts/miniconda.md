@@ -1,11 +1,12 @@
 ---
-title:  使用Miniconda创建多个python虚拟环境
-heading: python虚拟环境
-date: 2018-08-20T03:32:41.354Z
-tags: ["Miniconda教程","python虚拟环境"]
-categories: ["code"] 
+title: "使用Miniconda创建多个python虚拟环境"
+keywords: ["教程", "Miniconda教程", "python虚拟环境", "python", "虚拟环境", "Miniconda", "Conda", "Ruby"]
+tags: ["教程", "Miniconda教程", "python虚拟环境", "python", "虚拟环境", "Miniconda", "Conda", "Ruby"]
+description: "前言 Conda 基于 Python 开发，是一个开源、跨平台、语言无关的包管理与环境管理系统。"
+categories: ["code"]
+heading: "python虚拟环境"
+date: "2018-08-20T03:32:41.354Z"
 ---
-
 ## 前言
 Conda 基于 Python 开发，是一个开源、跨平台、语言无关的包管理与环境管理系统。支持 Python, R, Ruby, Lua, Scala, Java, JavaScript, C/ C++, FORTRAN 等语言。
 

@@ -1,10 +1,11 @@
 ---
-title: Huaqiangbei-s12-ultra-watch
-heading:  
-date: 2026-05-15T13:37:29.626Z
-tags: 
+title: "Huaqiangbei-s12-ultra-watch"
+keywords: ["生活", "app", "Huaqiangbei s12 ultra", "watch", "Amoled 490", "NFC", "mAh", "WiFi", "watch ##", "Huaqiangbei"]
+tags: ["生活", "app", "Huaqiangbei s12 ultra", "watch", "Amoled 490", "NFC", "mAh", "WiFi"]
+description: "前言 之前把手机仍在昆明三天，在县城完全没手机生活了 3 天，感觉世界都安静了。"
 categories: ["life"]
-Description:  
+heading: "Huaqiangbei-s12-ultra-watch"
+date: "2026-05-15T13:37:29.626Z"
 ---
 ## 前言
 之前把手机仍在昆明三天，在县城完全没手机生活了 3 天，感觉世界都安静了。

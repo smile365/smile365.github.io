@@ -1,11 +1,12 @@
 ---
-title:  centos7快速安装python3
-date: 2018-08-14T09:18:01.346Z
-tags: ["安装python3","python3安装"]
+title: "centos7快速安装python3"
+keywords: ["教程", "安装python3", "python3安装", "pip", "快速安装", "python3", "centos7", "yum y install", "minicoda", "get pip"]
+tags: ["教程", "安装python3", "python3安装", "pip", "快速安装", "python3", "centos7", "yum y install"]
+description: "下载超级慢，再开个shell继续下面的步骤"
 categories: ["code"]
-description: 
+heading: "centos7快速安装python3"
+date: "2018-08-14T09:18:01.346Z"
 ---
-
 推荐使用[minicoda](https://www.sxy91.com/posts/miniconda/)，安装更快，更便捷。
 
 下载get-pip:

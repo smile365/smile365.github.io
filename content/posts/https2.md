@@ -1,12 +1,12 @@
 ---
-title:  https2
-heading: 
-date: 2021-10-26T13:08:39.195Z
-categories: ["other"]
-tags: 
-description: 泛域名https整书申请，通配符https证书申请
+title: "https2"
+keywords: ["阅读", "https2", "Ali", "acme", "API", "accesskey", "Key", "Secret", "https2 ##"]
+tags: ["阅读", "https2", "Ali", "acme", "API", "accesskey", "Key", "Secret"]
+description: "参考 acme 的说明，先登录阿里云帐户以获取的 API 密钥在（配置一个 accesskey）"
+categories: ["read"]
+heading: "https2"
+date: "2021-10-26T13:08:39.195Z"
 ---
-
 ## 申请证书
 
 参考 acme 的[说明](https://github.com/acmesh-official/acme.sh/wiki/dnsapi#11-use-aliyun-domain-api-to-automatically-issue-cert)，先登录[阿里云](https://ram.console.aliyun.com/manage/ak)帐户以获取的 API 密钥在（配置一个 accesskey）

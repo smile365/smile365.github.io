@@ -1,10 +1,11 @@
 ---
-title: landing-page
-heading:  如何做 Landing Page
-date: 2026-05-19T03:38:50.486Z
-tags: 
+title: "landing-page"
+keywords: ["教程", "Landing Page", "SEO", "Cloudflare Pages", "APP", "VPS Kubernetes SSR", "Hero", "CTA", "landing page ##", "landing"]
+tags: ["教程", "Landing Page", "SEO", "Cloudflare Pages", "APP", "VPS Kubernetes SSR", "Hero", "CTA"]
+description: "前言 开发一个全新 APP 之前，为什么需要做 Landing Page？"
 categories: ["code"]
-Description:  
+heading: "如何做 Landing Page"
+date: "2026-05-19T03:38:50.486Z"
 ---
 ## 前言
 开发一个全新 APP 之前，为什么需要做 Landing Page？

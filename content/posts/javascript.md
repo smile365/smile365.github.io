@@ -1,15 +1,14 @@
 ---
-title:  如何循序渐进、有效地学习JavaScript？
-date: 2019-11-09T10:08:44.429Z
-tags: ["code","it"]
-series: ["blog"]
+title: "如何循序渐进、有效地学习JavaScript？"
+keywords: ["教程", "code", "it", "JavaScript", "循序渐进", "有效地学习", "JS", "JavaScript DOM"]
+tags: ["教程", "code", "it", "JavaScript", "循序渐进", "有效地学习", "JS", "JavaScript DOM"]
+description: "这是写在知乎的回答知乎-如何循序渐进、有效地学习JavaScript，内容在下面："
 categories: ["code"]
-draft: true
-description:
+heading: "如何循序渐进、有效地学习JavaScript？"
+date: "2019-11-09T10:08:44.429Z"
+draft: "true"
+series: ["blog"]
 ---
-
-
-
 这是写在知乎的回答[知乎-如何循序渐进、有效地学习JavaScript](https://www.zhihu.com/question/19713563/answer/23068003)，内容在下面：
 
 

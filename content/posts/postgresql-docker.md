@@ -1,12 +1,12 @@
 ---
-title:  使用 docker 安装 PostgreSQL 数据库
-heading: 
-date: 2023-06-27T22:13:00.474Z
-tags: ["PostgreSQL教程","postgresql安装教程"]
-categories: ["code"] 
+title: "使用 docker 安装 PostgreSQL 数据库"
+keywords: ["教程", "PostgreSQL教程", "postgresql安装教程", "docker", "使用 安装 数据库", "PostgreSQL"]
+tags: ["教程", "PostgreSQL教程", "postgresql安装教程", "docker", "使用 安装 数据库", "PostgreSQL"]
+description: "使用 docker 安装 PostgreSQL 数据库"
+categories: ["code"]
+heading: "使用 docker 安装 PostgreSQL 数据库"
+date: "2023-06-27T22:13:00.474Z"
 ---
-
-
 ## 准备工作
 
 1. 创建配置文件

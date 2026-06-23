@@ -1,12 +1,12 @@
 ---
-title: 在 macbook 下攻击和模拟 Mifare NFC 加密卡的简明指南
-heading: 通过手机的 NFC 功能模拟加密的门禁卡
-date: 2021-09-04T01:08:42.169Z
-categories: ["code"]
-tags: 
-description: 在苹果电脑的 osx 系统下实现手机和手环模拟加密门禁卡的教程
+title: "在 macbook 下攻击和模拟 Mifare NFC 加密卡的简明指南"
+keywords: ["阅读", "在 下攻击", "模拟 加密卡", "NFC", "UID", "mfoc", "macbook", "Mifare NFC", "mac", "mac os x"]
+tags: ["阅读", "在 下攻击", "模拟 加密卡", "NFC", "UID", "mfoc", "macbook", "Mifare NFC"]
+description: "在苹果电脑的 osx 系统下实现手机和手环模拟加密门禁卡的教程"
+categories: ["read"]
+heading: "通过手机的 NFC 功能模拟加密的门禁卡"
+date: "2021-09-04T01:08:42.169Z"
 ---
-
 ## 导言
 
 换了一个新的住址，社区给了一张门禁卡，刚好小米手机支持模拟实体门禁卡，试了一下，只能开小区的大门，单元门没法开，电梯没法开。好奇为什么，索性研究了下如何解决这个问题。网上找了一圈，没有发现 mac 电脑上的教程，经过一番研究，实现了在 mac os x 下破解加密卡，在此记录一下破解过程。

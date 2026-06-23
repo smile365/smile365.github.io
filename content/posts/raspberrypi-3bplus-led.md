@@ -1,13 +1,12 @@
 ---
 title: "树莓派 3b 点亮 led 继电器"
-heading:  
-date: 2024-01-10T13:44:20.343Z
+keywords: ["教程", "树莓派 点亮 继电器", "led", "pinout", "raspberrypi", "3bplus"]
+tags: ["教程", "树莓派 点亮 继电器", "led", "pinout"]
+description: "树莓派 3b+ 点亮 led，继电器。"
 categories: ["code"]
-tags: 
-description:  树莓派 3b+ 点亮 led，继电器。
+heading: "树莓派 3b 点亮 led 继电器"
+date: "2024-01-10T13:44:20.343Z"
 ---
-
-
 ## 前言
 
   查看树莓派版本

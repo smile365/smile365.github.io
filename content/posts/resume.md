@@ -1,9 +1,11 @@
 ---
-title: sxy91com-宋洋葱
-heading: 宋学彦
-date: 2018-01-30
+title: "sxy91com-宋洋葱"
+keywords: ["教程", "宋洋葱", "Mongo", "宋学彦", "MyBatis", "Spring MVC", "Spring", "EasyUI", "IT", "Markdown"]
+tags: ["教程", "宋洋葱", "Mongo", "宋学彦", "MyBatis", "Spring MVC", "Spring", "EasyUI"]
+description: "IT工程师用Markdown语法写简历是什么样子 ### 基本信息"
 categories: ["code"]
-
+heading: "宋学彦"
+date: "2018-01-30"
 ---
 IT工程师用Markdown语法写简历是什么样子
 <!-- excerpt -->

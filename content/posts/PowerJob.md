@@ -1,10 +1,11 @@
 ---
 title: "PowerJob 分布式任务调度与计算框架"
-heading:  
-date: 2022-12-30T09:13:22.765Z
-tags: 
+keywords: ["教程", "Docker", "分布式任务调度", "计算框架", "PowerJob", "PostgreSQL 14 JDK", "Maven idea", "PowerJob Server pg"]
+tags: ["教程", "Docker", "分布式任务调度", "计算框架", "PowerJob", "PostgreSQL 14 JDK", "Maven idea", "PowerJob Server pg"]
+description: "环境 -PostgreSQL 14 - JDK 11 - Maven"
 categories: ["code"]
-Description:  
+heading: "PowerJob 分布式任务调度与计算框架"
+date: "2022-12-30T09:13:22.765Z"
 ---
 ## 环境
 -PostgreSQL 14

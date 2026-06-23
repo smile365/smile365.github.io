@@ -1,12 +1,12 @@
 ---
-title: CDC
-heading:  
-date: 2023-04-04T06:18:20.485Z
-categories: ["other"]
-tags: 
-description:  
+title: "CDC"
+keywords: ["教程", "and send them", "CDC", "to Kafka as", "can be used", "to capture changes", "capture changes made", "to a database", "me", "Is there any"]
+tags: ["教程", "and send them", "CDC", "to Kafka as", "can be used", "to capture changes", "capture changes made", "to a database"]
+description: "me：** Is there any method, idea or technology that can monitor various database changes."
+categories: ["code"]
+heading: "CDC"
+date: "2023-04-04T06:18:20.485Z"
 ---
-
 **me：** Is there any method, idea or technology that can monitor various database changes, such as addition, deletion, and modification, and then send events to kafka.
 
 **chatpgt：** Yes, there are several methods, ideas, and technologies that can monitor various database changes and send events to Kafka. Some of them are:

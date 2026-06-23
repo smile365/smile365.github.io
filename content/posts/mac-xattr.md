@@ -1,12 +1,12 @@
 ---
-title:  mac os环境下运行'ls -al'后出现“+”或“@“标记
-heading: mac环境使用xattr命令查看带有“@”标记的文件
-date: 2020-04-22T03:56:42.032Z
+title: "mac os环境下运行'ls -al'后出现“+”或“@“标记"
+keywords: ["教程", "mac xattr", "mac ls -lh @", "python", "环境下运行'", "mac", "mac os", "ls al", "xattr"]
+tags: ["教程", "mac xattr", "mac ls -lh @", "python", "环境下运行'", "mac", "mac os", "ls al"]
+description: "+ or @ mark after running 'ls -al'"
 categories: ["code"]
-tags: ["mac xattr","mac ls -lh @"]
-description: + or @ mark after running 'ls -al' 
+heading: "mac环境使用xattr命令查看带有“@”标记的文件"
+date: "2020-04-22T03:56:42.032Z"
 ---
-
 mac环境下用python读取文件的时候发现错误：`
 PermissionError: [Errno 13] Permission denied: 'WechatIMG23.jpeg`
 

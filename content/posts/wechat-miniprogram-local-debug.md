@@ -1,12 +1,12 @@
 ---
-title:  微信开发如何做本地调试？
-heading: 微信公众号开发本地调试方法教程
-date: 2020-10-29T03:33:11.148Z
+title: "微信开发如何做本地调试？"
+keywords: ["教程", "nginx", "Python", "微信开发", "做本地调试", "request", "wechat", "miniprogram", "local"]
+tags: ["教程", "nginx", "Python", "微信开发", "做本地调试", "request"]
+description: "wechat-miniprogram-local-debug,"
 categories: ["code"]
-tags: 
-description: wechat-miniprogram-local-debug,
+heading: "微信公众号开发本地调试方法教程"
+date: "2020-10-29T03:33:11.148Z"
 ---
-
 微信公众号本地调试开发方法步骤：
 
 1. 微信公众号后台配置可信 request 域名

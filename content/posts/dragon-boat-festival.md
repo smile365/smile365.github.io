@@ -1,12 +1,12 @@
 ---
-title: 端午vs端五 屈原想吃粽子吗
-heading: 端午vs端五，为啥要纪念屈原
-date: 2020-07-17T13:30:15.769Z
+title: "端午vs端五 屈原想吃粽子吗"
+keywords: ["生活", "端午 端五", "为啥要纪念屈原", "vs", "dragon", "boat", "festival"]
+tags: ["生活", "端午 端五", "为啥要纪念屈原", "vs"]
+description: "端午节是怎来的呢，为什么端午要吃粽子呢。"
 categories: ["life"]
-tags: 
-description: 
+heading: "端午vs端五，为啥要纪念屈原"
+date: "2020-07-17T13:30:15.769Z"
 ---
-
 端午节是怎来的呢，为什么端午要吃粽子呢。
 
 百度百科对“端午节”的解释也乱七八糟，完全不知所云。

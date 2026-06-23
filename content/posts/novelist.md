@@ -1,12 +1,12 @@
 ---
-title:  围观一下畅销全球的日本小说是如何写成的
-heading: 
-date: 2020-02-13T01:17:40.195Z
+title: "围观一下畅销全球的日本小说是如何写成的"
+keywords: ["生活", "写成", "Photo by Alfons", "Morales on Unsplas", "novelist"]
+tags: ["生活", "写成", "Photo by Alfons", "Morales on Unsplas"]
+description: "今天读完了一本日本作家村上春树的随笔《我的职业是小说家》，特来分享读完的感悟。"
 categories: ["life"]
-tags: 
-description: 
+heading: "围观一下畅销全球的日本小说是如何写成的"
+date: "2020-02-13T01:17:40.195Z"
 ---
-
 ![Photo by Alfons Morales on Unsplas](https://gitee.com/smile365/blogimg/raw/master/sxy91/1581585252153.png)
 
 今天读完了一本日本作家村上春树的随笔《我的职业是小说家》，特来分享读完的感悟。在读《我的职业是小说家》之前，有幸读过《挪威的森林》、《当我谈跑步时，我谈些什么》两部村上大叔的著作。前者讲了什么已经忘光了，后者倒还有些印象。感觉大叔是个话痨（无意冒犯），聊自己跑步时的感想还能写出一本书出来，实在佩服。阅读过程中竟如丝滑般畅快，更加佩服的五体投地了。

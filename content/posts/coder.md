@@ -1,10 +1,12 @@
 ---
-title:  技术博客收集
-date: 2018-07-04
-tags: ["websit"]
-categories: ["code"]
+title: "技术博客收集"
+keywords: ["阅读", "websit", "技术博客收集", "AnimeGANv2", "XuC", "TensorFlow 2", "Patrick McKenzie", "GitHub issue", "AnimeGANv2 AnimeGANv2", "coder"]
+tags: ["阅读", "websit", "技术博客收集", "AnimeGANv2", "XuC", "TensorFlow 2", "Patrick McKenzie", "GitHub issue"]
+description: "牛人=选择 3 X方法 2 X动力XuC"
+categories: ["read"]
+heading: "技术博客收集"
+date: "2018-07-04"
 ---
-
 牛人=选择<sup>3</sup>X方法<sup>2</sup>X动力XuC
 
 小工具

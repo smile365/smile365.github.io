@@ -1,10 +1,11 @@
 ---
 title: "使用 sealos 快速安装 k8s"
-heading:
-date: 2022-11-02T02:35:11.591Z
+keywords: ["教程", "使用 快速安装", "sealos", "k8s", "sealos1667360958", "vanus", "checker", "bullseye", "k8s ##"]
+tags: ["教程", "使用 快速安装", "sealos", "k8s", "sealos1667360958", "vanus", "checker", "bullseye"]
+description: "sealos 安装和使用教程"
 categories: ["code"]
-tags: 
-description:  sealos 安装和使用教程
+heading: "使用 sealos 快速安装 k8s"
+date: "2022-11-02T02:35:11.591Z"
 ---
 ## 前言
 [sealos](https://www.sealos.io/zh-Hans/docs/getting-started/prerequisites) 可以快速安装 k8s ，管理集群也非常容易。刚好最近需要调研 [vanus](https://docs.linkall.com/introduction/what-is-vanus) ，以下是用 sealos 来安装 vanus 的过程。

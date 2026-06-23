@@ -1,12 +1,12 @@
 ---
 title: "es-ILM 按条件自动删除或归档 es 中的索引"
-heading:  
-date: 2023-02-03T09:02:37.492Z
-tags: 
+keywords: ["教程", "es", "kibana", "policy", "age", "priority", "es ILM", "ILM", "index lifecycle management"]
+tags: ["教程", "es", "kibana", "policy", "age", "priority", "es ILM", "ILM"]
+description: "index lifecycle management (ILM)"
 categories: ["code"]
-Description:  index lifecycle management (ILM)
+heading: "es-ILM 按条件自动删除或归档 es 中的索引"
+date: "2023-02-03T09:02:37.492Z"
 ---
-
 ## 前言
 
 

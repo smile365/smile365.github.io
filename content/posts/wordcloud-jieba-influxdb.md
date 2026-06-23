@@ -1,11 +1,12 @@
 ---
-title:  词云系统设计
-date: 2019-06-17T05:52:14.535Z
-tags: 
- - 分词
- - InfluxDB
+title: "词云系统设计"
+keywords: ["阅读", "分词", "InfluxDB", "词云系统设计", "WordCloud", "jieba", "influxdb handbook", "influxdb python", "text", "tags"]
+tags: ["阅读", "分词", "InfluxDB", "词云系统设计", "WordCloud", "jieba", "influxdb handbook", "influxdb python"]
+description: "添加influxdb源,然后安装"
+categories: ["read"]
+heading: "词云系统设计"
+date: "2019-06-17T05:52:14.535Z"
 ---
-
 添加[influxdb源](https://docs.influxdata.com/influxdb/v1.7/introduction/installation/),然后安装  
 ```
 cat <<EOF | sudo tee /etc/yum.repos.d/influxdb.repo

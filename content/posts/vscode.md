@@ -1,13 +1,13 @@
 ---
-title:  vscode入门教程
-heading:
-date: 2019-12-04T08:13:10.397Z
-draft: true
-categories: ["code","life","tools","read"]
-tags: 
-description: 
+title: "vscode入门教程"
+keywords: ["教程", "python", "vscode"]
+tags: ["教程", "python", "vscode"]
+description: "vscode入门教程"
+categories: ["code", "life", "tools", "read"]
+heading: "vscode入门教程"
+date: "2019-12-04T08:13:10.397Z"
+draft: "true"
 ---
-
 创建python模板
 
 ```json

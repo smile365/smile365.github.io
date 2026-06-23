@@ -1,14 +1,12 @@
 ---
 title: "conductor DAG 的完整支持改造(1)-入门指南"
-heading:  
-date: 2023-03-17T06:17:45.498Z
+keywords: ["教程", "完整支持改造", "conductor", "conductor DAG", "hello word", "workflow operators", "Do While Dynamic", "Dynamic Fork Fork"]
+tags: ["教程", "完整支持改造", "conductor", "conductor DAG", "hello word", "workflow operators", "Do While Dynamic", "Dynamic Fork Fork"]
+description: "conductor 系列入门指南 1. 为什么需要 conductor"
 categories: ["code"]
-tags: 
-description:  
+heading: "conductor DAG 的完整支持改造(1)-入门指南"
+date: "2023-03-17T06:17:45.498Z"
 ---
-
-
-
 ## conductor 系列入门指南
 1. 为什么需要 conductor
 

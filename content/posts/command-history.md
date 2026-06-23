@@ -1,12 +1,13 @@
 ---
-title:  使用 snoopy 实现 linux history 操作记录和审计日志
-date: 2022-12-08T12:50:14.806Z
-tags: ["code","it"]
-series: ["blog"]
+title: "使用 snoopy 实现 linux history 操作记录和审计日志"
+keywords: ["教程", "code", "it", "使用 实现 操作记录", "审计日志", "snoopy", "linux history", "var", "snoopy snoopy", "Linux"]
+tags: ["教程", "code", "it", "使用 实现 操作记录", "审计日志", "snoopy", "linux history", "var"]
+description: "snoopy可以记录 Linux 终端的操作记录。有 5 种安装方式。 1. 使用存储库安装"
 categories: ["code"]
-Description: 
+heading: "使用 snoopy 实现 linux history 操作记录和审计日志"
+date: "2022-12-08T12:50:14.806Z"
+series: ["blog"]
 ---
-
 ## 安装 snoopy
 
 [snoopy](https://github.com/a2o/snoopy/blob/master/doc/INSTALL.md)可以记录 Linux 终端的操作记录。有 5 种安装方式。

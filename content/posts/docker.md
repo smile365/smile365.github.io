@@ -1,11 +1,12 @@
 ---
-title:  centos安装docker
-date: 2018-08-02T07:54:20.501Z
-tags: ["docker"]
+title: "centos安装docker"
+keywords: ["教程", "docker", "centos", "etc", "CentOS 7", "data root", "var", "lib"]
+tags: ["教程", "docker", "centos", "etc", "CentOS 7", "data root", "var", "lib"]
+description: "Docker最低支持 CentOS 7**"
 categories: ["code"]
-description:
+heading: "centos安装docker"
+date: "2018-08-02T07:54:20.501Z"
 ---
-
 **Docker最低支持 CentOS 7**
 
 ```shell

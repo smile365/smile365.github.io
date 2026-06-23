@@ -1,12 +1,12 @@
 ---
-title: 使用JavaScript获取当前鼠标的形状类型状态
-heading: 
-date: 2021-10-14T07:02:26.218Z
-categories: ["other"]
-tags: 
-description: how to use javascript get current cursor style from browser
+title: "使用JavaScript获取当前鼠标的形状类型状态"
+keywords: ["教程", "JavaScript", "web", "get current mouse", "cursor type how", "to use javascript", "get current cursor", "style from browser", "current", "cursor"]
+tags: ["教程", "JavaScript", "web", "get current mouse", "cursor type how", "to use javascript", "get current cursor", "style from browser"]
+description: "how to use javascript get current cursor style from browser"
+categories: ["code"]
+heading: "使用JavaScript获取当前鼠标的形状类型状态"
+date: "2021-10-14T07:02:26.218Z"
 ---
-
 ### 概述
 
 web端目前大多数的测试都是功能测试、接口测试，自动化测试比较少，即使是自动化测试也需要开发者编写相关测试的代码，不同公司的产品不一样，甚至同一公司的产品每次发布页面都有调整，测试代码需要跟随线上版本同步改动，比较浪费人力。是否有一种可行的方案，用一种测试方式，即可应对几乎所有页面呢。

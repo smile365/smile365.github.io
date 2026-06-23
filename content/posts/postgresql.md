@@ -1,11 +1,12 @@
 ---
-title:  PostgreSQL新手入门教程
-heading: 
-date: 2019-06-04T08:13:00.474Z
-tags: ["PostgreSQL教程","postgresql安装教程"]
-categories: ["code"] 
+title: "PostgreSQL新手入门教程"
+keywords: ["教程", "PostgreSQL教程", "postgresql安装教程", "新手", "PostgreSQL", "psql", "rpm", "sudo u postgres", "centos7"]
+tags: ["教程", "PostgreSQL教程", "postgresql安装教程", "新手", "PostgreSQL", "psql", "rpm", "sudo u postgres"]
+description: "创建角色和数据库: sudo -u postgres psql"
+categories: ["code"]
+heading: "PostgreSQL新手入门教程"
+date: "2019-06-04T08:13:00.474Z"
 ---
-
 使用[官网的rpm](https://www.postgresql.org/download/linux/redhat/)包在centos7下安装PostgreSQL 11
 ```shell
 yum install https://download.postgresql.org/pub/repos/yum/reporpms/EL-7-x86_64/pgdg-redhat-repo-latest.noarch.rpm

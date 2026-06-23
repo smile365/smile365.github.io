@@ -1,12 +1,12 @@
 ---
-title:  clickhouse-engines表引擎介绍
-heading: clickhouse中文教程
-date: 2020-05-26T07:47:50.130Z
+title: "clickhouse-engines表引擎介绍"
+keywords: ["教程", "clickhouse中文教程", "表引擎介绍", "中文", "clickhouse", "clickhouse engines", "SummingMergeTree", "MergeTree", "engines"]
+tags: ["教程", "clickhouse中文教程", "表引擎介绍", "中文", "clickhouse", "clickhouse engines", "SummingMergeTree", "MergeTree"]
+description: "clickhouse 中文 教程"
 categories: ["code"]
-tags: ["clickhouse中文教程"]
-description: clickhouse 中文 教程
+heading: "clickhouse中文教程"
+date: "2020-05-26T07:47:50.130Z"
 ---
-
 clickhouse最重要的部分大概是表格引擎，选择合适的引擎可以达到意想不到的效果。在上篇的[clickhouse入门教程](https://www.sxy91.com/posts/clickhouse/)中使用了`SummingMergeTree`这个引擎，主要用来归档，求和。可以把多条数据，求和后只保存一条数据。占用空间小，且计算快。适用场景类似于时许数据库，把一段时间内的数据求和后存储。
 
 

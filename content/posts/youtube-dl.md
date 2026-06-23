@@ -1,13 +1,13 @@
 ---
-title: 使用 youtube-dl 快速下载 油管视频
-heading:  
-date: 2024-09-16T16:50:27.816Z
-tags: 
-draft: true
+title: "使用 youtube-dl 快速下载 油管视频"
+keywords: ["教程", "快速下载 油管视频", "youtube dl", "install youtube dl", "with Homebrew", "caused by URLError", "SSLCertVerificationError", "SSL", "youtube"]
+tags: ["教程", "快速下载 油管视频", "youtube dl", "install youtube dl", "with Homebrew", "caused by URLError", "SSLCertVerificationError", "SSL"]
+description: "安装 youtube-dl 按照官网教程 install youtube-dl with Homebrew 安装完，发现版本是最低的。"
 categories: ["code"]
-Description:  
+heading: "使用 youtube-dl 快速下载 油管视频"
+date: "2024-09-16T16:50:27.816Z"
+draft: "true"
 ---
-
 ## 安装  youtube-dl
 按照官网教程 [install youtube-dl with Homebrew](https://github.com/ytdl-org/youtube-dl?tab=readme-ov-file#installation) 安装完，发现版本是最低的。且官方 [ Issue #30839](https://github.com/ytdl-org/youtube-dl/issues/30839) 说 2021 这个版本本身已经无法运行，是个有问题的版本。
 ```bash

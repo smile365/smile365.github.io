@@ -1,12 +1,12 @@
 ---
-title:  my-sop
-heading: 蠢事录
-date: 2020-10-31T10:58:14.442Z
-categories: ["other"]
-tags: 
-description: 
+title: "my-sop"
+keywords: ["阅读", "蠢事录", "my sop", "sop"]
+tags: ["阅读", "蠢事录", "my sop"]
+description: "灵感来源：卡耐基蠢事录、富兰克林检查清单。"
+categories: ["read"]
+heading: "蠢事录"
+date: "2020-10-31T10:58:14.442Z"
 ---
-
 灵感来源：卡耐基蠢事录、富兰克林检查清单。
 
 

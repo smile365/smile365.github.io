@@ -1,12 +1,12 @@
 ---
-title: ai-prompt-es-ilm
-heading:  
-date: 2023-10-30T02:53:12.544Z
+title: "ai-prompt-es-ilm"
+keywords: ["教程", "chatgpt 4", "ai prompt es", "ilm", "prompt", "es", "Elasticsearch", "chatgpt", "ilm ##"]
+tags: ["教程", "chatgpt 4", "ai prompt es", "ilm", "prompt", "es", "Elasticsearch", "chatgpt"]
+description: "ai chatgpt prompt es ilm 。"
 categories: ["code"]
-tags: 
-description:  ai chatgpt prompt es ilm 。使用 AI 验证 es 的 ILM 功能。 Open-AI chatgpt-4 、 讯飞-星火 、百度-文心一言 、 阿里-通义千问 使用体验和评测对比。
+heading: "ai-prompt-es-ilm"
+date: "2023-10-30T02:53:12.544Z"
 ---
-
 ## 前言
 
 

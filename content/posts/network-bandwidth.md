@@ -1,12 +1,12 @@
 ---
-title: 如何估算网络带宽需求及费用
-heading:  
-date: 2023-02-16T13:53:39.439Z
+title: "如何估算网络带宽需求及费用"
+keywords: ["教程", "Mbps", "Kb", "Mb", "Million bits per", "second", "Byte", "bit", "network", "bandwidth"]
+tags: ["教程", "Mbps", "Kb", "Mb", "Million bits per", "second", "Byte", "bit"]
+description: "带宽单位 - Mbps ( Million bits per second )： 每秒传输百万位(比特)数量的数据 - Mb/s： - MB/s： - M/s："
 categories: ["code"]
-tags: 
-description:  
+heading: "如何估算网络带宽需求及费用"
+date: "2023-02-16T13:53:39.439Z"
 ---
-
 ## 带宽单位
 - Mbps ( Million bits per second )： 每秒传输百万位(比特)数量的数据
 - Mb/s：

@@ -1,12 +1,12 @@
 ---
 title: "conductor DAG 的完整支持改造(8)"
-heading:  
-date: 2023-03-17T11:01:57.751Z
+keywords: ["教程", "完整支持改造", "conductor", "workflow2", "workflow1", "conductor DAG", "DAG", "workflow"]
+tags: ["教程", "完整支持改造", "conductor", "workflow2", "workflow1", "conductor DAG", "DAG", "workflow"]
+description: "虽然 conductor 能满足部分常见的业务场景，但因为 conductor 对 DAG 的支持有限。"
 categories: ["code"]
-tags: 
-description:  
+heading: "conductor DAG 的完整支持改造(8)"
+date: "2023-03-17T11:01:57.751Z"
 ---
-
 虽然 conductor 能满足部分常见的业务场景，但因为 conductor 对 DAG 的支持有限。conductor 虽然支持 fork 、join、sub 等任务，但本质上仅支持一个节点开始，到一个节点结束。像下面的工作流 conductor 就无法实现了：
 ![enter description here](https://cdn.sxy21.cn/static/imgs/1679052871062.png)
 

@@ -1,10 +1,11 @@
 ---
-title: win11-pve
-heading: 
-date: 2022-04-02T05:46:41.174Z
-categories: ["other"]
-tags: 
-description: install Windows 11 on pve
+title: "win11-pve"
+keywords: ["教程", "win11 pve", "iso", "Windows 11", "GB", "VirtIO", "windows", "PVE", "win11 pve ##", "zh cn"]
+tags: ["教程", "win11 pve", "iso", "Windows 11", "GB", "VirtIO", "windows", "PVE"]
+description: "install Windows 11 on pve"
+categories: ["code"]
+heading: "win11-pve"
+date: "2022-04-02T05:46:41.174Z"
 ---
 ## 前言
 

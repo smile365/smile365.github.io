@@ -1,12 +1,13 @@
 ---
-title: virmach教程
-heading: 
-date: 2020-02-20T07:56:16.162Z
+title: "virmach教程"
+keywords: ["教程", "virmach", "Cannot retrieve metalink", "for repository", "its path and", "try again", "ShadowSocks", "vps"]
+tags: ["教程", "virmach", "Cannot retrieve metalink", "for repository", "its path and", "try again", "ShadowSocks", "vps"]
+description: "注册virmach，建议填写国内邮箱。使用代理登录virmach 的订单容易被“PENDING”待定。"
 categories: ["code"]
-draft: true
-description: 
+heading: "virmach教程"
+date: "2020-02-20T07:56:16.162Z"
+draft: "true"
 ---
-
 注册[virmach](https://billing.virmach.com/aff.php?aff=9472&gid=1)，建议填写国内邮箱。使用代理登录virmach 的订单容易被“PENDING”待定。
 
 登录后到vps列表页面，选择1美元一个月的套餐。

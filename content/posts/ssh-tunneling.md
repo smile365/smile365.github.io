@@ -1,12 +1,12 @@
 ---
-title:  使用SSH隧道实现内网穿透教程
-heading: 无需任何软件实现内网穿透
-date: 2020-05-20T01:16:16.583Z
+title: "使用SSH隧道实现内网穿透教程"
+keywords: ["教程", "SSH tunneling", "内网穿透", "ssh 隧道", "ssh", "redis", "localhost", "web", "tunneling"]
+tags: ["教程", "SSH tunneling", "内网穿透", "ssh 隧道", "ssh", "redis", "localhost", "web"]
+description: "不安装任何软件，使用 ssh 即可实现内网穿透。"
 categories: ["code"]
-tags: ["SSH tunneling","内网穿透","ssh 隧道",]
-description: 不安装任何软件，使用 ssh 即可实现内网穿透。
+heading: "无需任何软件实现内网穿透"
+date: "2020-05-20T01:16:16.583Z"
 ---
-
 情景1：本地直接连接远程服务
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1603532033018.png)
 

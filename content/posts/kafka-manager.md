@@ -1,11 +1,12 @@
 ---
-title:  kafka-manager安装
-date: 2018-08-31T03:15:13.262Z
-tags:
- - kafka
+title: "kafka-manager安装"
+keywords: ["教程", "kafka", "kafka manager", "sbt", "Cluster", "java8", "scala", "scala build tools", "manager"]
+tags: ["教程", "kafka", "kafka manager", "sbt", "Cluster", "java8", "scala", "scala build tools"]
+description: "添加Cluster 点击【Cluster】>【Add Cluster】： 输入集群的名字（如Kafka-Cluster-1）和 Zookeeper 服务器地址（如localho."
 categories: ["code"]
+heading: "kafka-manager安装"
+date: "2018-08-31T03:15:13.262Z"
 ---
-
 #### 先安装java8、scala、sbt
 ```shell
 sudo yum install java-1.8.0-openjdk

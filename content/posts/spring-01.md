@@ -1,14 +1,12 @@
 ---
-title:   spring-01
-heading: 昆明的春节-第一章
-date: 2021-02-10T09:59:01.332Z
-categories: ["other"]
-tags: 
-description: 
+title: "spring-01"
+keywords: ["生活", "昆明的春节", "第一章", "spring 01", "spring"]
+tags: ["生活", "昆明的春节", "第一章", "spring 01"]
+description: "过年前一个月：杀猪饭 过年前一周：买年货，打算院落，洗衣服被套，打算房间，大扫除。"
+categories: ["life"]
+heading: "昆明的春节-第一章"
+date: "2021-02-10T09:59:01.332Z"
 ---
-
-
-
 过年前一个月：杀猪饭
 过年前一周：买年货，打算院落，洗衣服被套，打算房间，大扫除。
 

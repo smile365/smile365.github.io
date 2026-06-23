@@ -1,13 +1,12 @@
 ---
-title:  elasticsearch简单入门教程
-heading:
-date: 2020-05-09T06:42:21.580Z
+title: "elasticsearch简单入门教程"
+keywords: ["教程", "centos", "简单", "elasticsearch", "elasticsearch py", "elasticsearch dsl", "number", "of", "elasticsearch7", "python"]
+tags: ["教程", "centos", "简单", "elasticsearch", "elasticsearch py", "elasticsearch dsl", "number", "of"]
+description: "在centos安装完elasticsearch7之后使用python操作es。"
 categories: ["code"]
-tags: 
-description: 在centos安装完elasticsearch7之后使用python操作es。
+heading: "elasticsearch简单入门教程"
+date: "2020-05-09T06:42:21.580Z"
 ---
-
-
 按照官方文档在centos安装完[elasticsearch7](https://www.elastic.co/guide/en/elasticsearch/reference/current/rpm.html)之后.
 
 两个常用python客户端： 

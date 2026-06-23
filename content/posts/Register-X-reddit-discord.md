@@ -1,12 +1,12 @@
 ---
-title: Register-X-reddit-discord
-heading:  注册X/reddit/discord/pinterest/Quora 等社交账号
-date: 2026-05-23T04:27:57.401Z
-tags: 
-categories: ["life"]
-Description:  
+title: "Register-X-reddit-discord"
+keywords: ["阅读", "生活", "注册", "等社交账号", "discord", "Google", "Register X reddit", "reddit", "discord ##", "instagram"]
+tags: ["阅读", "生活", "注册", "等社交账号", "discord", "Google", "Register X reddit", "reddit"]
+description: "前言 instagram 风控比较严格，不容易注册成功。注册这些外区 APP 时会检查如下信息，来判断是否会触发风控。"
+categories: ["read"]
+heading: "注册X/reddit/discord/pinterest/Quora 等社交账号"
+date: "2026-05-23T04:27:57.401Z"
 ---
-
 ## 前言
 instagram 风控比较严格，不容易注册成功。注册这些外区 APP 时会检查如下信息，来判断是否会触发风控。
 

@@ -1,13 +1,12 @@
 ---
-title:  图片转文字，视频转文字，音频转文字教程
-heading: 
-date: 2020-05-06T07:05:00.537Z
+title: "图片转文字，视频转文字，音频转文字教程"
+keywords: ["教程", "图片转文字", "视频转文字", "音频转文字", "ocr", "chineseocr", "lite", "FFmpeg", "ocrchineseocr", "asr"]
+tags: ["教程", "图片转文字", "视频转文字", "音频转文字", "ocr", "chineseocr", "lite", "FFmpeg"]
+description: "即图片ocr识别，使用超轻量级中文ocrchineseocr_lite识别文字（支持竖排文字识别）。"
 categories: ["code"]
-tags: 
-description: 
+heading: "图片转文字，视频转文字，音频转文字教程"
+date: "2020-05-06T07:05:00.537Z"
 ---
-
-
 #### 图片转文字
 
 即图片ocr识别，使用超轻量级中文ocr[chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite)识别文字（支持竖排文字识别）。

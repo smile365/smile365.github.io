@@ -1,12 +1,12 @@
 ---
-title: python/js 任意多维数组转一维数组
-heading: 
-date: 2022-02-15T08:53:50.545Z
+title: "python/js 任意多维数组转一维数组"
+keywords: ["教程", "python", "JavaScript", "js", "matrix", "array"]
+tags: ["教程", "python", "JavaScript", "js"]
+description: "Convert Matrix / 2D Array to a 1D,matrix-array-2-1D"
 categories: ["code"]
-tags: 
-description: Convert Matrix / 2D Array to a 1D,matrix-array-2-1D
+heading: "python/js 任意多维数组转一维数组"
+date: "2022-02-15T08:53:50.545Z"
 ---
-
 项目中需要把多维数据转变成一维数组，看了[网上的方法](https://leejason.blog.csdn.net/article/details/106928360)不太完美，基本不满足我的需求。
 举例：
 ```python

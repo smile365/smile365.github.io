@@ -1,13 +1,12 @@
 ---
-title:  windows10安装idea和jdk8教程
-heading: windows10安装idea和jdk8教程
-date: 2020-08-26T04:30:28.225Z
+title: "windows10安装idea和jdk8教程"
+keywords: ["教程", "idea", "JAVA", "HOME", "jre", "bin", "windows10", "jdk8", "jdk8 jdk", "windows"]
+tags: ["教程", "idea", "JAVA", "HOME", "jre", "bin", "windows10", "jdk8"]
+description: "jdk安装路径：C:\\\\\\\\Program Files (x86)\\\\\\\\Java\\\\\\\\1.8.0 jre安装路径：C:\\\\\\\\Program Files (x86)\\\\\\\\..."
 categories: ["code"]
-tags: 
-description: 
+heading: "windows10安装idea和jdk8教程"
+date: "2020-08-26T04:30:28.225Z"
 ---
-
-
 [下载jdk8](https://github.com/frekele/oracle-java/releases)
 
 jdk安装路径：C:\Program Files (x86)\Java\1.8.0

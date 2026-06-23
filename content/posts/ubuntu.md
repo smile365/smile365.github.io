@@ -1,12 +1,12 @@
 ---
-title: ubuntu
-heading:  ubuntu-22.04 配置开发环境
-date: 2023-03-05T02:27:23.262Z
+title: "ubuntu"
+keywords: ["教程", "ssh", "配置开发环境", "ubuntu", "root", "pve", "openssh server", "nmtui", "ubuntu ##"]
+tags: ["教程", "ssh", "配置开发环境", "ubuntu", "root", "pve", "openssh server", "nmtui"]
+description: "ubuntu-22.04.2-desktop-amd64-LTS.iso"
 categories: ["code"]
-tags: 
-description:  ubuntu-22.04.2-desktop-amd64-LTS.iso 
+heading: "ubuntu-22.04 配置开发环境"
+date: "2023-03-05T02:27:23.262Z"
 ---
-
 ## 前言
 
 用 pve 安装了一台 ubuntu 桌面环境，打算用来做开发环境，以下是配置教程。系统版本为 ubuntu-22.04.2-desktop-amd64-LTS.iso 。

@@ -1,12 +1,12 @@
 ---
-title: '[一个点子]--社交app的梦'
-heading: social-app
-date: 2021-04-28T05:08:08.826Z
-categories: ["other"]
-tags: 
-description: '一次实验'
+title: "'[一个点子]--社交app的梦'"
+keywords: ["生活", "一个点子", "社交 的梦'", "app", "social app", "social"]
+tags: ["生活", "一个点子", "社交 的梦'", "app", "social app"]
+description: "大部分可能一辈子都找不到合适的另一半"
+categories: ["life"]
+heading: "social-app"
+date: "2021-04-28T05:08:08.826Z"
 ---
-
 打破时间、空间、地理。
 
 

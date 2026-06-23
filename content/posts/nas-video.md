@@ -1,13 +1,12 @@
 ---
-title: 个人媒体音影系统搭建
-heading:
-date: 2022-04-24T09:57:53.008Z
+title: "个人媒体音影系统搭建"
+keywords: ["教程", "个人媒体音影系统搭建", "nas", "udev", "DLNA", "SMB", "debian", "app", "iPad", "video"]
+tags: ["教程", "个人媒体音影系统搭建", "nas", "udev", "DLNA", "SMB", "debian", "app"]
+description: "如何观看 nas 上的电影，smb。nas-video"
 categories: ["code"]
-tags: 
-description: 如何观看 nas 上的电影，smb。nas-video 
+heading: "个人媒体音影系统搭建"
+date: "2022-04-24T09:57:53.008Z"
 ---
-
-
 ## 需求
 虽然目前在线看视频很方便，还有诸多不便，比如找不到想看的片源，受限于版权问题，无法在一个 app 中找到想看的。美剧、国外电影往往没有。搭建了一套黑群晖，这样可以通过远程下载想看的电影到 nas，回到家就可以用电视\手机\iPad 看 nas 里的电影。
 

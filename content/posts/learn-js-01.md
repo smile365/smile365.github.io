@@ -1,12 +1,12 @@
 ---
-title:  写给女朋友看的JavaScript学习教程
-heading: JavaScript新手入门第1课
-date: 2020-01-16T02:29:49.898Z
+title: "写给女朋友看的JavaScript学习教程"
+keywords: ["教程", "如何学习js", "js新手教程", "如何学习JavaScript", "JavaScript", "写给女朋友看的 学习", "新手", "第 课", "chrome", "vscode"]
+tags: ["教程", "如何学习js", "js新手教程", "如何学习JavaScript", "JavaScript", "写给女朋友看的 学习", "新手", "第 课"]
+description: "下载所需工具 - chrome，谷歌开发的一款浏览器。 - vscode，微软开发的一款写代码的工具。"
 categories: ["code"]
-tags: ["如何学习js","js新手教程","如何学习JavaScript"]
-description: 
+heading: "JavaScript新手入门第1课"
+date: "2020-01-16T02:29:49.898Z"
 ---
-
 ### 1 下载所需工具
 - [chrome](https://pc.qq.com/detail/1/detail_2661.html)，谷歌开发的一款浏览器。
 - [vscode](https://code.visualstudio.com/download)，微软开发的一款写代码的工具。

@@ -1,12 +1,12 @@
 ---
 title: "类似飞书的开源多维表格 nocodb 搭建"
-heading:  
-date: 2023-03-10T03:14:00.609Z
+keywords: ["教程", "docker", "nocodb", "apitable", "docker compose", "Airtable", "AFFiNE", "AppFlowy Notion", "multidimensional", "table"]
+tags: ["教程", "docker", "nocodb", "apitable", "docker compose", "Airtable", "AFFiNE", "AppFlowy Notion"]
+description: "搭建属于自己的在线多维表格"
 categories: ["code"]
-tags: 
-description:  搭建属于自己的在线多维表格
+heading: "类似飞书的开源多维表格 nocodb 搭建"
+date: "2023-03-10T03:14:00.609Z"
 ---
-
 某些私密的数据不适合放在网上
 
 

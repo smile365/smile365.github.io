@@ -1,12 +1,12 @@
 ---
-title: 基于 udev 实 Linux 插入 u 盘自动执行脚本
-heading: 当 u 盘插入Linux自动执行脚本
-date: 2022-04-27T12:07:14.760Z
+title: "基于 udev 实 Linux 插入 u 盘自动执行脚本"
+keywords: ["教程", "Linux", "udev", "device", "sda3", "log", "info", "ENV"]
+tags: ["教程", "Linux", "udev", "device", "sda3", "log", "info", "ENV"]
+description: "How to find reasons why an udev rule is not applied?"
 categories: ["code"]
-tags: 
-description:  How to find reasons why an udev rule is not applied?
+heading: "当 u 盘插入Linux自动执行脚本"
+date: "2022-04-27T12:07:14.760Z"
 ---
-
 ## Udev 是什么
 
 [Udev](zh.wikipedia.org/wiki/Udev) 是一个通用的内核设备管理器。它以 udevd 守护进程的方式运行于 Linux 系统，并监听在新设备初始化或设备从系统中移除时，内核（通过netlink socket）会发出 uevent 事件。udev 提供一套匹配规则，当规则命中时，可调起用户提供的处理程序。udevadm 是此系统对应的管理命令。 

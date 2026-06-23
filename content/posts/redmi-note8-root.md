@@ -1,12 +1,12 @@
 ---
-title: redmi-note8-root 
-heading: 红米 note 8 刷机教程
-date: 2021-03-21T12:30:06.473Z
-categories: ["other"]
-tags: 
-description: 
+title: "redmi-note8-root"
+keywords: ["教程", "红米 刷机", "redmi note8 root", "note 8", "Windows", "MiFlashPro", "EEA", "Bootloader", "redmi", "note8"]
+tags: ["教程", "红米 刷机", "redmi note8 root", "note 8", "Windows", "MiFlashPro", "EEA", "Bootloader"]
+description: "刷机过程需要的软件: - Windows 系统 - 解锁工具 - 刷机工具（MiFlashPro - 刷机包，推荐欧洲版（EEA）刷机包"
+categories: ["code"]
+heading: "红米 note 8 刷机教程"
+date: "2021-03-21T12:30:06.473Z"
 ---
-
 刷机过程需要的软件: 
 - Windows 系统
 - [解锁工具](https://www.miui.com/unlock/download.html)

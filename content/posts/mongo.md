@@ -1,11 +1,12 @@
 ---
-title:  centos7安装mongo
-date: 2018-08-13T02:55:14.439Z
-tags: 
- - mongo
+title: "centos7安装mongo"
+keywords: ["教程", "mongo", "centos7", "etc", "vi", "systemctl", "mongod f", "mongo localhost", "repo"]
+tags: ["教程", "mongo", "centos7", "etc", "vi", "systemctl", "mongod f", "mongo localhost"]
+description: "在mongo官网找到repo源,并添加vi /etc/yum.repos.d/mongodb-org-4.0.repo"
 categories: ["code"]
+heading: "centos7安装mongo"
+date: "2018-08-13T02:55:14.439Z"
 ---
-
 **配置软件的安装源**
 
 

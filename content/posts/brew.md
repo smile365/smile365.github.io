@@ -1,13 +1,13 @@
 ---
-title:  brew
-heading:  
-date: 2023-04-25
-tags: 
+title: "brew"
+keywords: ["教程", "brew", "brew ##"]
+tags: ["教程", "brew"]
+description: "配置国内镜像 1. 配置清华 brew 镜像"
 categories: ["code"]
-draft: true
-Description:  
+heading: "brew"
+date: "2023-04-25"
+draft: "true"
 ---
-
 ## 安装 brew 
 使用国内安装
 

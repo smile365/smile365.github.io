@@ -1,13 +1,13 @@
 ---
-title:  指数产品数据建模
-heading: 
-date: 2020-03-12T01:46:28.623Z
+title: "指数产品数据建模"
+keywords: ["教程", "指数产品数据建模", "word", "source1", "wordcount", "values", "amount", "rank", "sql", "redis"]
+tags: ["教程", "指数产品数据建模", "word", "source1", "wordcount", "values", "amount", "rank"]
+description: "提供一级分类、二级分类、三级分类的对应关系"
 categories: ["code"]
-draft: true
-tags: 
-description: 
+heading: "指数产品数据建模"
+date: "2020-03-12T01:46:28.623Z"
+draft: "true"
 ---
-
 提供一级分类、二级分类、三级分类的对应关系
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1583980256508.png)
 

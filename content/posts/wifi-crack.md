@@ -1,10 +1,11 @@
 ---
-title:  wifi 密码破解研究
-heading: 
-date: 2021-11-23T13:37:23.761Z
+title: "wifi 密码破解研究"
+keywords: ["教程", "密码破解研究", "aircrack ng", "wifi", "mac", "wdutil", "bully", "reaver", "bully reaver aircrack", "ng"]
+tags: ["教程", "密码破解研究", "aircrack ng", "wifi", "mac", "wdutil", "bully", "reaver"]
+description: "wifi-crack"
 categories: ["code"]
-tags: 
-description: wifi-crack
+heading: "wifi 密码破解研究"
+date: "2021-11-23T13:37:23.761Z"
 ---
 ## 前言
 

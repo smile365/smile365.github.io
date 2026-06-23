@@ -1,13 +1,12 @@
 ---
-title: 打新债1000赚450玩法介绍|普通人的首选理财方案
-heading: 如何打新债|打新债怎么赚钱
-date: 2020-03-04T09:38:37.571Z
+title: "打新债1000赚450玩法介绍|普通人的首选理财方案"
+keywords: ["生活", "打新债是什么意思", "打新债 赚 玩法介绍", "普通人的首选理财方案", "打新债", "打新债怎么赚钱", "app", "Photo by William", "buy", "bond"]
+tags: ["生活", "打新债是什么意思", "打新债 赚 玩法介绍", "普通人的首选理财方案", "打新债", "打新债怎么赚钱", "app", "Photo by William"]
+description: "最近股票亏的一塌糊涂，打新债收益反而不错。每次投入一千能赚几百左右。所以有人让我分享一下玩法。"
 categories: ["life"]
-tags: ["打新债是什么意思"]
-description:  
+heading: "如何打新债|打新债怎么赚钱"
+date: "2020-03-04T09:38:37.571Z"
 ---
-
-
 ![Photo by William Iven on Unsplash](https://gitee.com/smile365/blogimg/raw/master/sxy91/1583321451724.png)
 
 

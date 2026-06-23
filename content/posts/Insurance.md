@@ -1,12 +1,12 @@
 ---
-title: 保险应该怎么买？
-heading:  
-date: 2022-12-29T07:05:00.631Z
-tags: 
+title: "保险应该怎么买？"
+keywords: ["生活", "保险应该怎么买", "Insurance"]
+tags: ["生活", "保险应该怎么买"]
+description: "Insurance"
 categories: ["life"]
-Description:  Insurance
+heading: "保险应该怎么买？"
+date: "2022-12-29T07:05:00.631Z"
 ---
-
 保险调研
 
 优先级：医疗险 → 重疾险 → 定期寿险 → 意外险。

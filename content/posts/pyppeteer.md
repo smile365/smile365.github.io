@@ -1,11 +1,12 @@
 ---
-title:  pyppeteer简明教程
-heading: 爬虫神器pyppeteer的使用教程方法
-date: 2019-07-01T02:11:34.220Z
-tags: ["pyppeteer的使用","pyppeteer淘宝","pyppeteer微博","puppeteer python"]
-categories: ["code"]  
+title: "pyppeteer简明教程"
+keywords: ["教程", "pyppeteer的使用", "pyppeteer淘宝", "pyppeteer微博", "puppeteer python", "pyppeteer", "爬虫神器", "headless", "Puppeteer", "Node"]
+tags: ["教程", "pyppeteer的使用", "pyppeteer淘宝", "pyppeteer微博", "puppeteer python", "pyppeteer", "爬虫神器", "headless"]
+description: "Puppeteer它是一个Node库，提供了一个高级的API来控制DevTools协议上的无头版Chrome，可以自动化控制浏览器运行。"
+categories: ["code"]
+heading: "爬虫神器pyppeteer的使用教程方法"
+date: "2019-07-01T02:11:34.220Z"
 ---
-
 Puppeteer它是一个Node库，提供了一个高级的API来控制DevTools协议上的无头版Chrome，可以自动化控制浏览器运行。pyppeteer是python版的实现。
 
 centos7安装[pyppeteer](https://miyakogi.github.io/pyppeteer/)

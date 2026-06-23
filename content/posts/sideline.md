@@ -1,12 +1,12 @@
 ---
-title:  交了5000元智商税后，在副业这条路上我学会了什么
-heading: 
-date: 2020-02-10T09:28:17.204Z
+title: "交了5000元智商税后，在副业这条路上我学会了什么"
+keywords: ["生活", "交了 元智商税后", "Bess Hamiti", "FBI", "sideline"]
+tags: ["生活", "交了 元智商税后", "Bess Hamiti", "FBI"]
+description: "交了很多智商税，讲讲那些年犯过的错。"
 categories: ["life"]
-tags: 
-description: 
+heading: "交了5000元智商税后，在副业这条路上我学会了什么"
+date: "2020-02-10T09:28:17.204Z"
 ---
-
 ![题图： Bess Hamiti](https://gitee.com/smile365/blogimg/raw/master/sxy91/1581391960460.png)
 
 交了很多智商税，讲讲那些年犯过的错。

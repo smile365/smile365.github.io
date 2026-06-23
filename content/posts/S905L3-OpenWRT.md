@@ -1,12 +1,12 @@
 ---
 title: "电视盒子刷机成 OpenWRT"
-heading: 
-date: 2024-02-14T10:41:57.151Z
+keywords: ["教程", "电视盒子刷机成", "adb", "OpenWRT", "usb", "fastboot", "armbian", "Android TV", "OpenWRT ##"]
+tags: ["教程", "电视盒子刷机成", "adb", "OpenWRT", "usb", "fastboot", "armbian", "Android TV"]
+description: "电视盒子刷 OpenWRT、U 盘启动。"
 categories: ["code"]
-tags: 
-description:  电视盒子刷 OpenWRT、U 盘启动。
+heading: "电视盒子刷机成 OpenWRT"
+date: "2024-02-14T10:41:57.151Z"
 ---
-
 ## 前言
 电视盒子没啥用，想把它刷成 OpenWRT 或者 Armbian 系统。一般来说，盒子的操作系统为 Android TV，地层其实就是 Android。给安卓刷系统，一般是先通过 adb 刷入 fastboot，然后通过 fastboot 刷入其他目标系统。
 

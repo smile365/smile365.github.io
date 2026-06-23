@@ -1,12 +1,12 @@
 ---
-title: 使用u盘制作centos8的usb启动盘通过u盘安装系统
-heading: 使用u盘制作centos8的usb启动盘通过u盘安装系统
-date: 2020-08-13T06:40:52.290Z
+title: "使用u盘制作centos8的usb启动盘通过u盘安装系统"
+keywords: ["教程", "centos", "win32diskimager", "USB", "centos8", "UltraISO", "windows iso", "stream", "boot"]
+tags: ["教程", "centos", "win32diskimager", "USB", "centos8", "UltraISO", "windows iso", "stream"]
+description: "如何通过USB来安装CentOS ，"
 categories: ["code"]
-tags: 
-description:  如何通过USB来安装CentOS ，
+heading: "使用u盘制作centos8的usb启动盘通过u盘安装系统"
+date: "2020-08-13T06:40:52.290Z"
 ---
-
 环境：windows
 iso写入工具：UltraISO.exe或win32diskimager
 

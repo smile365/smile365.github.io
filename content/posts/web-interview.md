@@ -1,13 +1,13 @@
 ---
-title:  web-interview
-heading: 前端面试题2021年最新整理
-date: 2021-01-07T02:51:15.616Z
+title: "web-interview"
+keywords: ["教程", "前端面试题 年", "整理", "SVG", "canvas", "SQL", "video", "source", "web interview ###", "web"]
+tags: ["教程", "前端面试题 年", "整理", "SVG", "canvas", "SQL", "video", "source"]
+description: "前端面试题2021年最新整理"
 categories: ["code"]
-tags: 
-draft: true
-description: 前端面试题2021年最新整理
+heading: "前端面试题2021年最新整理"
+date: "2021-01-07T02:51:15.616Z"
+draft: "true"
 ---
-
 ### HTML5
 #### 一、HTML5 的新特
 [HTML5 的新特性](https://www.runoob.com/html/html5-intro.html)主要有新增标签（图形的绘制，多媒体内容，[语义](https://www.runoob.com/html/html5-semantic-elements.html)和结构元素）。api（拖放元素，定位）。存储（[本地](https://www.runoob.com/html/html5-webstorage.html)、[Web SQL](https://www.runoob.com/html/html5-web-sql.html)），WebSocket等。

@@ -1,12 +1,12 @@
 ---
-title:  miaomiao
-heading: 招商银行信用卡掌上生活app自动做任务赢取喵喵软件工具小助手
-date: 2020-05-27T05:32:06.522Z
-categories: ["other"]
-tags: 
-description: 
+title: "miaomiao"
+keywords: ["阅读", "miaomiao", "app", "pk"]
+tags: ["阅读", "miaomiao", "app", "pk"]
+description: "功能特点 - 全自动，不用人干预，解放双手 - 阅读、评论、点赞、转发一条龙，不需要自己动手。 - 阅读文章、评论文章、点赞评论、点赞文章、分享文章，总共活得50喵喵。"
+categories: ["read"]
+heading: "招商银行信用卡掌上生活app自动做任务赢取喵喵软件工具小助手"
+date: "2020-05-27T05:32:06.522Z"
 ---
-
 功能特点
 - 全自动，不用人干预，解放双手
 - 阅读、评论、点赞、转发一条龙，不需要自己动手。

@@ -1,12 +1,12 @@
 ---
-title:  干掉淘宝的也许不是拼多多不是京东
-heading: 
-date: 2020-06-24T15:31:51.974Z
+title: "干掉淘宝的也许不是拼多多不是京东"
+keywords: ["教程", "wechat", "video"]
+tags: ["教程"]
+description: "干掉淘宝的很可能 不是拼多多 不是京东"
 categories: ["code"]
-tags: 
-description: 微信视频号。
+heading: "干掉淘宝的也许不是拼多多不是京东"
+date: "2020-06-24T15:31:51.974Z"
 ---
-
 干掉淘宝的很可能
 不是拼多多
 不是京东

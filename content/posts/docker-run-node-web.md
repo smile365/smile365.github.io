@@ -1,12 +1,12 @@
 ---
-title:  docker 运行 node web 服务
-heading: 
-date: 2021-03-24T07:26:58.543Z
+title: "docker 运行 node web 服务"
+keywords: ["教程", "docker", "运行 服务", "node web", "node", "Dockerfile", "dockerignore", "run"]
+tags: ["教程", "docker", "运行 服务", "node web", "node", "Dockerfile", "dockerignore"]
+description: "docker-run-node-web"
 categories: ["code"]
-tags: 
-description: docker-run-node-web
+heading: "docker 运行 node web 服务"
+date: "2021-03-24T07:26:58.543Z"
 ---
-
 进入 node 项目，文件结构如下：
 ```bash
 ls

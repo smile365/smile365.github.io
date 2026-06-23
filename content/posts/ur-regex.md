@@ -1,10 +1,13 @@
 ---
-title:  url正则
-date: 2018-07-27T02:05:03.386Z
-tags: ["正则"]
-draft: true
+title: "url正则"
+keywords: ["教程", "正则", "url", "RFC 1738", "a zA Z", "regex"]
+tags: ["教程", "正则", "url", "RFC 1738", "a zA Z"]
+description: "网络标准RFC 1738规定： “只有字母和数字[0-9a-zA-Z]、一些特殊符号“$-_."
+categories: ["code"]
+heading: "url正则"
+date: "2018-07-27T02:05:03.386Z"
+draft: "true"
 ---
-
 网络标准RFC 1738规定：
 “只有字母和数字[0-9a-zA-Z]、一些特殊符号“$-_.+!*'(),”[不包括双引号]、以及某些保留字，才可以不经过编码直接用于URL。”
 

@@ -1,12 +1,12 @@
 ---
-title:  从0到1开发claok|day2
-heading: 
-date: 2020-07-15T13:28:43.275Z
+title: "从0到1开发claok|day2"
+keywords: ["教程", "从 到 开发", "user agent", "claok", "day2", "cloak", "fb", "spy", "cloak02"]
+tags: ["教程", "从 到 开发", "user agent", "claok", "day2", "cloak", "fb", "spy"]
+description: "上篇文章讲述了用cloak技术系统来跑fb广告的原理，本篇继续"
 categories: ["code"]
-tags: 
-description: 
+heading: "从0到1开发claok|day2"
+date: "2020-07-15T13:28:43.275Z"
 ---
-
 上篇文章讲述了[用cloak技术系统来跑fb广告的原理](https://www.c1oak.com/)，本篇继续
 
 既然有了访问者的指纹，那么接下来就是处理这些指纹是否符合访问要求。

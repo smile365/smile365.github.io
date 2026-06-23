@@ -1,12 +1,12 @@
 ---
-title: 秒级别安装 acme.sh 获取 ssl 证书的另类方式
-heading: 国内快速秒级安装acme.sh
-date: 2021-03-17T07:28:17.467Z
+title: "秒级别安装 acme.sh 获取 ssl 证书的另类方式"
+keywords: ["教程", "国内快速秒级安装", "ssl", "bash apt install", "y socat #", "install", "acme"]
+tags: ["教程", "国内快速秒级安装", "ssl"]
+description: "acme.sh 的另类安装方式"
 categories: ["code"]
-tags: 
-description: acme.sh 的另类安装方式
+heading: "国内快速秒级安装acme.sh"
+date: "2021-03-17T07:28:17.467Z"
 ---
-
 ## 安装
 想使用 [acme.sh](https://github.com/acmesh-official/acme.sh/wiki) 生成免费的 https 所需要的 SSL 证书，
 ```bash

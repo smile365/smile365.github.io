@@ -1,13 +1,12 @@
 ---
-title:  chengdu
-heading: 
-date: 2021-12-30T07:20:05.862Z
-categories: ["other"]
-tags: 
-description: 
+title: "chengdu"
+keywords: ["生活", "chengdu"]
+tags: ["生活", "chengdu"]
+description: "号（12） - 文殊院 - 宽窄巷子 - 春熙路步行街 2号 - 成都大熊猫繁育研究基地 - 天府广场、远洋太古里、春熙路步行街 3号（16） - 武侯祠+锦里古街 - 人民公."
+categories: ["life"]
+heading: "chengdu"
+date: "2021-12-30T07:20:05.862Z"
 ---
-
-
 成都元旦三天两晚旅游攻略推荐
 
 

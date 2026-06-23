@@ -1,6 +1,11 @@
-
-
-
+---
+title: "阿里云容器镜像服务使用教程"
+keywords: ["教程", "docker", "Dockerfile", "阿里云容器镜像服务", "Registry", "acs", "agent", "jdk agent", "Docker Registry", "push"]
+tags: ["教程", "docker", "Dockerfile", "阿里云容器镜像服务", "Registry", "acs", "agent", "jdk agent"]
+description: "创建仓库 本次为 jdk-agent"
+categories: ["code"]
+heading: "阿里云容器镜像服务使用教程"
+---
 # 阿里云容器镜像服务使用教程
 
 ## 环境准备

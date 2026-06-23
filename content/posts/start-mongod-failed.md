@@ -1,11 +1,12 @@
 ---
-title: mongo服务因磁盘无法写入而异退出的解决方法
-tags: 
- - mongo
- - Linux
-date: 2018-06-29T02:18:59.803Z
+title: "mongo服务因磁盘无法写入而异退出的解决方法"
+keywords: ["教程", "mongo", "Linux", "var", "etc", "log", "mongodb", "mongod f", "ps ef", "grep mongod"]
+tags: ["教程", "mongo", "Linux", "var", "etc", "log", "mongodb", "mongod f"]
+description: "使用ps -ef|grep mongod 查看已经没有了mongod的服务进程 2.使用tail -f /var/log/mongodb/mongod."
+categories: ["code"]
+heading: "mongo服务因磁盘无法写入而异退出的解决方法"
+date: "2018-06-29T02:18:59.803Z"
 ---
-
 1.使用`ps -ef|grep mongod `查看已经没有了mongod的服务进程  
 2.使用`tail -f /var/log/mongodb/mongod.log`查看日志信息，发现并没有错误信息，最后一条消息只显示了一个时间.  
 3.使用`mongod -f /etc/mongod.conf`启动失败，mongod.log里也并未增加任何运行日志  

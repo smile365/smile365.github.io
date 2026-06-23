@@ -1,13 +1,13 @@
 ---
-title:  记一次github仓库被DMCA take down的经历
-heading: 
-date: 2019-11-28T06:29:12.130Z
+title: "记一次github仓库被DMCA take down的经历"
+keywords: ["教程", "github", "DMCA take down", "DMCA", "git", "DMCA Takedown"]
+tags: ["教程", "github", "DMCA take down", "DMCA", "git", "DMCA Takedown"]
+description: "由于github收到DMCA的移除通知，所以把你的仓库给封了。"
 categories: ["code"]
-draft: true
-tags: 
-description: 
+heading: "记一次github仓库被DMCA take down的经历"
+date: "2019-11-28T06:29:12.130Z"
+draft: "true"
 ---
-
 打开仓库发现如下提示： 
 
 ```html

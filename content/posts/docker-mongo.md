@@ -1,13 +1,12 @@
 ---
-title:  docker-mongo
-date: 2018-11-02T07:16:11.158Z
-tags: 
- - docker
- - mongo
-categories: ["other"]
-description:  Install MongoDB with Docker
+title: "docker-mongo"
+keywords: ["教程", "docker", "mongo", "docker mongo"]
+tags: ["教程", "docker", "mongo", "docker mongo"]
+description: "Install MongoDB with Docker"
+categories: ["code"]
+heading: "docker-mongo"
+date: "2018-11-02T07:16:11.158Z"
 ---
-
 使用默认配置后台运行最新版：
 ```bash
 # 安装

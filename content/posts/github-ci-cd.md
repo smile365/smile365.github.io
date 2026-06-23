@@ -1,12 +1,12 @@
 ---
-title:  github-ci-cd
-heading:  基于 GitHub Actions 实现自动部署（CI/CD）
-date: 2026-05-27T12:24:38.406Z
-tags: 
+title: "github-ci-cd"
+keywords: ["教程", "ssh", "github", "基于 实现自动部署", "GitHub Actions", "CI", "CD", "VPS", "github ci cd", "python"]
+tags: ["教程", "ssh", "github", "基于 实现自动部署", "GitHub Actions", "CI", "CD", "VPS"]
+description: "前言 基于 python 给几个 app 开发了对应的后端 api，每次改完代码部署都比较繁琐："
 categories: ["code"]
-Description:  
+heading: "基于 GitHub Actions 实现自动部署（CI/CD）"
+date: "2026-05-27T12:24:38.406Z"
 ---
-
 ## 前言
 基于  python 给几个 app 开发了对应的后端 api，每次改完代码部署都比较繁琐：
 

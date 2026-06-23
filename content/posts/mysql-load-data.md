@@ -1,12 +1,12 @@
 ---
-title: mysql-load-data
-heading: mysql从txt文件导入数据并跳过空行或者错误行
-date: 2020-07-13T05:55:08.156Z
+title: "mysql-load-data"
+keywords: ["教程", "mysql", "mysql load data", "uid", "txt", "mnt", "data1", "tphone", "load", "data"]
+tags: ["教程", "mysql", "mysql load data", "uid", "txt", "mnt", "data1", "tphone"]
+description: "mysql load data skip errors"
 categories: ["code"]
-tags: 
-description: mysql load data skip errors
+heading: "mysql从txt文件导入数据并跳过空行或者错误行"
+date: "2020-07-13T05:55:08.156Z"
 ---
-
 创建表
 ```sql
 CREATE TABLE IF NOT EXISTS `uid_pcode`(

@@ -1,12 +1,12 @@
 ---
 title: "orange zero3 改造成 kvm 使用"
-heading: 
-date: 2024-01-12T15:28:25.319Z
-categories: ["code"]
-tags: 
-description:  Orange Pi Zero3 1GB 点亮 led，gpio 测试
+keywords: ["阅读", "改造成 使用", "orange zero3", "kvm", "Orangepizero3", "debian", "server", "orangepi os", "python Orange Pi", "orange"]
+tags: ["阅读", "改造成 使用", "orange zero3", "kvm", "Orangepizero3", "debian", "server", "orangepi os"]
+description: "Orange Pi Zero3 1GB 点亮 led，gpio 测试"
+categories: ["read"]
+heading: "orange zero3 改造成 kvm 使用"
+date: "2024-01-12T15:28:25.319Z"
 ---
-
 ## 安装 OPi.GPIO
 
 中文版系统走百度网盘，下载巨慢无比，简易在英文版官网 [orangepi-os](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-Pi-Zero-3.html) 

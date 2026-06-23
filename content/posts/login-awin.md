@@ -1,12 +1,13 @@
 ---
-title: register-awin.md
-heading: 
-date: 2019-12-25T01:33:40.150Z
-categories: ["other"]
-draft: true
-description: 
+title: "register-awin.md"
+keywords: ["教程", "Awin", "visa", "awin invitation code", "Shareasale", "Publisher", "Sign", "up", "login"]
+tags: ["教程", "Awin", "visa", "awin invitation code", "Shareasale", "Publisher", "Sign", "up"]
+description: "准备： - 一张visa的信用卡 - 能上外网的梯子(谷歌验证码)"
+categories: ["code"]
+heading: "register-awin.md"
+date: "2019-12-25T01:33:40.150Z"
+draft: "true"
 ---
-
 准备：
 - 一张visa的信用卡
 - 能上外网的梯子(谷歌验证码)

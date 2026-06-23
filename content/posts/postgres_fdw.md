@@ -1,12 +1,12 @@
 ---
-title:  使用 postgres_fdw 关联外部数据库的表
-heading: 
-date: 2023-08-23T18:16:05.490Z
+title: "使用 postgres_fdw 关联外部数据库的表"
+keywords: ["教程", "postgres", "fdw", "foreign", "public", "psql", "CREATE SERVER", "server"]
+tags: ["教程", "postgres", "fdw", "foreign", "public", "psql", "CREATE SERVER", "server"]
+description: "postgres_fdw 的安装和使用 1. 使用 psql 命令安装扩展 postgres_fdw"
 categories: ["code"]
-tags: 
-description: 
+heading: "使用 postgres_fdw 关联外部数据库的表"
+date: "2023-08-23T18:16:05.490Z"
 ---
-
 ## postgres_fdw 的安装和使用
 1. 使用 psql 命令安装扩展 postgres_fdw
 ```bash

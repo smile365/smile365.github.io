@@ -1,13 +1,12 @@
 ---
-title: CentOS 7/8 安装 libsodium 最新版教程 
-heading: 
-date: 2021-07-06T03:55:01.640Z
+title: "CentOS 7/8 安装 libsodium 最新版教程"
+keywords: ["教程", "libsodium", "CentOS 7", "API", "load libsodium failed", "ShadowSocks", "ChaChaXXX", "NaCI"]
+tags: ["教程", "libsodium", "CentOS 7", "API", "load libsodium failed", "ShadowSocks", "ChaChaXXX", "NaCI"]
+description: "CentOS安装libsodium启用ss的chacha20等高级加密"
 categories: ["code"]
-tags: 
-description:  CentOS安装libsodium启用ss的chacha20等高级加密
+heading: "CentOS 7/8 安装 libsodium 最新版教程"
+date: "2021-07-06T03:55:01.640Z"
 ---
-
-
 ### 引言
 
 使用 ShadowSocks 的时候，若加密方法选择了 ChaChaXXX 之类的算法，就需要安装 libsodium 支持库。

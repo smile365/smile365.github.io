@@ -1,12 +1,12 @@
 ---
 title: "vanus 使用调研"
-heading: 
-date: 2022-10-26T08:00:55.738Z
+keywords: ["教程", "docker", "ssh", "使用调研", "vanus", "kubectl", "minikube", "Kubernete"]
+tags: ["教程", "docker", "ssh", "使用调研", "vanus", "kubectl", "minikube", "Kubernete"]
+description: "前言 vanus 为创建事件管道、自动化流程和集成软件应用程序提供了灵活且可定制的解决方案。"
 categories: ["code"]
-tags: 
-description: 
+heading: "vanus 使用调研"
+date: "2022-10-26T08:00:55.738Z"
 ---
-
 ## 前言
 vanus 为创建事件管道、自动化流程和集成软件应用程序提供了灵活且可定制的解决方案。
 

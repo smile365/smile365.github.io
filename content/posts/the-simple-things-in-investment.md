@@ -1,14 +1,12 @@
 ---
-title: the-simple-things-in-investment 
-heading: 
-date: 2021-12-11T09:21:37.904Z
-categories: ["other"]
-tags: 
-description:  读《投资中最简单的事》有感 investment
+title: "the-simple-things-in-investment"
+keywords: ["生活", "the simple things", "in investment", "in investment ##", "the", "simple", "things"]
+tags: ["生活", "the simple things", "in investment"]
+description: "读《投资中最简单的事》有感 investment"
+categories: ["life"]
+heading: "the-simple-things-in-investment"
+date: "2021-12-11T09:21:37.904Z"
 ---
-
-
-
 ## 看一家公司看什么？
 1、最赚钱的核心业务是什么
 2、如果这块业务突然从这家公司消失，这家公司会死吗？客户会死吗？没有替代方案吗？客户损失大吗？

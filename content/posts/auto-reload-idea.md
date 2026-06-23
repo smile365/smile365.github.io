@@ -1,13 +1,12 @@
 ---
-title: auto-reload-idea
-heading:  idea 2022.3.2 mac 版本热部署配置
-date: 2023-02-16T05:33:39.140Z
-categories: ["other"]
-tags: 
-description:  how-to-make-auto-reload-with-spring-boot-on-idea-intellij
+title: "auto-reload-idea"
+keywords: ["教程", "版本热部署配置", "auto reload idea", "settings", "Command +", "auto", "reload", "idea"]
+tags: ["教程", "版本热部署配置", "auto reload idea", "settings", "Command +"]
+description: "how-to-make-auto-reload-with-spring-boot-on-idea-intellij"
+categories: ["code"]
+heading: "idea 2022.3.2 mac 版本热部署配置"
+date: "2023-02-16T05:33:39.140Z"
 ---
-
-
 ## 添加依赖
 ```xml
 <!--热部署依赖，生产环境、应用被打成jar包后，自动失效-->

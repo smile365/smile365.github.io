@@ -1,12 +1,12 @@
 ---
-title: 2021年书单
-heading: 2021-books
-date: 2021-03-29T16:42:45.873Z
+title: "2021年书单"
+keywords: ["阅读", "书单", "books"]
+tags: ["阅读", "书单", "books"]
+description: "月（2）： - 见识（吴军） - 引爆流量： - 2月（2）： - 野生作家访谈录 - 小道经济学 - 白鹿原（听） - 3月（3）： - 激荡三十年（听） - 一往无前 -."
 categories: ["read"]
-tags: 
-description: 
+heading: "2021-books"
+date: "2021-03-29T16:42:45.873Z"
 ---
-
 - 1月（2）：
     - 见识（吴军） 
     - 引爆流量：

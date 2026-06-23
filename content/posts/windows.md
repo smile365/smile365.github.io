@@ -1,14 +1,14 @@
 ---
-title:  windows使用技巧
-date: 2018-07-20T09:32:38.774Z
-tags: ["code","it"]
-series: ["blog"]
+title: "windows使用技巧"
+keywords: ["教程", "code", "it", "Linux", "使用技巧", "windows", "grep C", "dir"]
+tags: ["教程", "code", "it", "Linux", "使用技巧", "windows", "grep C", "dir"]
+description: "类似于Linux 下的grep C:\\> dir /B | findstr /R /C:\"[mp]\""
 categories: ["code"]
-draft: true
-description:
+heading: "windows使用技巧"
+date: "2018-07-20T09:32:38.774Z"
+draft: "true"
+series: ["blog"]
 ---
-
-
 类似于Linux 下的grep
 C:\> dir /B | findstr /R /C:"[mp]"
 

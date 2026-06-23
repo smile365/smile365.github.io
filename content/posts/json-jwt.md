@@ -1,13 +1,13 @@
 ---
-title: 傻傻分不清楚JWT\JWE\JWS\JWK\JWKS分别是什么
-heading: 
-date: 2021-06-30T10:28:12.372Z
+title: "傻傻分不清楚JWT\\\\\\\\JWE\\\\\\\\JWS\\\\\\\\JWK\\\\\\\\JWKS分别是什么"
+keywords: ["教程", "JWT", "JWE", "JWS", "JWK", "JWKS", "JWA", "JSON Web Key", "json"]
+tags: ["教程", "JWT", "JWE", "JWS", "JWK", "JWKS", "JWA", "JSON Web Key"]
+description: "JSON Web Toke,json-jwt"
 categories: ["code"]
-grammar_mathjax: true
-tags: 
-description: JSON Web Toke,json-jwt
+heading: "傻傻分不清楚JWT\\\\\\\\JWE\\\\\\\\JWS\\\\\\\\JWK\\\\\\\\JWKS分别是什么"
+date: "2021-06-30T10:28:12.372Z"
+grammar_mathjax: "true"
 ---
-
 编码、摘要、加密、解密、签名、验签、公钥、私钥、
 
 ## 前言

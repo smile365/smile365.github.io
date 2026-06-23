@@ -1,11 +1,12 @@
 ---
-title:  用python开发app是什么体验
-date: 2019-05-17T04:53:01.726Z
-tags: ["code","it"]
-categories: ["code"]
-description:
+title: "用python开发app是什么体验"
+keywords: ["阅读", "code", "it", "python", "用 开发", "体验", "app", "kivy", "apk"]
+tags: ["阅读", "code", "it", "python", "用 开发", "体验", "app", "kivy"]
+description: "构建成apk** 构建所需的环境比较复杂，官方提供了打包好的虚拟镜像。"
+categories: ["read"]
+heading: "用python开发app是什么体验"
+date: "2019-05-17T04:53:01.726Z"
 ---
-
 **安装kivy **
 ```shell
 

@@ -1,12 +1,12 @@
 ---
-title:  ponyorm简单入门教程
-heading: 
-date: 2020-05-21T08:40:59.435Z
+title: "ponyorm简单入门教程"
+keywords: ["教程", "简单", "ponyorm", "pony", "PostgreSQL", "pip install pony", "db", "session"]
+tags: ["教程", "简单", "ponyorm", "pony", "PostgreSQL", "pip install pony", "db", "session"]
+description: "安装： pip install pony"
 categories: ["code"]
-tags: 
-description: 
+heading: "ponyorm简单入门教程"
+date: "2020-05-21T08:40:59.435Z"
 ---
-
 ## 安装
 
 安装： `pip install pony`

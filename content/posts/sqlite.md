@@ -1,12 +1,12 @@
 ---
-title:  sqlite简洁教程
-heading: 如何打开.db文件，用什么软件打开.db文件
-date: 2020-07-17T06:18:32.125Z
+title: "sqlite简洁教程"
+keywords: ["教程", "mysql", "python", "linux", "简洁", "打开 文件", "用什么软件打开 文件", "sqlite"]
+tags: ["教程", "mysql", "python", "linux", "简洁", "打开 文件", "用什么软件打开 文件", "sqlite"]
+description: "如何打开.db文件"
 categories: ["code"]
-tags: 
-description:  如何打开.db文件
+heading: "如何打开.db文件，用什么软件打开.db文件"
+date: "2020-07-17T06:18:32.125Z"
 ---
-
 sqlite数据库简洁，仅仅有一个c文件，方便嵌入大多数语言或者嵌入式设备。
 
 sqlite的数据结构与mysql不同，导出的.db数据文件无法直接导入到其他数据库。

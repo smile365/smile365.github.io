@@ -1,10 +1,11 @@
 ---
 title: "caddy 自动获取免费 https 证书的类 nginx 服务器"
-heading:  
-date: 2022-12-26T11:08:27.453Z
-tags: 
+keywords: ["教程", "nginx", "caddy", "Caddyfile", "install on centos7", "candy", "yum", "install on ##"]
+tags: ["教程", "nginx", "caddy", "Caddyfile", "install on centos7", "candy", "yum", "install on ##"]
+description: "install on centos7 参考 candy 官方文档使用 yum 安装"
 categories: ["code"]
-Description:  
+heading: "caddy 自动获取免费 https 证书的类 nginx 服务器"
+date: "2022-12-26T11:08:27.453Z"
 ---
 ## install on centos7
 参考 [candy 官方文档](https://caddyserver.com/docs/install#fedora-redhat-centos)使用 yum 安装

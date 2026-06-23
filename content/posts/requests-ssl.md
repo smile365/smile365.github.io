@@ -1,13 +1,12 @@
 ---
-title:  python爬虫使用requests库出现SSLError的错误解决办法
-heading:  python爬虫使用requests库出现SSLError的错误解决办法
-date: 2020-07-31T07:47:38.969Z
+title: "python爬虫使用requests库出现SSLError的错误解决办法"
+keywords: ["教程", "python", "NO", "context", "urllib3", "ssl", "requests", "ciphers", "SSLError"]
+tags: ["教程", "python", "NO", "context", "urllib3", "ssl", "requests", "ciphers"]
+description: "错误信息： requests/packages/urllib3/contrib/pyopenssl."
 categories: ["code"]
-tags: 
-description: 
+heading: "python爬虫使用requests库出现SSLError的错误解决办法"
+date: "2020-07-31T07:47:38.969Z"
 ---
-
-
 错误信息：
 requests/packages/urllib3/contrib/pyopenssl.py  OpenSSL.SSL.SysCallError: (-1, 'Unexpected EOF')
 

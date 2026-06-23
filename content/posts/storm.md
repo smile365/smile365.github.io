@@ -1,13 +1,14 @@
 ---
-title:  storm
-date: 2018-08-10T01:43:13.191Z
-tags: ["strom"]
-series: ["blog"]
+title: "storm"
+keywords: ["教程", "strom", "Python", "pip", "storm", "streamparse", "Storm Installation", "leiningen", "jdk"]
+tags: ["教程", "strom", "Python", "pip", "storm", "streamparse", "Storm Installation", "leiningen"]
+description: "安装的软件列表 - Python:3.4 - pip:18.0 - jdk:1.8 - ZooKeeper:3.4 - Storm:1.2.2 - Leiningen:2.8.."
 categories: ["code"]
-draft: true
-description:
+heading: "storm"
+date: "2018-08-10T01:43:13.191Z"
+draft: "true"
+series: ["blog"]
 ---
-
 安装的软件列表
 - Python:3.4
 - pip:18.0

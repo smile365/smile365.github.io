@@ -1,13 +1,13 @@
 ---
-title:  30天你的朋友圈成为某个领域的专家
-heading: 
-date: 2019-11-26T11:41:13.429Z
+title: "30天你的朋友圈成为某个领域的专家"
+keywords: ["生活", "qq", "xxx", "xx", "expert"]
+tags: ["生活", "qq", "xxx", "xx"]
+description: "找到细分领域的感兴趣，想学习，喜欢，擅长"
 categories: ["life"]
-draft: true
-tags: 
-description: 
+heading: "30天你的朋友圈成为某个领域的专家"
+date: "2019-11-26T11:41:13.429Z"
+draft: "true"
 ---
-
 10步教你成为某个领域的专家
 
 聊天

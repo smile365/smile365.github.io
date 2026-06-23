@@ -1,14 +1,13 @@
 ---
-title: solr优化建议 
-date: 2019-10-30T07:07:31.230Z
-tags: 
-categories:
-draft: true
-description: 
+title: "solr优化建议"
+keywords: ["教程", "solr", "优化建议", "share", "optimization"]
+tags: ["教程", "solr", "优化建议", "share"]
+description: "一、关闭硬提交 目的：提高入库的效率 硬提交：提交后必须立刻能搜索到 软提交：异步方式，不一定能立刻搜索到"
+categories: ["code"]
+heading: "solr优化建议"
+date: "2019-10-30T07:07:31.230Z"
+draft: "true"
 ---
-
-
-
 一、关闭硬提交
 目的：提高入库的效率
 硬提交：提交后必须立刻能搜索到

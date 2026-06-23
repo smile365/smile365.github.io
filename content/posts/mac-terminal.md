@@ -1,13 +1,14 @@
 ---
-title:  mac终端使用方法
-date: 2018-07-17T02:33:00.655Z
-tags: ["code","it"]
-series: ["blog"]
+title: "mac终端使用方法"
+keywords: ["教程", "code", "it", "终端使用", "mac", "tab", "terminal"]
+tags: ["教程", "code", "it", "终端使用", "mac", "tab"]
+description: "⌘+t：新建一个tab ⌘+w：退出 ⌃+a：行头 ⌃+e：行尾"
 categories: ["code"]
-draft: true
-description:
+heading: "mac终端使用方法"
+date: "2018-07-17T02:33:00.655Z"
+draft: "true"
+series: ["blog"]
 ---
-
 ⌘+t：新建一个tab
 ⌘+w：退出
 ⌃+a：行头

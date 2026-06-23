@@ -1,12 +1,12 @@
 ---
-title:  todo-拍东省西省video
-heading: 如何领取淘宝免单商品-抖音短视频
-date: 2020-06-16T03:10:25.678Z
-categories: ["other"]
-tags: 
-description:  200字以内，10句话以内，如何领取淘宝免单商品。
+title: "todo-拍东省西省video"
+keywords: ["生活", "拍东省西省", "领取淘宝免单商品", "抖音短视频", "todo", "video", "dongshengxisheng"]
+tags: ["生活", "拍东省西省", "领取淘宝免单商品", "抖音短视频", "todo", "video"]
+description: "字以内，10句话以内，如何领取淘宝免单商品。"
+categories: ["life"]
+heading: "如何领取淘宝免单商品-抖音短视频"
+date: "2020-06-16T03:10:25.678Z"
 ---
-
 用200字以内，10句话以内，讲明白“如何领取淘宝免单商品”
 
 大家好，今天我教大家如何领淘宝的免单商品。

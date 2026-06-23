@@ -1,12 +1,12 @@
 ---
-title: Ubuntu 防火墙
-heading: Ubuntu使用防火墙UFW查看开放的端口列表
-date: 2021-07-28T05:02:44.701Z
-categories: ["other"]
-tags: 
-description: Ubuntu 18.04.4 LTS 防火墙
+title: "Ubuntu 防火墙"
+keywords: ["教程", "防火墙", "Ubuntu", "UFW", "iptables"]
+tags: ["教程", "防火墙", "Ubuntu", "UFW", "iptables"]
+description: "Ubuntu 18.04.4 LTS 防火墙"
+categories: ["code"]
+heading: "Ubuntu使用防火墙UFW查看开放的端口列表"
+date: "2021-07-28T05:02:44.701Z"
 ---
-
 Ubuntu 随附了一个称为 UFW（非复杂防火墙）的防火墙配置工具。 UFW是用于管理iptables防火墙规则的用户友好型前端，其主要目标是使管理防火墙规则更容易，或者名称不复杂。
 
 

@@ -1,13 +1,13 @@
 ---
-title:  大数据学习计划
-date: 2019-03-06T07:47:11.653Z
-tags: ["code","it"]
-categories: ["code"]
-draft: true
-description:
+title: "大数据学习计划"
+keywords: ["阅读", "code", "it", "大数据学习计划", "hadoop", "Ambari", "HDP", "big", "data"]
+tags: ["阅读", "code", "it", "大数据学习计划", "hadoop", "Ambari", "HDP"]
+description: "Hadoop大数据挖掘从入门到进阶实战教学视频"
+categories: ["read"]
+heading: "大数据学习计划"
+date: "2019-03-06T07:47:11.653Z"
+draft: "true"
 ---
-
-
 hadoop书籍
 
 [Hadoop大数据挖掘从入门到进阶实战教学视频](https://www.bilibili.com/video/av31931245/)

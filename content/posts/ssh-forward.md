@@ -1,10 +1,11 @@
 ---
 title: "ssh-forward 端口转发"
-heading: 
-date: 2022-07-22T11:53:10.123Z
-categories: ["code"]
-tags: 
-description: 
+keywords: ["阅读", "SSH", "mysql", "端口转发", "ssh forward", "SSH Port Forwarding", "localhost", "shell", "forward"]
+tags: ["阅读", "SSH", "mysql", "端口转发", "ssh forward", "SSH Port Forwarding", "localhost", "shell"]
+description: "SSH 端口转发**（SSH Port Forwarding），也叫 SSH 隧道（SSH Tunnel），是利用 SSH 协议建立的安全通道，将网络流量从一个端口“转发”到另."
+categories: ["read"]
+heading: "ssh-forward 端口转发"
+date: "2022-07-22T11:53:10.123Z"
 ---
 ## SSH Port Forwarding
 

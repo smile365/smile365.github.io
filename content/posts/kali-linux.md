@@ -1,10 +1,12 @@
 ---
-title:  Kali-Linux安全渗透教程
-date: 2019-01-10T07:32:18.188Z
-categories: ["code"]
-description:
+title: "Kali-Linux安全渗透教程"
+keywords: ["阅读", "安全渗透", "Kali Linux", "mac os", "mac", "kali Linux usb", "live", "kali live", "kali", "linux"]
+tags: ["阅读", "安全渗透", "Kali Linux", "mac os", "mac", "kali Linux usb", "live", "kali live"]
+description: "📝注：kali-live 启动后无法使用 mac 的触摸板和自带键盘，需要自备外接键盘。"
+categories: ["read"]
+heading: "Kali-Linux安全渗透教程"
+date: "2019-01-10T07:32:18.188Z"
 ---
-
 ## 在 mac os 下制作 kali Linux usb 启动盘（live）
 
 > 📝注：kali-live 启动后无法使用 mac 的触摸板和自带键盘，需要自备外接键盘。（mac 的键盘和触摸板是独有的硬件，只有苹果官方有驱动，kali 没有驱动，因此无法使用，安装完成也无法使用）

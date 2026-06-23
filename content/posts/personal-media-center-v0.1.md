@@ -1,13 +1,12 @@
 ---
-title: personal-media-center-v0.1
-heading:  
-date: 2023-09-02T05:47:42.629Z
+title: "personal-media-center-v0.1"
+keywords: ["教程", "personal media center", "smba", "docker compose", "conf vi", "personal", "media", "center"]
+tags: ["教程", "personal media center", "smba", "docker compose"]
+description: "需求 - 手动下载 - 可拷贝 - 可 smba 观看"
 categories: ["code"]
-tags: 
-description:
+heading: "personal-media-center-v0.1"
+date: "2023-09-02T05:47:42.629Z"
 ---
-
-
 ## 需求
 - 手动下载
 - 可拷贝

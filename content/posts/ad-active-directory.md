@@ -1,12 +1,12 @@
 ---
-title: ad-active-directory
-heading: 
-date: 2021-12-16T03:12:45.870Z
-categories: ["other"]
-tags: 
-description: ad 免密登录 Active Directory
+title: "ad-active-directory"
+keywords: ["教程", "ad active directory", "Windows", "kerberos keytabs active", "directory using kerberos", "keytabs to integrate", "Kerberos", "Active Directory", "active", "directory"]
+tags: ["教程", "ad active directory", "Windows", "kerberos keytabs active", "directory using kerberos", "keytabs to integrate", "Kerberos", "Active Directory"]
+description: "ad 免密登录 Active Directory"
+categories: ["code"]
+heading: "ad-active-directory"
+date: "2021-12-16T03:12:45.870Z"
 ---
-
 ad active directory
 
 kerberos

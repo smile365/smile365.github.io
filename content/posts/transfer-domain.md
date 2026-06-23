@@ -1,10 +1,11 @@
 ---
-title: transfer-domain
-heading:  把域名从 NameSilo 转出到 Cloudflare
-date: 2026-06-22T12:19:48.493Z
-tags: 
+title: "transfer-domain"
+keywords: ["教程", "把域名从 转出到", "namesilo", "Cloudflare", "Domains", "Domain Contacts", "PayPal", "transfer domain", "transfer domain ##", "transfer"]
+tags: ["教程", "把域名从 转出到", "namesilo", "Cloudflare", "Domains", "Domain Contacts", "PayPal", "transfer domain"]
+description: "sxy91.com 这个博客的域名从 18 年到 26 年6月 22，在 namesilo 购买的。"
 categories: ["code"]
-Description:  
+heading: "把域名从 NameSilo 转出到 Cloudflare"
+date: "2026-06-22T12:19:48.493Z"
 ---
 ## 前言
 

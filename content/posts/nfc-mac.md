@@ -1,12 +1,12 @@
 ---
-title: 在 macbook 模拟 NFC 卡门禁卡的简明操作指南教程
-heading: 
-date: 2023-05-26T20:18:42.169Z
-categories: ["code"]
-tags: 
-description: 在苹果电脑的 osx 系统下实现模拟加密门禁卡的教程
+title: "在 macbook 模拟 NFC 卡门禁卡的简明操作指南教程"
+keywords: ["阅读", "在 模拟 卡门禁卡", "M1", "UID", "nfc", "mfoc", "macbook", "IC", "mac"]
+tags: ["阅读", "在 模拟 卡门禁卡", "M1", "UID", "nfc", "mfoc", "macbook", "IC"]
+description: "在苹果电脑的 osx 系统下实现模拟加密门禁卡的教程"
+categories: ["read"]
+heading: "在 macbook 模拟 NFC 卡门禁卡的简明操作指南教程"
+date: "2023-05-26T20:18:42.169Z"
 ---
-
 ## 前言
 - IC 卡（也称 M1 卡）：0 扇区不可以修改，其他扇区可反复擦写，电梯卡、门禁卡等智能卡发卡商所使用的都是 M1 卡。
 - UID 卡：可以修改任意扇区，全兼容mifare 1k 卡片。一般某宝能买到。遇到带有防火墙的读卡器就会失效。

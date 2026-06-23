@@ -1,12 +1,12 @@
 ---
-title: MQTT入门指南
-heading:  
-date: 2025-08-08T06:42:12.713Z
-tags: 
+title: "MQTT入门指南"
+keywords: ["教程", "mqtt", "lot", "loT core"]
+tags: ["教程", "mqtt", "lot", "loT core"]
+description: "开发一套农产品溯源系统，需要实时显示农场的温湿度。"
 categories: ["code"]
-Description:  
+heading: "MQTT入门指南"
+date: "2025-08-08T06:42:12.713Z"
 ---
-
 ## 前言
 
 开发一套农产品溯源系统，需要实时显示农场的温湿度。

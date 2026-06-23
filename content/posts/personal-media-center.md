@@ -1,13 +1,12 @@
 ---
-title: personal-media-center 
-heading: 
-date: 2022-01-26T10:51:31.900Z
-categories: ["other"]
-tags: 
-description: 打造家庭媒体中心，Personal Media Center
+title: "personal-media-center"
+keywords: ["教程", "Linux", "personal media center", "Debian", "etcher", "diskutil eraseDisk", "PVE Proxmox VE", "Ubuntu", "Proxmox Virtual Environment", "personal"]
+tags: ["教程", "Linux", "personal media center", "Debian", "etcher", "diskutil eraseDisk", "PVE Proxmox VE", "Ubuntu"]
+description: "打造家庭媒体中心，Personal Media Center"
+categories: ["code"]
+heading: "personal-media-center"
+date: "2022-01-26T10:51:31.900Z"
 ---
-
-
 ## 需求
 随时随地都能添加标准和非标准
 

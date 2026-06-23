@@ -1,11 +1,12 @@
 ---
-title:  influxdb教程安装与使用
-date: 2019-08-27T07:56:11.769Z
-tags: ["influxdb"]
+title: "influxdb教程安装与使用"
+keywords: ["教程", "influxdb", "python", "tags", "fields", "influxdata", "influxdb python", "tag", "sql", "create database"]
+tags: ["教程", "influxdb", "python", "tags", "fields", "influxdata", "influxdb python", "tag"]
+description: "使用influxdata的源进行安装"
 categories: ["code"]
-description: 
+heading: "influxdb教程安装与使用"
+date: "2019-08-27T07:56:11.769Z"
 ---
-
 使用[influxdata](https://docs.influxdata.com/influxdb/v1.7/introduction/installation/)的源进行安装
 
 ```shell

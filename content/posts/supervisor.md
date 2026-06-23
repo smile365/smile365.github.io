@@ -1,13 +1,14 @@
 ---
-title:  supervisor
-date: 2019-04-29T08:29:53.151Z
-tags: ["code","it"]
-series: ["blog"]
+title: "supervisor"
+keywords: ["教程", "code", "it", "supervisor"]
+tags: ["教程", "code", "it", "supervisor"]
+description: "配置文件myprogram.ini内容"
 categories: ["code"]
-draft: true
-description:
+heading: "supervisor"
+date: "2019-04-29T08:29:53.151Z"
+draft: "true"
+series: ["blog"]
 ---
-
 安装
 ```shell
 yum -y  install supervisor

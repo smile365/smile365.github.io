@@ -1,12 +1,12 @@
 ---
-title:  github上非常优秀的java项目推荐
-heading: github上4个非常优秀的java项目推荐
-date: 2020-12-25T09:57:33.786Z
+title: "github上非常优秀的java项目推荐"
+keywords: ["教程", "Linux", "github", "Android", "java", "k star", "Linux Deploy", "Shizuku", "WxJava", "k star WxJava"]
+tags: ["教程", "Linux", "github", "Android", "java", "k star", "Linux Deploy", "Shizuku"]
+description: "Github 上有没有优秀的 Java 项目推荐？java-project-github"
 categories: ["code"]
-tags: 
-description: Github 上有没有优秀的 Java 项目推荐？java-project-github
+heading: "github上4个非常优秀的java项目推荐"
+date: "2020-12-25T09:57:33.786Z"
 ---
-
 #### 1. WxJava ：22k star
 [WxJava](https://github.com/Wechat-Group/WxJava)从名字可以看出这是一个微信开发相关的 Java SDK，可以说你用到的所有微信接口都被封装好了，支持包括微信支付、开放平台、小程序、企业微信/企业号和公众号等的所有后端开发。
 特点：  

@@ -1,12 +1,12 @@
 ---
-title:  chatgpt-thailand
-heading:
-date: 2020-05-22T13:47:16.917Z
+title: "chatgpt-thailand"
+keywords: ["教程", "ChatGPT", "Gmail", "chatgpt thailand", "Chrome", "ais", "Outlook", "chatgpt2"]
+tags: ["教程", "ChatGPT", "Gmail", "chatgpt thailand", "Chrome", "ais", "Outlook"]
+description: "来泰国旅游，办了一张泰国的 ais 卡，刚好用来注册 chatgpt。"
 categories: ["code"]
-tags: 
-description: 
+heading: "chatgpt-thailand"
+date: "2020-05-22T13:47:16.917Z"
 ---
-
 来泰国旅游，办了一张泰国的 ais 卡，刚好用来注册 chatgpt。
 
 ## 如何注册 ChatGPT

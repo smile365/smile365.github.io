@@ -1,14 +1,12 @@
 ---
-title:  视频制作工作流
-heading:
-date: 2020-05-15T23:54:14.322Z
+title: "视频制作工作流"
+keywords: ["教程", "Video production", "视频制作工作流", "sop", "over", "video", "production"]
+tags: ["教程", "Video production", "视频制作工作流", "sop", "over"]
+description: "生产内容的过程 - 是否可持续 - 时间成本是否最低 生产出的内容 - 是否可沉淀 - 是否在长时间都能解决人的问题 - 是否在长时间人们都需要 - 后一天的内容是否对整个框架."
 categories: ["code"]
-tags: ["Video production","视频制作工作流"]
-description: 
+heading: "视频制作工作流"
+date: "2020-05-15T23:54:14.322Z"
 ---
-
-
-
 sop 
 
 生产内容的过程

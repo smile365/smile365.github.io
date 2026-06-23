@@ -1,12 +1,12 @@
 ---
-title:  公众号排版简明手册指南教程
-heading: 
-date: 2020-04-10T04:57:14.023Z
+title: "公众号排版简明手册指南教程"
+keywords: ["生活", "微信公众号排版", "公众号排版", "app", "WeChat Official Accounts", "WeChat", "Official", "Accounts"]
+tags: ["生活", "微信公众号排版", "公众号排版", "app", "WeChat Official Accounts"]
+description: "WeChat Official Accounts"
 categories: ["life"]
-tags: ["微信公众号排版"]
-description: WeChat Official Accounts
+heading: "公众号排版简明手册指南教程"
+date: "2020-04-10T04:57:14.023Z"
 ---
-
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1586498036802.png)
 
 微信公众号英文：WeChat Official Accounts

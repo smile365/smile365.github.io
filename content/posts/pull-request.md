@@ -1,10 +1,11 @@
 ---
-title:  如何为 Github 开源项目贡献代码
-heading: 
-date: 2022-04-15T11:25:18.427Z
+title: "如何为 Github 开源项目贡献代码"
+keywords: ["教程", "Github", "为 开源项目贡献代码", "pr", "Pull Request", "clone", "fork", "push", "pull", "request"]
+tags: ["教程", "Github", "为 开源项目贡献代码", "pr", "Pull Request", "clone", "fork", "push"]
+description: "什么是 pr（pull request） 参考 Pull Request 的命令行管理"
 categories: ["code"]
-tags: 
-description:  如何为 Github 开源项目贡献代码
+heading: "如何为 Github 开源项目贡献代码"
+date: "2022-04-15T11:25:18.427Z"
 ---
 ## 什么是 pr（pull request）
 参考 [Pull Request 的命令行管理](http://www.ruanyifeng.com/blog/2017/07/pull_request.html)

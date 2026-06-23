@@ -1,10 +1,11 @@
 ---
-title: "小米路由器 4a 千兆版刷 openwrt" 
-heading:
-date: 2022-10-18T08:58:26.402Z
+title: "小米路由器 4a 千兆版刷 openwrt"
+keywords: ["教程", "小米路由器 千兆版刷", "dns", "ChinaDNS", "openwrt", "releases", "ss", "shadowsocks libev", "openwrt ##", "shadowsocks libev ss"]
+tags: ["教程", "小米路由器 千兆版刷", "dns", "ChinaDNS", "openwrt", "releases", "ss", "shadowsocks libev"]
+description: "环境： - 硬件：小米路由器 4a 千兆版 - 固件版本：openwrt-22.03.2"
 categories: ["code"]
-tags: 
-description: 
+heading: "小米路由器 4a 千兆版刷 openwrt"
+date: "2022-10-18T08:58:26.402Z"
 ---
 ## 前言
 

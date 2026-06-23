@@ -1,12 +1,12 @@
 ---
-title: chocolatey-比npm快n倍的包管理器
-heading: 使用choco安装nodejs和yarn并安装GitKraken教程
-date: 2021-10-21T03:49:51.046Z
-categories: ["other"]
-tags: 
-description: Windows下 安装yarn，利用chocolatey软件包管理工具，比npm更快更稳定
+title: "chocolatey-比npm快n倍的包管理器"
+keywords: ["教程", "比 快 倍的包管理器", "使用 安装", "并安装", "chocolatey", "yarn", "npm", "choco", "Windows"]
+tags: ["教程", "比 快 倍的包管理器", "使用 安装", "并安装", "chocolatey", "yarn", "npm", "choco"]
+description: "Windows下 安装yarn，利用chocolatey软件包管理工具，比npm更快更稳定"
+categories: ["code"]
+heading: "使用choco安装nodejs和yarn并安装GitKraken教程"
+date: "2021-10-21T03:49:51.046Z"
 ---
-
 Windows 下安装 yarn，利 用chocolatey 软件包管理工具，比 npm 更快更稳定。
 
 按照[官网文档](https://chocolatey.org/install) 安装 chocolatey 

@@ -1,12 +1,12 @@
 ---
-title:  有哪些十分钟就能学会并终生受用的生活技能？
-heading: 
-date: 2020-01-16T10:39:12.336Z
+title: "有哪些十分钟就能学会并终生受用的生活技能？"
+keywords: ["生活", "chrome", "Anything to QRCode", "learn", "minutes"]
+tags: ["生活", "chrome", "Anything to QRCode"]
+description: "打开chrome浏览器，依次点击设置-->密码,打开 提示保存密码 和 自动登录"
 categories: ["life"]
-tags: 
-description: 
+heading: "有哪些十分钟就能学会并终生受用的生活技能？"
+date: "2020-01-16T10:39:12.336Z"
 ---
-
 这个问题来自[知乎](https://www.zhihu.com/question/20894671/answer/976235783)，我回答如下：
 
 

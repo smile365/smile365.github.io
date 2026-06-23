@@ -1,15 +1,12 @@
-
 ---
-title: docker-on-debian11 
-heading: 
-date: 2023-05-24
+title: "docker-on-debian11"
+keywords: ["教程", "Docker", "Debian", "docker on debian11", "apt get", "Docker GPG", "Hello from Docker", "debian11"]
+tags: ["教程", "Docker", "Debian", "docker on debian11", "apt get", "Docker GPG", "Hello from Docker"]
+description: "要在 Debian 上安装 Docker，请按照以下步骤："
 categories: ["code"]
-tags: 
-description: 
+heading: "docker-on-debian11"
+date: "2023-05-24"
 ---
-
-
-
 要在 Debian 上安装 Docker，请按照以下步骤：
 
 1. 更新apt-get：

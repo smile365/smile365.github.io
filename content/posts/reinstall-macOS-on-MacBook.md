@@ -1,12 +1,12 @@
 ---
-title: reinstall-macOS-on-MacBook
-heading: How to reinstall macOS on a 2017 12‑inch MacBook
-date: 2026-06-04T04:10:33.971Z
-tags: 
-categories: ["code"]
-Description:  如何在忘记密码的情况下，把安装了 windows 的 MacBook 重装成 MacOS
+title: "reinstall-macOS-on-MacBook"
+keywords: ["阅读", "ventoy", "WinPE", "Mac", "PE", "MacBook", "windows", "GPT", "reinstall macOS on", "MacBook ##"]
+tags: ["阅读", "ventoy", "WinPE", "Mac", "PE", "MacBook", "windows", "GPT"]
+description: "如何在忘记密码的情况下，把安装了 windows 的 MacBook 重装成 MacOS"
+categories: ["read"]
+heading: "How to reinstall macOS on a 2017 12‑inch MacBook"
+date: "2026-06-04T04:10:33.971Z"
 ---
-
 ## 前言
 
 接了一个装小龙虾(openclaw)的单子。电脑是 2017 款的 12 英寸  MacBook，安装了双系统（windows+macos），双系统的密码都忘记了。说如果可以的话看看硬盘里没有重要文件，实在看不了就重装。

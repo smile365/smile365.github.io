@@ -1,12 +1,12 @@
 ---
-title:  23 年 3 月找房记
-heading:  
-date: 2023-03-07T06:03:37.728Z
-categories: ["other"]
-tags: 
-description:  
+title: "23 年 3 月找房记"
+keywords: ["阅读", "年 月找房记", "rent", "house"]
+tags: ["阅读", "年 月找房记"]
+description: "需求 - 单独的一间工作室 - 单独的厨房 - 充足阳光 - 吃饭方便 - 停车方便（有充电桩） - 羽毛球馆 - 电影院 - 书店 - 健身游泳 - 吉他培训 - 非洲鼓培训."
+categories: ["read"]
+heading: "23 年 3 月找房记"
+date: "2023-03-07T06:03:37.728Z"
 ---
-
 ## 需求
 - 单独的一间工作室
 - 单独的厨房

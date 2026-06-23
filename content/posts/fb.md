@@ -1,10 +1,13 @@
 ---
-title:  Facebook采集
-date: 2018-10-18T07:09:42.196Z
-draft: true
-description:
+title: "Facebook采集"
+keywords: ["阅读", "采集", "token", "Facebook", "web token", "APP", "root", "IMIE"]
+tags: ["阅读", "采集", "token", "Facebook", "web token", "APP", "root", "IMIE"]
+description: "采集方式** - 一、使用接口 - web-token：需要部署上传应用，审核严格，风险高。2星 - 移动端-token：需要个人账户(购买大概是10元一个)。4星"
+categories: ["read"]
+heading: "Facebook采集"
+date: "2018-10-18T07:09:42.196Z"
+draft: "true"
 ---
-
 **采集方式**
 - 一、使用接口
   - web-token：需要部署上传应用，审核严格，风险高。2星

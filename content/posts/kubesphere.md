@@ -1,12 +1,12 @@
 ---
-title:  kubesphere 安装和使用教程
-heading:
-date: 2022-07-27T14:24:22.704Z
+title: "kubesphere 安装和使用教程"
+keywords: ["教程", "kubesphere", "kubekey", "centos os 7", "kubernetes", "centos 7", "quick start", "k8s"]
+tags: ["教程", "kubesphere", "kubekey", "centos os 7", "kubernetes", "centos 7", "quick start", "k8s"]
+description: "centos os 7 使用 kubekey 安装 kubesphere 和 kubernetes"
 categories: ["code"]
-tags: 
-description: 
+heading: "kubesphere 安装和使用教程"
+date: "2022-07-27T14:24:22.704Z"
 ---
-
 centos os 7 使用 kubekey 安装 kubesphere 和 kubernetes
 
 

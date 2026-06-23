@@ -1,13 +1,12 @@
 ---
-title:  国内安卓下载并使用抖音国际版tiktok教程方法
-heading: 国内如何使用tiktok国际版下载抖音国际版tiktok
-date: 2020-07-03T11:07:30.486Z
-categories: ["other"]
-tags: 
-description:  国内如何使用tiktok,tik tok国际版下载,tiktok安卓版下载
+title: "国内安卓下载并使用抖音国际版tiktok教程方法"
+keywords: ["阅读", "Google play", "国内", "tiktok", "Google", "vps", "GPS", "sim"]
+tags: ["阅读", "Google play", "国内", "tiktok", "Google", "vps", "GPS", "sim"]
+description: "国内如何使用tiktok,tik tok国际版下载,tiktok安卓版下载"
+categories: ["read"]
+heading: "国内如何使用tiktok国际版下载抖音国际版tiktok"
+date: "2020-07-03T11:07:30.486Z"
 ---
-
-
 Tiktok的下载和安装，一共分为以下8个步骤：
 
 1.  准备一台安卓手机

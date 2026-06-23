@@ -1,10 +1,11 @@
 ---
-title: mi-gpt-deepseek
-heading:  
-date: 2025-03-13T14:27:38.935Z
-tags: 
+title: "mi-gpt-deepseek"
+keywords: ["教程", "mi gpt deepseek", "app", "id", "did", "env", "deepseek api", "API", "gpt", "deepseek"]
+tags: ["教程", "mi gpt deepseek", "app", "id", "did", "env", "deepseek api", "API"]
+description: "获取 .migpt.js 所需信息 1. 小米 id 米家 app -》我的 -》 {你的昵称} -> {你的昵称} 2. did 米家 app -》 {你的音箱名称} 3.."
 categories: ["code"]
-Description:  
+heading: "mi-gpt-deepseek"
+date: "2025-03-13T14:27:38.935Z"
 ---
 ## 	前言
 

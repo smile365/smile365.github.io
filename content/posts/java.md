@@ -1,13 +1,13 @@
 ---
-title: mac安装java11
-heading: jdk-8u212-macosx-x64.dmg 下载
-date: 2020-01-10T03:10:28.254Z
+title: "mac安装java11"
+keywords: ["教程", "github", "brew", "mac", "java11", "jdk 8u212 macosx", "jdk", "csdn", "baidu", "java"]
+tags: ["教程", "github", "brew", "mac", "java11", "jdk 8u212 macosx", "jdk", "csdn"]
+description: "不需要注册即可下载jdk的网站有如下几个： - cn.azul.com - github - csdn - baidu云"
 categories: ["code"]
-draft: true
-tags: 
-description: 
+heading: "jdk-8u212-macosx-x64.dmg 下载"
+date: "2020-01-10T03:10:28.254Z"
+draft: "true"
 ---
-
 不需要注册即可下载jdk的网站有如下几个：
 - [cn.azul.com](https://cn.azul.com/downloads/zulu-community/?&architecture=x86-64-bit&package=jdk#)
 - [github](https://github.com/frekele/oracle-java/releases)

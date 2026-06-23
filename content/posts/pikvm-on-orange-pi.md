@@ -1,13 +1,12 @@
 ---
-title:  pikvm-on-orange-pi
-heading:  
-date: 2023-11-19T08:20:08.237Z
-categories: ["code"]
-tags: 
-description:  
+title: "pikvm-on-orange-pi"
+keywords: ["阅读", "pikvm", "Armbian", "pikvm on orange", "pi", "mm", "etcher", "Zero3", "pi ##", "Orange Pi Zero3"]
+tags: ["阅读", "pikvm", "Armbian", "pikvm on orange", "pi", "mm", "etcher", "Zero3"]
+description: "所需硬件 - Orange Pi Zero3 - TF 卡（8G+）& 读卡器 - 2 条 usb 线，至少有一条是 type-c 接口。"
+categories: ["read"]
+heading: "pikvm-on-orange-pi"
+date: "2023-11-19T08:20:08.237Z"
 ---
-
-
 ## 所需硬件
 - [Orange Pi Zero3](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-Pi-Zero-3.html) (本次为 1GB 版本)
 - TF 卡（8G+）& 读卡器

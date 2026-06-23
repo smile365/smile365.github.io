@@ -1,12 +1,12 @@
 ---
-title:  pt-hdsky
-heading:  快速通过 PT 站的新手考核任务
-date: 2022-04-04T09:54:35.859Z
-categories: ["other"]
-tags: 
-description: 如何快速通过 PT 站的新手考核任务
+title: "pt-hdsky"
+keywords: ["教程", "PT", "GB", "pt hdsky", "Private Tracker", "hdsky", "VIP", "ut", "pt hdsky ##"]
+tags: ["教程", "PT", "GB", "pt hdsky", "Private Tracker", "hdsky", "VIP", "ut"]
+description: "如何快速通过 PT 站的新手考核任务"
+categories: ["code"]
+heading: "快速通过 PT 站的新手考核任务"
+date: "2022-04-04T09:54:35.859Z"
 ---
-
 ## pt 介绍
 PT（英语：[Private Tracker](https://zh.wikipedia.org/wiki/PT%E4%B8%8B%E8%BC%89)）是一种BitTorrent协议的P2P下载方式的另一种形式，“Private Tracker”指私有种子服务器。与BT最大的不同点为：进行私密范围下载，并且记录每一个用户的详细数据。
 

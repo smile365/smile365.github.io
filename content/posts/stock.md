@@ -1,13 +1,13 @@
 ---
-title:  写给小白的股票投资指南
-date: 2019-11-01T08:13:30.769Z
-tags: 
+title: "写给小白的股票投资指南"
+keywords: ["生活", "写给小白的股票投资", "SH", "SZ", "stock"]
+tags: ["生活", "写给小白的股票投资", "SH", "SZ"]
+description: "打新 一个身份证：沪市1万+深市1万"
 categories: ["life"]
-draft: true
-description: 
+heading: "写给小白的股票投资指南"
+date: "2019-11-01T08:13:30.769Z"
+draft: "true"
 ---
-
-
 1.开户
 
 2.入金

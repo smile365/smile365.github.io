@@ -1,14 +1,12 @@
 ---
-title:  pip的安装和镜像的配置
-date: 2018-07-26T01:48:58.589Z
-tags: 
- - pip
- - mirror
-categories: ["code"] 
+title: "pip的安装和镜像的配置"
+keywords: ["教程", "pip", "mirror", "Linux", "镜像的配置", "config", "HOME", "python devel"]
+tags: ["教程", "pip", "mirror", "Linux", "镜像的配置", "config", "HOME", "python devel"]
+description: "安装pip 若没有pip，下载并安装get-pip.py"
+categories: ["code"]
+heading: "pip的安装和镜像的配置"
+date: "2018-07-26T01:48:58.589Z"
 ---
-
-
-
 #### 安装pip
 若没有pip，下载并安装[get-pip.py](https://pip.pypa.io/en/stable/installing/#installing-with-get-pip-py)
 ```shell

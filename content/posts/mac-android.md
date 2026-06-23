@@ -1,12 +1,13 @@
 ---
-title:  mac搭建安卓开发环境
-date: 2018-07-22T13:38:58.727Z
-tags: ["Android"]
-series: ["blog"]
+title: "mac搭建安卓开发环境"
+keywords: ["教程", "Android", "搭建安卓开发环境", "mac", "java8", "Android studio", "androiddevtools", "Android SDK", "unable to access"]
+tags: ["教程", "Android", "搭建安卓开发环境", "mac", "java8", "Android studio", "androiddevtools", "Android SDK"]
+description: "然后到官网下载Android studio"
 categories: ["code"]
-description:
+heading: "mac搭建安卓开发环境"
+date: "2018-07-22T13:38:58.727Z"
+series: ["blog"]
 ---
-
 先安装构建工具和java8
 ```
 brew cask install java8

@@ -1,13 +1,13 @@
 ---
-title:  小白基金操作日记-第1天
-heading: 小白基金操作日记-第1天
-date: 2021-01-10T10:07:21.997Z
+title: "小白基金操作日记-第1天"
+keywords: ["生活", "小白基金操作日记", "第 天", "P2P", "APP", "FOF", "QDII", "fund", "day1"]
+tags: ["生活", "小白基金操作日记", "第 天", "P2P", "APP", "FOF", "QDII"]
+description: "从 16 年开始接触理财，弄过美股、港股、A股、P2P、比特币，唯独没有投资过基金。"
 categories: ["life"]
-tags: 
-draft: true
-description: 
+heading: "小白基金操作日记-第1天"
+date: "2021-01-10T10:07:21.997Z"
+draft: "true"
 ---
-
 从 16 年开始接触理财，弄过美股、港股、A股、P2P、比特币，唯独没有投资过基金。
 
 |   类型  |  开始时间   |  年化收益率    |     |

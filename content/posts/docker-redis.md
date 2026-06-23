@@ -1,14 +1,12 @@
 ---
-title:  docker安装redis
-date: 2018-08-02T08:04:58.261Z
-tags: 
- - docker
- - redis
-categories:
- - code
-description:
+title: "docker安装redis"
+keywords: ["教程", "docker", "redis", "mac", "hosts", "install redis from", "REMI", "conf"]
+tags: ["教程", "docker", "redis", "mac", "hosts", "install redis from", "REMI", "conf"]
+description: "安装最新版redis请参考install-redis-from-REMI"
+categories: ["code"]
+heading: "docker安装redis"
+date: "2018-08-02T08:04:58.261Z"
 ---
-
 安装最新版redis请参考[install-redis-from-REMI](https://computingforgeeks.com/how-to-install-latest-redis-on-centos-7/)
 
 #### 基于docker安装redis

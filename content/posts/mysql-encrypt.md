@@ -1,13 +1,12 @@
 ---
-title: mysql中使用对称加密 
-heading: 对称加密算法种类-mysql自带的对称加密如何使用。
-date: 2020-07-06T02:35:03.792Z
+title: "mysql中使用对称加密"
+keywords: ["教程", "mysql", "中使用对称加密", "对称加密算法种类", "自带的对称加密", "baseN", "encrypt", "base16", "AES DES RC4", "Rabbit TripleDes"]
+tags: ["教程", "mysql", "中使用对称加密", "对称加密算法种类", "自带的对称加密", "baseN", "encrypt", "base16"]
+description: "mysql中对密码一般采取非对称加密，除了密码外业务上有时也需要对部分字段进行对称加密。"
 categories: ["code"]
-tags: 
-description: 
+heading: "对称加密算法种类-mysql自带的对称加密如何使用。"
+date: "2020-07-06T02:35:03.792Z"
 ---
-
-
 mysql中对密码一般采取非对称加密，除了密码外业务上有时也需要对部分字段进行对称加密。
 
 常见对称加密算法：

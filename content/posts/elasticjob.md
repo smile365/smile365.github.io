@@ -1,10 +1,11 @@
 ---
 title: "ElasticJob 教程"
-heading:  
-date: 2022-12-26T13:12:17.023Z
-tags: 
+keywords: ["教程", "ElasticJob", "ZooKeeper", "Java 8+ Maven", "Lite", "spring boot", "elasticjob lite spring", "boot starter"]
+tags: ["教程", "ElasticJob", "ZooKeeper", "Java 8+ Maven", "Lite", "spring boot", "elasticjob lite spring", "boot starter"]
+description: "ElasticJob环境要求 - Java 8+ - Maven 3.5.0+ - ZooKeeper 3.6.0+"
 categories: ["code"]
-Description:  
+heading: "ElasticJob 教程"
+date: "2022-12-26T13:12:17.023Z"
 ---
 [ElasticJob](https://shardingsphere.apache.org/elasticjob/current/cn/overview/#%E7%8E%AF%E5%A2%83%E8%A6%81%E6%B1%82)环境要求
 - Java 8+

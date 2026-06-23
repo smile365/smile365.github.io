@@ -1,12 +1,13 @@
 ---
-title:  money
-date: "2019-10-29T11:35:25.928Z"
-tags: 
+title: "money"
+keywords: ["生活", "money"]
+tags: ["生活", "money"]
+description: "其实很简单，你去观察这份工作你能不能「积累资源」"
 categories: ["life"]
-draft: true
-description: 
+heading: "money"
+date: "2019-10-29T11:35:25.928Z"
+draft: "true"
 ---
-
 如何去判断这一份钱值不值得赚？
 
 其实很简单，你去观察这份工作你能不能「积累资源」

@@ -1,13 +1,12 @@
 ---
-title:  werobot教程
-heading: werobot微信公众号开发教程--2020年
-date: 2020-01-06T06:29:34.327Z
+title: "werobot教程"
+keywords: ["教程", "微信公众号开发", "werobot教程", "WeRoBot", "email", "a zA Z0", "return", "uinfo", "AppID", "AppSecret"]
+tags: ["教程", "微信公众号开发", "werobot教程", "WeRoBot", "email", "a zA Z0", "return", "uinfo"]
+description: "WeRoBot robot.location"
 categories: ["code"]
-tags: ["微信公众号开发","werobot教程","WeRoBot"]
-description:  WeRoBot robot.location
+heading: "werobot微信公众号开发教程--2020年"
+date: "2020-01-06T06:29:34.327Z"
 ---
-
-
 **安装[werobot](https://werobot.readthedocs.io/zh_CN/latest/index.html)**
 
 ```bash

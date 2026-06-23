@@ -1,12 +1,12 @@
 ---
-title: debian 
-heading: 
-date: 2022-04-03T08:03:09.764Z
-categories: ["other"]
-tags: 
-description: 
+title: "debian"
+keywords: ["教程", "Linux", "CentOS", "debian", "iso", "Ubuntu", "sxy", "ssh server", "debian ##"]
+tags: ["教程", "Linux", "CentOS", "debian", "iso", "Ubuntu", "sxy", "ssh server"]
+description: "说明 CentOS 停止服务后，找了一圈 Linux 发行版。"
+categories: ["code"]
+heading: "debian"
+date: "2022-04-03T08:03:09.764Z"
 ---
-
 ## 说明
 CentOS 停止服务后，找了一圈 Linux 发行版。
 

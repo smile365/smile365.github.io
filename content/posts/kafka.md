@@ -1,11 +1,12 @@
 ---
-title:  centos安装kafka
-date: 2018-08-08T09:56:42.699Z
-tags:
- - kafka
+title: "centos安装kafka"
+keywords: ["教程", "kafka", "centos", "python", "listeners", "java", "kafka doc", "tar xzf kafka"]
+tags: ["教程", "kafka", "centos", "python", "listeners", "java", "kafka doc", "tar xzf kafka"]
+description: "选择合适的版本，到镜像站下载kafka"
 categories: ["code"]
+heading: "centos安装kafka"
+date: "2018-08-08T09:56:42.699Z"
 ---
-
 **安装java**
 ```shell
 java -version

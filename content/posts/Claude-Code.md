@@ -1,10 +1,11 @@
 ---
-title: Claude-Code
-heading:   MacOS 下 Claude Code 安装与使用国产模型
-date: 2026-05-11T05:22:31.210Z
-tags: 
+title: "Claude-Code"
+keywords: ["教程", "Linux", "下 安装", "使用国产模型", "Claude Code", "cc switch", "runoob", "MacOS", "Claude Code ##", "Claude"]
+tags: ["教程", "Linux", "下 安装", "使用国产模型", "Claude Code", "cc switch", "runoob", "MacOS"]
+description: "、使用官方安装包 目前 Claude Code 也提供了桌面版，可在以下地址下载：<"
 categories: ["code"]
-Description:  
+heading: "MacOS 下 Claude Code 安装与使用国产模型"
+date: "2026-05-11T05:22:31.210Z"
 ---
 ## 安装
 

@@ -1,12 +1,12 @@
 ---
-title:  python-shell
-heading: 
-date: 2022-03-09T14:28:18.324Z
-categories: ["other"]
-tags: 
-description: 
+title: "python-shell"
+keywords: ["教程", "python shell", "shell", "subprocess", "returncode", "CompletedProcess", "stdout", "text", "python shell ##", "python"]
+tags: ["教程", "python shell", "shell", "subprocess", "returncode", "CompletedProcess", "stdout", "text"]
+description: "os.system 只能执行命令，无法获取执行的结果。并打印输出结果，返回值仅返回是否成功，成功返回 0 ，否则返回非零数字。"
+categories: ["code"]
+heading: "python-shell"
+date: "2022-03-09T14:28:18.324Z"
 ---
-
 ## 方法一：os.system
 
 [os.system](https://docs.python.org/3/library/os.html#os.system) 只能执行命令，无法获取执行的结果。并打印输出结果，返回值仅返回是否成功，成功返回 0 ，否则返回非零数字。

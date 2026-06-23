@@ -1,12 +1,13 @@
 ---
-title:  写给男朋友的化妆品指南
-date: 2019-08-21T05:27:55.942Z
-tags: 
+title: "写给男朋友的化妆品指南"
+keywords: ["生活", "写给男朋友的化妆品", "SPF", "PA", "sunscreen"]
+tags: ["生活", "写给男朋友的化妆品", "SPF", "PA"]
+description: "第一画 直白：有人发现光里有东西 一束光穿过三棱镜，分成了7束（小人）。 牛顿吐着舌头，指着三棱镜说，我发现光里面有东西。 小人喊：你才是东西，你们全家都是东西。"
 categories: ["life"]
-draft: true
-description: 
+heading: "写给男朋友的化妆品指南"
+date: "2019-08-21T05:27:55.942Z"
+draft: "true"
 ---
-
 防晒霜
 
 第一画

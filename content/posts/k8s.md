@@ -1,13 +1,12 @@
 ---
-title:  k8s
-heading: 搭建 k8s
-date: 2022-10-27T02:16:05.490Z
+title: "k8s"
+keywords: ["教程", "搭建", "k8s", "kubesphere", "kk", "kubernetes", "bash yum install"]
+tags: ["教程", "搭建", "k8s", "kubesphere", "kk", "kubernetes"]
+description: "使用 kubesphere 的 kk 安装 kubernetes"
 categories: ["code"]
-tags: 
-description: 
+heading: "搭建 k8s"
+date: "2022-10-27T02:16:05.490Z"
 ---
-
-
 1. 使用清华源
 ```bash
 # 备份

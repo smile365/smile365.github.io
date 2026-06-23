@@ -1,12 +1,12 @@
 ---
-title: 多台电脑共用一个鼠标和键盘
-date: 2019-02-13T02:57:07.012Z
-tags: 
- - synergy
- - share keyboard
+title: "多台电脑共用一个鼠标和键盘"
+keywords: ["教程", "synergy", "share keyboard", "多台电脑共用一个鼠标", "键盘", "mac", "google", "synergy free"]
+tags: ["教程", "synergy", "share keyboard", "多台电脑共用一个鼠标", "键盘", "mac", "google", "synergy free"]
+description: "使用synergy实现多台电脑共用一个鼠标和键盘。"
+categories: ["code"]
+heading: "多台电脑共用一个鼠标和键盘"
+date: "2019-02-13T02:57:07.012Z"
 ---
-
-
 使用synergy实现多台电脑共用一个鼠标和键盘。
 
 google搜索`synergy free` 找到[1.8版本的下载链接](https://sourceforge.net/projects/synergy-stable-builds/)

@@ -1,12 +1,12 @@
 ---
 title: "openresty 可运行 Lua 脚本的 nginx 高性能服务器"
-heading:  
-date: 2023-03-10T07:23:59.105Z
+keywords: ["教程", "nginx", "openresty", "Lua", "usr", "local", "conf", "nginx vi"]
+tags: ["教程", "nginx", "openresty", "Lua", "usr", "local", "conf", "nginx vi"]
+description: "前言 openresty 比 nginx 增加了很多功能。"
 categories: ["code"]
-tags: 
-description:  
+heading: "openresty 可运行 Lua 脚本的 nginx 高性能服务器"
+date: "2023-03-10T07:23:59.105Z"
 ---
-
 ## 前言
 [openresty](https://openresty.org/en/getting-started.html) 比 nginx 增加了很多功能。
 

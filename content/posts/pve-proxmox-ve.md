@@ -1,10 +1,11 @@
 ---
 title: "Proxmox VE 企业级虚拟化平台教程"
-heading:  裸机安装 Proxmox VE- pve 系统 7.2-1
-date: 2022-09-06T06:33:45.328Z
+keywords: ["教程", "企业级虚拟化平台", "裸机安装", "系统", "etc", "apt", "Proxmox VE", "Proxmox VE pve", "pve", "iso"]
+tags: ["教程", "企业级虚拟化平台", "裸机安装", "系统", "etc", "apt", "Proxmox VE", "Proxmox VE pve"]
+description: "安装 pve 系统 通过 u 盘启动安装 Proxmox VE 系统。"
 categories: ["code"]
-tags: 
-description: 
+heading: "裸机安装 Proxmox VE- pve 系统 7.2-1"
+date: "2022-09-06T06:33:45.328Z"
 ---
 ## 安装 pve 系统
 通过 u 盘启动安装 [Proxmox VE](https://pve.proxmox.com/pve-docs/pve-admin-guide.html) 系统。

@@ -1,12 +1,12 @@
 ---
-title: 树莓派自动连接 wifi 的设计思路
-heading: 
-date: 2020-11-13T02:23:10.038Z
+title: "树莓派自动连接 wifi 的设计思路"
+keywords: ["教程", "WIFI", "pywifi", "wifi pywifi", "raspberry"]
+tags: ["教程", "WIFI", "pywifi", "wifi pywifi"]
+description: "raspberry Pi wifi"
 categories: ["code"]
-tags: 
-description: raspberry Pi wifi
+heading: "树莓派自动连接 wifi 的设计思路"
+date: "2020-11-13T02:23:10.038Z"
 ---
-
 树莓派自动链接wifi方案
 
 背景

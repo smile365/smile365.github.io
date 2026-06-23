@@ -1,15 +1,12 @@
 ---
 title: "SaaS、PaaS、aPaaS、iPaaS、IaaS 是什么？"
-heading:  SaaS、PaaS、aPaaS、iPaaS、IaaS 是什么？有什么区别？
-date: 2022-12-30T11:43:51.443Z
-tags: 
+keywords: ["教程", "SaaS", "PaaS", "IaaS", "aPaaS", "iPaaS", "Service", "SAPI"]
+tags: ["教程", "SaaS", "PaaS", "IaaS", "aPaaS", "iPaaS", "Service"]
+description: "SaaS、PaaS、APaaS、IPaaS、IaaS 是什么？有什么区别？"
 categories: ["code"]
-Description:  
+heading: "SaaS、PaaS、aPaaS、iPaaS、IaaS 是什么？有什么区别？"
+date: "2022-12-30T11:43:51.443Z"
 ---
-
-
-
-
 SaaS、PaaS、APaaS、IPaaS、IaaS 是什么？有什么区别？
 
 - **SaaS**, Software as a Service ,软件即服务

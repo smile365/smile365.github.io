@@ -1,10 +1,11 @@
 ---
 title: "minikube 单机版 k8s"
-heading: 
-date: 2022-11-01T01:46:04.738Z
+keywords: ["教程", "Docker", "单机版", "minikube", "k8s", "kubectl", "ECS 2 cpu", "GB 20GB debian", "k8s ##", "debian11"]
+tags: ["教程", "Docker", "单机版", "minikube", "k8s", "kubectl", "ECS 2 cpu", "GB 20GB debian"]
+description: "前言 minikube 单机版 k8s"
 categories: ["code"]
-tags: 
-description: 
+heading: "minikube 单机版 k8s"
+date: "2022-11-01T01:46:04.738Z"
 ---
 ## 前言
 minikube 单机版 k8s

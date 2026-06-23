@@ -28,6 +28,19 @@ watch = true
 [blackfriday]
   extensions = ["noEmptyLineBeforeBlock"]
 
+[related]
+  [[related.indices]]
+  name = "tags"
+  weight = 100
+
+  [[related.indices]]
+  name = "title"
+  weight = 90
+
+  [[related.indices]]
+  name = "keywords"
+  weight = 80
+
 [menu]
   [[menu.main]]
     name = "生活"

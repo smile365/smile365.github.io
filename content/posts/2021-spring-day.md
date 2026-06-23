@@ -1,12 +1,12 @@
 ---
-title:  2021-spring-day
-heading: 寻甸春节旅游计划
-date: 2021-02-11T04:50:52.163Z
-categories: ["other"]
-tags: 
-description: 寻甸周边适合春节出门旅游的景点推荐
+title: "2021-spring-day"
+keywords: ["生活", "寻甸春节旅游计划", "spring day", "spring", "day"]
+tags: ["生活", "寻甸春节旅游计划", "spring day"]
+description: "寻甸周边适合春节出门旅游的景点推荐"
+categories: ["life"]
+heading: "寻甸春节旅游计划"
+date: "2021-02-11T04:50:52.163Z"
 ---
-
 景点
 - 北大营草场（无问西东拍摄地）
 - 凤龙湾（小镇、景区、游船）

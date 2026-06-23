@@ -1,12 +1,12 @@
 ---
-title: install-nodejs
-heading:  
-date: 2023-02-21T03:09:00.239Z
+title: "install-nodejs"
+keywords: ["教程", "nodejs", "npm", "install nodejs", "debian 11", "NVM", "yarn", "cat", "install nodejs ##", "etc"]
+tags: ["教程", "nodejs", "npm", "install nodejs", "debian 11", "NVM", "yarn", "cat"]
+description: "debian 11 : cat /etc/os-release ,清华源"
 categories: ["code"]
-tags: 
-description:  
+heading: "install-nodejs"
+date: "2023-02-21T03:09:00.239Z"
 ---
-
 ## 系统环境
 
 - debian 11 :  `cat /etc/os-release` ,[清华源](https://mirrors.tuna.tsinghua.edu.cn/help/debian/)

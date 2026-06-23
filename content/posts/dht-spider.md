@@ -1,12 +1,12 @@
 ---
-title: dht-spider 
-heading: 
-date: 2021-09-26T12:52:51.353Z
-categories: ["other"]
-tags: 
-description: 
+title: "dht-spider"
+keywords: ["教程", "centos", "dht spider", "win10", "wsl", "PowerShell", "mongodb", "vim", "dht spider win10", "dht"]
+tags: ["教程", "centos", "dht spider", "win10", "wsl", "PowerShell", "mongodb", "vim"]
+description: "win10新系统(版本号19041)一般自带 wsl，老系统需要自己安装。 安装 WSL,以管理员身份打开 PowerShell 并运行："
+categories: ["code"]
+heading: "dht-spider"
+date: "2021-09-26T12:52:51.353Z"
 ---
-
 win10新系统(版本号19041)一般自带 wsl，老系统需要自己安装。
 安装 [WSL](https://docs.microsoft.com/en-us/windows/wsl/install),以管理员身份打开 PowerShell 并运行：
 ```

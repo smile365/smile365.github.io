@@ -1,12 +1,12 @@
 ---
 title: "ipfs 分布式星际文件系统使用教程"
-heading: 
-date: 2022-07-25T16:46:23.029Z
+keywords: ["教程", "分布式星际文件系统", "IPFS", "Person", "Protocol Labs", "BitTorrent", "DHT", "Git", "InterPlanetary File System"]
+tags: ["教程", "分布式星际文件系统", "IPFS", "Person", "Protocol Labs", "BitTorrent", "DHT", "Git"]
+description: "星际文件系统（InterPlanetary File System，缩写为IPFS）是一个旨在实现文件的分布式存储、共享和持久化的网络传输协议。"
 categories: ["code"]
-tags: 
-description: 
+heading: "ipfs 分布式星际文件系统使用教程"
+date: "2022-07-25T16:46:23.029Z"
 ---
-
 ## IPFS 介绍
 
 星际文件系统（InterPlanetary File System，缩写为IPFS）是一个旨在实现文件的分布式存储、共享和持久化的网络传输协议。该技术诞生于 2014 年，由协议实验室（Protocol Labs）创建，IPFS 整合了最先进的网络技术，如（BitTorrent、DHT、Git、SFS等）。

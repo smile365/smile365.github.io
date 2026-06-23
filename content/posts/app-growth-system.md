@@ -1,10 +1,11 @@
 ---
-title: app-growth-system
-heading:  
-date: 2026-05-12T02:19:23.892Z
-tags: 
-categories: ["code"]
-Description:  
+title: "app-growth-system"
+keywords: ["阅读", "app growth system", "Landing Page", "Waitlist", "Audience", "Messaging", "APP", "ASO", "Google Play", "growth"]
+tags: ["阅读", "app growth system", "Landing Page", "Waitlist", "Audience", "Messaging", "APP", "ASO"]
+description: "前言 技术转型做独立 APP 开发，可能会遇到这种情况： > 埋头开发 6 个月，上线后发现没人下载。甚至相比竞品，你的 UI 更漂亮、功能更好用、免费、甚至低价。"
+categories: ["read"]
+heading: "app-growth-system"
+date: "2026-05-12T02:19:23.892Z"
 ---
 ## 前言
 技术转型做独立 APP 开发，可能会遇到这种情况：

@@ -1,11 +1,12 @@
 ---
-title:  使用IntelliJ IDEA进行Python远程调试
-date: 2018-08-21T02:43:06.074Z
-tags: ["idea"]
+title: "使用IntelliJ IDEA进行Python远程调试"
+keywords: ["教程", "idea", "Python", "SSH", "使用 进行 远程调试", "IntelliJ IDEA", "Root pash", "sdk", "debug"]
+tags: ["教程", "idea", "Python", "SSH", "使用 进行 远程调试", "IntelliJ IDEA", "Root pash", "sdk"]
+description: "使用IntelliJ IDEA进行Python远程调试图文配置教程"
 categories: ["code"]
-description: 使用IntelliJ IDEA进行Python远程调试图文配置教程
+heading: "使用IntelliJ IDEA进行Python远程调试"
+date: "2018-08-21T02:43:06.074Z"
 ---
-
 找到部署配置
 ![enter description here](https://i.loli.net/2018/08/21/5b7b7df73be94.jpg)
 

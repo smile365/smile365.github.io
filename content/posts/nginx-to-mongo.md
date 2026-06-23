@@ -1,11 +1,12 @@
 ---
-title: 在CentOS上安装Fluentd实现把nginx日志存入mongo 
-tags: ["Fluentd","nginx"]
-date: 2018-06-26
-categories: ["code"] 
+title: "在CentOS上安装Fluentd实现把nginx日志存入mongo"
+keywords: ["教程", "Fluentd", "nginx", "mongo", "CentOS", "data", "logs", "tag"]
+tags: ["教程", "Fluentd", "nginx", "mongo", "CentOS", "data", "logs", "tag"]
+description: "文件内容如下，source为nginx日志格式化，match mongo为使用mongo存储"
+categories: ["code"]
+heading: "在CentOS上安装Fluentd实现把nginx日志存入mongo"
+date: "2018-06-26"
 ---
-
-
 下载官方安装脚本并启动：
 
 ```shell

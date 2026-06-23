@@ -1,12 +1,12 @@
 ---
-title:  install-kinaba
-heading: 
-date: 2022-07-22T10:31:21.628Z
+title: "install-kinaba"
+keywords: ["教程", "install kinaba", "kibana", "elasticsearch", "install"]
+tags: ["教程", "install kinaba", "kibana", "elasticsearch"]
+description: "参考 - kibana配置elasticsearch密码"
 categories: ["code"]
-tags: 
-description: 
+heading: "install-kinaba"
+date: "2022-07-22T10:31:21.628Z"
 ---
-
 ```bash
 docker pull kibana:7.7.0
 docker run -d --name kibana -p 5601:5601 kibana:7.7.0

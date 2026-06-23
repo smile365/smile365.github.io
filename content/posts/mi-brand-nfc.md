@@ -1,12 +1,12 @@
 ---
-title: 小米手环模拟非加密门禁卡
-heading: 
-date: 2021-10-27T03:15:19.225Z
-categories: ["other"]
-tags: 
-description: 小米手环模拟非加密门禁卡,mi-brand-nfc
+title: "小米手环模拟非加密门禁卡"
+keywords: ["阅读", "nfc", "RFID", "UID", "BCC", "SAK", "ATQA", "brand"]
+tags: ["阅读", "nfc", "RFID", "UID", "BCC", "SAK", "ATQA"]
+description: "小米手环模拟非加密门禁卡,mi-brand-nfc"
+categories: ["read"]
+heading: "小米手环模拟非加密门禁卡"
+date: "2021-10-27T03:15:19.225Z"
 ---
-
 ## 模拟 nfc
 
 有一张长方形的非加密的门禁卡，经常忘带，刚好买了一个支持nfc模拟的手环。想通过手环来刷门禁。

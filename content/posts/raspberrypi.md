@@ -1,12 +1,12 @@
 ---
-title:  2021年树莓派最新安装和使用教程（无需鼠标键盘显示器等外设）
-heading: 
-date: 2019-07-02T10:35:01.080Z
-tags: 
+title: "2021年树莓派最新安装和使用教程（无需鼠标键盘显示器等外设）"
+keywords: ["教程", "SSH", "树莓派", "WIFI", "Raspberry Pi OS", "Mac OS", "Raspbian", "Debian", "raspberrypi"]
+tags: ["教程", "SSH", "树莓派", "WIFI", "Raspberry Pi OS", "Mac OS", "Raspbian", "Debian"]
+description: "无需显示器\\\\\\\\鼠标\\\\\\\\键盘\\\\\\\\网线的情况下，如何自动开启WIFI、SHH、VNC 远程连接。"
 categories: ["code"]
-description: 无需显示器\鼠标\键盘\网线的情况下，如何自动开启WIFI、SHH、VNC 远程连接。
+heading: "2021年树莓派最新安装和使用教程（无需鼠标键盘显示器等外设）"
+date: "2019-07-02T10:35:01.080Z"
 ---
-
 ## 前言
 Mac OS 的触摸板非常好用，基本告别了鼠标键盘。买了个 树莓派，笔记本用的是 WIFI 网络，手上也没有鼠标、键盘、网线、显示器，如何在没有鼠标键盘的情况下，安装树莓派系统和并自动配置 WIFI 和 SSH 呢。
 

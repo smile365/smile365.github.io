@@ -1,13 +1,12 @@
 ---
-title:  "U盘遇到“DiskPart 遇到错误: 拒绝访问”的处理方法"
-heading: 
-date: 2020-08-13T10:19:51.141Z
+title: "U盘遇到“DiskPart 遇到错误: 拒绝访问”的处理方法"
+keywords: ["教程", "盘遇到“ 遇到错误", "拒绝访问”的处理", "diskgenius", "DiskPart", "ssd", "win+r", "Windows", "System32", "upan"]
+tags: ["教程", "盘遇到“ 遇到错误", "拒绝访问”的处理", "diskgenius", "DiskPart", "ssd", "win+r", "Windows"]
+description: "DiskPart 遇到错误: 拒绝访问。"
 categories: ["code"]
-tags: 
-description:  "DiskPart 遇到错误: 拒绝访问。"
+heading: "U盘遇到“DiskPart 遇到错误: 拒绝访问”的处理方法"
+date: "2020-08-13T10:19:51.141Z"
 ---
-
-
 用u盘做了一个系统启动盘，手贱直接从电脑拔掉u盘，插到台式机电脑，磁盘管理能看到u盘和盘符，但我的电脑死活找不到u盘。用系统的磁盘管理删除分区，格式化，重新分配盘符，结果无法设定盘符，提示“系统找不到指定的文件”。
 
 按照方法操作如下

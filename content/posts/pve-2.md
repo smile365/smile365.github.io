@@ -1,12 +1,12 @@
 ---
-title: pve-2
-heading:  
-date: 2023-02-12T08:13:02.861Z
+title: "pve-2"
+keywords: ["教程", "Linux", "pve", "pve 2", "usb", "SATA", "VirtIO", "debian windows 11", "pve 2 ##", "alpine xxx"]
+tags: ["教程", "Linux", "pve", "pve 2", "usb", "SATA", "VirtIO", "debian windows 11"]
+description: "pve 系列教程"
 categories: ["code"]
-tags: 
-description:  pve 系列教程
+heading: "pve-2"
+date: "2023-02-12T08:13:02.861Z"
 ---
-
 ## usb 安装 pve
 
 ## 创建虚拟机

@@ -1,12 +1,12 @@
 ---
-title:  elasticsearch-8.10  REEST 接口使用指南
-heading:
-date: 2020-05-09T06:42:21.580Z
+title: "elasticsearch-8.10 REEST 接口使用指南"
+keywords: ["教程", "接口使用", "es", "Platform", "Elasticsearch", "Overview", "What is Elasticsearch", "elasticsearch guide 8"]
+tags: ["教程", "接口使用", "es", "Platform", "Elasticsearch", "Overview", "What is Elasticsearch", "elasticsearch guide 8"]
+description: "前言 es 官方文档藏的很深。如果点击“定价”旁边的“文档”是找不到的。"
 categories: ["code"]
-tags: 
-description: 
+heading: "elasticsearch-8.10 REEST 接口使用指南"
+date: "2020-05-09T06:42:21.580Z"
 ---
-
 ## 前言
 es 官方文档藏的很深。如果点击“定价”旁边的“文档”是找不到的。正确路径是从 Platform -> Elasticsearch -> 文档 -> Overview -> Elasticsearch 8.10 -> What is Elasticsearch?  
 

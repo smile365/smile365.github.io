@@ -1,12 +1,12 @@
 ---
-title:  百度联盟开通教程
-heading: 
-date: 2020-08-04T02:56:20.966Z
+title: "百度联盟开通教程"
+keywords: ["教程", "百度联盟开通", "txt", "baidu", "union"]
+tags: ["教程", "百度联盟开通", "txt"]
+description: "下载一个txt文件，上传到服务器，让文件通过你的域名可以访问到，然后点击验证，即可验证成功。"
 categories: ["code"]
-tags: 
-description: 
+heading: "百度联盟开通教程"
+date: "2020-08-04T02:56:20.966Z"
 ---
-
 在百度联盟注册一个联盟账号
 
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1596509950346.png)

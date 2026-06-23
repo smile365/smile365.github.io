@@ -1,12 +1,12 @@
 ---
-title:  WeChatFerry
-heading:  
-date: 2025-04-06T04:48:37.841Z
-tags: 
+title: "WeChatFerry"
+keywords: ["教程", "Python", "WeChatFerry", "GitBash", "WeChatRobot", "WeChatUpdate", "WeChatFerry ##"]
+tags: ["教程", "Python", "WeChatFerry", "GitBash", "WeChatRobot", "WeChatUpdate"]
+description: "安装相关环境 * Git-64-bit.exe (GitBash) * python-3.10.11-amd64.exe (Python) ，先**勾选环境变量**，再安装。"
 categories: ["code"]
-Description:  
+heading: "WeChatFerry"
+date: "2025-04-06T04:48:37.841Z"
 ---
-
 ## 安装相关环境
 *   Git-64-bit.exe ([GitBash](https://git-scm.com/downloads/win))
 *   python-3.10.11-amd64.exe ([Python](https://www.python.org/downloads/release/python-31011/)) ，先**勾选环境变量**，再安装。

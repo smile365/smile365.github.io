@@ -1,12 +1,12 @@
 ---
-title:  微x工具箱
-heading: 比wetool好用的软件|微x工具箱
-date: 2020-05-15T05:16:12.074Z
+title: "微x工具箱"
+keywords: ["生活", "wetool", "wxtool", "wtool", "wetool检测慢", "wetool检测僵尸粉", "微 工具箱", "比 好用的软件"]
+tags: ["生活", "wetool", "wxtool", "wtool", "wetool检测慢", "wetool检测僵尸粉", "微 工具箱", "比 好用的软件"]
+description: "我有一个微信号，有2千多人，两年多没用了，估计很多人已经把我删掉了。"
 categories: ["life"]
-tags: ["wetool","wxtool","wtool","wetool检测慢","wetool检测僵尸粉"]
-description: 
+heading: "比wetool好用的软件|微x工具箱"
+date: "2020-05-15T05:16:12.074Z"
 ---
-
 我有一个微信号，有2千多人，两年多没用了，估计很多人已经把我删掉了。所以想看看谁删除了我。
 刚开始用吾爱的破解版wetool，也不知道破解版wetool检测僵尸粉安全与否，不过我没啥隐私，也没有聊天记录，所以不担心wetool会看到我的聊天记录。	
 

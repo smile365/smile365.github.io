@@ -1,12 +1,12 @@
 ---
-title: jiuzhaigou
-heading: 
-date: 2021-09-26T08:46:25.600Z
-categories: ["other"]
-tags: 
-description: 
+title: "jiuzhaigou"
+keywords: ["生活", "jiuzhaigou", "jiuzhaigou ##"]
+tags: ["生活", "jiuzhaigou"]
+description: "九寨沟旅游计划 - 预计出发日期：2021年10月2日 - 景区订票方式：官网或小程序 - 交通信息：九寨沟交通 - 班车订票方式：同城旅行 或 搜索各大客运站的公众号或网站."
+categories: ["life"]
+heading: "jiuzhaigou"
+date: "2021-09-26T08:46:25.600Z"
 ---
-
 ## 九寨沟旅游计划
 - 预计出发日期：2021年10月2日
 - 景区订票方式：[官网或小程序](http://www.abatour.com/)

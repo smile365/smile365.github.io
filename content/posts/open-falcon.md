@@ -1,10 +1,12 @@
 ---
-title:  使用OpenFalcon监控服务器
-date: 2019-04-08T05:38:43.535Z
-categories: ["code"] 
-tags: ["openfalcon"]
+title: "使用OpenFalcon监控服务器"
+keywords: ["教程", "openfalcon", "mysql", "使用 监控服务器", "falcon", "rdis", "shell yum install", "y epel release", "open"]
+tags: ["教程", "openfalcon", "mysql", "使用 监控服务器", "falcon", "rdis", "shell yum install", "y epel release"]
+description: "参考 - open-falcon - mariadb"
+categories: ["code"]
+heading: "使用OpenFalcon监控服务器"
+date: "2019-04-08T05:38:43.535Z"
 ---
-
 ### 安装mysql
 ```shell
 yum -y install mariadb-server

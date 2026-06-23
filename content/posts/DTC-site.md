@@ -1,12 +1,12 @@
 ---
-title: DTC-site
-heading:  独立站技术选型（Shopify/）
-date: 2026-06-10T15:28:11.853Z
-tags: 
+title: "DTC-site"
+keywords: ["教程", "独立站技术选型", "Shopify", "SEO", "DTC site", "stripe", "PayPal", "FAQ", "DTC site ##", "DTC"]
+tags: ["教程", "独立站技术选型", "Shopify", "SEO", "DTC site", "stripe", "PayPal", "FAQ"]
+description: "如何选择跨境独立站 SaaS 服务平台"
 categories: ["code"]
-Description:  如何选择跨境独立站 SaaS 服务平台
+heading: "独立站技术选型（Shopify/）"
+date: "2026-06-10T15:28:11.853Z"
 ---
-
 ## 应该关注什么
 
 1. 直接成本：订阅费、交易手续费、插件费、主题费;

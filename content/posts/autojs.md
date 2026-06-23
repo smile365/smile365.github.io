@@ -1,11 +1,12 @@
 ---
-title:  autojs使用教程手册
-date: 2019-07-08T01:28:44.819Z
-tags: ["autojs输入文字","anto.js 切换应用","	auto.js 运行日志","auto.js布局分析的使用方法"]
+title: "autojs使用教程手册"
+keywords: ["教程", "autojs输入文字", "anto.js 切换应用", "auto.js 运行日志", "auto.js布局分析的使用方法", "autojs", "VS Code", "hyb1996"]
+tags: ["教程", "autojs输入文字", "anto.js 切换应用", "auto.js 运行日志", "auto.js布局分析的使用方法", "autojs", "VS Code", "hyb1996"]
+description: "如何用auto.js控制新浪微博和微信，自动点赞评论。"
 categories: ["code"]
-description:  如何用auto.js控制新浪微博和微信，自动点赞评论。
+heading: "autojs使用教程手册"
+date: "2019-07-08T01:28:44.819Z"
 ---
-
 [auto.js](https://hyb1996.github.io/AutoJs-Docs/#/)是hyb1996在上中山大学期间开发的一款手机辅助软件。
 
 主要版本如下：

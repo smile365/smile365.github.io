@@ -1,11 +1,12 @@
 ---
-title:  Linux常用命令
-date: 2019-05-19T13:28:17.845Z
-tags: ["code","it"]
-categories: ["code"]
-description:
+title: "Linux常用命令"
+keywords: ["阅读", "code", "it", "Linux", "常用命令", "uid", "json", "tr", "grep"]
+tags: ["阅读", "code", "it", "Linux", "常用命令", "uid", "json", "tr"]
+description: "tr 命令 tr命令 可以对来自标准输入的字符进行替换、压缩和删除。它可以将一组字符变成另一组字符。 1. 去除空格"
+categories: ["read"]
+heading: "Linux常用命令"
+date: "2019-05-19T13:28:17.845Z"
 ---
-
 ## tr 命令
 tr命令 可以对来自标准输入的字符进行替换、压缩和删除。它可以将一组字符变成另一组字符。
 1. 去除空格

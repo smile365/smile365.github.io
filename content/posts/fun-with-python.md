@@ -1,14 +1,13 @@
 ---
-title:  学 Python 都用来干嘛的？
-heading: 
-date: 2020-02-14T07:39:08.895Z
+title: "学 Python 都用来干嘛的？"
+keywords: ["生活", "Python", "学 都用来干嘛", "fun", "with"]
+tags: ["生活", "Python", "学 都用来干嘛"]
+description: "学 Python 都用来干嘛的？"
 categories: ["life"]
-draft: true
-tags: 
-description: 
+heading: "学 Python 都用来干嘛的？"
+date: "2020-02-14T07:39:08.895Z"
+draft: "true"
 ---
-
-
 3行代码自动发送邮件?
 
 ```python

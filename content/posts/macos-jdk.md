@@ -1,12 +1,12 @@
 ---
 title: "macos 使用 jenv 管理多个 jdk 版本"
-heading:  
-date: 2022-12-30T06:07:14.246Z
-tags: 
+keywords: ["教程", "使用 管理多个 版本", "jdk", "jenv", "macos", "libexec", "opt", "Contents", "jdk archive"]
+tags: ["教程", "使用 管理多个 版本", "jdk", "jenv", "macos", "libexec", "opt", "Contents"]
+description: "安装 openjdk 11 在 jdk-archive 页面下载 Mac/x64 的 tar.gz 压缩包。"
 categories: ["code"]
-Description:  
+heading: "macos 使用 jenv 管理多个 jdk 版本"
+date: "2022-12-30T06:07:14.246Z"
 ---
-
 ## 安装 openjdk 11
 在 [jdk-archive](https://jdk.java.net/archive/) 页面下载 Mac/x64	的 tar.gz 压缩包。
 ```bash

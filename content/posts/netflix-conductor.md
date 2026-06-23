@@ -1,12 +1,12 @@
 ---
-title:  Conductor
-heading:  Netflix-Conductor 微服务编排引擎使用教程
-date: 2023-01-09T09:16:21.901Z
-tags: 
+title: "Conductor"
+keywords: ["教程", "Redis", "微服务编排引擎", "Conductor", "Netflix Conductor", "DAG", "worker", "Conductor UI", "Conductor ##", "Elasticsearch Conductor Server"]
+tags: ["教程", "Redis", "微服务编排引擎", "Conductor", "Netflix Conductor", "DAG", "worker", "Conductor UI"]
+description: "基于 Netflix Conductor 实现工作流的合并和优先级执行。流整合，异步调度，异步等待"
 categories: ["code"]
-Description:   基于 Netflix Conductor 实现工作流的合并和优先级执行。流整合，异步调度，异步等待
+heading: "Netflix-Conductor 微服务编排引擎使用教程"
+date: "2023-01-09T09:16:21.901Z"
 ---
-
 ## 相关组件
 
 - Elasticsearch

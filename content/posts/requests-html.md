@@ -1,12 +1,12 @@
 ---
-title:  requests-html简单入门教程
-heading: requests-html简单入门教程
-date: 2020-07-29T07:42:43.699Z
+title: "requests-html简单入门教程"
+keywords: ["教程", "pyppeteer", "linux", "简单", "requests html", "requests", "js", "Chromium", "html"]
+tags: ["教程", "pyppeteer", "linux", "简单", "requests html", "requests", "js", "Chromium"]
+description: "requests与requests-html的区别是，前者比较方面处理如何发送请求，后者比较方面如何处理响应的内容（网页内容）"
 categories: ["code"]
-tags: 
-description: 
+heading: "requests-html简单入门教程"
+date: "2020-07-29T07:42:43.699Z"
 ---
-
 requests与requests-html的区别是，前者比较方面处理如何发送请求，后者比较方面如何处理响应的内容（网页内容）
 
 比如选取网页的某些元素，把网页内结构化等等。

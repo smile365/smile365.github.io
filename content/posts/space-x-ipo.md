@@ -1,10 +1,11 @@
 ---
-title: space-x-ipo
-heading:  space x 股价预测
-date: 2026-06-12T13:26:04.966Z
-tags: 
+title: "space-x-ipo"
+keywords: ["生活", "股价预测", "IPO", "SpaceX", "space x", "SpaceX IPO", "SPCX", "space x ipo", "space"]
+tags: ["生活", "股价预测", "IPO", "SpaceX", "space x", "SpaceX IPO", "SPCX", "space x ipo"]
+description: "现在是北京时间晚上 9 点半，恰好是美股开盘时间。很多年没关注股票了，刷手机看到新闻："
 categories: ["life"]
-Description:  
+heading: "space x 股价预测"
+date: "2026-06-12T13:26:04.966Z"
 ---
 ## SpaceX IPO 新闻
 

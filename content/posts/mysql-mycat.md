@@ -1,13 +1,12 @@
 ---
-title: 在docker环境下实用mycat搭建mysql高可用集群
-heading: 
-date: 2020-06-28T09:35:49.503Z
+title: "在docker环境下实用mycat搭建mysql高可用集群"
+keywords: ["教程", "mysql", "docker", "mycat", "keepalived", "push", "stock", "news"]
+tags: ["教程", "mysql", "docker", "mycat", "keepalived", "push", "stock", "news"]
+description: "mysql高可用，在docker环境下实用mycat搭建mysql高可用集群"
 categories: ["code"]
-tags: 
-description:  mysql高可用，在docker环境下实用mycat搭建mysql高可用集群
+heading: "在docker环境下实用mycat搭建mysql高可用集群"
+date: "2020-06-28T09:35:49.503Z"
 ---
-
-
 mysql高可用架构图：
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1593337095908.png)
 

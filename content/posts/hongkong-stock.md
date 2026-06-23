@@ -1,12 +1,12 @@
 ---
-title:  hongkong-stock
-heading: 港股买卖废单机制
-date: 2021-02-04T02:49:43.722Z
-categories: ["other"]
-tags: 
-description: 
+title: "hongkong-stock"
+keywords: ["生活", "港股买卖废单机制", "hongkong stock", "hongkong", "stock"]
+tags: ["生活", "港股买卖废单机制", "hongkong stock"]
+description: "最小变动单位：每个股票的最小变动单位不同，交易时实时显示。"
+categories: ["life"]
+heading: "港股买卖废单机制"
+date: "2021-02-04T02:49:43.722Z"
 ---
-
 最小变动单位：每个股票的最小变动单位不同，交易时实时显示。
 下单价格限制： 
  当前价+24个最小单位  <= 卖出价格 <= 当前价-9个最小单位

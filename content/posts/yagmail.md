@@ -1,12 +1,12 @@
 ---
-title:  yagmail使用教程
-heading: python发送邮件yagmail使用教程
-date: 2020-02-08T02:25:35.614Z
+title: "yagmail使用教程"
+keywords: ["教程", "python", "发送邮件", "yagmail", "SMTP", "ps", "gmail", "qq"]
+tags: ["教程", "python", "发送邮件", "yagmail", "SMTP", "ps", "gmail", "qq"]
+description: "第一步：登录邮箱-->设置-->账户-->开启SMTP服务。"
 categories: ["code"]
-tags: 
-description: 
+heading: "python发送邮件yagmail使用教程"
+date: "2020-02-08T02:25:35.614Z"
 ---
-
 [yagmail](https://github.com/kootenpv/yagmail)是一个python程序，可以方便的发送gmail邮件，因其包装了smtp协议，因此也可以用来发送第三方邮件。以qq邮箱为例：
 
 

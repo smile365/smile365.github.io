@@ -1,13 +1,12 @@
 ---
-title: 我决定起诉小木屋图书的思考过程
-heading: 我决定起诉小木屋图书的思考过程
-date: 2020-11-19T13:50:36.482Z
-categories: ["other"]
-tags: 
-description: 我决定起诉小木屋图书的思考过程，experience-of-renting-books
+title: "我决定起诉小木屋图书的思考过程"
+keywords: ["阅读", "ID", "woodylibrary", "experience", "renting", "books"]
+tags: ["阅读", "ID", "woodylibrary"]
+description: "我决定起诉小木屋图书的思考过程，experience-of-renting-books"
+categories: ["read"]
+heading: "我决定起诉小木屋图书的思考过程"
+date: "2020-11-19T13:50:36.482Z"
 ---
-
-
 2019年11月20日，我在微信上看到一篇《[免费读书100天，还返199元现金](https://mp.weixin.qq.com/s/HokczKiYlAwmm7mELhdJaw)》的文章，此文章由微信公众号名为“小木屋图书”（ID：woodylibrary）的公众号发出。
 
 

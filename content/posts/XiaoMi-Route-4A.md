@@ -1,12 +1,12 @@
 ---
-title:  XiaoMi-Route-4A
-heading: 
-date: 2022-10-08T09:32:10.680Z
-categories: ["code"]
-tags: 
-description: 小米路由器 4A 刷机 OpenWRT，Mi Router 4A (MIR4A)
+title: "XiaoMi-Route-4A"
+keywords: ["阅读", "XiaoMi Route 4A", "tools", "local file server", "root", "mac", "R4A", "MiWiFi", "XiaoMi", "Route"]
+tags: ["阅读", "XiaoMi Route 4A", "tools", "local file server", "root", "mac", "R4A", "MiWiFi"]
+description: "小米路由器 4A 刷机 OpenWRT，Mi Router 4A (MIR4A)"
+categories: ["read"]
+heading: "XiaoMi-Route-4A"
+date: "2022-10-08T09:32:10.680Z"
 ---
-
 ## 准备
 mac 系统下对小米路由器 4a 刷机。
 

@@ -1,12 +1,12 @@
 ---
-title: install-android-studio-on-mac 
-heading: 2022年 mac 安装 Android Studio
-date: 2022-01-11T12:08:36.108Z
-categories: ["other"]
-tags: 
-description: 
+title: "install-android-studio-on-mac"
+keywords: ["教程", "Android Studio", "install android studio", "on mac", "mac", "java sdk gradle", "gradle", "brew", "install", "android"]
+tags: ["教程", "Android Studio", "install android studio", "on mac", "mac", "java sdk gradle", "gradle", "brew"]
+description: "所需工具 - java sdk - gradle - android studio"
+categories: ["code"]
+heading: "2022年 mac 安装 Android Studio"
+date: "2022-01-11T12:08:36.108Z"
 ---
-
 所需工具
 - java sdk
 - gradle

@@ -1,12 +1,13 @@
 ---
-title:  总是觉得迷茫，很丧，要么办？
-date: 2019-11-13T11:43:29.609Z
-tags: ["自信"]
+title: "总是觉得迷茫，很丧，要么办？"
+keywords: ["生活", "自信", "总是觉得迷茫", "很丧", "要么办", "xxx", "confidence"]
+tags: ["生活", "自信", "总是觉得迷茫", "很丧", "要么办", "xxx"]
+description: "培养自己的自信，真的非常非常重要。"
 categories: ["life"]
-draft: true
-description:
+heading: "总是觉得迷茫，很丧，要么办？"
+date: "2019-11-13T11:43:29.609Z"
+draft: "true"
 ---
-
 你有没有遇到这种情况
 
 xxx

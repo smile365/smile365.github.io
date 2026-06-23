@@ -1,12 +1,12 @@
 ---
-title: hermes-agent
-heading:  
-date: 2026-06-04T11:59:28.418Z
-tags: 
+title: "hermes-agent"
+keywords: ["教程", "hermes agent", "ghostty", "hermes", "Voice", "Images", "Files", "Threads", "hermes agent ##", "agent"]
+tags: ["教程", "hermes agent", "ghostty", "hermes", "Voice", "Images", "Files", "Threads"]
+description: "试用一下 hermes-agent，文档会持续更新。"
 categories: ["code"]
-Description:  
+heading: "hermes-agent"
+date: "2026-06-04T11:59:28.418Z"
 ---
-
 ## 前言
 
 试用一下 hermes-agent，文档会持续更新。

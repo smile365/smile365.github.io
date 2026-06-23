@@ -1,13 +1,13 @@
 ---
-title:  seo实战日记 - 第一条
-heading:
-date: 2019-11-14T11:32:05.953Z
-draft: true
+title: "seo实战日记 - 第一条"
+keywords: ["教程", "nginx", "实战日记", "第一条", "seo", "day1", "day2", "day3"]
+tags: ["教程", "nginx", "实战日记", "第一条", "seo", "day1", "day2", "day3"]
+description: "这里是seo的实战日记。主要是记录对sxy91.com网站的优化过程。"
 categories: ["code"]
-tags: 
-description: 
+heading: "seo实战日记 - 第一条"
+date: "2019-11-14T11:32:05.953Z"
+draft: "true"
 ---
-
 这里是seo的实战日记。主要是记录对sxy91.com网站的优化过程。
 
 - day1:购买服务器

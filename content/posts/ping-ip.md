@@ -1,14 +1,12 @@
 ---
-title:  Linux命令之多线程ping一个ip段
-heading: Linux命令一次性批量多线程ping一个ip段所有ip
-date: 2021-01-12T08:29:28.741Z
+title: "Linux命令之多线程ping一个ip段"
+keywords: ["教程", "echo", "port", "network", "scan", "interfaces", "ping", "choice", "Linux", "vi ip"]
+tags: ["教程", "echo", "port", "network", "scan", "interfaces", "ping", "choice"]
+description: "linux 一次性批量多线程ping一个ip段所有ip,ping-ip"
 categories: ["code"]
-tags: 
-description: linux 一次性批量多线程ping一个ip段所有ip,ping-ip
+heading: "Linux命令一次性批量多线程ping一个ip段所有ip"
+date: "2021-01-12T08:29:28.741Z"
 ---
-
-
-
 vi ip_ping.sh
 ```bash
 #!/bin/bash

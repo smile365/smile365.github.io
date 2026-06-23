@@ -1,13 +1,12 @@
 ---
-title:  "conductor DAG 的完整支持改造(7)-fork&join"
-heading:  
-date: 2023-03-17T08:13:23.993Z
+title: "conductor DAG 的完整支持改造(7)-fork&join"
+keywords: ["教程", "完整支持改造", "join", "fork", "name", "notification", "sms", "conductor DAG", "join ## conductor", "fork and join"]
+tags: ["教程", "完整支持改造", "join", "fork", "name", "notification", "sms", "conductor DAG"]
+description: "conductor Fork and join"
 categories: ["code"]
-tags: 
-description:  conductor Fork and join
+heading: "conductor DAG 的完整支持改造(7)-fork&join"
+date: "2023-03-17T08:13:23.993Z"
 ---
-
-
 ## conductor 支持 fork and join 工作流
 
 假设执行问 sms 通知后，并行执行 email 通知和 http 通知

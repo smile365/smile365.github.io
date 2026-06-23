@@ -1,11 +1,12 @@
 ---
-title:  golang简明入门教程
-date: 2019-07-26T05:45:19.158Z
-tags: 
+title: "golang简明入门教程"
+keywords: ["教程", "centos", "golang", "mac", "test", "go mod", "brew", "mod"]
+tags: ["教程", "centos", "golang", "mac", "test", "go mod", "brew", "mod"]
+description: "在test目录下新建文件hello.go"
 categories: ["code"]
-description: 
+heading: "golang简明入门教程"
+date: "2019-07-26T05:45:19.158Z"
 ---
-
 centos
 
 

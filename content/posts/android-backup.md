@@ -1,12 +1,12 @@
 ---
-title:  android-backup
-heading: 
-date: 2022-03-07T08:35:34.397Z
-categories: ["other"]
-tags: 
-description: 
+title: "android-backup"
+keywords: ["教程", "android", "data", "u0", "app", "android backup", "allowBackup", "packge", "android backup ##", "adb"]
+tags: ["教程", "android", "data", "u0", "app", "android backup", "allowBackup", "packge"]
+description: "默认情况下安卓可以通过 adb backup 命令备份应用的数据。"
+categories: ["code"]
+heading: "android-backup"
+date: "2022-03-07T08:35:34.397Z"
 ---
-
 ## 使用 adb 命令备份手机数据
 
 默认情况下安卓可以通过 `adb backup ` 命令[备份应用的数据](https://blog.csdn.net/qq_41730930/article/details/88074992)。

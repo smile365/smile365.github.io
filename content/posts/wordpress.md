@@ -1,12 +1,12 @@
 ---
-title: wordpress
-heading:  在 debian 12 系统上安装 WordPress 7
-date: 2026-06-15T06:38:08.050Z
-tags: 
+title: "wordpress"
+keywords: ["教程", "在 系统上安装", "WordPress", "WooCommerce", "debian 12", "AI", "opencode", "Woo", "wordpress ##", "All in One"]
+tags: ["教程", "在 系统上安装", "WordPress", "WooCommerce", "debian 12", "AI", "opencode", "Woo"]
+description: "基于 WordPress 7.0+woocommerce+Flatsome 搭建电商独立站，使用 API 管理商品。"
 categories: ["code"]
-Description:  基于 WordPress 7.0+woocommerce+Flatsome 搭建电商独立站，使用 API 管理商品。安装 WPML 实现多语言和多货币，以及 RanK Math SEO。
+heading: "在 debian 12 系统上安装 WordPress 7"
+date: "2026-06-15T06:38:08.050Z"
 ---
-
 ## 说明
 
 想在测试环境 debian 12 安装一套 [WordPress](https://wordpress.org/download/) 环境，用于搭建 WooCommerce 独立站进行测试。

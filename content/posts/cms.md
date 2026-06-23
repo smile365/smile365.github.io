@@ -1,14 +1,12 @@
 ---
-title:  cms系统
-heading: 2020年值得使用的开源cms博客系统推荐
-date: 2020-07-09T02:27:33.776Z
+title: "cms系统"
+keywords: ["教程", "cms系统", "blog系统", "内容管理系统", "mysql", "系统", "typecho", "cms", "solo", "java"]
+tags: ["教程", "cms系统", "blog系统", "内容管理系统", "mysql", "系统", "typecho", "cms"]
+description: "有没有比较好用且开源的个人博客系统"
 categories: ["code"]
-tags: ["cms系统","blog系统","内容管理系统"]
-description: 有没有比较好用且开源的个人博客系统
+heading: "2020年值得使用的开源cms博客系统推荐"
+date: "2020-07-09T02:27:33.776Z"
 ---
-
-
-
 | 名称    |   开发语言  | 推荐等级    |  使用数据库   |
 | --- | --- | --- | --- |
 |  [solo](https://github.com/88250/solo)   |  java   |   5🌟  | mysql    |

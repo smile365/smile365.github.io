@@ -1,12 +1,12 @@
 ---
-title:  holocubic
-heading: 
-date: 2022-03-04T14:12:35.613Z
-categories: ["other"]
-tags: 
-description: 
+title: "holocubic"
+keywords: ["教程", "Altium Designer", "holocubic", "git", "VSCode", "Fusion 360", "pcb", "ZT Y2", "holocubic HoloCubic"]
+tags: ["教程", "Altium Designer", "holocubic", "git", "VSCode", "Fusion 360", "pcb", "ZT Y2"]
+description: "软件介绍 - **git**, 下载代码 - **Altium Designer**，设计电路板的软件 - **VSCode**，打开代码 - **Fusion 360**，"
+categories: ["code"]
+heading: "holocubic"
+date: "2022-03-04T14:12:35.613Z"
 ---
-
 [HoloCubic](https://github.com/peng-zhihui/HoloCubic)项目介绍
 
 软件介绍

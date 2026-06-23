@@ -1,10 +1,11 @@
 ---
 title: "chatgpt 国内注册使用记录"
-heading:  
-date: 2023-03-15T08:41:25.425Z
+keywords: ["教程", "国内注册使用记录", "chatgpt", "SwitchyOmega", "Bing ChatGPT", "gpt 4", "chatgpt ChatGPT"]
+tags: ["教程", "国内注册使用记录", "chatgpt", "SwitchyOmega", "Bing ChatGPT", "gpt 4", "chatgpt ChatGPT"]
+description: "准备 1. 梯子（全局） 2. 美国手机号（sms-activate."
 categories: ["code"]
-tags: 
-description:  
+heading: "chatgpt 国内注册使用记录"
+date: "2023-03-15T08:41:25.425Z"
 ---
 准备
 1. 梯子（全局）

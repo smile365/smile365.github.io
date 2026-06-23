@@ -1,13 +1,13 @@
 ---
-title:  zsh
-heading:  
-date: 2023-04-25
-tags: 
+title: "zsh"
+keywords: ["教程", "zsh", "oh my zsh", "Shell"]
+tags: ["教程", "zsh", "oh my zsh", "Shell"]
+description: "参考文档 - 终极 Shell——ZSH"
 categories: ["code"]
-draft: true
-Description:  
+heading: "zsh"
+date: "2023-04-25"
+draft: "true"
 ---
-
 前言
 
 安装 zsh

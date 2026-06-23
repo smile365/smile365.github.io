@@ -1,12 +1,12 @@
 ---
-title:  apioak安装使用教程
-heading:
-date: 2020-04-10T06:36:10.884Z
+title: "apioak安装使用教程"
+keywords: ["教程", "apioak", "centos 7", "OpenResty", "MariaDB", "aoioak"]
+tags: ["教程", "apioak", "centos 7", "OpenResty", "MariaDB", "aoioak"]
+description: "centos 7 安装apioak"
 categories: ["code"]
-tags: 
-description: 
+heading: "apioak安装使用教程"
+date: "2020-04-10T06:36:10.884Z"
 ---
-
 centos 7 安装[apioak](https://gitee.com/apioak/apioak)
 
 安装 OpenResty 和其他必需的依赖项

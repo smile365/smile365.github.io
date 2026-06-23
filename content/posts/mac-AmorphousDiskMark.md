@@ -1,9 +1,12 @@
 ---
 title: "mac 电脑下硬盘 u 盘测速软件 AmorphousDiskMark"
-date: 2022-11-23
+keywords: ["阅读", "MB", "mac", "AmorphousDiskMark", "T HDD", "G TF", "APFS", "mac air", "AmorphousDiskMark ##"]
+tags: ["阅读", "MB", "mac", "AmorphousDiskMark", "T HDD", "G TF", "APFS", "mac air"]
+description: "Mac下的测速软件AmorphousDiskMark初试"
+categories: ["read"]
+heading: "mac 电脑下硬盘 u 盘测速软件 AmorphousDiskMark"
+date: "2022-11-23"
 series: ["blog"]
-categories: ["code"]
-Description:  Mac下的测速软件AmorphousDiskMark初试
 ---
 ## 参考文档
 - [SD 卡速度等级](https://www.kingston.com.cn/cn/blog/personal-storage/memory-card-speed-classes)

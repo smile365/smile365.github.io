@@ -1,13 +1,12 @@
 ---
-title:  2020如何检测好友是否删除我的5种方法
-heading: 
-date: 2020-05-31T12:30:24.450Z
+title: "2020如何检测好友是否删除我的5种方法"
+keywords: ["生活", "WeTool", "bug", "ta", "ipad", "ways", "delete", "friend"]
+tags: ["生活", "WeTool", "bug", "ta", "ipad"]
+description: "已经失效的方法 - 发送隐藏的代码 - WeTool"
 categories: ["life"]
-tags: 
-description: 
+heading: "2020如何检测好友是否删除我的5种方法"
+date: "2020-05-31T12:30:24.450Z"
 ---
-
-
 #### 已经失效的方法
 - 发送隐藏的代码
 - [WeTool](https://sxy91.com/posts/wxtool/)

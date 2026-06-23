@@ -1,12 +1,12 @@
 ---
-title: 申请免费https证书并自动更新 
-heading: 申请免费的ssl证书让域名支持https访问并自动更新证书教程方法
-tags: ["ssl证书","ssl证书申请","ssl免费证书申请","ssl证书教程","https教程"]
-date: 2018-01-30
+title: "申请免费https证书并自动更新"
+keywords: ["教程", "ssl证书", "ssl证书申请", "ssl免费证书申请", "ssl证书教程", "https教程", "nginx", "ssl", "Let", "s Encrypt"]
+tags: ["教程", "ssl证书", "ssl证书申请", "ssl免费证书申请", "ssl证书教程", "https教程", "nginx", "ssl"]
+description: "域名申请ssl证书，申请免费ssl证书后怎么验证域名ssl证书，"
 categories: ["code"]
-description:  域名申请ssl证书，申请免费ssl证书后怎么验证域名ssl证书，
+heading: "申请免费的ssl证书让域名支持https访问并自动更新证书教程方法"
+date: "2018-01-30"
 ---
-
 ## 说明
 想给我的域名 sxy91.com 加 https 实现域名由 http 升级为 https,找了一圈发现一个免费的 ssl 证书颁发机构 Let's Encrypt。
 

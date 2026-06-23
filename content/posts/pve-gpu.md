@@ -1,13 +1,13 @@
 ---
-title: pve-gpu
-heading:  pve 显卡直通
-date: 2023-04-14T09:26:22.517Z
+title: "pve-gpu"
+keywords: ["教程", "显卡直通", "pve gpu", "pve", "CPU INTEL E5", "v4", "X99 F8", "C2000PRO 2TB SSD", "pve gpu ##", "gpu"]
+tags: ["教程", "显卡直通", "pve gpu", "pve", "CPU INTEL E5", "v4", "X99 F8", "C2000PRO 2TB SSD"]
+description: "硬件环境： - CPU INTEL E5-2696v4 - 主板 华南 X99-F8 - 固态硬盘 海康威视C2000PRO 2TB SSD M.2 - 机械硬盘 希捷 16T."
 categories: ["code"]
-draft: true
-tags: 
-description:  
+heading: "pve 显卡直通"
+date: "2023-04-14T09:26:22.517Z"
+draft: "true"
 ---
-
 ## 前言
 
 

@@ -1,11 +1,12 @@
 ---
-title:  redis安装
-date: 2019-04-12T01:50:53.440Z
-tags: ["redis"]
+title: "redis安装"
+keywords: ["教程", "redis", "AOF", "install redis from", "REMI", "vim", "etc", "redis cli config"]
+tags: ["教程", "redis", "AOF", "install redis from", "REMI", "vim", "etc", "redis cli config"]
+description: "安装最新版redis请参考install-redis-from-REMI"
 categories: ["code"]
-description:
+heading: "redis安装"
+date: "2019-04-12T01:50:53.440Z"
 ---
-
 安装最新版redis请参考[install-redis-from-REMI](https://computingforgeeks.com/how-to-install-latest-redis-on-centos-7/)
 
 ```bash

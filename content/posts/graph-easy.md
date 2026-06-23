@@ -1,13 +1,12 @@
 ---
-title:  用text纯文本字符画流程图 
-heading:  用纯文本ASCII字符把流程图画到txt里|Graph-Easy教程
-date: 2020-08-20T06:39:14.076Z
+title: "用text纯文本字符画流程图"
+keywords: ["教程", "graph-easy", "text流程图", "用纯文本画流程图", "python", "txt", "Graph", "Easy", "text", "makdown"]
+tags: ["教程", "graph-easy", "text流程图", "用纯文本画流程图", "python", "txt", "Graph", "Easy"]
+description: "graph-easy即Graph::Easy，一款用ascii纯文本画流程图和关系图的工具。"
 categories: ["code"]
-tags: ["graph-easy","text流程图","用纯文本画流程图"]
-description: graph-easy即Graph::Easy，一款用ascii纯文本画流程图和关系图的工具。
+heading: "用纯文本ASCII字符把流程图画到txt里|Graph-Easy教程"
+date: "2020-08-20T06:39:14.076Z"
 ---
-
-
 无意中在一个python库中发现如下文本信息
 
 ![ascii流程图](https://gitee.com/smile365/blogimg/raw/master/sxy91/1597890929660.png)

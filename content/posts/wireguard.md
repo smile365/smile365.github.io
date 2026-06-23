@@ -1,10 +1,11 @@
 ---
-title:  wireguard
-heading: 
-date: 2021-12-16T02:20:30.706Z
-categories: ["other"]
-tags: 
-description: wireguard 内网穿透
+title: "wireguard"
+keywords: ["教程", "wireguard", "alpine", "etc", "ipv4", "iptables", "vim", "WireGuard alpine", "wireguard ##", "debian"]
+tags: ["教程", "wireguard", "alpine", "etc", "ipv4", "iptables", "vim", "WireGuard alpine"]
+description: "wireguard 内网穿透"
+categories: ["code"]
+heading: "wireguard"
+date: "2021-12-16T02:20:30.706Z"
 ---
 ## 网络拓扑结构
 ![enter description here](https://cdn.sxy21.cn/static/imgs/1675260160422.png)

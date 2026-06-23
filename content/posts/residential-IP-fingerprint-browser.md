@@ -1,12 +1,12 @@
 ---
-title: residential-IP-fingerprint-browser
-heading:  住宅 ip和指纹浏览器
-date: 2026-05-24T03:13:11.331Z
-tags: 
+title: "residential-IP-fingerprint-browser"
+keywords: ["生活", "proxy", "住宅", "指纹浏览器", "lokiproxy", "browser", "talordata", "iproyal", "residential IP fingerprint", "browser ##"]
+tags: ["生活", "proxy", "住宅", "指纹浏览器", "lokiproxy", "browser", "talordata", "iproyal"]
+description: "| 服务商 | 价格 | 说明 | | --------------------------------------------------------------------."
 categories: ["life"]
-Description:  
+heading: "住宅 ip和指纹浏览器"
+date: "2026-05-24T03:13:11.331Z"
 ---
-
 ## 静态住宅 ip
 
 | 服务商                                                                                | 价格                                                 | 说明 |

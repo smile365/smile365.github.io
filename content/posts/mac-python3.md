@@ -1,12 +1,12 @@
 ---
-title:  mac-python3
-heading:  在 macOS 上管理多个 python 环境
-date: 2026-03-16T12:50:14.806Z
-tags: 
-categories: ["other"]
-Description:  
+title: "mac-python3"
+keywords: ["教程", "Python", "在 上管理多个 环境", "pyenv", "macOS", "asdf", "Anaconda", "Miniconda", "mac python3 ##", "mac"]
+tags: ["教程", "Python", "在 上管理多个 环境", "pyenv", "macOS", "asdf", "Anaconda", "Miniconda"]
+description: "在 **macOS 上管理多个 Python 版本**，常见有 4 种工具。"
+categories: ["code"]
+heading: "在 macOS 上管理多个 python 环境"
+date: "2026-03-16T12:50:14.806Z"
 ---
-
 ## 总览
 
 在 **macOS 上管理多个 Python 版本**，常见有 4 种工具。

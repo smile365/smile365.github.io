@@ -1,12 +1,12 @@
 ---
-title:  clickhouse教程
-heading:  clickhouse入门教程手册
-date: 2020-03-12T03:06:50.536Z
+title: "clickhouse教程"
+keywords: ["教程", "clickhouse教程", "clickhouse场景", "clickhouse安装", "ClickHouse", "Could not resolve", "host", "etc", "Yandex", "OLAP"]
+tags: ["教程", "clickhouse教程", "clickhouse场景", "clickhouse安装", "ClickHouse", "Could not resolve", "host", "etc"]
+description: "ClickHouse快速上手极简教程系列，安装clickhouse与性能测试介绍"
 categories: ["code"]
-tags: ["clickhouse教程","clickhouse场景","clickhouse安装"]
-description: ClickHouse快速上手极简教程系列，安装clickhouse与性能测试介绍
+heading: "clickhouse入门教程手册"
+date: "2020-03-12T03:06:50.536Z"
 ---
-
 ClickHouse 是一个开源列式数据库，由俄罗斯排名第一的搜索引擎公司 Yandex 开发，主要用于线上分析处理（OLAP）。该系统允许分析实时更新的数据，以高性能著称。ClickHouse 官网地址：[clickhouse.tech](https://clickhouse.tech)
 
 ClickHouse 的主键不具有唯一性，其使用场景比较适合在并发低，需要实时分析大规模数据的业务场景中。

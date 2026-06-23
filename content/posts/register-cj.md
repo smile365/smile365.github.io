@@ -1,13 +1,13 @@
 ---
-title:  register-cj
-heading: 
-date: 2019-12-25T03:17:15.104Z
-categories: ["other"]
-draft: true
-tags: 
-description: 
+title: "register-cj"
+keywords: ["阅读", "JavaScript", "python", "register cj", "css", "java", "go", "app", "register"]
+tags: ["阅读", "JavaScript", "python", "register cj", "css", "java", "go", "app"]
+description: "我写在问答网站zhihu.com的文章有50万的阅读者，我将会把这部分读者引导到我的个人网站sxy91.com。"
+categories: ["read"]
+heading: "register-cj"
+date: "2019-12-25T03:17:15.104Z"
+draft: "true"
 ---
-
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1577243969374.png)
 
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1577250966799.png)

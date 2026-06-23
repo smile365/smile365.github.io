@@ -1,13 +1,13 @@
 ---
-title:  走出校门的第一件事应该做什么
-heading: 
-date: 2020-01-07T04:49:41.859Z
+title: "走出校门的第一件事应该做什么"
+keywords: ["生活", "how", "work"]
+tags: ["生活"]
+description: "生活在这个国家，结果你连这个国家的规则都不清楚。"
 categories: ["life"]
-draft: true
-tags: 
-description: 
+heading: "走出校门的第一件事应该做什么"
+date: "2020-01-07T04:49:41.859Z"
+draft: "true"
 ---
-
 走出校门的第一件事应该做什么
 
 生活在这个国家，结果你连这个国家的规则都不清楚。

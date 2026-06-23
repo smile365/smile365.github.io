@@ -1,12 +1,12 @@
 ---
-title:  mongodb-aggregate
-heading:
-date: 2021-01-21T07:51:12.260Z
-categories: ["other"]
-tags: 
-description: 
+title: "mongodb-aggregate"
+keywords: ["教程", "mongodb aggregate", "mongodb", "aggregate"]
+tags: ["教程", "mongodb aggregate"]
+description: "有一份数据记录了每个人对 6 种宠物的喜欢程度，如下图"
+categories: ["code"]
+heading: "mongodb-aggregate"
+date: "2021-01-21T07:51:12.260Z"
 ---
-
 有一份数据记录了每个人对 6 种宠物的喜欢程度，如下图
 
 数组依次表示猫、狗、鼠、兔、鱼、鸟的喜欢程度，-1 表示不喜欢，0 表示都可以，1 表示喜欢。

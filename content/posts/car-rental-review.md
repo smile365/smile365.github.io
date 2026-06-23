@@ -1,13 +1,12 @@
 ---
-title:  car-rental-review
-heading: 租车公司评测。哪家租车体验更好。
-date: 2021-09-15T02:17:19.837Z
-categories: ["other"]
-tags: 
-description:  car rental company
+title: "car-rental-review"
+keywords: ["生活", "租车公司评测", "哪家租车体验更好", "XL", "car rental review", "images", "car", "rental", "review"]
+tags: ["生活", "租车公司评测", "哪家租车体验更好", "XL", "car rental review", "images"]
+description: "car rental company"
+categories: ["life"]
+heading: "租车公司评测。哪家租车体验更好。"
+date: "2021-09-15T02:17:19.837Z"
 ---
-
-
 ## 前言
 
 经常在北京、成都、昆明等地奔波，居无定所，但有时候出门或短途旅游，没有车也不方便。养个车成本挺高的，一年也开不了几次，还好现在租车很方便，所以我有需要的时候几乎都租车出行。但租车市场也是鱼龙混杂，充斥着一些下三滥的租车公司。在此做个记录，主要记录体验不好的租车经历，分享给同样有租车需求的小伙伴，尽可能避免糟糕的租车体验。

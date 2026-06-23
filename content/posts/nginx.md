@@ -1,10 +1,11 @@
 ---
-title:  centos7安装nginx教程
-heading:
-date: 2020-04-10T03:22:22.943Z
+title: "centos7安装nginx教程"
+keywords: ["教程", "nginx", "proxy", "centos7", "nginx nginx", "vi", "etc", "nginx stream"]
+tags: ["教程", "nginx", "proxy", "centos7", "nginx nginx", "vi", "etc", "nginx stream"]
+description: "参考官方文档在centos 7 安装 nginx"
 categories: ["code"]
-tags: 
-description: 
+heading: "centos7安装nginx教程"
+date: "2020-04-10T03:22:22.943Z"
 ---
 ## 安装 nginx
 

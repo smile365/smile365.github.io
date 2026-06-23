@@ -1,12 +1,12 @@
 ---
-title:  为网页增加微信登录功能
-heading:
-date: 2019-12-10T02:47:27.052Z
+title: "为网页增加微信登录功能"
+keywords: ["教程", "token", "uuid", "ua", "url", "ddos", "login", "via", "wechat"]
+tags: ["教程", "token", "uuid", "ua", "url", "ddos"]
+description: "用户点击留言按钮(也可以是注册/登录等) 2. 服务器记录：uuid/ip/时间/ua/上次验证时间/验证次数/发起页面url。"
 categories: ["code"]
-tags: 
-description: 
+heading: "为网页增加微信登录功能"
+date: "2019-12-10T02:47:27.052Z"
 ---
-
 简略图如下
 
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1575965856996.png)

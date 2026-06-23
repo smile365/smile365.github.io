@@ -1,13 +1,13 @@
 ---
-title:  fund-day2
-heading:
-date: 2021-01-18T11:11:47.761Z
+title: "fund-day2"
+keywords: ["生活", "fund day2", "Qiong", "Ren", "FOF", "QDII", "fund", "day2"]
+tags: ["生活", "fund day2", "Qiong", "Ren", "FOF", "QDII"]
+description: "公募：能在网上买到的基金。 私募：只能去基金公司当面交易的基金。"
 categories: ["life"]
-tags: 
-draft: true
-description: 
+heading: "fund-day2"
+date: "2021-01-18T11:11:47.761Z"
+draft: "true"
 ---
-
 为什么买基金比买股票收益率更高
 
 公募：能在网上买到的基金。

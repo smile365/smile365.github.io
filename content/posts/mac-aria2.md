@@ -1,13 +1,14 @@
 ---
-title:  使用aria2高速下载磁力链接的文件
-date: 2019-02-20T08:52:44.075Z
-tags: ["code","it"]
-series: ["blog"]
+title: "使用aria2高速下载磁力链接的文件"
+keywords: ["教程", "code", "it", "aria2", "Mac aria2", "aria2 cookies", "cookies", "Mac aria2 aria2", "rpc user", "user"]
+tags: ["教程", "code", "it", "aria2", "Mac aria2", "aria2 cookies", "cookies", "Mac aria2 aria2"]
+description: "编辑配置文件aria2.conf内容如下："
 categories: ["code"]
-draft: true
-description:
+heading: "使用aria2高速下载磁力链接的文件"
+date: "2019-02-20T08:52:44.075Z"
+draft: "true"
+series: ["blog"]
 ---
-
 安装
 ```bash
 brew install aria2

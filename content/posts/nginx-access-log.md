@@ -1,12 +1,12 @@
 ---
-title:  nginx推荐日志配置
-heading: nginx推荐日志配置
-date: 2020-07-15T06:40:09.393Z
+title: "nginx推荐日志配置"
+keywords: ["教程", "nginx", "推荐日志配置", "request", "time", "bytes", "sent", "connection", "log", "format"]
+tags: ["教程", "nginx", "推荐日志配置", "request", "time", "bytes", "sent", "connection"]
+description: "nginx-access-log"
 categories: ["code"]
-tags: 
-description: nginx-access-log
+heading: "nginx推荐日志配置"
+date: "2020-07-15T06:40:09.393Z"
 ---
-
 默认的日志格式
 ```nginx
     log_format  main  '$remote_addr - $remote_user [$time_local] "$request" '

@@ -1,13 +1,12 @@
 ---
-title: Bone conduction headphones
-heading: 骨传导耳机值得买吗
-date: 2021-10-11T05:42:54.864Z
-categories: ["other"]
-tags: 
-description: Bone conduction headphones
+title: "Bone conduction headphones"
+keywords: ["阅读", "骨传导耳机值得买", "type c", "Runner CC II", "mir usb", "Bone conduction headphones", "bone", "conduction", "headphones"]
+tags: ["阅读", "骨传导耳机值得买", "type c", "Runner CC II", "mir usb"]
+description: "自从知乎好物功能上线以来，知乎里对硬件产品的评测文章越来越少了。"
+categories: ["read"]
+heading: "骨传导耳机值得买吗"
+date: "2021-10-11T05:42:54.864Z"
 ---
-
-
 自从知乎好物功能上线以来，知乎里对硬件产品的评测文章越来越少了。
 大多数人产品没亲自用过，只想通过知乎好物的推荐功能赚钱，清一色的都是按价格从高到低列出一堆产品，写文章的人估计一款没用过，这跟自己去按照销量、价位筛选出来的清单没啥区别。
 

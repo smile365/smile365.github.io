@@ -1,14 +1,13 @@
 ---
-title:  grafana
-date: 2019-09-02T08:39:36.785Z
-tags: 
-categories:
-draft: true
-description: 
+title: "grafana"
+keywords: ["教程", "nginx", "grafana", "vim", "etc", "root", "url", "grafana docs"]
+tags: ["教程", "nginx", "grafana", "vim", "etc", "root", "url", "grafana docs"]
+description: "编辑配置文件：vim /etc/grafana/grafana.ini,配置反向代理和邮件报警服务。"
+categories: ["code"]
+heading: "grafana"
+date: "2019-09-02T08:39:36.785Z"
+draft: "true"
 ---
-
-
-
 ```bash
 yum install grafana
 systemctl start grafana-server

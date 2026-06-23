@@ -1,12 +1,12 @@
 ---
-title:  2020年cloudflare配置使用cdn教程
-heading: 2020年cloudflare配置使用教程
-date: 2020-07-12T14:05:27.212Z
+title: "2020年cloudflare配置使用cdn教程"
+keywords: ["教程", "cloudflare教程", "配置使用", "SSL", "cloudflare", "Full", "cdn", "sign up", "English"]
+tags: ["教程", "cloudflare教程", "配置使用", "SSL", "cloudflare", "Full", "cdn", "sign up"]
+description: "使用cloudflare配置免费的cdn加速自己的网站"
 categories: ["code"]
-tags: ["cloudflare教程"]
-description: 使用cloudflare配置免费的cdn加速自己的网站
+heading: "2020年cloudflare配置使用教程"
+date: "2020-07-12T14:05:27.212Z"
 ---
-
 打开主页点击sign up
 
 当然也可以点击右上角的English改成简体中文

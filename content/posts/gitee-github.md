@@ -1,12 +1,12 @@
 ---
-title:  实现gitee作为主仓库，github作为从仓库。
-heading: gitee作为主仓库，github作为从仓库，双库同步更新。
-date: 2020-06-16T12:09:09.298Z
+title: "实现gitee作为主仓库，github作为从仓库。"
+keywords: ["教程", "github", "实现 作为主仓库", "作为从仓库", "作为主仓库", "双库同步更新", "dsxsapp", "push"]
+tags: ["教程", "github", "实现 作为主仓库", "作为从仓库", "作为主仓库", "双库同步更新", "dsxsapp", "push"]
+description: "gitee和github两个仓库同步更新"
 categories: ["code"]
-tags: 
-description: gitee和github两个仓库同步更新
+heading: "gitee作为主仓库，github作为从仓库，双库同步更新。"
+date: "2020-06-16T12:09:09.298Z"
 ---
-
 为了保持github和gitee两个仓库的同步更新，可以做如下操作。
 
 一般来说我们需要从gitee拉取，因为速度快，但同时需要同步到github。此时可以配置两个远程仓库，只从gitee拉取，同时推送到gitee和github。

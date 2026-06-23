@@ -1,15 +1,12 @@
 ---
-title:  debian-11-vanus
-heading:
-date: 2022-10-27T07:58:30.901Z
+title: "debian-11-vanus"
+keywords: ["教程", "ssh", "debian 11 vanus", "debian", "pve", "ct", "debian 11", "dhcp", "vanus"]
+tags: ["教程", "ssh", "debian 11 vanus", "debian", "pve", "ct", "debian 11", "dhcp"]
+description: "环境准备 **准备 debian 系统** 1. 使用 pve 的 ct 模板安装一个 debian 11 系统 2. 安装是网络选择 dhcp 3. 开通 root 的 ss."
 categories: ["code"]
-tags: 
-description: 
+heading: "debian-11-vanus"
+date: "2022-10-27T07:58:30.901Z"
 ---
-
-
-
-
 ## 环境准备
 **准备 debian 系统**
 1. 使用 pve 的 ct 模板安装一个 debian 11 系统

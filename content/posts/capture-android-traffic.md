@@ -1,12 +1,12 @@
 ---
-title: 2021年如何对安卓app抓包教程
-heading: 
-date: 2021-03-02T02:06:59.414Z
+title: "2021年如何对安卓app抓包教程"
+keywords: ["教程", "对安卓 抓包", "app", "root", "Charles", "VirtualXposed", "APK", "pem", "Android app", "Charles wireshark Fiddler"]
+tags: ["教程", "对安卓 抓包", "app", "root", "Charles", "VirtualXposed", "APK", "pem"]
+description: "对 Android app 抓包，主要解决 APP 验证 https 整书问题。"
 categories: ["code"]
-tags: 
-description: 'android https capture,Intercept HTTPS Traffic from Android App,Capture and decrypt HTTPS traffic from any android app,How to: Capture Android Traffic with Fiddler - Telerik,capture-android-traffic，Android 抓包 2021  '
+heading: "2021年如何对安卓app抓包教程"
+date: "2021-03-02T02:06:59.414Z"
 ---
-
 ## 前言
 
 对 Android app 抓包，主要解决 APP 验证 https 整书问题。

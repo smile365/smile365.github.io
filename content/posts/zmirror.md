@@ -1,12 +1,12 @@
 ---
-title:  使用zmirror实现Twitter的全站镜像
-heading: 使用zmirror实现Twitter的全站镜像
-date: 2020-06-29T01:34:31.411Z
+title: "使用zmirror实现Twitter的全站镜像"
+keywords: ["教程", "nginx", "centos", "zmirror", "Twitter", "ssl", "Python3"]
+tags: ["教程", "nginx", "centos", "zmirror", "Twitter", "ssl", "Python3"]
+description: "自己搭建谷歌或者twitter镜像站的方法教程"
 categories: ["code"]
-tags: 
-description: 自己搭建谷歌或者twitter镜像站的方法教程
+heading: "使用zmirror实现Twitter的全站镜像"
+date: "2020-06-29T01:34:31.411Z"
 ---
-
 使用zmirror实现Twitter的全站镜像
 
 工具

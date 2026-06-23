@@ -1,13 +1,12 @@
 ---
-title:  solr安装
-date: 2019-07-30T07:37:40.166Z
-tags: ["solr"]
-categories: ["code"] 
-description: 
+title: "solr安装"
+keywords: ["教程", "solr", "schema", "zk", "collections", "add", "collection", "Add Field"]
+tags: ["教程", "solr", "schema", "zk", "collections", "add", "collection", "Add Field"]
+description: "打开solr主页 点击collections,点击add"
+categories: ["code"]
+heading: "solr安装"
+date: "2019-07-30T07:37:40.166Z"
 ---
-
-
-
 打开solr主页
 点击`collections`,点击`add`
 

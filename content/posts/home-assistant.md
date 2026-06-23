@@ -1,12 +1,12 @@
 ---
-title: Home Assistant 使用教程
-heading:  Home Assistant 安装 hacs 和 xiaomi mio 控制智能家居设备教程指南
-date: 2025-02-22T12:24:18.678Z
-tags: 
+title: "Home Assistant 使用教程"
+keywords: ["教程", "控制智能家居设备", "Home Assistant", "ha", "hacs", "xiaomi mio", "pve", "Storage", "Proxmox Virtual Environment", "home"]
+tags: ["教程", "控制智能家居设备", "Home Assistant", "ha", "hacs", "xiaomi mio", "pve", "Storage"]
+description: "在 pve（Proxmox Virtual Environment 8.3.4）环境安装 Home Assistant 教程指南。"
 categories: ["code"]
-Description:  在 pve（Proxmox Virtual Environment 8.3.4）环境安装 Home Assistant 教程指南。
+heading: "Home Assistant 安装 hacs 和 xiaomi mio 控制智能家居设备教程指南"
+date: "2025-02-22T12:24:18.678Z"
 ---
-
 ## 安装
 
 ha 支持很多硬件，本次使用 Proxmox Virtual Environment 8.3.4 环境来体验。

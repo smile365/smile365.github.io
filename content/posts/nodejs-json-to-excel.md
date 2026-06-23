@@ -1,12 +1,12 @@
 ---
-title:  nodejs把json转化并生成excel文件
-heading: exceljs 使用教程
-date: 2020-10-10T08:10:06.924Z
-categories: ["code"]
-tags: 
-description: 
+title: "nodejs把json转化并生成excel文件"
+keywords: ["阅读", "把 转化并生成 文件", "nodejs", "json", "exceljs", "Excel", "js", "qr image"]
+tags: ["阅读", "把 转化并生成 文件", "nodejs", "json", "exceljs", "Excel", "js", "qr image"]
+description: "做项目有个需求，需要把一个一批链接生成二维码图片，并在Excel文件记录。"
+categories: ["read"]
+heading: "exceljs 使用教程"
+date: "2020-10-10T08:10:06.924Z"
 ---
-
 做项目有个需求，需要把一个一批链接生成二维码图片，并在Excel文件记录。
 
 新建文件 json_2_xls.js 内容如下：

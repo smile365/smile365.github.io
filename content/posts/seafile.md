@@ -1,13 +1,12 @@
 ---
-title:  seafile 安装教程
-heading: 
-date: 2020-03-17T03:32:47.442Z
+title: "seafile 安装教程"
+keywords: ["教程", "proxy", "nginx", "set", "seafile", "conf", "seafile server", "server", "macos iphone linux", "ubuntu seafile"]
+tags: ["教程", "proxy", "nginx", "set", "seafile", "conf", "seafile server", "server"]
+description: "把 seafile 作为私有云盘，自动同步 iphone 或其他 ios 设备的照片"
 categories: ["code"]
-tags: 
-description:  把 seafile 作为私有云盘，自动同步 iphone 或其他 ios 设备的照片
+heading: "seafile 安装教程"
+date: "2020-03-17T03:32:47.442Z"
 ---
-
-
 ## 环境介绍
 - macos
 - iphone

@@ -1,13 +1,12 @@
 ---
-title:  es修改mapping字段类型
-heading: elasticsearch修改mapping类型
-date: 2020-05-13T08:21:39.713Z
+title: "es修改mapping字段类型"
+keywords: ["教程", "es修改mapping字段类型", "es修改映射", "es修改索引字段属性", "修改 字段类型", "修改 类型", "es", "mapping", "elasticsearch", "reindex"]
+tags: ["教程", "es修改mapping字段类型", "es修改映射", "es修改索引字段属性", "修改 字段类型", "修改 类型", "es", "mapping"]
+description: "Elasticsearch 修改索引名,elasticsearch 修改 mapping 类型,elasticsearch change mapping type,es map."
 categories: ["code"]
-tags: ["es修改mapping字段类型","es修改映射","es修改索引字段属性"]
-description: Elasticsearch 修改索引名,elasticsearch 修改 mapping 类型,elasticsearch change mapping type,es mapping field type 修改方法。
+heading: "elasticsearch修改mapping类型"
+date: "2020-05-13T08:21:39.713Z"
 ---
-
-
 es首次创建设置mapping请参考教程[elasticsearch简单入门教程](https://sxy91.com/posts/elasticsearch)
 
 

@@ -1,14 +1,12 @@
 ---
-title:  Linux 常用命令
-heading: linux下统计一个目录下所有文件的内容行数的命令
-date: 2020-11-10T08:12:07.949Z
+title: "Linux 常用命令"
+keywords: ["教程", "linux", "常用命令", "cmd"]
+tags: ["教程", "linux", "常用命令"]
+description: "linux-cmd"
 categories: ["code"]
-tags: 
-description:  linux-cmd
+heading: "linux下统计一个目录下所有文件的内容行数的命令"
+date: "2020-11-10T08:12:07.949Z"
 ---
-
-
-
 参考文档：
 
 - [linux 常用命令-1](https://sxy91.com/posts/linux/)

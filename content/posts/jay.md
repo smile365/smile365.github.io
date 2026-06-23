@@ -1,12 +1,12 @@
 ---
-title:  我偷了周杰伦的歌
-heading:
-date: 2020-06-13T01:56:20.824Z
+title: "我偷了周杰伦的歌"
+keywords: ["生活", "我偷了周杰伦的歌", "fm", "mp3", "MC Hotdog", "jay"]
+tags: ["生活", "我偷了周杰伦的歌", "fm", "mp3", "MC Hotdog"]
+description: "朋友圈有人问我是不是喜欢周杰伦。"
 categories: ["life"]
-tags: 
-description: 
+heading: "我偷了周杰伦的歌"
+date: "2020-06-13T01:56:20.824Z"
 ---
-
 朋友圈有人问我是不是喜欢周杰伦。
 
 我想我不追星，顶多是熟悉他的歌，也不关注他的娱乐八卦，这样的话应该不算喜欢他吧。

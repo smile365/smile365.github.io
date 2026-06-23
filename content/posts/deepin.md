@@ -1,13 +1,12 @@
 ---
-title:  deepin 深度操作系统配置指南
-heading: 
-date: 2023-08-25T19:16:05.490Z
+title: "deepin 深度操作系统配置指南"
+keywords: ["教程", "ssh", "深度操作系统配置", "deepin", "xrdp", "sshd", "Windows"]
+tags: ["教程", "ssh", "深度操作系统配置", "deepin", "xrdp", "sshd", "Windows"]
+description: "版本信息 - deepin: 20.9"
 categories: ["code"]
-tags: 
-description: 
+heading: "deepin 深度操作系统配置指南"
+date: "2023-08-25T19:16:05.490Z"
 ---
-
-
 ## 版本信息
 - deepin:  20.9
 

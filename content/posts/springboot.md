@@ -1,13 +1,13 @@
 ---
-title:  spring boot从入门到放弃
-heading: 
-date: 2020-04-07T02:45:56.177Z
-categories: ["life"]
-draft: true
-tags: 
-description: 
+title: "spring boot从入门到放弃"
+keywords: ["阅读", "生活", "idea", "到放弃", "spring boot", "web", "Servlet", "controller", "Servlet controller", "springboot"]
+tags: ["阅读", "生活", "idea", "到放弃", "spring boot", "web", "Servlet", "controller"]
+description: "web服务器/Servlet容器/Servlet"
+categories: ["read"]
+heading: "spring boot从入门到放弃"
+date: "2020-04-07T02:45:56.177Z"
+draft: "true"
 ---
-
 1. web服务器/[Servlet容器](https://blog.csdn.net/snarlfuture/article/details/18473761)/[Servlet](https://gg0.chn.moe/extdomains/zh.wikipedia.org/zh-hans/Java_Servlet)
 
 controller

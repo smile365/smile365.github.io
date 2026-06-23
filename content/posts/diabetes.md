@@ -1,11 +1,12 @@
 ---
-title:  糖尿病饮食清单
-date: 2019-10-07T01:41:02.970Z
-tags: 
+title: "糖尿病饮食清单"
+keywords: ["生活", "糖尿病饮食清单", "kcal", "diabetes"]
+tags: ["生活", "糖尿病饮食清单", "kcal"]
+description: "前两天我爸去医院查出血糖很高，帮他查了下食谱。"
 categories: ["life"]
-description: 
+heading: "糖尿病饮食清单"
+date: "2019-10-07T01:41:02.970Z"
 ---
-
 前两天我爸去医院查出血糖很高，帮他查了下食谱。 
 
 **1.人体所需营养** 

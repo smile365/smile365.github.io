@@ -1,10 +1,11 @@
 ---
-title:  kunming-fuxianhu
-heading: 抚仙湖旅游攻略
-date: 2021-08-15T09:37:31.263Z
-categories: ["other"]
-tags: 
-description: 云南省玉溪市抚仙湖景区
+title: "kunming-fuxianhu"
+keywords: ["教程", "抚仙湖旅游攻略", "kunming fuxianhu", "kunming", "fuxianhu"]
+tags: ["教程", "抚仙湖旅游攻略", "kunming fuxianhu"]
+description: "云南省玉溪市抚仙湖景区"
+categories: ["code"]
+heading: "抚仙湖旅游攻略"
+date: "2021-08-15T09:37:31.263Z"
 ---
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1629021617491.png)
 

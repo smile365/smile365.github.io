@@ -1,13 +1,12 @@
 ---
-title:  Visual Studio Community 安装过程
-heading: 
-date: 2021-09-14T03:45:24.717Z
-categories: ["other"]
-tags: 
-description: 
+title: "Visual Studio Community 安装过程"
+keywords: ["阅读", "安装过程", "Visual Studio Community", "microsoft net framework", "net web", "Visual Studio for", "Mac", "PC", "visualstudio"]
+tags: ["阅读", "安装过程", "Visual Studio Community", "microsoft net framework", "net web", "Visual Studio for", "Mac", "PC"]
+description: "所需工具 - microsoft-net-framework-4-8 - Visual Studio Community"
+categories: ["read"]
+heading: "Visual Studio Community 安装过程"
+date: "2021-09-14T03:45:24.717Z"
 ---
-
-
 所需工具
 - [microsoft-net-framework-4-8](https://support.microsoft.com/zh-cn/topic/%E9%80%82%E7%94%A8%E4%BA%8E-windows-%E7%9A%84-microsoft-net-framework-4-8-%E8%84%B1%E6%9C%BA%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-9d23f658-3b97-68ab-d013-aa3c3e7495e0)
 - [Visual Studio Community ](https://visualstudio.microsoft.com/zh-hans/vs/)

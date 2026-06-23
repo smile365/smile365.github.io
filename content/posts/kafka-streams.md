@@ -1,12 +1,12 @@
 ---
-title: Kafka Streams
-heading:  
-date: 2023-03-22T06:46:41.235Z
+title: "Kafka Streams"
+keywords: ["教程", "kafka", "Kafka Streams", "private final static", "kafka Java maven", "srping boot", "java", "Slf4j", "Kafka Streams ##", "streams"]
+tags: ["教程", "kafka", "Kafka Streams", "private final static", "kafka Java maven", "srping boot", "java", "Slf4j"]
+description: "环境 - kafka - Java - maven"
 categories: ["code"]
-tags: 
-description:  
+heading: "Kafka Streams"
+date: "2023-03-22T06:46:41.235Z"
 ---
-
 ## 环境
 - kafka
 - Java

@@ -1,12 +1,12 @@
 ---
-title: 笔直搜（SnapSO）用户操作手册
-heading:  
-date: 2025-06-24T13:54:44.881Z
-tags: 
+title: "笔直搜（SnapSO）用户操作手册"
+keywords: ["教程", "GitHub", "笔直搜", "用户", "SnapSO", "bd AI", "AI", "bd", "web"]
+tags: ["教程", "GitHub", "笔直搜", "用户", "SnapSO", "bd AI", "AI", "bd"]
+description: "版本：v1.0 > > 适用范围：本手册适用于笔直搜（SnapSO）聚合搜索与导航产品的终端用户。"
 categories: ["code"]
-Description:  
+heading: "笔直搜（SnapSO）用户操作手册"
+date: "2025-06-24T13:54:44.881Z"
 ---
-
 > 版本：v1.0
 > 
 > 适用范围：本手册适用于笔直搜（SnapSO）聚合搜索与导航产品的终端用户。

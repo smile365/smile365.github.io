@@ -1,13 +1,14 @@
 ---
-title:  微笑表情文字对照
-date: 2019-03-13T04:49:01.384Z
-tags: ["code","it"]
-series: ["blog"]
+title: "微笑表情文字对照"
+keywords: ["教程", "code", "it", "微笑表情文字对照", "OK", "wechat", "emoji"]
+tags: ["教程", "code", "it", "微笑表情文字对照", "OK"]
+description: "微笑表情文字对照（按照7.0.3版本对照如下）"
 categories: ["code"]
-draft: true
-description:
+heading: "微笑表情文字对照"
+date: "2019-03-13T04:49:01.384Z"
+draft: "true"
+series: ["blog"]
 ---
-
 微笑表情文字对照（按照7.0.3版本对照如下）
 
 [微笑][撇嘴][色][发呆][得意][流泪][害羞]   

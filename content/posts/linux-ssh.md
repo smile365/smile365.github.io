@@ -1,11 +1,12 @@
 ---
-title:  免密登录Linux主机
-date: 2018-07-30T09:19:48.400Z
-tags: ["ssh"]
+title: "免密登录Linux主机"
+keywords: ["教程", "ssh", "Linux", "免密登录 主机", "id", "RSA", "Ed25519", "DSA", "sshd"]
+tags: ["教程", "ssh", "Linux", "免密登录 主机", "id", "RSA", "Ed25519", "DSA"]
+description: "每次在终端使用ssh链接服务器，需要输入账号、密码、端口、域名等一大堆东西，比较繁琐。若不想输入密码端口等信息，可以使用 ssh 密钥方式连接服务器。"
 categories: ["code"]
-description:
+heading: "免密登录Linux主机"
+date: "2018-07-30T09:19:48.400Z"
 ---
-
 ## 安装 sshd
 ```
 yum install -y openssl openssh-server

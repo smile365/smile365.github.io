@@ -1,11 +1,12 @@
 ---
-title: 
-heading: "java 请求出现 Cannot assign requested address 异常的解决办法"
-date: 2023-12-01T06:59:09.760Z
-categories: ["code"]
+title: "jdk11-close_wai-error"
+keywords: ["教程", "java", "Cannot assign requested", "address", "jdk11 close", "wai error", "connect failed", "OkHttpClient", "wai error ##", "jdk11"]
+tags: ["教程", "java", "Cannot assign requested", "address", "jdk11 close", "wai error", "connect failed", "OkHttpClient"]
 description: "ConnectException Cannot assign requested address connect failed"
+categories: ["code"]
+heading: "java 请求出现 Cannot assign requested address 异常的解决办法"
+date: "2023-12-01T06:59:09.760Z"
 ---
-
 ## java 请求出现 Cannot assign requested address (connect failed) 异常
 
 使用 OkHttpClient 多线程发起 http get 请求，代码如下：

@@ -1,12 +1,12 @@
 ---
-title:  sandman2
-heading: 
-date: 2022-03-22T08:41:29.892Z
-categories: ["other"]
-tags: 
-description: 
+title: "sandman2"
+keywords: ["教程", "MySQL", "sandman2", "RESTful API", "mysql to RESTful", "api sandman2", "MySQL PostgreSQL Oracle", "Microsoft SQL Server", "sandman2 sandman2"]
+tags: ["教程", "MySQL", "sandman2", "RESTful API", "mysql to RESTful", "api sandman2", "MySQL PostgreSQL Oracle", "Microsoft SQL Server"]
+description: "在 python3.6 下比较稳定"
+categories: ["code"]
+heading: "sandman2"
+date: "2022-03-22T08:41:29.892Z"
 ---
-
 [sandman2](https://github.com/jeffknupp/sandman2) 使用教程
 
 在 python3.6 下比较稳定

@@ -1,12 +1,12 @@
 ---
 title: "conductor DAG 的完整支持改造(3)-自定义 worker"
-heading:  
-date: 2023-03-17T07:16:30.731Z
+keywords: ["教程", "完整支持改造", "自定义", "worker", "conductor server", "api", "conductor DAG", "conductor", "worker ##", "Java sdk"]
+tags: ["教程", "完整支持改造", "自定义", "worker", "conductor server", "api", "conductor DAG", "conductor"]
+description: "基于 Java sdk 实现自定义 worker"
 categories: ["code"]
-tags: 
-description:  基于 Java sdk 实现自定义 worker
+heading: "conductor DAG 的完整支持改造(3)-自定义 worker"
+date: "2023-03-17T07:16:30.731Z"
 ---
-
 ## 基于 Java sdk 实现自定义 worker
 
 hello world

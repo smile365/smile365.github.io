@@ -1,12 +1,12 @@
 ---
-title:  生日快乐 宋洋葱先生
-heading: 生日快乐，宋洋葱
-date: 2021-03-08T23:48:01.739Z
+title: "生日快乐 宋洋葱先生"
+keywords: ["生活", "宋洋葱", "生日快乐 宋洋葱先生", "生日快乐", "QQ", "year", "old"]
+tags: ["生活", "宋洋葱", "生日快乐 宋洋葱先生", "生日快乐", "QQ"]
+description: "祝我生日快乐。HKRR、happiness、knowledge、resonance、rhythm"
 categories: ["life"]
-tags: 
-description: 祝我生日快乐。HKRR、happiness、knowledge、resonance、rhythm
+heading: "生日快乐，宋洋葱"
+date: "2021-03-08T23:48:01.739Z"
 ---
-
 今天零时，我已经满三十岁了。
 
 在此之前我对生日毫无概念，年龄对我来说只不过是无关痛痒的一个数字。直到最近别人问我年龄的时候，我才发现“已经30岁了”，似乎一夜之间迷迷糊糊就变成一个“大人”了。每次填写表格的年龄一栏，都有种慌慌张张，极不情愿的心情，内心的独白清晰无比：我还没准备好，我还是个孩子。

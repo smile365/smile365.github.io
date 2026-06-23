@@ -1,12 +1,12 @@
 ---
-title:  CD/VCD/DVD/BD光盘的区别及相关刻录软件推荐 2025
-heading:  
-date: 2025-04-08T04:28:31.205Z
-tags: 
+title: "CD/VCD/DVD/BD光盘的区别及相关刻录软件推荐 2025"
+keywords: ["教程", "DVD", "CD", "VCD", "BD", "ISO", "GB", "CD R"]
+tags: ["教程", "DVD", "CD", "VCD", "BD", "ISO", "GB", "CD R"]
+description: "有哪些免费好用的刻录 dvd-vcd 的软件-2025 年"
 categories: ["code"]
-Description:  有哪些免费好用的刻录 dvd-vcd 的软件-2025 年
+heading: "CD/VCD/DVD/BD光盘的区别及相关刻录软件推荐 2025"
+date: "2025-04-08T04:28:31.205Z"
 ---
-
 ## CD/VCD/DVD/BD 的区别
  
 以下是 **CD、VCD、DVD、BD（蓝光）** 的对比：  

@@ -1,10 +1,11 @@
 ---
 title: "nano-pi-r2s 安装 wireguard 和 ss"
-heading: 
-date: 2022-09-14T07:48:57.809Z
+keywords: ["教程", "ss", "nano pi r2s", "wireguard", "FriendlyWrt", "tf", "r2s", "type c", "ss ##", "nano"]
+tags: ["教程", "ss", "nano pi r2s", "wireguard", "FriendlyWrt", "tf", "r2s", "type c"]
+description: "NanoPi R2S mac osx 固件烧录教程"
 categories: ["code"]
-tags: 
-description:  NanoPi R2S mac osx 固件烧录教程
+heading: "nano-pi-r2s 安装 wireguard 和 ss"
+date: "2022-09-14T07:48:57.809Z"
 ---
 ## 固件烧录
 

@@ -1,12 +1,12 @@
 ---
-title:  git从远程仓库的恢复已经删除的文件
-heading: git恢复被删除的文件
-date: 2020-04-23T05:16:32.739Z
+title: "git从远程仓库的恢复已经删除的文件"
+keywords: ["教程", "git恢复被删除的文件", "恢复被删除的文件", "git", "git status", "commit", "id", "git log 2", "git checkout e262899", "recover"]
+tags: ["教程", "git恢复被删除的文件", "恢复被删除的文件", "git", "git status", "commit", "id", "git log 2"]
+description: "git recover deleted file from origin branch"
 categories: ["code"]
-tags: ["git恢复被删除的文件"]
-description: git recover deleted file from origin branch
+heading: "git恢复被删除的文件"
+date: "2020-04-23T05:16:32.739Z"
 ---
-
 使用命令查看工作区情况`git status`：
 ```bash
 On branch master

@@ -1,12 +1,12 @@
 ---
-title:  宋学彦的个人简历
-heading:
-date: 2019-12-29T14:40:26.987Z
-categories: ["code"]
-tags: 
-description: 
+title: "宋学彦的个人简历"
+keywords: ["阅读", "宋学彦的个人简历", "app", "Facebook", "salt", "windows", "vb", "Java", "songxueyan"]
+tags: ["阅读", "宋学彦的个人简历", "app", "Facebook", "salt", "windows", "vb", "Java"]
+description: "基本信息 - **手机**：xxxxx - **邮箱**：sxy9103@qq."
+categories: ["read"]
+heading: "宋学彦的个人简历"
+date: "2019-12-29T14:40:26.987Z"
 ---
-
 # 宋学彦
 
 ## 基本信息

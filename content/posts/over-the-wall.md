@@ -1,13 +1,12 @@
 ---
-title: 科学上网图文教程
-date: 2018-01-26
+title: "科学上网图文教程"
+keywords: ["科学上网", "ssh", "科学上网图文", "Shadowsocks Server", "ss", "vps", "Client Area", "vultr", "Linode", "over"]
+tags: ["科学上网", "ssh", "科学上网图文", "Shadowsocks Server", "ss", "vps", "Client Area", "vultr"]
+description: "一份全平台支持的翻墙图文教程"
 categories: ["tools"]
-tags: 
- - 科学上网
-description : 一份全平台支持的翻墙图文教程
+heading: "科学上网图文教程"
+date: "2018-01-26"
 ---
-
-
  **科学上网**：指突破“防火长城”的封锁，到国外网络上查找学习资料的过程。
 
 科学上网得用梯子，网络上俗称“代理”。代理可以理解为替你跑腿的人。你在宿舍出不去了，找了一个宿舍外的同学帮你去买吃的，他就是你的“代理 ”。综上所述，科学上网的目标是找一台能上国外网站的电脑，然后让他帮你把国外的内容给你取过来。

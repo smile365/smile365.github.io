@@ -1,12 +1,12 @@
 ---
-title:  配置 gitlab-ci.yml 实现提交代码时自动部署到容器
-heading: 
-date: 2021-03-24T08:08:59.340Z
+title: "配置 gitlab-ci.yml 实现提交代码时自动部署到容器"
+keywords: ["教程", "Docker", "react", "uri", "gitlab", "ci", "cd", "push", "config"]
+tags: ["教程", "Docker", "react", "uri", "gitlab", "ci", "cd", "push"]
+description: "gitlab-ci.yml,gitlab-ci-config"
 categories: ["code"]
-tags: 
-description: gitlab-ci.yml,gitlab-ci-config
+heading: "配置 gitlab-ci.yml 实现提交代码时自动部署到容器"
+date: "2021-03-24T08:08:59.340Z"
 ---
-
 ### 一、后端项目打包和发布
 
 项目下新建一个 `.gitlab-ci.yml` 文件，内容如下：

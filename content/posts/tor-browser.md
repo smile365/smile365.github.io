@@ -1,11 +1,13 @@
 ---
-title:  新手暗网简易教程
-date: 2019-02-13T05:44:08.321Z
-tags: 
- - TorBrowse
-draft: true
+title: "新手暗网简易教程"
+keywords: ["教程", "TorBrowse", "新手暗网简易", "ss", "TorBrowser", "mac", "socks5", "unable to set", "tor", "browser"]
+tags: ["教程", "TorBrowse", "新手暗网简易", "ss", "TorBrowser", "mac", "socks5", "unable to set"]
+description: "在此之前你必须学会番强，并启动ss全局代理。"
+categories: ["code"]
+heading: "新手暗网简易教程"
+date: "2019-02-13T05:44:08.321Z"
+draft: "true"
 ---
-
 在此之前你必须学会番强，并启动ss全局代理。
 
 mac端

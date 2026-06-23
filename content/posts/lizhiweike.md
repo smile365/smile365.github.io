@@ -1,12 +1,13 @@
 ---
-title:  荔枝微课-社交技能
-date: 2019-08-25T05:22:07.016Z
-tags: 
+title: "荔枝微课-社交技能"
+keywords: ["生活", "荔枝微课", "社交技能", "lizhiweike"]
+tags: ["生活", "荔枝微课", "社交技能"]
+description: "列举问题/困境/痛点 - 缺乏某能能力的坏处 - 拥有某项能力的好处 - 解决这些痛点的方式（课程大纲） - 课程模块，循序渐进解决问题。"
 categories: ["life"]
-draft: true
-description: 
+heading: "荔枝微课-社交技能"
+date: "2019-08-25T05:22:07.016Z"
+draft: "true"
 ---
-
 社交篇/理财篇
 
 好好说话

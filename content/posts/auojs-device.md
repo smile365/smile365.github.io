@@ -1,12 +1,12 @@
 ---
-title:  auojs获取安装包的名称和手机硬件设备信息
-heading:
-date: 2020-05-08T06:54:02.091Z
+title: "auojs获取安装包的名称和手机硬件设备信息"
+keywords: ["教程", "获取安装包的名称", "手机硬件设备信息", "auojs", "javascript log", "device", "log"]
+tags: ["教程", "获取安装包的名称", "手机硬件设备信息", "auojs"]
+description: "auojs获取安装包的名称和手机硬件设备信息"
 categories: ["code"]
-tags: 
-description: 
+heading: "auojs获取安装包的名称和手机硬件设备信息"
+date: "2020-05-08T06:54:02.091Z"
 ---
-
 获取包名、设备信息等。
 
 ```javascript

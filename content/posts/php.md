@@ -1,12 +1,12 @@
 ---
-title: php
-heading:  
-date: 2023-03-08T05:39:21.528Z
+title: "php"
+keywords: ["教程", "php", "debian", "composer php", "composer failed", "TLS", "install php on", "debian 11", "php ##", "composer"]
+tags: ["教程", "php", "debian", "composer php", "composer failed", "TLS", "install php on", "debian 11"]
+description: "安装 composer php 使用 composer 作为依赖管理工具"
 categories: ["code"]
-tags: 
-description:  
+heading: "php"
+date: "2023-03-08T05:39:21.528Z"
 ---
-
 ## 安装 php
 ```bash
 apt update

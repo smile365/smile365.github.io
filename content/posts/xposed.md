@@ -1,12 +1,12 @@
 ---
-title:  xposed
-heading: 
-date: 2022-04-28T07:34:52.221Z
-categories: ["other"]
-tags: 
-description: 
+title: "xposed"
+keywords: ["生活", "xposed", "WechatMagician", "ojbk"]
+tags: ["生活", "xposed", "WechatMagician", "ojbk"]
+description: "参考项目 - WechatMagician -"
+categories: ["life"]
+heading: "xposed"
+date: "2022-04-28T07:34:52.221Z"
 ---
-
 参考项目
 - [WechatMagician](https://github.com/Gh0u1L5/WechatMagician)
 - 

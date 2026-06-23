@@ -1,12 +1,12 @@
 ---
-title: 使用 pyenv 安装和管理不同版本 python
-heading:  
-date: 2025-06-04T03:24:55.365Z
-tags: 
+title: "使用 pyenv 安装和管理不同版本 python"
+keywords: ["教程", "python", "使用 安装", "管理不同版本", "pyenv", "api", "python sdk", "debian 12", "python ##"]
+tags: ["教程", "python", "使用 安装", "管理不同版本", "pyenv", "api", "python sdk", "debian 12"]
+description: "在 debian 12 安装 pyenv 可安装不同版本 python"
 categories: ["code"]
-Description:  在 debian 12 安装 pyenv 可安装不同版本 python
+heading: "使用 pyenv 安装和管理不同版本 python"
+date: "2025-06-04T03:24:55.365Z"
 ---
-
 ## 前言
 
 开发了一个 python 后端 api，其中用到了阿里云 python sdk 。

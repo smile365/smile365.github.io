@@ -1,12 +1,13 @@
 ---
-title:  python日志
-date: 2018-08-07T07:34:37.512Z
-tags: ["logging"]
+title: "python日志"
+keywords: ["教程", "logging", "python", "日志", "python logging"]
+tags: ["教程", "logging", "python", "日志", "python logging"]
+description: "Python之日志处理（logging模块） - python-logging"
 categories: ["code"]
-draft: true
-description:
+heading: "python日志"
+date: "2018-08-07T07:34:37.512Z"
+draft: "true"
 ---
-
 ```python
 import logging
 

@@ -1,13 +1,12 @@
 ---
-title: docker-compose 使用教程
-heading: 
-date: 2022-04-13T09:46:03.580Z
+title: "docker-compose 使用教程"
+keywords: ["教程", "pip", "docker compose", "docker compose plugin", "install using the", "repository", "bash", "docker", "Docker Desktop", "compose"]
+tags: ["教程", "pip", "docker compose", "docker compose plugin", "install using the", "repository", "bash", "docker"]
+description: "Docker-Compose"
 categories: ["code"]
-tags: 
-description: Docker-Compose
+heading: "docker-compose 使用教程"
+date: "2022-04-13T09:46:03.580Z"
 ---
-
-
 ## 前言
 安装 [docker-compose](https://docs.docker.com/compose/install/) 有三种方式，分别是
 - 安装 Docker Desktop

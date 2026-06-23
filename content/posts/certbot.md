@@ -1,13 +1,13 @@
 ---
-title: cerbot-on-debian11
-heading: 
-date: 2023-05-31
+title: "cerbot-on-debian11"
+keywords: ["教程", "cerbot on debian11", "certbot", "openresty"]
+tags: ["教程", "cerbot on debian11", "certbot", "openresty"]
+description: "打开 certbot 官网，按照教程安装。"
 categories: ["code"]
-draft: true
-tags: 
-description: ssl 证书
+heading: "cerbot-on-debian11"
+date: "2023-05-31"
+draft: "true"
 ---
-
 1. 先安装 [openresty](https://gitee.com/smile365/blog/blob/master/openresty.md)
 
 2. 安装 certbot

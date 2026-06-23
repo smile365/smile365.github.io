@@ -1,12 +1,12 @@
 ---
-title:  从0到1开发一套claok系统|day1
-heading: cloak技术策略，如何用cloak系统来跑Facebook广告
-date: 2020-07-15T06:15:39.400Z
-categories: ["code"]
-tags: 
-description: 
+title: "从0到1开发一套claok系统|day1"
+keywords: ["阅读", "技术策略", "用 系统来跑 广告", "cloak", "fb", "Facebook", "claok", "day1", "day1 cloak", "cloak01"]
+tags: ["阅读", "技术策略", "用 系统来跑 广告", "cloak", "fb", "Facebook", "claok", "day1"]
+description: "跨境电商绕不开Google/Facebook/Twitter等几大流量平台，在这些平台推广商品规则众多，部分商品一不小心就触犯了平台方的广告推广规则，轻则无效，重则关小黑屋。"
+categories: ["read"]
+heading: "cloak技术策略，如何用cloak系统来跑Facebook广告"
+date: "2020-07-15T06:15:39.400Z"
 ---
-
 [cloak技术](https://www.c1oak.com/)策略-如何用cloak系统来跑Facebook广告
 
 

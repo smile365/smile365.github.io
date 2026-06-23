@@ -1,13 +1,12 @@
 ---
 title: "在 mac 上使用 Rime 开源输入法"
-heading:  
-date: 2024-01-04T11:47:01.394Z
+keywords: ["教程", "Rime", "mac", "Ctrl"]
+tags: ["教程", "Rime", "mac", "Ctrl"]
+description: "Rime 输入法"
 categories: ["code"]
-tags: 
-description:  Rime 输入法
+heading: "在 mac 上使用 Rime 开源输入法"
+date: "2024-01-04T11:47:01.394Z"
 ---
-
-
 ## 安装
 可以[下载](https://rime.im/download/)安装，也可以通过命令安装
 ```

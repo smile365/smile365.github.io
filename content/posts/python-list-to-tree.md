@@ -1,12 +1,12 @@
 ---
-title:  python-list-to-tree
-heading: Python | Convert a list of lists into tree-like dict
-date: 2022-03-24T07:54:23.163Z
-categories: ["other"]
-tags: 
-description: 列表转树形结构
+title: "python-list-to-tree"
+keywords: ["教程", "Python", "Convert a list", "of lists into", "tree like dict", "python list to", "tree", "tree Python", "list"]
+tags: ["教程", "Python", "Convert a list", "of lists into", "tree like dict", "python list to", "tree"]
+description: "Python | Convert a list of lists into tree-like dict -"
+categories: ["code"]
+heading: "Python | Convert a list of lists into tree-like dict"
+date: "2022-03-24T07:54:23.163Z"
 ---
-
 Python | Convert a list of lists into tree-like dict - 
 
 ```python

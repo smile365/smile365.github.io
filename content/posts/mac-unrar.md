@@ -1,13 +1,12 @@
 ---
 title: "mac 系统不安装解压软件解压 rar 文件教程"
-heading: mac-unrar
-date: 2021-01-19T09:10:32.561Z
+keywords: ["教程", "shell", "rar", "unrar", "vim", "bash", "profile", "alias", "mac"]
+tags: ["教程", "shell", "rar", "unrar", "vim", "bash", "profile", "alias"]
+description: "mac 系统 解压 rar 文件。"
 categories: ["code"]
-tags: 
-description:  mac 系统 解压 rar 文件。
+heading: "mac-unrar"
+date: "2021-01-19T09:10:32.561Z"
 ---
-
-
 安装 unrar
 ```bash
 brew install unrar

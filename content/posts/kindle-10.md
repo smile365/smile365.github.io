@@ -1,13 +1,12 @@
 ---
-title: kindle-10 代 最新版越狱及安装 MRPI、KUAL、KOReader 刷入微信阅读教程指南（2025 年）
-heading:  
-date: 2025-03-14T13:57:25.462Z
-tags: 
-categories: ["code"]
-Description:   Kindle Paperwhite 4 (KPW4)
+title: "kindle-10 代 最新版越狱及安装 MRPI、KUAL、KOReader 刷入微信阅读教程指南（2025 年）"
+keywords: ["阅读", "Kindle", "Android", "版越狱及安装", "刷入微信阅读", "MRPI", "KUAL", "kindle 10", "KOReader"]
+tags: ["阅读", "Kindle", "Android", "版越狱及安装", "刷入微信阅读", "MRPI", "KUAL", "kindle 10"]
+description: "Kindle Paperwhite 4 (KPW4)"
+categories: ["read"]
+heading: "kindle-10 代 最新版越狱及安装 MRPI、KUAL、KOReader 刷入微信阅读教程指南（2025 年）"
+date: "2025-03-14T13:57:25.462Z"
 ---
-
-
 ## 前言
 kindle 退出中国，虽然可以通过切换登录账号到美亚地区使用，但还是想切换成微信读书。主要是微信读书有排行榜，读书更有动力。所以打算把 [kindle 刷机](https://donutblogs.com/posts/CracKDroid)成 Android 系统，然后安装微信读书使用。路径倒也简单： [越狱 Kindle](https://bookfere.com/post/1145.html) > 安装 MRPI 和 KUAL > 安装 uboot > 刷入 Android > 安装微信读书墨水屏版。
 

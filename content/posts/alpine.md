@@ -1,12 +1,12 @@
 ---
-title: 使用 pve 安装 alpine 系统 
-heading: 
-date: 2022-02-16T03:32:29.694Z
+title: "使用 pve 安装 alpine 系统"
+keywords: ["教程", "使用 安装 系统", "pve", "alpine", "alpine virt x86", "iso", "qm", "root"]
+tags: ["教程", "使用 安装 系统", "pve", "alpine", "alpine virt x86", "iso", "qm", "root"]
+description: "虚拟机方式（不推荐） **1. 创建虚拟机** 下载VIRTUAL 版本下的 alpine-virt-x86_64.iso 镜像文件。"
 categories: ["code"]
-tags: 
-description: 
+heading: "使用 pve 安装 alpine 系统"
+date: "2022-02-16T03:32:29.694Z"
 ---
-
 ## 安装 alpine
 
 ### 虚拟机方式（不推荐）

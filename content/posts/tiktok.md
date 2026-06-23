@@ -1,13 +1,12 @@
 ---
-title:  tiktok
-heading: TikTok基础下载教程及新手注意事项 | 教程
-date: 2020-07-03T11:04:48.264Z
-categories: ["other"]
-tags: 
-description: 
+title: "tiktok"
+keywords: ["教程", "TikTok", "Just My Socks", "App Store", "ID", "Astrill", "aes 256 gcm"]
+tags: ["教程", "TikTok", "Just My Socks", "App Store", "ID", "Astrill", "aes 256 gcm"]
+description: "原创 优联荟--小艺 小北的梦呓 今天 今天我们来讲讲TikTok！"
+categories: ["code"]
+heading: "TikTok基础下载教程及新手注意事项 | 教程"
+date: "2020-07-03T11:04:48.264Z"
 ---
-
-
 原创 优联荟--小艺 小北的梦呓 今天
 今天我们来讲讲TikTok！
 

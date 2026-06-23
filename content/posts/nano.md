@@ -1,12 +1,12 @@
 ---
 title: "nano 快捷键"
-heading: 
-date: 2023-05-25
+keywords: ["教程", "快捷键", "Ctrl+", "nano", "Esc", "Alt+A", "Ctrl", "Meta"]
+tags: ["教程", "快捷键", "Ctrl+", "nano", "Esc", "Alt+A", "Ctrl", "Meta"]
+description: "nano 编辑器"
 categories: ["code"]
-tags: 
-description: nano 编辑器
+heading: "nano 快捷键"
+date: "2023-05-25"
 ---
-
 ## 快捷键
 
 - ^，它可以用 Ctrl 键或按 Esc 键两次的方式进行输入。

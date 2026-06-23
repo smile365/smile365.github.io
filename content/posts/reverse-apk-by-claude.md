@@ -1,10 +1,11 @@
 ---
-title: reverse-apks-by-claude
-heading:  MacOS 下使用 claude 对 apk 进行逆向分析
-date: 2026-05-11T06:01:32.934Z
-tags: 
+title: "reverse-apks-by-claude"
+keywords: ["教程", "claude", "reverse apks by", "MacOS", "apk", "java", "jadx", "vineflower", "claude ##", "reverse"]
+tags: ["教程", "claude", "reverse apks by", "MacOS", "apk", "java", "jadx", "vineflower"]
+description: "遇到的问题 **model is not available**"
 categories: ["code"]
-Description:  
+heading: "MacOS 下使用 claude 对 apk 进行逆向分析"
+date: "2026-05-11T06:01:32.934Z"
 ---
 ## 安装必要依赖
 

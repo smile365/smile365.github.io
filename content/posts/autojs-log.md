@@ -1,12 +1,12 @@
 ---
-title:  auto.js如何显示日志和调试信息
-heading: autojs显示日志悬浮框并打印和显示日志信息
-date: 2020-04-29T01:26:59.943Z
+title: "auto.js如何显示日志和调试信息"
+keywords: ["教程", "autojs 7.0下载", "autojs", "显示日志", "调试信息", "显示日志悬浮框并打印", "显示日志信息", "QQ", "pdf", "hyb1996"]
+tags: ["教程", "autojs 7.0下载", "autojs", "显示日志", "调试信息", "显示日志悬浮框并打印", "显示日志信息", "QQ"]
+description: "手机autojs菜鸟教程，Auto.js Pro图文教程"
 categories: ["code"]
-tags: ["autojs 7.0下载","autojs"]
-description: 手机autojs菜鸟教程，Auto.js Pro图文教程	
+heading: "autojs显示日志悬浮框并打印和显示日志信息"
+date: "2020-04-29T01:26:59.943Z"
 ---
-
 autojs的文档没有pdf格式可供下载，只能去看网页版官方文档地址：`https://hyb1996.github.io/AutoJs-Docs`。文档支持Auto.js 4（免费版）和auto.js pro7（收费版）两个版本。作者hyb1996还没来得及写Auto.js 8.0 pro的文档，如果你用的是auto.js pro8只能自己研究。
 
 我目前用的是autojs 7.0 pro，官网已经不支持下载。如果需要老版本和最新版本可以到这里[下载Auto.js app](https://www.sxy91.com/posts/autojs/)

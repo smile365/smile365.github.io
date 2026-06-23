@@ -1,12 +1,12 @@
 ---
-title:  第一天当 up 主遇到的问题
-heading: 
-date: 2022-09-26T13:15:29.746Z
+title: "第一天当 up 主遇到的问题"
+keywords: ["生活", "up", "PR", "video", "creation"]
+tags: ["生活", "up", "PR"]
+description: "Video Creation，video-creation"
 categories: ["life"]
-tags: 
-description: Video Creation，video-creation
+heading: "第一天当 up 主遇到的问题"
+date: "2022-09-26T13:15:29.746Z"
 ---
-
 最近天天刷 B 站和抖音，都没时间写公众号了。看了那么多视频我都总结出规律了，感觉只要有时间我做一定不差。很多视频我也能拍出来，甚至我做的话肯定做的更好。我心里感叹这么简单的视频竟然也能获得这么多的粉丝量。
 
 后来我就特意刷一些我能拍的视频题材，刷的越多，我自信总结出一套经验来了。

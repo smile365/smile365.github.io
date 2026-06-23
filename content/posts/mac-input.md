@@ -1,13 +1,14 @@
 ---
-title:  mac双拼快速输入技术符号
-date: 2018-07-20T06:07:13.544Z
-tags: ["code","it"]
-series: ["blog"]
+title: "mac双拼快速输入技术符号"
+keywords: ["教程", "code", "it", "双拼快速输入技术符号", "mac", "command", "option", "shift", "input"]
+tags: ["教程", "code", "it", "双拼快速输入技术符号", "mac", "command", "option", "shift"]
+description: "mac技术符号如下： - ⌘（command） - ⌥（option） - ⇧（shift） - ⇪（caps lock） - ⌃（control） - ↩（return） -."
 categories: ["code"]
-draft: true
-description:
+heading: "mac双拼快速输入技术符号"
+date: "2018-07-20T06:07:13.544Z"
+draft: "true"
+series: ["blog"]
 ---
-
 mac技术符号如下：
 - ⌘（command）
 - ⌥（option）

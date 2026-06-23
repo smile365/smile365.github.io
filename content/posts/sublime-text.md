@@ -1,13 +1,13 @@
 ---
-title:  sublime text
-date: 2019-07-03T01:36:38.994Z
-tags: 
-categories:
-draft: true
-description: 
+title: "sublime text"
+keywords: ["教程", "sublime text", "SublimeTmpl", "bash", "Package Control", "Ctrl+Shift+P", "Install Package", "Sublime", "SublimeTmpl Ctrl+Shift+P", "text"]
+tags: ["教程", "sublime text", "SublimeTmpl", "bash", "Package Control", "Ctrl+Shift+P", "Install Package", "Sublime"]
+description: "安装Package-Control"
+categories: ["code"]
+heading: "sublime text"
+date: "2019-07-03T01:36:38.994Z"
+draft: "true"
 ---
-
-
 创建一个别名
 bash 环境
 ```bash

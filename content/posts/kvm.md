@@ -1,12 +1,12 @@
 ---
-title: kvm
-heading:  
-date: 2023-10-28T08:47:11.754Z
+title: "kvm"
+keywords: ["教程", "IPMI", "kvm", "WOL", "bios", "Interface", "n1", "USB", "kvm ##", "Intelligent Platform Management"]
+tags: ["教程", "IPMI", "kvm", "WOL", "bios", "Interface", "n1", "USB"]
+description: "如何给普通 PC 实现 ipmi 功能"
 categories: ["code"]
-tags: 
-description:  如何给普通 PC 实现 ipmi 功能
+heading: "kvm"
+date: "2023-10-28T08:47:11.754Z"
 ---
-
 ## 前言
 一些概念
 - IPMI，[Intelligent Platform Management Interface](https://www.bilibili.com/video/BV1FQ4y1f7iT/)

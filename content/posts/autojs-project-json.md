@@ -1,12 +1,12 @@
 ---
-title:  autojs project.json 配置文件详解
-heading: Auto.js 项目打包如何配置文件project.json
-date: 2020-05-07T08:02:33.866Z
+title: "autojs project.json 配置文件详解"
+keywords: ["教程", "autojs", "配置文件详解", "项目打包", "配置文件", "QQ", "project", "json"]
+tags: ["教程", "autojs", "配置文件详解", "项目打包", "配置文件", "QQ"]
+description: "Auto.js 打包的配置文件详解"
 categories: ["code"]
-tags: 
-description: 
+heading: "Auto.js 项目打包如何配置文件project.json"
+date: "2020-05-07T08:02:33.866Z"
 ---
-
 Auto.js 打包的配置文件详解
 
 项目的配置文件为：project.json 

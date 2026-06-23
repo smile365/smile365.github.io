@@ -1,12 +1,12 @@
 ---
-title: 快速搭建nodejs的web脚手架项目
-heading: nodejs 脚手架
-date: 2021-04-12T02:46:58.697Z
-categories: ["other"]
-tags: 
-description: nodejs-web-startapp 
+title: "快速搭建nodejs的web脚手架项目"
+keywords: ["教程", "脚手架", "nodejs", "express", "web", "nodejs npm typscript", "TypeScript", "Express express", "eslint express decorators", "startapp"]
+tags: ["教程", "脚手架", "nodejs", "express", "web", "nodejs npm typscript", "TypeScript", "Express express"]
+description: "nodejs-web-startapp"
+categories: ["code"]
+heading: "nodejs 脚手架"
+date: "2021-04-12T02:46:58.697Z"
 ---
-
 技术栈
 - nodejs
 - npm

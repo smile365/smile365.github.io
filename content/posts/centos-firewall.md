@@ -1,13 +1,12 @@
 ---
-title:  centos打开内网端口
-heading: centos防火墙开启内网所有端口
-date: 2020-04-29T06:55:16.688Z
+title: "centos打开内网端口"
+keywords: ["教程", "centos打开内网端口", "firewall-cmd 命令", "centos", "打开内网端口", "firewall"]
+tags: ["教程", "centos打开内网端口", "firewall-cmd 命令", "centos", "打开内网端口"]
+description: "centos防火墙可以通过以下命令打开一个端口"
 categories: ["code"]
-tags: ["centos打开内网端口","firewall-cmd 命令"]
-description: 
+heading: "centos防火墙开启内网所有端口"
+date: "2020-04-29T06:55:16.688Z"
 ---
-
-
 centos防火墙可以通过以下命令打开一个端口
 ```bash
 firewall-cmd --add-port=8080/tcp

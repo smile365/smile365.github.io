@@ -1,13 +1,12 @@
 ---
-title: 光猫改桥接模式当做交换机使用
-heading: 
-date: 2024-02-22T06:29:27.781Z
+title: "光猫改桥接模式当做交换机使用"
+keywords: ["教程", "H PON01", "user", "cwnpbiC# LOID", "GDHe90106c147 password", "MAC", "HISI72346315 GPON SN", "CMCCAdmin", "modem"]
+tags: ["教程", "H PON01", "user", "cwnpbiC# LOID", "GDHe90106c147 password", "MAC", "HISI72346315 GPON SN", "CMCCAdmin"]
+description: "把光猫改成桥接模式，4 口千兆交换机。"
 categories: ["code"]
-tags: 
-description:  把光猫改成桥接模式，4 口千兆交换机。
+heading: "光猫改桥接模式当做交换机使用"
+date: "2024-02-22T06:29:27.781Z"
 ---
-
-
 ## 前言
 每次装宽带都送光猫+电视盒子，有好多废弃的光猫，索性改成千兆交换机使用。
 

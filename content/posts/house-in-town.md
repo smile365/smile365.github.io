@@ -1,12 +1,12 @@
 ---
-title: 《城里的房子》读后感
-heading: 贷款买房划算还是全款买房划算
-date: 2020-05-16T02:42:07.826Z
+title: "《城里的房子》读后感"
+keywords: ["生活", "城里的房子", "读后感", "house", "town"]
+tags: ["生活", "城里的房子", "读后感"]
+description: "年轻人别再贷款买房了，贷款买房和全款买房哪个划算。贷款买房划算吗?谁吃了亏?"
 categories: ["life"]
-tags: 
-description: 年轻人别再贷款买房了，贷款买房和全款买房哪个划算。贷款买房划算吗?谁吃了亏?
+heading: "贷款买房划算还是全款买房划算"
+date: "2020-05-16T02:42:07.826Z"
 ---
-
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1589691612638.png)
 
 读《城里的房子》，摘录部分书中的观点和我的看法：

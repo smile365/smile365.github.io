@@ -1,13 +1,13 @@
 ---
-title: personal-media-center-v0.2
-heading:  
-date: 2023-04-15T05:47:42.629Z
+title: "personal-media-center-v0.2"
+keywords: ["教程", "personal media center", "v1 transmission", "nastools", "v2 samba", "smb", "IINA", "v3 alist", "transmission", "personal"]
+tags: ["教程", "personal media center", "v1 transmission", "nastools", "v2 samba", "smb", "IINA", "v3 alist"]
+description: "v1 - transmission, 可以下载电影 - nastools, 可以签到、刷下载量"
 categories: ["code"]
-draft: true
-tags: 
-description:  
+heading: "personal-media-center-v0.2"
+date: "2023-04-15T05:47:42.629Z"
+draft: "true"
 ---
-
 ## v1
 - transmission, 可以下载电影
 - nastools, 可以签到、刷下载量

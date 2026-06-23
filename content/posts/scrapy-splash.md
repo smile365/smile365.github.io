@@ -1,12 +1,12 @@
 ---
-title:  scrapy-splash与scrapy-redis的使用
-heading:  
-date: 2020-07-24T06:35:35.553Z
+title: "scrapy-splash与scrapy-redis的使用"
+keywords: ["教程", "docker", "redis", "scrapy splash", "scrapy redis", "splash", "pip install scrapy", "scrapy"]
+tags: ["教程", "docker", "redis", "scrapy splash", "scrapy redis", "splash", "pip install scrapy"]
+description: "scrapy-splash"
 categories: ["code"]
-tags: 
-description: scrapy-splash
+heading: "scrapy-splash与scrapy-redis的使用"
+date: "2020-07-24T06:35:35.553Z"
 ---
-
 先安装[docker](http://sxy91.com/posts/docker) 
 安装并运行splash：  
 ```bash

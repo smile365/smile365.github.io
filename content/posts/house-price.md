@@ -1,12 +1,12 @@
 ---
-title:  房价
-heading: House price
-date: 2020-05-13T04:44:33.366Z
+title: "房价"
+keywords: ["生活", "房价", "House price", "GDP", "ETF", "house", "price"]
+tags: ["生活", "房价", "House price", "GDP", "ETF"]
+description: "一、农村、县、地级市、省会城市、新一线、一线城市，人口会如何变化？**"
 categories: ["life"]
-tags: 
-description: 
+heading: "House price"
+date: "2020-05-13T04:44:33.366Z"
 ---
-
 **一、农村、县、地级市、省会城市、新一线、一线城市，人口会如何变化？**
 
 2020年中国的城镇化率为60%，预估未来30年会逐渐达到80%的城镇化率，城镇化率每年约增加1%。农村人口中的一半将会转化为城镇人口，这一半其中有20%去了县城、有20%去了地级市、有40%去了省会、有20%去了一线城市。

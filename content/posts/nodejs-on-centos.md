@@ -1,12 +1,12 @@
 ---
-title:  nodejs安装教程
-heading: 在macos、windows、centos7安装nodejs
-date: 2019-12-12T08:55:06.812Z
+title: "nodejs安装教程"
+keywords: ["教程", "nodejs", "windows", "centos7", "npm", "macos", "LTS", "nodejs release", "centos"]
+tags: ["教程", "nodejs", "windows", "centos7", "npm", "macos", "LTS", "nodejs release"]
+description: "nodejs 一般每年会升级两个大版本，偶数版是生产可用的版本（LTS），具体版本生命周期可查看 nodejs-release"
 categories: ["code"]
-tags: 
-description: 
+heading: "在macos、windows、centos7安装nodejs"
+date: "2019-12-12T08:55:06.812Z"
 ---
-
 ## nodejs 版本选择
 
 nodejs 一般每年会升级两个大版本，偶数版是生产可用的版本（LTS），具体版本生命周期可查看 [nodejs-release](https://github.com/nodejs/release#release-schedule)

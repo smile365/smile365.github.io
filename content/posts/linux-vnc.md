@@ -1,10 +1,11 @@
 ---
 title: "linux-vnc 远程桌面使用"
-heading:  linux 远程桌面
-date: 2023-03-03T08:46:05.976Z
+keywords: ["教程", "linux", "远程桌面使用", "远程桌面", "RDP", "RFB", "VNC", "TigerVNC", "linux vnc", "remote desktop protocol"]
+tags: ["教程", "linux", "远程桌面使用", "远程桌面", "RDP", "RFB", "VNC", "TigerVNC"]
+description: "linux-vnc-remote desktop protocol"
 categories: ["code"]
-tags: 
-description:   linux-vnc-remote desktop protocol
+heading: "linux 远程桌面"
+date: "2023-03-03T08:46:05.976Z"
 ---
 ## 前言
 常用的远程桌面管理协议有以下 2 种：

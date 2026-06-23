@@ -1,12 +1,12 @@
 ---
-title:  有关武汉最热门的3个谣言，你是否转发过？
-heading: 
-date: 2020-01-25T10:17:09.738Z
+title: "有关武汉最热门的3个谣言，你是否转发过？"
+keywords: ["生活", "你是否转发过", "Benjamin Chris", "ps", "wuhan"]
+tags: ["生活", "你是否转发过", "Benjamin Chris", "ps"]
+description: "视频造假越来月简单，你看到的听到的不一定真实"
 categories: ["life"]
-tags: 
-description:  视频造假越来月简单，你看到的听到的不一定真实
+heading: "有关武汉最热门的3个谣言，你是否转发过？"
+date: "2020-01-25T10:17:09.738Z"
 ---
-
 ![题图 Benjamin Chris](https://gitee.com/smile365/blogimg/raw/master/sxy91/1580013643544.png)
 
 > ps:2月18日更新，昨天看到一个新闻《导演常凯全家因新冠肺炎去世》（公众号「下课了」回复「武汉」两个字可查看）

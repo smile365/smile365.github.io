@@ -1,14 +1,12 @@
 ---
-title:  定义定时任务框架优劣势对比
-heading:  
-date: 2022-12-30T14:40:41.101Z
-tags: 
+title: "定义定时任务框架优劣势对比"
+keywords: ["教程", "Timer", "Elastic Job", "PowerJob", "CRON", "Spring Task", "Spring", "Scheduled", "node schedule", "schedule"]
+tags: ["教程", "Timer", "Elastic Job", "PowerJob", "CRON", "Spring Task", "Spring", "Scheduled"]
+description: "单机定时任务 ### 1. Spring Task 通过 Spring 提供的 @Scheduled 注解即可定义定时任务."
 categories: ["code"]
-Description:  
+heading: "定义定时任务框架优劣势对比"
+date: "2022-12-30T14:40:41.101Z"
 ---
-
-
-
 ## 单机定时任务
 ### 1. Spring Task
 通过 Spring 提供的 `@Scheduled` 注解即可定义定时任务.

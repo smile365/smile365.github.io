@@ -1,14 +1,12 @@
 ---
-title: airpods
-heading:  
-date: 2023-03-03T05:39:57.814Z
-categories: ["other"]
-tags: 
-description:  
+title: "airpods"
+keywords: ["阅读", "cm", "airpods", "siri", "airpod", "Designed by Apple", "in California", "airpods airpod"]
+tags: ["阅读", "cm", "airpods", "siri", "airpod", "Designed by Apple", "in California"]
+description: "包装部分 1. 包装与正品不符，正品左右两侧有苹果 logo 标志，前面有产生信息，后面有 AirPods 标志。"
+categories: ["read"]
+heading: "airpods"
+date: "2023-03-03T05:39:57.814Z"
 ---
-
-
-
 airpod 耳机
 
 ## 包装部分

@@ -1,12 +1,12 @@
 ---
-title:  CDH-kafka创建主题
-heading: 基于cdh安装的kafka集群如何在Cloudera Manager管理界面创建主题topic
-date: 2020-06-03T03:00:16.652Z
+title: "CDH-kafka创建主题"
+keywords: ["教程", "Cloudera Manager", "kafka", "topic", "ssh", "创建主题", "基于 安装的 集群", "在 管理界面创建主题", "CDH kafka", "cdh"]
+tags: ["教程", "Cloudera Manager", "kafka", "topic", "ssh", "创建主题", "基于 安装的 集群", "在 管理界面创建主题"]
+description: "大数据平台相关 kafka 工具的使用教程"
 categories: ["code"]
-tags: ["Cloudera Manager","kafka","topic"]
-description: 大数据平台相关 kafka 工具的使用教程
+heading: "基于cdh安装的kafka集群如何在Cloudera Manager管理界面创建主题topic"
+date: "2020-06-03T03:00:16.652Z"
 ---
-
 目前官网cdh最新版为：Cloudera Manager 7.1.1，不知道是否提供创建kafka主题的便捷操作界面。
 
 我用的版本为：CDH 6.2.0，打开网页端：`http://localhost:7180/`的管理界面，并没有找到创建主题的按钮或者工具，只能通过命令创建。以下是通过命令创建topic的方法，非常简单。

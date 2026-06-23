@@ -1,12 +1,12 @@
 ---
-title: 发送请求时不同数据发送方式的区别
-heading: 
-date: 2021-03-17T10:57:00.062Z
-categories: ["other"]
-tags: 
-description: 发送请求时不同数据发送方式的区别,request-content-type 
+title: "发送请求时不同数据发送方式的区别"
+keywords: ["教程", "Postman", "header body", "decorators", "di", "express", "request", "content", "type"]
+tags: ["教程", "Postman", "header body", "decorators", "di", "express"]
+description: "发送请求时不同数据发送方式的区别,request-content-type"
+categories: ["code"]
+heading: "发送请求时不同数据发送方式的区别"
+date: "2021-03-17T10:57:00.062Z"
 ---
-
 不同类型的接收
 
 Postman 发送不同数据的方式

@@ -1,14 +1,13 @@
 ---
-title:  iphone-backup
-heading:  
-date: 2024-02-22T09:39:22.720Z
+title: "iphone-backup"
+keywords: ["教程", "iphone backup", "iphone backup ##", "iphone", "backup"]
+tags: ["教程", "iphone backup"]
+description: "项目 - 微信：聊天记录、通讯录新的朋友、标签、支付记录。"
 categories: ["code"]
-tags: 
-draft: true
-description:  
+heading: "iphone-backup"
+date: "2024-02-22T09:39:22.720Z"
+draft: "true"
 ---
-
-
 ## 项目
 - 微信：聊天记录、通讯录新的朋友、标签、支付记录。
 - 相册：照片、视频、最近删除。

@@ -1,12 +1,12 @@
 ---
 title: "airflow 开源工作流管理平台使用教程"
-heading:  
-date: 2023-03-21T02:21:54.378Z
+keywords: ["教程", "Python", "开源工作流管理平台", "Airflow", "Airbnb", "drag", "Apache", "prerequisites", "Apache Airflow"]
+tags: ["教程", "Python", "开源工作流管理平台", "Airflow", "Airbnb", "drag", "Apache", "prerequisites"]
+description: "Apache Airflow 是用于数据工程管道的开源工作流管理平台。"
 categories: ["code"]
-tags: 
-description:  
+heading: "airflow 开源工作流管理平台使用教程"
+date: "2023-03-21T02:21:54.378Z"
 ---
-
 ## 前言
 
 Apache [Airflow](https://airflow.apache.org/docs/apache-airflow/stable/index.html) 是用于数据工程管道的开源工作流管理平台。它于2014年10月在Airbnb启动，是管理公司日益复杂的工作流程的解决方案。通过创建Airflow，Airbnb可以通过编程方式编写和计划其工作流程，并通过内置的Airflow用户界面对其进行监控。

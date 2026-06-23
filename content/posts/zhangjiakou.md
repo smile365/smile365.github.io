@@ -1,13 +1,12 @@
 ---
-title:  张家口游记
-heading: 张北草原天路游记-2020年8月22日
-date: 2020-08-20T02:06:06.690Z
+title: "张家口游记"
+keywords: ["生活", "张家口游记", "张北草原天路游记", "月 日", "zhangjiakou"]
+tags: ["生活", "张家口游记", "张北草原天路游记", "月 日"]
+description: "zhangjiakou"
 categories: ["life"]
-tags: 
-description:  zhangjiakou
+heading: "张北草原天路游记-2020年8月22日"
+date: "2020-08-20T02:06:06.690Z"
 ---
-
-
 北京 --> 张家口（1h）：火车¥83。
 张家口（1h）：吃饭，租车¥304。
 张家口 --> 草原天路起点（1h）：自驾。

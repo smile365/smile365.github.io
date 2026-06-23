@@ -1,12 +1,13 @@
 ---
-title:  大话大数据
-date: 2019-03-08T02:29:21.561Z
-tags: ["code","it"]
-series: ["blog"]
+title: "大话大数据"
+keywords: ["教程", "code", "it", "大话大数据", "hdfs", "hadoop", "mapreduce", "Google", "Google file system", "Google MapReduce"]
+tags: ["教程", "code", "it", "大话大数据", "hdfs", "hadoop", "mapreduce", "Google"]
+description: "一、大数据的前世今生 计算机的基础避不开4大问题：数据输入、计算、存储 、查询。大数据技术本质上就是在大量计算机构成的结构中解决这4个核心问题。"
 categories: ["code"]
-description:
+heading: "大话大数据"
+date: "2019-03-08T02:29:21.561Z"
+series: ["blog"]
 ---
-
 一、大数据的前世今生
 计算机的基础避不开4大问题：数据输入、计算、存储
 、查询。大数据技术本质上就是在大量计算机构成的结构中解决这4个核心问题。

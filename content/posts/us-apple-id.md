@@ -1,12 +1,12 @@
 ---
-title: us-apple-id
-heading:  26 年 6 月注册美区 Apple id 教程
-date: 2026-05-21T01:06:22.000Z
-tags: 
+title: "us-apple-id"
+keywords: ["生活", "年 月注册美区", "id", "AppStore", "Apple id", "icloud", "App Store", "us apple id", "apple"]
+tags: ["生活", "年 月注册美区", "id", "AppStore", "Apple id", "icloud", "App Store", "us apple id"]
+description: "注册美区苹果 id 的关键是你提交的资料看起来是否像一个正常的美国人。"
 categories: ["life"]
-Description:  
+heading: "26 年 6 月注册美区 Apple id 教程"
+date: "2026-05-21T01:06:22.000Z"
 ---
-
 ## 注册美区 Apple id
 
 注册美区苹果 id 的关键是你提交的资料看起来是否像一个正常的美国人。比如：

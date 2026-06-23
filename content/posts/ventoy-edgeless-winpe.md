@@ -1,12 +1,12 @@
 ---
-title: ventoy-edgeless-winpe
-heading: 使用 ventoy+edgeless 制作一款万能 winPE u盘启动工具
-date: 2022-04-29T10:56:08.974Z
-categories: ["other"]
-tags: 
-description: winPE
+title: "ventoy-edgeless-winpe"
+keywords: ["教程", "ventoy", "Edgeless", "iso", "PE", "ventoy edgeless winpe", "ventoy+edgeless", "winpe"]
+tags: ["教程", "ventoy", "Edgeless", "iso", "PE", "ventoy edgeless winpe", "ventoy+edgeless"]
+description: "前言 经常需要装机，可以通过 ventoy 工具来制作一个万能的系统安装 u 盘。"
+categories: ["code"]
+heading: "使用 ventoy+edgeless 制作一款万能 winPE u盘启动工具"
+date: "2022-04-29T10:56:08.974Z"
 ---
-
 ## 前言
 经常需要装机，可以通过 [ventoy](https://wiki.edgeless.top/v2/guide/burn_manual.html) 工具来制作一个万能的系统安装 u 盘。
 只需要把 iso 镜像文件拷贝进入到 u 盘里，从 u 盘安装系统时，ventoy 会扫描 U 盘里的所有 iso 系统文件，以供选择进行安装。

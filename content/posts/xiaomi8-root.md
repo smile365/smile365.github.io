@@ -1,12 +1,12 @@
 ---
-title: 2022 年小米手机 8 获取 root 权限刷机教程
-heading: 2022年小米手机8获取root权限刷机教程
-date: 2021-12-27T06:54:25.581Z
+title: "2022 年小米手机 8 获取 root 权限刷机教程"
+keywords: ["教程", "root", "Magisk", "mac", "HZ", "img", "apk", "adb push", "xiaomi8"]
+tags: ["教程", "root", "Magisk", "mac", "HZ", "img", "apk", "adb push"]
+description: "Unlock bootloader of xiaomi devices on mac"
 categories: ["code"]
-tags: 
-description: Unlock bootloader of xiaomi devices on mac
+heading: "2022年小米手机8获取root权限刷机教程"
+date: "2021-12-27T06:54:25.581Z"
 ---
-
 在苹果mac系统下root小米8手机
 
 

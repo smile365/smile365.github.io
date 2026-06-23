@@ -1,12 +1,13 @@
 ---
-title: 微信pc端和移动端多开的几种方法 
-date: 2018-08-10T06:32:54.129Z
-tags: ["微信多开"]
+title: "微信pc端和移动端多开的几种方法"
+keywords: ["阅读", "微信多开", "Linux", "Android", "python", "微信 端", "移动端多开的几种", "pc", "mac", "shell cd"]
+tags: ["阅读", "微信多开", "Linux", "Android", "python", "微信 端", "移动端多开的几种", "pc"]
+description: "数据备份 微信聊天记录、通话记录、短信记录、录音、拍照、截屏、录像。"
+categories: ["read"]
+heading: "微信pc端和移动端多开的几种方法"
+date: "2018-08-10T06:32:54.129Z"
 series: ["blog"]
-categories: ["code"]
-description: 微信多开
 ---
-
 数据备份  
 微信聊天记录、通话记录、短信记录、录音、拍照、截屏、录像。
 

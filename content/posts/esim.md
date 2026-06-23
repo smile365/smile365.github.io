@@ -1,13 +1,13 @@
 ---
-title: esim
-heading:  
-date: 2026-06-04T14:35:07.884Z
-tags: 
-draft: true
+title: "esim"
+keywords: ["生活", "esim", "sim", "club esim", "easyeUICC", "IMEI"]
+tags: ["生活", "esim", "sim", "club esim", "easyeUICC", "IMEI"]
+description: "添加香港 club esim 卡："
 categories: ["life"]
-Description:  
+heading: "esim"
+date: "2026-06-04T14:35:07.884Z"
+draft: "true"
 ---
-
 添加香港 club esim 卡：
 
 1. 把空白的 sim 卡插入手机

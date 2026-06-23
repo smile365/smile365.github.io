@@ -1,13 +1,12 @@
 ---
 title: "macOS 安装 maven"
-heading:  
-date: 2022-12-22T02:46:22.351Z
-tags: 
+keywords: ["教程", "idea", "maven", "macOS", "m2", "aliyun", "maven idea", "conf", "maven ## macOS"]
+tags: ["教程", "idea", "maven", "macOS", "m2", "aliyun", "maven idea", "conf"]
+description: "macOS 安装 maven idea 自带 maven 但是不方便配置镜像站，建议重新安装。"
 categories: ["code"]
-Description:  
+heading: "macOS 安装 maven"
+date: "2022-12-22T02:46:22.351Z"
 ---
-
-
 ## macOS 安装 maven
 idea 自带 maven 但是不方便配置镜像站，建议重新安装。
 ```bash

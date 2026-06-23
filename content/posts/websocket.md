@@ -1,10 +1,11 @@
 ---
 title: "java 实现 websocket 鉴权、安全、心跳检测"
-heading:  
-date: 2023-02-09T01:32:46.548Z
-tags: 
+keywords: ["教程", "实现 鉴权", "安全", "心跳检测", "websocket", "server", "ticket", "java", "client"]
+tags: ["教程", "实现 鉴权", "安全", "心跳检测", "websocket", "server", "ticket", "java"]
+description: "前言 http 协议是一种“被动式”的协议，只能通过 client 主动找 server 拉取数据，无法做到数据变化 server 立刻给 client 主动推送数据。"
 categories: ["code"]
-Description:  
+heading: "java 实现 websocket 鉴权、安全、心跳检测"
+date: "2023-02-09T01:32:46.548Z"
 ---
 ## 前言
 http 协议是一种“被动式”的协议，只能通过 client 主动找 server 拉取数据，无法做到数据变化 server  立刻给 client 主动推送数据。使用 WebSocket 长链接协议可以优雅的解决服务端主动给客户端推送数据的问题。

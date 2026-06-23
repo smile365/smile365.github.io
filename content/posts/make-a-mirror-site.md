@@ -1,12 +1,12 @@
 ---
-title: centos搭建软件安装镜像站
-date: 2019-05-29T06:21:08.071Z
-tags: 
- - mirror site
-categories: 
- - code
+title: "centos搭建软件安装镜像站"
+keywords: ["教程", "mirror site", "CentOS", "搭建软件安装镜像站", "name", "gpgcheck", "tar vxzf tunasync", "cd", "home", "make"]
+tags: ["教程", "mirror site", "CentOS", "搭建软件安装镜像站", "name", "gpgcheck", "tar vxzf tunasync", "cd"]
+description: "下载tunasync-linux-bin.tar.gz 解压：tar vxzf tunasync-linux-bin.tar.gz"
+categories: ["code"]
+heading: "centos搭建软件安装镜像站"
+date: "2019-05-29T06:21:08.071Z"
 ---
-
 下载[tunasync-linux-bin.tar.gz](https://github.com/tuna/tunasync/releases)
 解压：`tar vxzf tunasync-linux-bin.tar.gz`
 

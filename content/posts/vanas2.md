@@ -1,14 +1,13 @@
 ---
-title: vanas2
-heading:  
-date: 2023-04-06T00:51:11.503Z
+title: "vanas2"
+keywords: ["教程", "vanas2", "failed to query", "namespace id", "Quick Start"]
+tags: ["教程", "vanas2", "failed to query", "namespace id", "Quick Start"]
+description: "报错了，参考 failed to query namespace id: rpc error vanus.core.proxy.ControllerProxy"
 categories: ["code"]
-draft: true
-tags: 
-description:  
+heading: "vanas2"
+date: "2023-04-06T00:51:11.503Z"
+draft: "true"
 ---
-
-
 ```bash
 docker pull linkall.tencentcloudcr.com/vanus/all-in-one:latest
 

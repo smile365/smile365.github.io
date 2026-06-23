@@ -1,12 +1,12 @@
 ---
-title:  linuxdeploy
-heading: 安卓刷入 linux 系统当做服务器
-date: 2023-07-23T22:13:00.474Z
-tags: 
-categories: ["code"] 
+title: "linuxdeploy"
+keywords: ["教程", "linux", "ROOT", "recovery", "twrp", "linuxdeploy", "BL", "YQ601+YQ607", "linuxdeploy ##"]
+tags: ["教程", "linux", "ROOT", "recovery", "twrp", "linuxdeploy", "BL", "YQ601+YQ607"]
+description: "前提条件 1. 一台安卓手机 2. 刷机获取 root 权限"
+categories: ["code"]
+heading: "安卓刷入 linux 系统当做服务器"
+date: "2023-07-23T22:13:00.474Z"
 ---
-
-
 ## 前言
 
 旧手机没用了，旧物利用一下。

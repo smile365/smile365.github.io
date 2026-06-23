@@ -1,12 +1,12 @@
 ---
-title:  什么是CUDA
-heading: CUDA是什么
-date: 2020-05-12T06:00:45.070Z
+title: "什么是CUDA"
+keywords: ["教程", "什么是", "GPU", "CUDA", "CPU", "Compute Unified Device", "Architecture"]
+tags: ["教程", "什么是", "GPU", "CUDA", "CPU", "Compute Unified Device", "Architecture"]
+description: "CPU**：中央处理器，主要为串行指令而优化（大白话：相应速度快）。"
 categories: ["code"]
-tags: 
-description: 
+heading: "CUDA是什么"
+date: "2020-05-12T06:00:45.070Z"
 ---
-
 **CPU**：中央处理器，主要为串行指令而优化（大白话：相应速度快）。
 **GPU**：图形处理器，大规模的并行运算而优化（大白话：能同时处理大规模数据计算）。GPU显示芯片、显卡等。一般有集成（嵌在主板上）和非集成（可插拔）两种。后者自然需要一套软件来让CPU操作GPU。这个软件程序自然就叫**显卡驱动**。软件需要编译，自然跟操作系统有一腿，因此即使同样型号的显卡在不同操作系统一般需要的驱动也不一样。
 

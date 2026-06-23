@@ -1,12 +1,12 @@
 ---
-title:  2021年最新港股打新攻略教程
-heading: 2021年最新港股打新攻略教程
-date: 2021-01-06T03:20:01.902Z
-categories: ["other"]
-tags: 
-description: 港股打新攻略，适合港股打新的5大港股券商对比评测。hong-kong-ipo
+title: "2021年最新港股打新攻略教程"
+keywords: ["教程", "港股打新攻略", "SIB", "day1 xxx", "APP", "day2 yyy", "day3 xx", "day4 xx", "hong", "kong"]
+tags: ["教程", "港股打新攻略", "SIB", "day1 xxx", "APP", "day2 yyy", "day3 xx", "day4 xx"]
+description: "港股打新攻略，适合港股打新的5大港股券商对比评测。hong-kong-ipo"
+categories: ["code"]
+heading: "2021年最新港股打新攻略教程"
+date: "2021-01-06T03:20:01.902Z"
 ---
-
 第一章: 开户，支持港股打新券商对比推荐
 尊嘉金融、华泰国际、老虎证券、富途证券
 

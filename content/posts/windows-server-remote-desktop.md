@@ -1,12 +1,12 @@
 ---
-title:  windows server 2012 配置多个账户实现多用户同时登录远程桌面
-heading: windows server 2012 配置多个账户实现多用户同时登录远程桌面
-date: 2020-06-16T06:23:19.495Z
+title: "windows server 2012 配置多个账户实现多用户同时登录远程桌面"
+keywords: ["教程", "windows server 2012", "windows", "Internet Explorer", "mstsc", "admin", "htt", "server", "remote"]
+tags: ["教程", "windows server 2012", "windows", "Internet Explorer", "mstsc", "admin"]
+description: "windows server 2012 r2 multiple remote desktop sessions"
 categories: ["code"]
-tags: 
-description:  windows server 2012 r2 multiple remote desktop sessions
+heading: "windows server 2012 配置多个账户实现多用户同时登录远程桌面"
+date: "2020-06-16T06:23:19.495Z"
 ---
-
 配置组策略
 
 右键左下角的windows，点击"运行"，输入“gpedit.msc”回车。

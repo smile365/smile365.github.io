@@ -1,13 +1,14 @@
 ---
-title: 新手mac配置指南
-date: 2018-07-25T02:18:57.330Z
-tags: ["code","it"]
-series: ["blog"]
+title: "新手mac配置指南"
+keywords: ["教程", "code", "it", "新手 配置", "mac", "gui", "Homebrew Cask", "Homebrew", "brew"]
+tags: ["教程", "code", "it", "新手 配置", "mac", "gui", "Homebrew Cask", "Homebrew"]
+description: "用来安装gui程序。 > 安装完最新版Homebrew自带Homebrew Cask，或者执行brew cask命令自动安装"
 categories: ["code"]
-draft: true
-description:
+heading: "新手mac配置指南"
+date: "2018-07-25T02:18:57.330Z"
+draft: "true"
+series: ["blog"]
 ---
-
 [安装brew](https://brew.sh/index_zh-cn)
 
 用来安装非gui程序。

@@ -1,12 +1,12 @@
 ---
 title: "如何成为 chrome 浏览器插件开发者"
-heading:  
-date: 2024-01-03T13:46:36.930Z
+keywords: ["教程", "chrome", "Visa", "JCB", "MasterCard", "Amex", "Discover Card", "PingPong", "developer"]
+tags: ["教程", "chrome", "Visa", "JCB", "MasterCard", "Amex", "Discover Card", "PingPong"]
+description: "如何上架一个 chrome 插件"
 categories: ["code"]
-tags: 
-description:  如何上架一个 chrome 插件
+heading: "如何成为 chrome 浏览器插件开发者"
+date: "2024-01-03T13:46:36.930Z"
 ---
-
 ## 官方文档
 [如何向 Chrome 应用商店提交扩展程序](https://developer.chrome.com/docs/webstore/prepare?hl=zh-cn)
 

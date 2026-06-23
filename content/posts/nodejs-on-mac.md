@@ -1,12 +1,12 @@
 ---
 title: "macos 下 使用 NVM 安装 nodejs"
-heading: 
-date: 2023-08-23T18:16:05.490Z
-categories: ["code"]
-tags: 
-description: 
+keywords: ["阅读", "下 使用 安装", "NVM", "macos", "nodejs", "MacBook Air", "m2", "G MacOS", "nodejs ##", "mac"]
+tags: ["阅读", "下 使用 安装", "NVM", "macos", "nodejs", "MacBook Air", "m2", "G MacOS"]
+description: "MacBook Air：2022 m2, 24G - MacOS：13.4"
+categories: ["read"]
+heading: "macos 下 使用 NVM 安装 nodejs"
+date: "2023-08-23T18:16:05.490Z"
 ---
-
 ## 系统环境
 
 - MacBook Air：2022 m2, 24G

@@ -1,18 +1,14 @@
 ---
-title:  scrapy学习
-date: 2018-07-23T02:09:26.639Z
-tags: ["scrapy"]
+title: "scrapy学习"
+keywords: ["阅读", "scrapy", "redis", "学习", "portia", "Python3", "scrapy cluster", "Cuckoo Filter"]
+tags: ["阅读", "scrapy", "redis", "学习", "portia", "Python3", "scrapy cluster", "Cuckoo Filter"]
+description: "用到的参考资料 - Python3网络爬虫开发实战 - Scrapy0.24 文档 - Scrapy源码分析 - 漫谈：机器学习中距离和相似性度量方法 - 路径相似性描述 -."
+categories: ["read"]
+heading: "scrapy学习"
+date: "2018-07-23T02:09:26.639Z"
+draft: "true"
 series: ["blog"]
-categories: ["code"]
-draft: true
-description:
 ---
-
-
-
-
-
-
 用到的参考资料  
 - [Python3网络爬虫开发实战](https://germey.gitbooks.io/python3webspider/content/)
 - [Scrapy0.24 文档](http://scrapy-chs.readthedocs.io/zh_CN/0.24/index.html)

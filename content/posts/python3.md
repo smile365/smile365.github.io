@@ -1,10 +1,11 @@
 ---
 title: "使用 pyenv 安装 python2"
-heading:  
-date: 2023-02-21T05:55:25.875Z
+keywords: ["教程", "python", "使用 安装", "pyenv", "python2", "apt", "python pyenv", "The TLS connection", "python2 ##", "python3"]
+tags: ["教程", "python", "使用 安装", "pyenv", "python2", "apt", "python pyenv", "The TLS connection"]
+description: "GnuTLS recv error GnuTLS recv error (-110): The TLS connection was non-properly terminat."
 categories: ["code"]
-tags: 
-description:  
+heading: "使用 pyenv 安装 python2"
+date: "2023-02-21T05:55:25.875Z"
 ---
 ## 使用 apt 安装 python
 ```bash

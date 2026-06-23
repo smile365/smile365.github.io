@@ -1,12 +1,12 @@
 ---
-title: 如何安装google play服务
-heading: 华为/小米等安卓手机一键安装google play服务方法教程
-tags: ["google play"]
-date: 2018-06-01
+title: "如何安装google play服务"
+keywords: ["教程", "google play", "Android", "安装 服务", "华为", "小米等安卓手机", "x86", "DPI", "Pico", "google service framework"]
+tags: ["教程", "google play", "Android", "安装 服务", "华为", "小米等安卓手机", "x86", "DPI"]
+description: "安卓手机如何安装Google服务教程。"
 categories: ["code"]
-description: 安卓手机如何安装Google服务教程。
+heading: "华为/小米等安卓手机一键安装google play服务方法教程"
+date: "2018-06-01"
 ---
-
 ## 2022年03月07日
 之前的方法失效了，请参考[教程](https://www.makeuseof.com/tag/install-gapps-android/)，选择 Pico 
 

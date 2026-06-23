@@ -1,12 +1,12 @@
 ---
-title:  码农作家王小波
-heading:  
-date: 2023-02-08T11:37:13.937Z
-tags: 
+title: "码农作家王小波"
+keywords: ["生活", "码农作家王小波", "wangxiaobo"]
+tags: ["生活", "码农作家王小波"]
+description: "王小波 1952 年出生于一个知识分子家庭。"
 categories: ["life"]
-Description:  
+heading: "码农作家王小波"
+date: "2023-02-08T11:37:13.937Z"
 ---
-
 ## 王小波
 1952 年出生于一个知识分子家庭。
 1968 年~1970 年作为“知青”下放于云南农场。

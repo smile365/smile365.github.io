@@ -1,14 +1,12 @@
 ---
-title: 使用hugo创建自己的blog
-date: 2018-07-04
-tags:
- - hugo
- - bloger
- - centos
+title: "使用hugo创建自己的blog"
+keywords: ["教程", "hugo", "bloger", "centos", "使用 创建自己", "blog", "Blackfriday", "Mac", "blog ###"]
+tags: ["教程", "hugo", "bloger", "centos", "使用 创建自己", "blog", "Blackfriday", "Mac"]
+description: "如果 安装不成功，可以直接下载二进制文件安装 下载并解压后。"
 categories: ["code"]
-
+heading: "使用hugo创建自己的blog"
+date: "2018-07-04"
 ---
-
 ### 安装
 
 Centos 系统安装方法：

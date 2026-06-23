@@ -1,6 +1,11 @@
-
-
-
+---
+title: "如何使用 arthas 分析 java oom 问题"
+keywords: ["教程", "INFO", "ps", "java", "使用 分析 问题", "arthas", "java oom", "OOMKilled"]
+tags: ["教程", "INFO", "ps", "java", "使用 分析 问题", "arthas", "java oom", "OOMKilled"]
+description: "一个 spring boot 的容器经常被重启。原因是 OOMKilled。"
+categories: ["code"]
+heading: "如何使用 arthas 分析 java oom 问题"
+---
 # 如何使用 arthas 分析 java oom 问题
 
 ## 前言

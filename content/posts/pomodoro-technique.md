@@ -1,14 +1,13 @@
 ---
-title:  番茄工作法
-heading: 
-date: 2020-01-28T03:07:23.938Z
+title: "番茄工作法"
+keywords: ["生活", "番茄工作法", "pomodoro", "technique"]
+tags: ["生活", "番茄工作法"]
+description: "番茄工作法只有当被用作估算和评估工作的工具使用，才能发挥它真正的威力。"
 categories: ["life"]
-draft: true
-tags: 
-description: 
+heading: "番茄工作法"
+date: "2020-01-28T03:07:23.938Z"
+draft: "true"
 ---
-
-
  - 预估和评估工作量
 
 番茄工作法只有当被用作估算和评估工作的工具使用，才能发挥它真正的威力。

@@ -1,14 +1,13 @@
 ---
-title: tf-card 卡的格式
-heading: 
-date: 2023-05-26T20:18:42.169Z
+title: "tf-card 卡的格式"
+keywords: ["教程", "卡的格式", "tf card", "UHS", "UHS I", "UHS II", "UHS III", "card"]
+tags: ["教程", "卡的格式", "tf card", "UHS", "UHS I", "UHS II", "UHS III"]
+description: "如何选购 tf 内存卡 Micro SD/TF 存储卡"
 categories: ["code"]
-draft: true
-tags: 
-description: 如何选购 tf 内存卡  Micro SD/TF 存储卡
+heading: "tf-card 卡的格式"
+date: "2023-05-26T20:18:42.169Z"
+draft: "true"
 ---
-
-
 UHS
 
 

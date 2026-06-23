@@ -1,12 +1,12 @@
 ---
-title:  2020年高考填报指南如何获取资料
-heading: 2020年高考填报指南如何获取资料
-date: 2020-07-31T02:08:09.359Z
-categories: ["other"]
-tags: 
-description: 
+title: "2020年高考填报指南如何获取资料"
+keywords: ["生活", "高考填报", "获取资料", "site", "university"]
+tags: ["生活", "高考填报", "获取资料", "site"]
+description: "谷歌搜索、百度搜索、微信搜索（搜狗搜索）"
+categories: ["life"]
+heading: "2020年高考填报指南如何获取资料"
+date: "2020-07-31T02:08:09.359Z"
 ---
-
 #### 听大多数人的话
 
 谷歌搜索、百度搜索、微信搜索（搜狗搜索）

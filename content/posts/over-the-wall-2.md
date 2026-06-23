@@ -1,11 +1,12 @@
 ---
-title: 最新科学上网教程(2020年) 
-date: 2019-11-01T03:31:23.730Z
-tags: ["科学上网"]
+title: "最新科学上网教程(2020年)"
+keywords: ["科学上网", "kcptun", "ss", "vps", "udp", "shadowsocks", "tcp", "socket", "cdn", "over"]
+tags: ["科学上网", "kcptun", "ss", "vps", "udp", "shadowsocks", "tcp", "socket"]
+description: "防火墙阻断了大多数异常的tcp连接，因此需要新的方式上网了。目前比较可行的是udp/socket/cdn三种方式。本教程使用udp方式，稍后更新其他方式。"
 categories: ["tools"]
-description: 
+heading: "最新科学上网教程(2020年)"
+date: "2019-11-01T03:31:23.730Z"
 ---
-
 防火墙阻断了大多数异常的tcp连接，因此需要新的方式上网了。目前比较可行的是udp/socket/cdn三种方式。本教程使用udp方式，稍后更新其他方式。
 
 ### 准备工作

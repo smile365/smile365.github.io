@@ -1,15 +1,13 @@
 ---
-title:  redis配置布隆过滤
-heading: redis配置布隆过滤器bloom-filter-redis
-date: 2019-08-06T07:12:55.203Z
-tags: 
+title: "redis配置布隆过滤"
+keywords: ["教程", "redis", "配置布隆过滤", "配置布隆过滤器", "bloom filter redis", "vim", "etc", "redis cli", "bloom", "filter"]
+tags: ["教程", "redis", "配置布隆过滤", "配置布隆过滤器", "bloom filter redis", "vim", "etc", "redis cli"]
+description: "使用配置文件加载 vim /etc/redis.conf"
 categories: ["code"]
-draft: true
-description: 
+heading: "redis配置布隆过滤器bloom-filter-redis"
+date: "2019-08-06T07:12:55.203Z"
+draft: "true"
 ---
-
-
-
 下载并编译
 ```bash
 

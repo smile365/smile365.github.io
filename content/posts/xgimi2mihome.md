@@ -1,12 +1,12 @@
 ---
-title: xgimi2mihome
-heading:  
-date: 2025-04-07T12:53:49.491Z
-tags: 
-categories: ["code"]
-Description:  米家控制极米投影仪
+title: "xgimi2mihome"
+keywords: ["阅读", "app", "xgimi2mihome", "usb", "Wireshark", "HCI", "nas", "iclick", "xgimi2mihome ##"]
+tags: ["阅读", "app", "xgimi2mihome", "usb", "Wireshark", "HCI", "nas", "iclick"]
+description: "米家控制极米投影仪"
+categories: ["read"]
+heading: "xgimi2mihome"
+date: "2025-04-07T12:53:49.491Z"
 ---
-
 ## 前言
 入了米家的坑，折腾的越来越多。目前想实现对小爱音箱说“想看电影”的时候，自动关灯，关闭阳台纱帘，下降幕布，打开 nas 的飞牛系统，打开极米投影仪。
 

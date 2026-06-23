@@ -1,12 +1,12 @@
 ---
-title:  如何打造一个有影响力的朋友圈
-heading:  这样读书就够了
-date: 2020-02-24T11:26:21.302Z
+title: "如何打造一个有影响力的朋友圈"
+keywords: ["生活", "这样读书就够", "ta", "fancycrave1", "Pixabay", "ps", "how", "read", "books"]
+tags: ["生活", "这样读书就够", "ta", "fancycrave1", "Pixabay", "ps"]
+description: "读《这样读书就够了》有感"
 categories: ["life"]
-tags: 
-description: 读《这样读书就够了》有感
+heading: "这样读书就够了"
+date: "2020-02-24T11:26:21.302Z"
 ---
-
 ![题图：fancycrave1 出自：Pixabay ](https://gitee.com/smile365/blogimg/raw/master/sxy91/1582626785145.png)
 
 
