@@ -4,7 +4,7 @@ heading: "iPhone手机数据备份完整指南"
 keywords: ["iPhone数据备份", "手机备份清单", "微信聊天记录备份", "iPhone照片备份", "手机数据迁移"]
 tags: ["iPhone", "备份", "数据安全"]
 description: "整理iPhone手机需要备份的数据清单，包括微信聊天记录、相册照片、通讯录等重要数据的备份指南。"
-categories: ["code"]
+categories: ["life"]
 date: "2024-02-22T09:39:22.720Z"
 draft: "true"
 ---

@@ -3,7 +3,7 @@ title: "词云系统设计"
 keywords: ["词云生成", "jieba分词", "InfluxDB数据存储", "Python词云系统", "WordCloud教程"]
 tags: ["词云", "分词", "InfluxDB"]
 description: "使用jieba分词和WordCloud生成词云，结合InfluxDB存储词频数据，打造完整的中文词云系统。"
-categories: ["read"]
+categories: ["code"]
 date: "2019-06-17T05:52:14.535Z"
 ---
 添加[influxdb源](https://docs.influxdata.com/influxdb/v1.7/introduction/installation/),然后安装  

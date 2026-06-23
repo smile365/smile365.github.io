@@ -3,7 +3,7 @@ title: "Orange Pi Zero3 GPIO教程"
 keywords: ["Orange Pi Zero3 GPIO", "OPi.GPIO安装", "wiringOP-Python教程", "Python控制LED", "Orange Pi引脚控制"]
 tags: ["Orange Pi", "GPIO", "LED"]
 description: "介绍在Orange Pi Zero3上安装OPi.GPIO和wiringOP-Python库，通过Python控制GPIO引脚点亮LED的完整过程。"
-categories: ["read"]
+categories: ["code"]
 date: "2024-01-12T15:28:25.319Z"
 ---
 ## 安装 OPi.GPIO

@@ -3,7 +3,7 @@ title: "Facebook数据采集方法"
 keywords: ["Facebook数据采集", "Facebook API采集", "Facebook爬虫", "移动端token采集", "Facebook抓取", "社交平台数据采集"]
 tags: ["Facebook", "数据采集", "爬虫", "API"]
 description: "全面对比Facebook数据采集的三种方式：接口调用、爬虫开发和第三方服务，推荐最稳定高效的移动端token采集方案。"
-categories: ["read"]
+categories: ["code"]
 heading: "Facebook采集"
 date: "2018-10-18T07:09:42.196Z"
 draft: "true"

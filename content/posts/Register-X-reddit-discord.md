@@ -3,7 +3,7 @@ title: "注册X/Reddit/Discord等社交账号"
 keywords: ["注册X账号", "注册reddit", "注册discord", "社交账号注册教程", "外网账号注册", "解决风控"]
 tags: ["注册", "社交账号", "翻墙"]
 description: "海外社交账号注册教程，包括X、Reddit、Discord、Instagram等平台的注册方法和风控规避技巧。"
-categories: ["read"]
+categories: ["code"]
 heading: "注册X/reddit/discord/pinterest/Quora 等社交账号"
 date: "2026-05-23T04:27:57.401Z"
 ---

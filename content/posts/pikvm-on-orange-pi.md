@@ -3,7 +3,7 @@ title: "Orange Pi安装PiKVM"
 keywords: ["Orange Pi Zero3 PiKVM", "KVM远程控制", "Armbian安装PiKVM", "IP KVM搭建", "Orange Pi远程管理"]
 tags: ["PiKVM", "Orange Pi", "远程控制"]
 description: "在Orange Pi Zero3上安装PiKVM实现硬件级远程控制，包含系统烧录、PiKVM安装配置和GPIO引脚设置教程。"
-categories: ["read"]
+categories: ["code"]
 date: "2023-11-19T08:20:08.237Z"
 ---
 ## 所需硬件

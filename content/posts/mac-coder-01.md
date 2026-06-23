@@ -3,7 +3,7 @@ title: "程序员Mac配置指南"
 keywords: ["Mac配置教程", "程序员Mac", "Homebrew安装", "Mac开发工具"]
 tags: ["Mac", "开发环境", "Homebrew"]
 description: "新手程序员使用Mac的配置指南，包括安装Edge浏览器、双拼输入法、开发工具和Homebrew配置。"
-categories: ["read"]
+categories: ["code"]
 date: "2023-02-02T12:50:14.806Z"
 ---
 程序员使用 mac

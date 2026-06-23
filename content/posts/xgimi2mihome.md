@@ -3,7 +3,7 @@ title: "极米投影仪接入米家教程"
 keywords: ["极米投影仪接入米家", "小爱音箱控制投影仪", "蓝牙HCI抓包", "智能家居联动", "xgimi2mihome"]
 tags: ["极米", "米家", "HomeAssistant"]
 description: "通过蓝牙HCI日志抓包分析极米投影仪开机指令，探索多种方案实现小爱音箱语音控制极米投影仪开机的智能家居联动。"
-categories: ["read"]
+categories: ["code"]
 heading: "小爱音箱控制极米投影仪方案"
 date: "2025-04-07T12:53:49.491Z"
 ---

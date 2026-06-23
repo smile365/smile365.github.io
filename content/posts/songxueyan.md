@@ -3,7 +3,7 @@ title: "宋学彦个人简历"
 keywords: ["宋学彦", "个人简历", "软件工程师", "Java开发", "北京求职", "项目经验"]
 tags: ["简历", "个人简介", "软件工程师"]
 description: "宋学彦的个人简历，新疆大学软件工程本科，7年以上Java/Python/Go后端开发经验，曾担任技术组长带领团队开发股票App和数据抓取系统。"
-categories: ["read"]
+categories: ["other"]
 date: "2019-12-29T14:40:26.987Z"
 ---
 # 宋学彦

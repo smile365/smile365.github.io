@@ -3,7 +3,7 @@ title: "MacBook 模拟 NFC 门禁卡操作指南"
 keywords: ["MacBook NFC模拟", "门禁卡复制", "IC卡破解", "Mifare工具", "PN532使用教程", "NFC读卡器"]
 tags: ["NFC", "门禁卡", "M1卡", "PN532"]
 description: "在 MacBook 上使用 PN532 读卡器、mfoc 和 mfcuk 工具破解并模拟 IC 卡（M1 卡）门禁卡的详细操作指南。"
-categories: ["read"]
+categories: ["code"]
 heading: "在 macbook 模拟 NFC 卡门禁卡的简明操作指南教程"
 date: "2023-05-26T20:18:42.169Z"
 ---

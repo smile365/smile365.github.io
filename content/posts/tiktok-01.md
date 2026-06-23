@@ -4,7 +4,7 @@ heading: "安卓下载安装抖音国际版TikTok"
 keywords: ["TikTok国内下载", "抖音国际版安装", "安卓TikTok教程", "TikTok注册", "谷歌三件套"]
 tags: ["TikTok", "教程", "安卓"]
 description: "详细图文教程，教你如何在安卓手机上成功下载并安装抖音国际版TikTok，涵盖拔卡、科学上网、修改定位等完整步骤。"
-categories: ["read"]
+categories: ["code"]
 date: "2020-07-03T11:07:30.486Z"
 ---
 Tiktok的下载和安装，一共分为以下8个步骤：

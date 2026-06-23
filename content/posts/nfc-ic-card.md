@@ -3,7 +3,7 @@ title: "MacBook 破解模拟 NFC 加密卡"
 keywords: ["MacBook NFC破解", "Mifare加密卡", "PN532读卡器", "mfoc教程", "NFC门禁卡模拟"]
 tags: ["NFC", "Mifare", "门禁卡", "macOS"]
 description: "在 macOS 系统下使用 PN532 读卡器和 mfoc 工具破解并模拟 Mifare NFC 加密门禁卡的完整教程。"
-categories: ["read"]
+categories: ["code"]
 heading: "通过手机的 NFC 功能模拟加密的门禁卡"
 date: "2021-09-04T01:08:42.169Z"
 ---

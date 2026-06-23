@@ -3,7 +3,7 @@ title: "科学上网图文教程"
 keywords: ["搬瓦工VPS", "Shadowsocks一键安装", "科学上网新手教程", "VPS翻墙配置", "全平台科学上网"]
 tags: ["科学上网", "搬瓦工", "shadowsocks"]
 description: "面向小白的科学上网图文教程，以搬瓦工VPS为例，通过一键安装Shadowsocks实现全平台翻墙上网。"
-categories: ["tools"]
+categories: ["code"]
 date: "2018-01-26"
 ---
  **科学上网**：指突破"防火长城"的封锁，到国外网络上查找学习资料的过程。

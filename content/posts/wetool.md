@@ -3,7 +3,7 @@ title: "微x工具箱比WeTool更好用"
 keywords: ["WeTool替代", "微x工具箱", "微信僵尸粉检测", "微信清理好友", "微信检测工具"]
 tags: ["WeTool", "微x工具箱", "僵尸粉检测"]
 description: "WeTool无法使用后的替代方案推荐，详细介绍微x工具箱的功能特点和在微信好友清理、僵尸粉检测方面的使用感受。"
-categories: ["life"]
+categories: ["tools"]
 heading: "比wetool好用的软件|微x工具箱"
 date: "2020-05-15T05:16:12.074Z"
 ---

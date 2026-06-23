@@ -3,7 +3,7 @@ title: "门户网站搭建指南"
 keywords: ["门户网站搭建", "地方门户网站", "Dedecms建站", "网站制作教程", "门户网站推广", "网站建设"]
 tags: ["门户网站", "网站建设", "Dedecms"]
 description: "本文介绍如何使用Dedecms搭建门户网站，涵盖网站建设、广告投放和推广方法，帮助新手快速建立自己的地方门户网站。"
-categories: ["life"]
+categories: ["code"]
 date: "2019-12-31T06:57:19.742Z"
 draft: "true"
 ---

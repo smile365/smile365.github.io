@@ -3,7 +3,7 @@ title: "《了不起的盖茨比》到底好在哪里"
 keywords: ["了不起的盖茨比书评", "菲茨杰拉德", "美国文学经典", "爵士时代", "美国梦"]
 tags: ["了不起的盖茨比", "读书", "文学"]
 description: "深度解读《了不起的盖茨比》的叙事技巧和文学价值，分析菲茨杰拉德如何通过独特的视角展现美国梦的幻灭。"
-categories: ["life"]
+categories: ["book"]
 date: "2020-02-15T03:23:34.836Z"
 ---
 ![小李子](https://gitee.com/smile365/blogimg/raw/master/sxy91/1581759132854.png)

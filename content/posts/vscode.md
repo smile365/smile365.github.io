@@ -3,7 +3,7 @@ title: "VSCode入门教程"
 keywords: ["VSCode入门", "VSCode代码片段", "Python模板", "编辑器教程", "VSCode配置", "代码片段设置"]
 tags: ["VSCode", "教程", "Python"]
 description: "本文介绍VSCode的入门使用方法，教你如何创建Python代码片段模板，自定义用户代码片段提高编码效率，适合初学者快速上手Visual Studio Code。"
-categories: ["code", "life", "tools", "read"]
+categories: ["code"]
 date: "2019-12-04T08:13:10.397Z"
 draft: "true"
 ---

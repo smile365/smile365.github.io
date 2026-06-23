@@ -3,7 +3,7 @@ title: "IT工程师简历"
 keywords: ["IT工程师简历", "Java开发简历", "技术简历模板", "程序员简历", "Markdown简历"]
 tags: ["简历", "IT工程师", "Java"]
 description: "使用Markdown语法编写的IT工程师个人简历，展示Java软件工程师的技能栈、工作经历和项目经验。"
-categories: ["code"]
+categories: ["life"]
 heading: "宋学彦"
 date: "2018-01-30"
 ---

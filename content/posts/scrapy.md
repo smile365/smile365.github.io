@@ -3,7 +3,7 @@ title: "scrapy 学习笔记"
 keywords: ["Scrapy 学习教程", "Python 爬虫框架", "Scrapy 入门", "Scrapy 源码分析", "分布式爬虫"]
 tags: ["scrapy", "Python", "爬虫"]
 description: "Scrapy 爬虫框架学习笔记与参考资料汇总，涵盖基础入门到进阶实战的完整路径。"
-categories: ["read"]
+categories: ["code"]
 date: "2018-07-23T02:09:26.639Z"
 draft: "true"
 series: ["blog"]

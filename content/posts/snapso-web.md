@@ -3,7 +3,7 @@ title: "笔直搜（SnapSO）用户操作手册"
 keywords: ["笔直搜 SnapSO", "聚合搜索工具", "搜索效率工具", "多引擎搜索", "SnapSO 使用教程"]
 tags: ["SnapSO", "聚合搜索", "用户手册"]
 description: "笔直搜（SnapSO）聚合搜索产品的用户操作手册，涵盖聚合搜索、个性化导航等功能的使用方法。"
-categories: ["code"]
+categories: ["tools"]
 date: "2025-06-24T13:54:44.881Z"
 ---
 > 版本：v1.0

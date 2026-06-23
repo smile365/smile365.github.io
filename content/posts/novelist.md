@@ -3,7 +3,7 @@ title: "村上春树是如何写小说的"
 keywords: ["村上春树", "我的职业是小说家", "小说创作", "读书感悟", "日本文学"]
 tags: ["村上春树", "小说", "阅读感悟"]
 description: "读完村上春树随笔《我的职业是小说家》后的读书感悟，分享对小说创作和个人阅读成长的思考。"
-categories: ["life"]
+categories: ["book"]
 date: "2020-02-13T01:17:40.195Z"
 ---
 ![Photo by Alfons Morales on Unsplas](https://gitee.com/smile365/blogimg/raw/master/sxy91/1581585252153.png)

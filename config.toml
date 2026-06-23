@@ -54,7 +54,7 @@ watch = true
 
   [[menu.main]]
     name = "读书"
-    url = "/categories/read"
+    url = "/categories/book"
     weight = 5
 
   [[menu.main]]
@@ -73,11 +73,15 @@ watch = true
   keywords = "javascript,html,jquery,git,python,java,css,linux,bitcoin,教程,软件,编程,开发,运维,云计算,网络,互联网,比特币,数字货币,博客,赚钱" # site keywords
 
 
-  adsense_publisher_id = "pub-4662105987705607"
+  adsense_publisher_id = "4662105987705607"
   bing_verification = ""
   yandex_verification = ""
   pinterest_verification = ""
   baidu_verification = ""
+
+  # Valine 评论
+  valine_appId = "GOpJE0RYEAk1LV2p6Nt5VWdJ-gzGzoHsz"
+  valine_appKey = "Y6wdl2wwJ1N9PhY6H8t13Iha"
     
 
   license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'

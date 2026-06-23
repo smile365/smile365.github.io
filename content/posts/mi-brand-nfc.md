@@ -3,7 +3,7 @@ title: "小米手环模拟门禁卡"
 keywords: ["小米手环模拟门禁卡", "NFC门禁", "小米手环6", "RFID模拟", "非加密门禁卡"]
 tags: ["小米手环", "NFC", "门禁卡"]
 description: "小米手环6NFC版模拟非加密门禁卡失败的原因分析和多种解决尝试，包括手机模拟成功但手环不成功的排查。"
-categories: ["read"]
+categories: ["code"]
 date: "2021-10-27T03:15:19.225Z"
 ---
 ## 模拟 nfc

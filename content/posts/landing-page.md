@@ -3,7 +3,7 @@ title: "如何做Landing Page"
 keywords: ["Landing Page教程", "产品验证", "独立开发者", "最小可行性产品", "落地页转化优化"]
 tags: ["Landing Page", "SEO", "创业"]
 description: "开发APP之前先做Landing Page验证需求和转化率，避免过度工程，学会用落地页收集早期用户和测试市场反馈。"
-categories: ["code"]
+categories: ["other"]
 date: "2026-05-19T03:38:50.486Z"
 ---
 ## 前言

@@ -3,7 +3,7 @@ title: "Mac硬盘U盘测速AmorphousDiskMark"
 keywords: ["Mac硬盘测速", "AmorphousDiskMark教程", "固态硬盘速度测试", "MacBook磁盘性能", "移动硬盘测速"]
 tags: ["Mac", "硬盘测速", "AmorphousDiskMark"]
 description: "使用AmorphousDiskMark在Mac上测试各类存储设备的读写速度，包括2230固态、M2 MacBook Air和移动硬盘的真实性能数据对比。"
-categories: ["read"]
+categories: ["code"]
 date: "2022-11-23"
 series: ["blog"]
 ---

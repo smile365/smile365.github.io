@@ -3,7 +3,7 @@ title: "《隐秘的角落》与《坏小孩》谁更好"
 keywords: ["隐秘的角落影评", "坏小孩原著", "紫金陈小说", "网剧推荐"]
 tags: ["隐秘的角落", "坏小孩", "剧评"]
 description: "对比分析网剧《隐秘的角落》与原著小说《坏小孩》的差异，探讨影视改编与文学原著各自的叙事手法和优缺点。"
-categories: ["read"]
+categories: ["book"]
 date: "2020-06-29T14:50:00.600Z"
 ---
 ![隐秘的角落剧照](https://gitee.com/smile365/blogimg/raw/master/sxy91/1593608865165.png)

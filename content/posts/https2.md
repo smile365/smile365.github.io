@@ -4,7 +4,7 @@ heading: "acme.sh阿里云DNS快速申请免费SSL证书"
 keywords: ["acme.sh申请SSL证书", "阿里云DNS申请证书", "免费SSL证书", "acme.sh安装", "HTTPS证书申请"]
 tags: ["acme.sh", "SSL证书", "阿里云"]
 description: "使用acme.sh配合阿里云DNS API快速申请免费SSL证书，支持泛域名和自动续期。"
-categories: ["read"]
+categories: ["code"]
 date: "2021-10-26T13:08:39.195Z"
 ---
 ## 申请证书

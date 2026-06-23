@@ -3,7 +3,7 @@ title: "技术博客收集"
 keywords: ["技术博客推荐", "程序员资源网站", "在线开发工具", "AnimeGANv2", "TensorFlow 2"]
 tags: ["技术博客", "开发工具", "资源收集"]
 description: "收集整理了优秀技术博客、在线开发工具、实用网站和开源项目，是程序员值得收藏的资源导航页面。"
-categories: ["read"]
+categories: ["code"]
 date: "2018-07-04"
 ---
 牛人=选择<sup>3</sup>X方法<sup>2</sup>X动力XuC

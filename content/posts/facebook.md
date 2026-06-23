@@ -3,7 +3,7 @@ title: "Facebook下载安装使用教程"
 keywords: ["Facebook下载", "Facebook安装教程", "安卓下载Facebook", "苹果下载Facebook", "Facebook注册教程", "翻墙工具"]
 tags: ["Facebook", "翻墙", "网络工具", "iOS", "安卓"]
 description: "详细介绍在国内如何下载、安装和使用Facebook，涵盖安卓和iOS平台的注册登录全流程，以及所需的网络工具准备。"
-categories: ["read"]
+categories: ["code"]
 heading: "怎么如何安装使用Facebook？"
 date: "2020-02-25T13:14:27.778Z"
 ---

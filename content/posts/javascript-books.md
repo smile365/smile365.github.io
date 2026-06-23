@@ -3,7 +3,7 @@ title: "JavaScript进阶书籍推荐"
 keywords: ["JavaScript进阶学习", "JS书籍推荐", "前端学习路线", "JavaScript DOM编程艺术", "JavaScript高级程序设计"]
 tags: ["JavaScript", "前端开发", "编程书籍", "JS学习"]
 description: "精选JavaScript进阶学习书单，从入门到精通推荐6本必读经典编程书籍。"
-categories: ["code"]
+categories: ["book"]
 date: "2019-12-23T07:04:49.748Z"
 ---
 前端JavaScript电子书。学习过程请参考[如何循序渐进地学习JavaScript](https://sxy91.com/posts/how-to-learn-javascript/)

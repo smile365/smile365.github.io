@@ -3,7 +3,7 @@ title: "Kindle上手指南"
 keywords: ["Kindle使用教程", "Kindle资源网站", "电子书格式", "mobi azw3", "Kindle传书"]
 tags: ["Kindle", "电子书", "阅读", "mobi"]
 description: "Kindle新手入门指南，涵盖电子书格式、下载资源网站以及多种传输方式介绍。"
-categories: ["read"]
+categories: ["code"]
 date: "2019-04-29T01:27:39.913Z"
 draft: "true"
 ---

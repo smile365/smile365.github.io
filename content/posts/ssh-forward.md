@@ -3,7 +3,7 @@ title: "SSH端口转发教程"
 keywords: ["SSH端口转发", "SSH隧道", "本地转发", "远程转发", "SSH命令", "内网穿透"]
 tags: ["SSH", "端口转发", "网络"]
 description: "SSH端口转发（SSH Tunnel）的详细教程，介绍本地转发、远程转发和动态转发的使用场景与命令示例。"
-categories: ["read"]
+categories: ["code"]
 date: "2022-07-22T11:53:10.123Z"
 ---
 ## SSH Port Forwarding

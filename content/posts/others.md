@@ -3,7 +3,7 @@ title: "软件定制开发服务"
 keywords: ["软件定制开发", "小程序开发", "Java开发", "Python开发", "APP开发外包"]
 tags: ["开发服务", "小程序", "软件定制"]
 description: "提供小程序开发、Java/Python/Go程序开发、安卓应用开发和软件定制开发等外包服务。"
-categories: ["read"]
+categories: ["other"]
 date: "2019-12-31T06:44:03.209Z"
 ---
 小程序代做

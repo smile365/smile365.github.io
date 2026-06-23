@@ -3,7 +3,7 @@ title: "Kindle 10代越狱刷机教程"
 keywords: ["Kindle越狱", "Kindle刷机", "Kindle安装微信读书", "KPW4越狱", "KOReader安装"]
 tags: ["Kindle", "越狱", "刷机", "微信读书"]
 description: "2025年最新Kindle 10代越狱教程，从WinterBreak越狱到刷入Android系统安装微信读书完整步骤。"
-categories: ["read"]
+categories: ["code"]
 heading: "Kindle 10代越狱及安装MRPI KUAL KOReader刷入微信阅读教程（2025年）"
 date: "2025-03-14T13:57:25.462Z"
 ---

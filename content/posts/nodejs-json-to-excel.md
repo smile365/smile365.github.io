@@ -3,7 +3,7 @@ title: "Node.js JSON 转 Excel 文件"
 keywords: ["Node.js JSON to Excel", "ExcelJS教程", "Node.js生成Excel", "二维码批量生成", "Node.js导出数据"]
 tags: ["Node.js", "ExcelJS", "JSON"]
 description: "使用 Node.js 的 exceljs 库将 JSON 数据转化为 Excel 文件，并结合二维码批量生成图片的实用教程。"
-categories: ["read"]
+categories: ["code"]
 heading: "exceljs 使用教程"
 date: "2020-10-10T08:10:06.924Z"
 ---

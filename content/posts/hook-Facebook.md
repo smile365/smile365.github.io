@@ -3,7 +3,7 @@ title: "使用Xposed框架Hook安卓端Facebook"
 keywords: ["Xposed框架", "安卓Hook", "Facebook Token", "Android逆向", "VirtualXposed"]
 tags: ["Android", "Xposed", "Hook"]
 description: "使用Xposed框架Hook安卓端Facebook应用，通过劫持Socket请求获取登录Token的完整技术方案和思路。"
-categories: ["read"]
+categories: ["code"]
 date: "2018-12-07T08:28:28.379Z"
 ---
 **关于Xposed**  

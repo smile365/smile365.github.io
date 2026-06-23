@@ -3,7 +3,7 @@ title: "Spring Boot从入门到放弃"
 keywords: ["Spring Boot教程", "Java Web开发", "Spring入门", "Servlet容器", "Maven配置", "自动配置"]
 tags: ["Spring Boot", "Java", "教程"]
 description: "Spring Boot从入门到放弃的学习笔记，涵盖环境搭建、Controller注解、依赖注入、自动配置和项目打包等核心内容。"
-categories: ["read"]
+categories: ["code"]
 date: "2020-04-07T02:45:56.177Z"
 draft: "true"
 ---

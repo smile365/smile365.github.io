@@ -3,7 +3,7 @@ title: "微信多开与数据备份方法"
 keywords: ["微信多开", "微信PC端多开", "微信Mac多开", "微信聊天记录备份", "微信数据备份"]
 tags: ["微信多开", "数据备份", "微信"]
 description: "汇总微信PC端和移动端多开的多种方法，同时提供Mac和Android微信聊天记录、相册、视频等数据的备份与恢复教程。"
-categories: ["read"]
+categories: ["other"]
 heading: "微信PC端和移动端多开与数据备份完整教程"
 date: "2018-08-10T06:32:54.129Z"
 series: ["blog"]

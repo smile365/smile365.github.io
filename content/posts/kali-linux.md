@@ -3,7 +3,7 @@ title: "Mac制作Kali Linux启动盘"
 keywords: ["Kali Linux安装", "Mac制作Kali启动盘", "安全渗透教程", "Kali Live USB", "Kali Linux USB"]
 tags: ["Kali-Linux", "安全渗透", "Mac", "USB启动盘"]
 description: "在Mac OS上制作Kali Linux USB启动盘的详细教程，包含安全启动设置和渗透学习资源汇总。"
-categories: ["read"]
+categories: ["code"]
 heading: "Kali-Linux安全渗透教程"
 date: "2019-01-10T07:32:18.188Z"
 ---

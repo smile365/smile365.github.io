@@ -3,7 +3,7 @@ title: "CJ联盟注册"
 keywords: ["CJ联盟注册", "advertising affiliate", "知乎引流", "联盟营销", "shareasale"]
 tags: ["联盟营销", "CJ", "affiliate"]
 description: "介绍CJ联盟(Commission Junction)等广告联盟平台的使用经验，以及如何将知乎读者引导至个人网站。"
-categories: ["read"]
+categories: ["life"]
 date: "2019-12-25T03:17:15.104Z"
 draft: "true"
 ---

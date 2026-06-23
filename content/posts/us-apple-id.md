@@ -3,7 +3,7 @@ title: "注册美区Apple ID教程"
 keywords: ["美区Apple ID注册", "美国苹果账号", "App Store美区", "iCloud注册", "苹果账号教程", "美区账号"]
 tags: ["Apple ID", "美区账号", "教程"]
 description: "本文详细介绍注册美区Apple ID的三种方法，包括通过iCloud网页、App Store和苹果官网注册，以及所需的美区账单地址准备技巧和注意事项。"
-categories: ["life"]
+categories: ["code"]
 heading: "26年6月注册美区Apple id教程"
 date: "2026-05-21T01:06:22.000Z"
 ---

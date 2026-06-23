@@ -3,7 +3,7 @@ title: "Visual Studio Community安装指南"
 keywords: ["Visual Studio Community安装", ".NET Framework 4.8", "安装证书错误", "微软开发工具", "Windows开发环境搭建", "VS安装教程"]
 tags: ["Visual Studio", "安装", ".NET"]
 description: "本文介绍Visual Studio Community 2022的安装过程及所需前置工具，并解决安装中常见的证书链错误和时间戳签名验证失败等典型问题。"
-categories: ["read"]
+categories: ["code"]
 date: "2021-09-14T03:45:24.717Z"
 ---
 所需工具

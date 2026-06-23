@@ -4,7 +4,7 @@ heading: "独立开发者App上线前增长策略"
 keywords: ["App增长系统", "独立开发者获客", "上线前增长策略", "AARRR模型", "ASO优化", "用户增长"]
 tags: ["App增长", "独立开发", "AARRR"]
 description: "独立开发者如何在上线前就构建完整的App增长系统，从Problem到Launch一步步获取种子用户。"
-categories: ["read"]
+categories: ["code"]
 date: "2026-05-12T02:19:23.892Z"
 ---
 ## 前言

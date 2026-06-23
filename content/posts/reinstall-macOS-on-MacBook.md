@@ -3,7 +3,7 @@ title: "MacBook重装macOS"
 keywords: ["MacBook重装系统", "macOS重装教程", "WinPE Mac", "忘记密码重装Mac", "MacBook刷机"]
 tags: ["MacBook", "macOS", "重装系统"]
 description: "在忘记密码的情况下将安装了Windows的MacBook重装为macOS系统的详细教程，包括WinPE制作和启动方法。"
-categories: ["read"]
+categories: ["code"]
 heading: "How to reinstall macOS on a 2017 12‑inch MacBook"
 date: "2026-06-04T04:10:33.971Z"
 ---
