@@ -57,7 +57,7 @@ hermes 支持几乎市面上已有的平台，但不同平台提供的功能各�
 
 ### cli 工具选择
 
-
+```txt
    [✓] 🔍 Web Search & Scraping  (web_search, web_extract)
    [✓] 🌐 Browser Automation  (navigate, click, type, scroll)
    [✓] 💻 Terminal & Processes  (terminal, process)
@@ -84,34 +84,37 @@ hermes 支持几乎市面上已有的平台，但不同平台提供的功能各�
    [✓] 🖱️  Computer Use (macOS/Windows/Linux)  (background desktop control via cua-driver)
  → [ ] 🔌 A2A  (A2A (Agent-to-Agent) protocol v1.0 support for Hermes Agent — both directions of the open Linux Foundation standard for inter-agent communication.
 OUTBOUND (client too
-
+```
 
 
 ### 浏览器自动化选择
 
+```
 (○) Local Browser [★ recommended · free] — Headless Chromium, no API key needed
 → (●) Camofox [free · local] — Anti-detection browser (Firefox/Camoufox)
 (○) Skip — keep defaults / configure later
-
+```
 
 ### TTS 选择
 
+```
 → (●) Microsoft Edge TTS [★ recommended · free] — Good quality, no API key needed [active]
    (○) Google Gemini TTS [preview] — 30 prebuilt voices, controllable via prompts
    (○) KittenTTS [local · free] — Lightweight local ONNX TTS (~25MB), no API key
    (○) Piper [local · free] — Local neural TTS, 44 languages (voices ~20-90MB)
    (○) Skip — keep defaults / configure later
-   
+ ```
+ 
 ### 搜索提供商
 
-
+```
    (○) Firecrawl Self-Hosted [free · self-hosted] — Run your own Firecrawl instance (Docker)
    →  (●) Brave Search (Free) [free] — Free-tier API key — 2k queries/mo, search only.
    (○) DuckDuckGo (ddgs) [free · no key · search only] — Search via the ddgs Python package — no API key (pair with any extract provider)
    (○) SearXNG [free · self-hosted] — Free, privacy-respecting metasearch. Point SEARXNG_URL at your instance.
    (○) xAI Web Search (Grok) [paid] — Agentic web search via Grok's web_search tool — uses xAI Grok OAuth or XAI_API_KEY.
    (○) Skip — keep defaults / configure later
-   
+```
    
    
    
@@ -145,3 +148,4 @@ hermes setup
 hermes
 
 ```
+
