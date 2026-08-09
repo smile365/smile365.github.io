@@ -17,12 +17,12 @@ Description:
 
 参考 [官网文档](https://hermes-agent.nousresearch.com/) 安装 hermes-agent（需要 Python 3.11 ）。若不想使用  uv 安装的版本，可使用  [pyenv]({{< relref "mac-python3.md" >}}) 安装和管理多个 python 版本。
 
-```bash
+```
 curl -fsSL https://hermes-agent.nousresearch.com/install.sh | bash
 ```
 
 若遇到错误 `Permission denied` 错误，是因为 uv 没有权限创建自己的 Python 安装目录。
-```txt
+```
 → Python 3.11 not found, installing via uv...
 error: failed to create directory
 /Users/sxy/.local/share/uv/python
@@ -35,7 +35,7 @@ ls -ld ~/.local/share
 ```
 
 修改所有者和权限即可重新安装 hermes
-```
+```bash
 # 改所有者
 sudo chown -R "$USER":"$(id -gn)" ~/.local
 # 改权限
@@ -57,7 +57,7 @@ hermes 支持几乎市面上已有的平台，但不同平台提供的功能各�
 
 ### cli 工具选择
 
-```txt
+```
    [✓] 🔍 Web Search & Scraping  (web_search, web_extract)
    [✓] 🌐 Browser Automation  (navigate, click, type, scroll)
    [✓] 💻 Terminal & Processes  (terminal, process)
@@ -120,7 +120,7 @@ OUTBOUND (client too
    
 
 ### 启用环境变量
-```bash
+```
 source ~/.zshrc
 ```
 
