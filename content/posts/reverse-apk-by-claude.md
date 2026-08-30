@@ -1,11 +1,10 @@
 ---
-title: "Claude反编译APK"
-keywords: ["APK反编译", "jadx使用", "vineflower", "MacOS反编译APK", "Claude逆向分析"]
-tags: ["反编译", "APK", "Claude"]
-description: "在MacOS上使用Claude对APK进行逆向分析的完整教程，包括jadx、vineflower等工具的安装与使用。"
+title: reverse-apks-by-claude
+heading:  MacOS 下使用 claude 对 apk 进行逆向分析
+date: 2026-05-11T06:01:32.934Z
+tags: 
 categories: ["code"]
-heading: "MacOS 下使用 claude 对 apk 进行逆向分析"
-date: "2026-05-11T06:01:32.934Z"
+Description:  
 ---
 ## 安装必要依赖
 
@@ -45,6 +44,19 @@ claude
 /plugin marketplace add ./android-reverse-engineering-skill
 /plugin install android-reverse-engineering@android-reverse-engineering-skill
 /reload-plugins
+
+```
+
+获取 apk
+```bash
+# List installed packages
+adb shell pm list packages | grep <keyword>
+
+# Get APK path
+adb shell pm path com.example.app
+
+# Pull the APK
+adb pull /data/app/com.example.app-xxxx/base.apk ./app.ap
 
 ```
 
