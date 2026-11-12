@@ -78,7 +78,16 @@ mkdir -p ~/Downloads/WeiXin$(date "+%y%m%d")
 ```bash
 mkdir -p ~/Downloads/recorder$(date "+%y%m")
 adb pull /sdcard/MIUI/sound_recorder/ ~/Downloads/recorder$(date "+%y%m")
-rm /sdcard/MIUI/sound_recorder/app_rec/*_2*.aac
+
+# delete
+# 统计文件数量
+adb shell "for d in app_rec call_rec fm_rec; do echo -n \"\$d: \"; find /sdcard/MIUI/sound_recorder/\$d -type f | wc -l; done"
+
+# 按年份统计
+adb shell 'for d in app_rec call_rec fm_rec; do echo "=== $d ==="; echo -n "  2025及以前: "; find /sdcard/MIUI/sound_recorder/$d -type f \( -name "*_2025*" -o -name "*_2024*" -o -name "*_2023*" \) | wc -l; echo -n "  2026: "; find /sdcard/MIUI/sound_recorder/$d -type f -name "*_2026*" | wc -l; done'
+
+# 按年删除
+adb shell "find /sdcard/MIUI/sound_recorder/call_rec -type f -name '*_2024*' -exec rm -f {} \;"
 ```
 
 
