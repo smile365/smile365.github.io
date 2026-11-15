@@ -1,5 +1,5 @@
 ---
-title: rea
+title: 在macOS上安装rea并反编译一个网站
 heading:  
 date: 2026-10-13T02:42:09.145Z
 tags: 
@@ -8,15 +8,12 @@ Description:
 ---
 
 
-> REA（rea-agents）是一个 MCP 服务 + CLI，用于逆向分析二进制文件、应用和运行时行为。
-> 官方来源：[morluto/rea](https://github.com/morluto/rea) · [rea.tools](https://rea.tools/) · npm 包 [rea-agents](https://www.npmjs.com/package/rea-agents)。请只从这些官方渠道安装。
+> [REA](https://github.com/morluto/rea/blob/main/docs/readme/README_zh.md#%E5%8F%AF%E4%BB%A5%E5%88%86%E6%9E%90%E4%BB%80%E4%B9%88)（rea-agents）是一个 MCP 服务 + CLI，用于逆向分析二进制文件、应用和运行时行为。
 
-## 1. 环境要求
+## 1. 安装 nodejs
 
-| 组件    | 要求                    |
-| ------- | ----------------------- |
-| Node.js | ≥24.22.1 或  ≥26.12.1 |
-| npm     | 随 Node.js 提供         |
+Node.js	≥24.22.1 或  ≥26.12.1
+
 
 检查版本：
 
@@ -30,7 +27,7 @@ node --version   # 例如 v24.22.3
 nvm install 24 && nvm alias default 24
 ```
 
-## 2. 安装 CLI
+## 2. 安装 rea-agents CLI
 
 ```bash
 npm install --global rea-agents
@@ -49,11 +46,19 @@ rea --version    # 例如 6.9.0
 rea doctor       # 就绪检查：node/host 应为 healthy
 ```
 
+卸载：
+
+```bash
+rea update                          # 更新 CLI（Bun 需 ≥1.2.17）
+npx rea-agents@latest setup         # 更新智能体注册和 skill，然后重启智能体
+```
+
 ## 3. 注册到智能体（MCP）
 
 交互式（选择要配置的智能体并确认）：
 
 ```bash
+# 可多选
 npx rea-agents setup
 ```
 
@@ -100,17 +105,99 @@ rea setup --install-hopper --yes   # 安装 Hopper（需确认许可）
 npx -y rea-agents@latest analyze-javascript-application /absolute/path/to/app --json
 ```
 
-## 6. 更新与卸载
 
-```bash
-rea update                          # 更新 CLI（Bun 需 ≥1.2.17）
-npx rea-agents@latest setup         # 更新智能体注册和 skill，然后重启智能体
+## 6.网页分析
+
+[REA Browser Observation 定位：](https://github.com/morluto/rea/blob/main/docs/guides/web/browser-observation.md?utm_source=chatgpt.com)：**Passive Reverse Engineering（被动逆向分析）**。
+
+它通过 Chrome DevTools Protocol（CDP）连接一个已经运行的浏览器，不负责替你点击、输入或控制浏览器，而是采集浏览器现有页面的证据。主要能力包括：
+
+| REA 能力                 <a class="xsj_anchor xsj_anchor_range xsj_anchor_range_start" name="xsj_1794736750074"></a> | 在 web 分析中的用途                        |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| `list-browser-targets`                                                                                               | 找到浏览器页面                             |
+| `inspect-web-page`                                                                                                   | 分析 DOM、Accessibility Tree、脚本、资源等 |
+| `observe-web-session`                                                                                                | 记录你操作网页期间的页面事件               |
+| `analyze-web-bundle`                                                                                                 | 静态分析网页加载的 JS Bundle               |
+| `capture-web-screenshot`                                                                                             | 保存当前网页的视觉状态                     |
+| `compare-web-captures`                                                                                               | 对比不同操作前后的页面结构变化             |
+尤其值得注意的是：
+
+- REA 不执行被捕获的 JavaScript 源码，而是静态解析。
+- 网络和 Console 观察从 REA Attach 后才开始，不包含此前的历史活动。
+- 可以通过观察窗口记录你手动操作时发生的页面变化。
+- 可以输出 DOM、脚本、资源、网络元数据等不同维度的 Evidence。
+
+这意味着它更适合做有明确实验步骤的交互研究，而不是一次性抓取整个飞书应用。
+
+### 网页逆向实验
+
+1. **使用独立的 `profile` 启动 chrome**（macOS 示例）：
+
+```
+"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" \
+  --remote-debugging-port=9222 \
+  --user-data-dir="$HOME/rea-feishu-profile" \
+  "https://www.example.com"
 ```
 
-## 常见问题
 
-- **`rea doctor` 提示 missing_analysis_engine**：仅影响原生二进制分析，静态分析不受影响，按需配置第 4 步。
-- **npm 缓存 EACCES**：`sudo chown -R $(id -u):$(id -g) ~/.npm`，或临时用 `npm install --cache ~/.npm-rea-cache`。
-- **遇到错误**：先 `rea update`，再重启智能体重试；仍有问题到 [GitHub Issues](https://github.com/morluto/rea/issues) 反馈。
 
-更多文档：[安装与设置](https://rea.tools/zh-CN/) · [CLI 指南](https://rea.tools/zh-CN/guides/)
+然后进行第一次检查：
+
+```
+rea inspect-web-page \
+  http://127.0.0.1:9222 \
+  TARGET_ID \
+  --observation-ms 1000 \
+  --include-accessibility-text \
+  --include-script-sources \
+  --json > 01-detailed-inspection.json
+```
+
+观察：
+
+- 页面包含多少个 Frame。
+- 对应什么 DOM 结构。
+- 元素具有属性。
+- 是否由多个独立容器组成。
+- 是否存在独立的工具栏、浮动菜单、侧边栏。
+- Accessibility Tree 暴露了哪些角色和交互元素。
+- 加载了哪些 JS、CSS、字体及其他资源。
+
+这里有一个容易忽略的细节：
+
+**REA 默认的 DOM 观察不是完整 HTML 导出。**
+
+它保留 DOM 节点结构、节点类型、属性名称等信息，但默认不会保留普通 DOM 文本和属性值。Accessibility 的名称和描述也需要显式开启。因此，
+需要更丰富的信息时，可以通过 `include` 命令选择性开启。
+
+注意: 脚本内容、Accessibility 文本等可能包含文档或应用敏感信息。使用自己创建的测试文档，不要随意把真实业务文档、客户信息或登录凭证放进分析产物。
+
+**2. 分析 JavaScript Bundle**
+
+这是 REA 非常有价值的一部分。
+
+```
+rea analyze-web-bundle \
+  http://127.0.0.1:9222 \
+  TARGET_ID \
+  --json > 02-bundle-analysis.json
+```
+
+可研究以下内容：
+
+| 分析对象                | 研究目的            |
+| ------------------- | --------------- |
+| Bundle / Chunk 依赖关系 | 找出相关代码包      |
+| Vendor fingerprints | 判断使用了哪些第三方技术    |
+| JS 模块关系             | 了解模块之间的组织方式     |
+| Source Map          | 尝试获得原始模块路径和源码   |
+| 路由候选                | 区分主要页面和其他业务页面 |
+| 资源加载情况              | 找到字体、图标、样式等  |
+
+如果有必要，再研究 Source Map。
+
+注意：不要一开始就试图把所有 JS Bundle 都读完。遇到大型系统可能很大。
+
+
+
