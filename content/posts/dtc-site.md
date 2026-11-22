@@ -2,7 +2,7 @@
 title: dtc-site
 heading:  用 AI 打造了一个免费的独立站，从此告别收费的 shopify、wordpress
 date: 2026-11-22T07:04:21.085Z
-tags: 
+tags: ["WordPress", "WooCommerce", "Shopify"]
 categories: ["code"]
 Description:  用 AI 打造了一个免费的独立站，从此告别收费的 shopify、wordpress
 ---
